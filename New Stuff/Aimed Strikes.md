@@ -16,7 +16,7 @@ A wound can be treated through healing of any kind. One instance of healing remo
 
 ***Disabled***: A disabled body part is rendered unusable. D20-Tests that rely on that body part automatically fail. Depending on the body part, other conditions or consequences may be associated with that body part being disabled, at the DMs discretion.
 
-A disability can only be treated through highly potent healing magic such as the Regenerate spell or through complicated medicinal procedures only specialists can provide.
+A disability can only be treated through highly potent healing magic such as the Regenerate spell or a [[Rite of Regeneration]], or through complicated medicinal procedures only specialists can provide, such as [[Surgery]].
 
 ***Weakspots***: Some creatures may have regions on their body that are especially vulnerable to attacks. Targeting these regions should be more difficult, but also yield more devastating results for the target.
 

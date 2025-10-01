@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Adjustments/Classes.md",
+                "file": "New Stuff/Surgery.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Classes"
+              "title": "Surgery"
             }
           }
         ]
@@ -229,15 +229,19 @@
       "bases:Create new base": false
     }
   },
-  "active": "578bf44b5d9e4c19",
+  "active": "a18e8aca76a4a344",
   "lastOpenFiles": [
-    "Adjustments/Classes.md",
+    "Todo.md",
+    "New Stuff/Surgery.md",
+    "New Stuff/Rite of Regeneration.md",
+    "New Stuff/Aimed Strikes.md",
     "Appendix/Changes for v0.8.md",
+    "New Stuff/Blocking.md",
+    "Adjustments/Classes.md",
     "Reworks/Shields.md",
     "Reworks/Reworks.md",
     "Adjustments/Equipment.md",
     "Adjustments/Spells.md",
-    "Todo.md",
     "New Stuff/Contests.md",
     "Adjustments/Combat.md",
     "New Stuff/Surge Dice.md",
@@ -253,10 +257,6 @@
     "Reworks/Aspects of Stealth.md",
     "New Stuff/Spell Manipulation.md",
     "New Stuff/Parrying.md",
-    "New Stuff/New Stuff.md",
-    "New Stuff/Blocking.md",
-    "New Stuff/Aimed Strikes.md",
-    "Raven's Brew.md",
     "PnP Krams/Homebrew/Raven's Brew/Reworks",
     "PnP Krams/Homebrew/Raven's Brew",
     "PnP Krams/Homebrew",
