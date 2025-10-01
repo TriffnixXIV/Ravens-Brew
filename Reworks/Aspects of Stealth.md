@@ -1,0 +1,11 @@
+When using stealth, there are multiple aspects that can lead to being detected. Most commonly, being seen or heard is key to being detected, but scent may also play a role at some points, especially when a creature that may detect you has a keen sense of smell, like a wolf.
+
+***Passive Stealth (Scent)***: You have a base passive Stealth (Scent) score of 15. You can mask your scent to gain a bonus of +5 to this score, but you can also receive -5 to this score when giving off a strong scent that is uncommon for the place you are traversing.
+
+The bonus might be given after applying herbs or some magic to yourself or by being washed. The malus might be given after taking a tour through the sewers, after a tough battle that left you wounded or after strenuous activity that left you sweaty.
+
+When you try hiding from a creature that is close to you, both your Dexterity (Stealth) check and your passive Stealth (Scent) must be below the creature’s passive perception. If the Dexterity (Stealth) check fails, you are heard or seen, as usual. If the passive Stealth (Scent) fails, the creature smells you. This may only be a hint towards your presence (DMs choice) and may not lead to you being seen immediately, but it is reason for the creature to make a Wisdom (Perception) check to try and locate you. For some creatures it may be reasonable to have them be able to locate you based on scent alone, at the DMs discretion.
+### Example Scenario
+A thief tries to sneak past a guard dog. They rolled a 21 on their Dexterity (Stealth) check and have a passive Stealth (Scent) score of 15, because they took no measures to mask their scent (no bonus) and do not smell strongly (no malus).
+
+The guard dog has a passive perception of 12, so the thief gets close to passing him with ease, without a sound, but the guard dog has a keen sense of smell, bumping up his passive Perception for scent to 17. The guard dog smells something unusual as soon as the thief gets too close, and, trying to investigate that unusual scent, the guard dog rolls a Wisdom (Perception) check, resulting in a 19. The guard dog did not see or hear the thief through that, so the thief is still unnoticed and can pass without further worries.

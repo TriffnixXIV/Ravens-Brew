@@ -1,0 +1,3 @@
+In this chapter, several particular rules changes are described. In some cases, only parts of existing rules are changed, in others, entire features are replaced with other ones. In some cases, these rules offer an optional variant to an existing feature, which is then accordingly marked as a variant.
+
+Deceptively, there are also some rare cases where new features are introduced here. These are accordingly marked as new.
