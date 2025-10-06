@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New Stuff/Rite of Regeneration.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rite of Regeneration"
+              "title": "README"
             }
           },
           {
@@ -74,8 +74,7 @@
                   "title": "Changes for v0.8"
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           },
           {
             "id": "7679dbee04eec94e",
@@ -245,6 +244,10 @@
   },
   "active": "158006521b3bf74d",
   "lastOpenFiles": [
+    "Todo.md",
+    "README.md",
+    "Raven's Brew.md",
+    "New Stuff/Rite of Regeneration.md",
     "Private/Cantrip Casting.md",
     "Untitled Document",
     "Private/git token",
@@ -253,12 +256,10 @@
     "Untitled Folder",
     "token",
     "Appendix/Changes for v0.8.md",
-    "New Stuff/Rite of Regeneration.md",
     "New Stuff/Surgery.md",
     "Adjustments/Spells.md",
     "Adjustments/Conditions.md",
     "New Stuff/Aimed Strikes.md",
-    "Todo.md",
     "New Stuff/Blocking.md",
     "Adjustments/Classes.md",
     "Reworks/Shields.md",
@@ -275,8 +276,6 @@
     "Tables/Tables.md",
     "Tables/Extended Size Table.md",
     "Tables/Armour Table.md",
-    "Reworks/Vision & Focus.md",
-    "Reworks/Aspects of Stealth.md",
     "PnP Krams/Homebrew/Raven's Brew/Reworks",
     "PnP Krams/Homebrew/Raven's Brew",
     "PnP Krams/Homebrew",
