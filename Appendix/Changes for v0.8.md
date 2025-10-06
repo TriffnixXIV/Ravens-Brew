@@ -6,7 +6,8 @@
 
 [[Aimed Strikes]]
 - added a paragraph describing how Aimed Strikes interact with cover.
-- added [[Surgery]] to get rid of body part disabilities.
+- added [[Surgery]] and the [[Rite of Regeneration]] to get rid of body part disabilities.
+- moved Wounded and Disabled to a new chapter on [[Conditions]].
 
 [[Equipment]]
 - added two new shields and rephrased how they work in terms of size. Moved them to the [[Shields]] chapter.
@@ -26,3 +27,5 @@
 
 [[Spells]]
 - added Shield of Faith changes.
+- made Cure Wounds and Inflict Wounds work with wounds.
+- Blur now no longer affects attackers that are blinded.

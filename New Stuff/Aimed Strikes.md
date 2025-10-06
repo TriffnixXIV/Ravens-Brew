@@ -6,17 +6,9 @@ Aimed Strikes are the response to this problem. They allow the attacker to trade
 
 The DM may decide to also tie other effects to specific parts, such as a Damage Reduction modifier, particular damage vulnerabilities, other conditions to save against and the like.
 
-***Wound Save***: When you are struck by an Aimed Strike you must make a Constitution saving throw against half the attacks damage or 10, whichever is higher. If you succeed, nothing happens. Otherwise, the attack leaves the targeted body part wounded.
+***Wound Save***: When you are struck by an Aimed Strike you must make a Constitution saving throw against half the attacks damage or 10, whichever is higher. If you succeed, nothing happens. Otherwise, the attack leaves the targeted body part [[Conditions|Wounded]].
 
-If the damage equals at least half your maximum hit points, the targeted body part is wounded on a successful save and disabled on a failed save.
-
-***Wounded***: A wounded body part is more difficult to use. D20-Tests that rely on that body part are rolled with disadvantage. If a body part is wounded and receives another wound, it becomes disabled instead.
-
-A wound can be treated through healing of any kind. One instance of healing removes one wound, while being restored to full hit points removes all wounds. A wound can also be treated through a DC10 Wisdom (Medicine) check, or through one use of a Healers Kit.
-
-***Disabled***: A disabled body part is rendered unusable. D20-Tests that rely on that body part automatically fail. Depending on the body part, other conditions or consequences may be associated with that body part being disabled, at the DMs discretion.
-
-A disability can only be treated through highly potent healing magic such as the Regenerate spell or a [[Rite of Regeneration]], or through complicated medicinal procedures only specialists can provide, such as [[Surgery]].
+If the damage equals at least half your maximum hit points, the targeted body part is Wounded on a successful save and [[Conditions|Disabled]] on a failed save.
 
 ***Weakspots***: Some creatures may have regions on their body that are especially vulnerable to attacks. Targeting these regions should be more difficult, but also yield more devastating results for the target.
 
