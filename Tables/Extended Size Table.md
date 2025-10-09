@@ -17,4 +17,5 @@
 | Gargantuan | 4                 | <150m²   | <20m             |
 | Colossal   | 2                 | <600m²   | <40m             |
 | Unmissable | 0                 | >600m²   | >40m             |
+
 Related to [[AC-less defence]].

@@ -32,7 +32,7 @@
 - Named the value by which a parried attacks damage is reduced Parrying Power and added a separate paragraph about it.
 - Explicated that temporary damage increases also increase Parrying Power.
 - Critical Parries now have increased Parrying Power.
-***[[Equipment]]***:
+***[[Armour]]***:
 - Now features a table with armour stats.
 ***[[Feats]]***:
 - Now offers the entire feat description.

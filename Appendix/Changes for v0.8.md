@@ -9,7 +9,7 @@
 - added [[Surgery]] and the [[Rite of Regeneration]] to get rid of body part disabilities.
 - moved Wounded and Disabled to a new chapter on [[Conditions]].
 
-[[Equipment]]
+[[Armour]]
 - added two new shields and rephrased how they work in terms of size. Moved them to the [[Shields]] chapter.
 - explicated that Damage Reduction from armour usually only works against attacks that aren't Aimed Strikes, unless the armour includes coverage of the targeted body part.
 

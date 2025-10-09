@@ -13,4 +13,5 @@
 | Chain Mail             | Heavy  | 6                | 0                |
 | Splint Armour          | Heavy  | 7                | 0                |
 | Plate Armour           | Heavy  | 8                | 0                |
+
 Related to [[AC-less defence]].

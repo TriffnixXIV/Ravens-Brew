@@ -8,11 +8,11 @@ Other creatures can assist on these rolls, including the target, as long as they
 
 After three Surgery checks succeeded, the treated body part is no longer disabled. Instead, it is wounded until the target takes a long rest. Afterwards, the body part is healthy again.
 
-***Failing a Surgery check***: A failed Surgery check does not make the Surgery fail. Instead, when a Surgery check fails, the target needs to succeed on a DC 15 Constitution saving throw to not take 1d4+1 piercing damage that can not be mitigated.
-
 ***Rolling a 20 on the Surgery check***: A natural 20 on the Surgery check makes the surgery succeed without the need for further Surgery checks.
 
-***Rolling a 1 on the Surgery check***: On a natural 1, the target must roll a DC 20 Constitution saving throw, taking 4d4+4 piercing damage on a failed save, half as much on a successful one. The damage can not be mitigated.
+***Failing a Surgery check***: A failed Surgery check does not make the Surgery fail. Instead, when a Surgery check fails, the target needs to succeed on a DC 15 Constitution saving throw to not take 1d4+1 piercing damage that can not be mitigated.
+
+*Rolling a 1 on the Surgery check*: On a natural 1, the target must instead roll a DC 20 Constitution saving throw, taking 4d4+4 piercing damage on a failed save, half as much on a successful one. The damage can not be mitigated.
 
 ***Anaesthesia***: The Surgery Tools include anaesthetics that can make the target creature unresponsive, giving them the Unconscious condition. The following effects also apply:
 - The surgeon rolls an additional 1d4 on each Surgery check and adds the number rolled to the result.

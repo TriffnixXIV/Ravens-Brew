@@ -1,3 +1,5 @@
 In this chapter, several particular rules changes are described. In some cases, only parts of existing rules are changed, in others, entire features are replaced with other ones. In some cases, these rules offer an optional variant to an existing feature, which is then accordingly marked as a variant.
 
 Deceptively, there are also some rare cases where new features are introduced here. These are accordingly marked as new.
+
+There are adjustments to [[Classes|class features]], [[Feats|feats]], and [[Spells|spells]], mainly to bring them in line with the changes to AC, grappling and shoving is reverted to their 2014 version in the section on [[Combat|combat]], and there are descriptions of the new Wounded and Disabled [[Conditions|conditions]] that were mentioned [[Aimed Strikes|earlier]]. [[Armour]] is described according to the changes to AC, and distinct armour pieces are introduced to fill in defense against [[Aimed Strikes]]. Last but not least, there is a section offering a short guide on how [[Monsters|monsters]] are affected by the reworks offered here.

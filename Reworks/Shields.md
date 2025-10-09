@@ -5,9 +5,10 @@ When wielding a shield, you benefit from cover that is appropriate for your size
 | Buckler       | Tiny  | +6             | Free Hand, Light | 3 lb.  | 8 GP  |
 | Wooden Shield | Tiny  | +4             |                  | 6 lb.  | 10 GP |
 | Tower Shield  | Small | +2             | Heavy, Clunky    | 12 lb. | 20 GP |
+
 ***Clunky***: When wielding a shield with the Clunky property, you roll Dexterity (Acrobatics) checks with disadvantage.
 
-***Free Hand***: When wielding a shield with the Free Hand property, you can still use the hand of the arm you are wielding the shield with to hold objects, for object interactions, and for somatic components.
+***Free Hand***: When wielding a shield with the Free Hand property, you can still use the hand of the arm you are wielding the shield with to grab and hold objects, for somatic components, and for sign language. D20 Tests to use an object or attack with a weapon held with this hand are rolled with disadvantage.
 
 ***Heavy***: When wielding a shield with the Heavy property and if your Strength score is not at least 13, you have disadvantage on [[Blocking]] and your movement reduced by 5 ft.
 
