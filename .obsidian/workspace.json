@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Adjustments/Armour.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Armour"
             }
           }
         ]
@@ -60,7 +60,8 @@
                   "title": "Changes for v0.8"
                 }
               }
-            ]
+            ],
+            "currentTab": 1
           },
           {
             "id": "7679dbee04eec94e",
@@ -230,18 +231,23 @@
   },
   "active": "158006521b3bf74d",
   "lastOpenFiles": [
+    "Appendix/Changes for v0.8.md",
     "Todo.md",
+    "Adjustments/Armour.md",
+    "Tables/Body Part Sizes for a Medium Humanoid.md",
+    "Tables/Shield Table.md",
+    "Tables/Extended Size Table.md",
+    "Tables/Armour Table.md",
+    "New Stuff/Aimed Strikes.md",
+    "New Stuff/Blocking.md",
+    "Reworks/AC-less defence.md",
+    "README.md",
     "Reworks/Reworks.md",
     "New Stuff/New Stuff.md",
     "Introduction/Introduction.md",
     "Adjustments/Adjustments.md",
     "Reworks/Shields.md",
-    "Tables/Shield Table.md",
-    "Tables/Armour Table.md",
-    "Tables/Extended Size Table.md",
     "Tables/Tables.md",
-    "Adjustments/Armour.md",
-    "Reworks/AC-less defence.md",
     "Reworks/Aspects of Stealth.md",
     "Reworks/Vision & Focus.md",
     "Reworks/Reactions.md",
@@ -251,11 +257,6 @@
     "Introduction/Content.md",
     "Introduction/Values.md",
     "Adjustments/Feats.md",
-    "New Stuff/Surgery.md",
-    "README.md",
-    "Raven's Brew.md",
-    "New Stuff/Rite of Regeneration.md",
-    "Private/Cantrip Casting.md",
     "Untitled Document",
     "Private/git token",
     "git token",

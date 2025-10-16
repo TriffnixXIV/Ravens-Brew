@@ -1,8 +1,8 @@
-***AC-less***: Creatures do not have an Armor Class anymore.
-
+***AC-less***: Creatures do not have an Armor Class anymore. A combination of Missing Threshold and Damage Reduction takes its place.
+### Missing Threshold
 ***Missing attacks***: An attack automatically misses its target if the attack roll isn’t at least as high as the Missing Threshold.
 
-***Missing Threshold***: The base Missing Threshold of a target depends on its size, as shown in the table below. To determine the size of something that has no given size, you can use the Hit Area and height or length measures as guidelines.
+***Base Missing Threshold***: The base Missing Threshold of a target depends on its size, as shown in the table below. To determine the size of something that has no given size, you can use the Hit Area and height or length measures as guidelines.
 
 | Size       | Missing Threshold | Hit Area | Height or Length |
 | ---------- | ----------------- | -------- | ---------------- |
@@ -21,22 +21,22 @@ For the purposes of very small targets, a new set of sizes has been introduced. 
 
 ***Even smaller sizes***: If a target is significantly smaller than the sizes listed above, you can either find an extended table in the [[Extended Size Table|tables chapter]], or extrapolate the Missing Threshold from the measures in the table. Start with the measures and Missing Threshold for minuscule targets. Then add 2 to the Missing Threshold, quarter the Hit Area and halve the height or length. Repeat this until the measures fit the target you have in mind to get the appropriate Missing Threshold.
 
-***Damage Reduction***: Instead of Armor Class, creatures have a Damage Reduction value. This value is subtracted from any damage the wearer takes through an attack that is not a critical hit.
-
-This subtraction happens before resistances and vulnerabilities modify the damage.
-
-Every bonus to Armor Class that is not the Dexterity bonus can be converted 1:1 into a bonus for Damage Reduction, unless otherwise noted. An armour that sets the Armor Class of the wearer to 13 + Dexterity modifier will, for example, be converted to 3 Damage Reduction, because it is an Armor Class bonus of +3 compared to the base Armor Class of 10, while the Dexterity modifier is discarded. The conversion for armours can also be seen in the [[Armour Table|tables chapter]].
-
-Damage Reduction from multiple sources stacks. However, the prerequisites for each source must still be met. For example, the Damage Reduction now gained from the Barbarians Unarmoured Defence and a heavy armour will not stack, because the heavy armour still disables the Barbarians Unarmoured Defence.
-
-***Reactive Defence***: There are now options to reactively defend against incoming attacks and other effects. These include [[Dodging]], [[Blocking]], [[Parrying]] and some parts of [[Spell Manipulation]]. The base mechanics of these are explained in the [[Reactions]] section.
-
-***Misses?*** Any rule or feature that requires a missed attack to work also works if the attack does not deal damage because of damage reduction, blocking, or parrying. Those attacks count as both a hit and a miss in that regard. Note that Dodging explicitly causes dodged attacks to miss.
-
 ***Cover***: Instead of increasing the Armor Class of the creature that is behind cover, the Missing Threshold for attacks that target that creature increases by 2 for half cover and by 5 for three-quarters cover.
 
 ***Cover sizes***: Similar to how the size of a target influences its Missing Threshold, the size of cover influences whether it counts as half cover, three-quarters cover or total cover for the sake of attacks that could be interrupted by the cover.
 
 Assuming that the cover matches the width-height proportions of the target it covers and has no openings, it gives total cover from attacks if it is one size category larger than the target, three-quarters cover if it is of the same size category, and half cover if it is one or two size categories smaller.
 
-Creatures and objects with significant openings usually only give half-cover, regardless of their size.
+Creatures and objects with significant openings or sufficiently slim proportions usually only give half-cover, regardless of their size.
+### Damage Reduction
+***Damage Reduction***: Creatures now have a Damage Reduction value. This value is subtracted from any damage the wearer takes through an attack that is not a critical hit.
+
+This subtraction happens before resistances and vulnerabilities modify the damage.
+
+Every bonus to Armor Class that is not the Dexterity bonus can be converted 1:1 into a bonus for Damage Reduction, unless otherwise noted. An armour that sets the Armor Class of the wearer to 13 + Dexterity modifier will, for example, be converted to 3 Damage Reduction, because it is an Armor Class bonus of +3 compared to the base Armor Class of 10, while the Dexterity modifier is discarded. The conversion for armours can also be seen in the [[Armour Table|tables chapter]].
+
+Damage Reduction from multiple sources stacks. However, the prerequisites for each source must still be met. For example, the Damage Reduction now gained from the Barbarians Unarmoured Defence and a heavy armour will not stack, because the heavy armour still disables the Barbarians Unarmoured Defence.
+### Other changes
+***Reactive Defence***: There are now options to reactively defend against incoming attacks and other effects. These include [[Dodging]], [[Blocking]], [[Parrying]] and some parts of [[Spell Manipulation]]. The base mechanics of these are explained in the [[Reactions]] section.
+
+***Misses?*** Any rule or feature that requires a missed attack to work also works if the attack does not deal damage because of damage reduction, blocking, or parrying. Those attacks count as both a hit and a miss in that regard. Note that Dodging explicitly causes dodged attacks to miss.

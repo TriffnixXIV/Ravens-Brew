@@ -1,10 +1,9 @@
 for v0.8
 give masteries a do-over: more mastery options, less to start with, make them pickable and appear more frequently
 	shield expertise as mastery, parrying expertise as mastery, armour masteries as, well, masteries
-give examples for humanoid body part sizes
 explicate how vision manifests on grids
 adamantine Jazz: Adamant Defensivaura wegen crit prot; bufft defensive reactions
-add armor pieces (gloves, helmet)
+introduce some interactions with presence or absence of specific armour pieces
 
 for v0.9
 do [[Cantrip Casting]]: cantrip masteries

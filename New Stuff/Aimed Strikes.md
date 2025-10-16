@@ -20,6 +20,20 @@ Some weakspots may not be apparent at first glance. In this case, a Study action
 
 For example, when a tiny shield is held accordingly, it can give total cover to a diminutive body part, three-quarters cover to a tiny body part, and half-cover to a small or medium body part.
 
+***Body part sizes for Medium Humanoids***: The table below shows the rough sizes of the body parts of a Medium Humanoid. This table is not definitive, as the size of a body part can vary from person to person and effectively also depends on the angle it is viewed at. A buff humans arms may be easier to hit than those of a lanky one, and a torso viewed from the side is effectively smaller than one viewed from the front.
+
+| Body Part | Size       | Missing Threshold |
+| --------- | ---------- | ----------------- |
+| Head      | Diminutive | 16                |
+| Eye       | Minus 1    | 22                |
+| Neck      | Diminutive | 16                |
+| Arm       | Tiny       | 14                |
+| Hand      | Diminutive | 16                |
+| Torso     | Small      | 12                |
+| Crotch    | Fine       | 18                |
+| Leg       | Tiny       | 14                |
+| Foot      | Diminutive | 16                |
+
 ***Reliable Hits (optional)***: When an Aimed Strike misses the increased Missing Threshold of a body part, but the attack roll was still at least as high as the base Missing Threshold of the target, it still hits the target, but without any of the benefits of hitting a particular body part.
 ### Example Scenario
 The champion knows that a blinded cyclops is a harmless cyclops. Therefor, she decides to aim her shot at his eye. This increases the Missing Threshold for the attack from 6 to 18, given that the eye is a Fine target. The DM decides on the fly that the eye is vulnerable to piercing damage. She rolls her attack as usual and hits, dealing 38 piercing damage, so the cyclops must make a DC19 Wound Save. He fails this save, so his eye is now wounded, giving him disadvantage on everything that relies on his sight. This is not enough for the champion though, so she fires a second arrow towards his eye, dealing 46 piercing damage. The cyclops fails his DC23 Wound Save and his eye is now disabled, leaving him with the blinded condition.
