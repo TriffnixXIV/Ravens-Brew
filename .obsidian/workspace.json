@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Adjustments/Armour.md",
+                "file": "Reworks/Combat Training.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Armour"
+              "title": "Combat Training"
             }
           }
         ]
@@ -231,8 +231,13 @@
   },
   "active": "158006521b3bf74d",
   "lastOpenFiles": [
-    "Adjustments/Conditions.md",
+    "Appendix/Appendix.md",
+    "Reworks/Combat Training.md",
+    "Introduction/Introduction.md",
+    "Introduction/Values.md",
+    "Reworks/Reworks.md",
     "Adjustments/Armour.md",
+    "Adjustments/Conditions.md",
     "Appendix/Changes for v0.8.md",
     "Todo.md",
     "Tables/Body Part Sizes for a Medium Humanoid.md",
@@ -243,9 +248,7 @@
     "New Stuff/Blocking.md",
     "Reworks/AC-less defence.md",
     "README.md",
-    "Reworks/Reworks.md",
     "New Stuff/New Stuff.md",
-    "Introduction/Introduction.md",
     "Adjustments/Adjustments.md",
     "Reworks/Shields.md",
     "Tables/Tables.md",
@@ -254,9 +257,6 @@
     "Reworks/Reactions.md",
     "Adjustments/Monsters.md",
     "Adjustments/Combat.md",
-    "Introduction/Content.md",
-    "Introduction/Values.md",
-    "Adjustments/Feats.md",
     "Untitled Document",
     "Private/git token",
     "git token",
