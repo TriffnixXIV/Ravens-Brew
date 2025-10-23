@@ -8,7 +8,7 @@ You touch a willing creature. Until the spell ends, the target’s skin assumes 
 
 ***Blur***: Level 2 Illusion (Sorcerer, Wizard). Casting Time: Action. Range: Self. Components: V. Duration: Concentration, up to 1 minute.
 
-Your body becomes blurred. For the duration, any creature has Disadvantage on attack rolls against you and your Missing Threshold increases by 5 for those attacks.
+Your body becomes blurred. For the duration, any creature has Disadvantage on attack rolls against you and your Hit DC increases by 5 for those attacks.
 
 An attacker is unaffected by this spell if they have the Blinded condition, Blindsight, or Truesight.
 
@@ -36,4 +36,4 @@ An imperceptible barrier of magical force protects you. You take no damage from 
 
 ***Shield of Faith***: Level 1 Abjuration (Cleric, Paladin). Casting Time: Bonus Action. Range: 60 feet. Components: V, S, M (a prayer scroll). Duration: Concentration, up to 10 minutes.
 
-A shimmering field surrounds a creature of your choice within range, diverting incoming attacks for the duration, granting the creature a +2 bonus to their Missing Threshold.
+A shimmering field surrounds a creature of your choice within range, diverting incoming attacks for the duration, granting the creature a +2 bonus to their Hit DC.

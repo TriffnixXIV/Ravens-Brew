@@ -7,7 +7,7 @@
 
 ***Battle Master - Parry***: When [[Parrying]], you can expend one Superiority Die, rolling the die and adding the number tolled the Superiority Die to the Parry check. If the parry succeeds, you increase the Parrying Power by the maximum roll of your Superiority Die.
 
-***Battle Master - Evasive Footwork***: As a Bonus Action, you can expend one Superiority Die and take the Disengage action. You also roll the die and add the number rolled to your Missing Threshold until the start of your next turn.
+***Battle Master - Evasive Footwork***: As a Bonus Action, you can expend one Superiority Die and take the Disengage action. You also roll the die and add the number rolled to your Hit DC until the start of your next turn.
 
 ***Battle Master - Riposte***: When you successfully [[Blocking|block]], [[Dodging|dodge]], or [[Parrying|parry]] a melee attack, you can expend one Superiority Die to make a melee weapon against the attacking creature. If you hit, you add the Superiority Die to the attacks damage roll.
 ### Monk

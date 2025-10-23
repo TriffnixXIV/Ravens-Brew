@@ -1,11 +1,9 @@
-***Grapple***: When you want to grab a creature or wrestle with it, you can use the Attack action to make a special melee attack, a grapple. If you're able to make multiple attacks with the Attack action, this attack replaces one of them. This attack is an Unarmed Strike.
+***Unarmed Strikes***: The Grapple and Shove options of the Unarmed Strike are changed to use [[contests]] again, as described below.
 
-The target of your grapple must be no more than one size larger than you, and it must be within your reach. Using at least one free hand, you try to seize the target by making a grapple check, a Strength (Athletics) check contested by the target's Strength (Athletics) or Dexterity (Acrobatics) check (their choice). If you succeed, you subject the target to the grappled condition. The condition specifies the things that end it, and you can release the target whenever you like (no action required).
+***Grapple***: Using at least one free hand, you try to seize the target by making a grapple check, a Strength (Athletics) check contested by the target's Strength (Athletics) or Dexterity (Acrobatics) check (their choice). If you succeed, you subject the target to the grappled condition. The condition specifies the things that end it, and you can release the target whenever you like (no action required). The target of your grapple must be no more than one size larger than you, and it must be within your reach. 
 
 *Escaping a Grapple*: A grappled creature can use its action to escape. To do so, it must succeed on a Strength (Athletics) or Dexterity (Acrobatics) check contested by your Strength (Athletics) check.
 
 *Moving a Grappled Creature*: When you move, you can drag or carry the grappled creature with you, but your speed is halved, unless the creature is two or more sizes smaller than you.
 
-***Shove***: Using the Attack action, you can make a special melee attack to shove a creature, either to knock it prone or push it away from you. If you're able to make multiple attacks with the Attack action, this attack replaces one of them. This attack is an Unarmed Strike.
-
-The target of your shove must be no more than one size larger than you, and it must be within your reach. You make a Strength (Athletics) check contested by the target's Strength (Athletics) or Dexterity (Acrobatics) check (their choice). If you win the contest, you either knock the target prone or push it 5 feet away from you.
+***Shove***: You make a Strength (Athletics) check contested by the target's Strength (Athletics) or Dexterity (Acrobatics) check (their choice). If you win the contest, you either knock the target prone or push it 5 feet away from you. The target of your shove must be no more than one size larger than you, and it must be within your reach.

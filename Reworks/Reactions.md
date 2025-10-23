@@ -6,6 +6,8 @@ When you have the Incapacitated condition, you can no longer use your Free React
 
 ***Reserving Actions***: At the end of your turn, you gain 1 additional Reaction per remaining Action. If you were unable to use these Actions because you were Incapacitated, this conversion does not happen.
 
+***Defence Action***: You can use your Action to take the Defence Action. Doing so gives you a number of Reactions equal to your proficiency bonus. Until the start of your next turn, you can only take defensive Reactions. These include [[Dodging]], [[Blocking]], and [[Parrying]].
+
 ***Ready Action***: When using the Ready Action, you also gain 1 additional Reaction.
 
 ***Reserving Bonus Actions***: At the end of your turn, you gain 1 additional Reaction per remaining Bonus Action. If you were unable to use these Bonus Actions because you were Incapacitated, this conversion does not happen.
@@ -13,9 +15,5 @@ When you have the Incapacitated condition, you can no longer use your Free React
 ***Reserving Reactions***: At the start your turn, you gain 1 [[Surge Dice|Surge Die]] per remaining Reaction. If you were unable to use these Reactions because you were Incapacitated, this conversion does not happen.
 
 ***Reaction Timing***: Unless otherwise noted, a Reaction can only be taken after a suitable trigger was announced, and only before its effects are applied.
-### New Reactions
-***Prey on the Vulnerable***: If a creature that you can see and that is within your range receives the Incapacitated condition, you can take a Reaction to make a melee weapon attack against that creature.
-
-***Trip***: If a creature that you can see moves within your reach or attempts to move out of your reach, you can take a Reaction to make a shove attack against that creature to make it fall prone.
 
 ***Reactive Defence***: There are now options to reactively defend against incoming attacks and other effects. These include [[Dodging]], [[Blocking]], [[Parrying]] and some parts of [[Spell Manipulation]], as detailed within their respective sections.

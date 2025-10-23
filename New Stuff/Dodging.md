@@ -30,5 +30,3 @@ If the Dodge check fails, you fall prone at your target location.
 If all spots within 10 feet are occupied, you fall prone in place, even if the Dodge check succeeded.
 
 When trying to dodge & roll in response to a critical hit, you roll with disadvantage.
-
-***Evasive Stance***: You can use your Action to focus on dodging attacks. You can use the Dodge Reaction (see above) and Dodge & Roll Reaction (see above) a number of times equal to your Proficiency Bonus without using a Reaction until the start of your next turn.
