@@ -98,7 +98,9 @@ Instead of working primarily through proficiency, weapons now also utilize Train
 
 ***Blocking Expertise***: Requires proficiency with Blocking. You add your proficiency bonus to Blocking checks one additional time.
 
-***Interpose Shield***: Requires training with Shields and you to wield a Shield. If you’re subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you can take a Reaction to take no damage if you succeed on the saving throw and are holding a Shield.
+***Free Hand Enhancement***: When wielding a shield with the Free Hand property, D20 Tests to use an object or make a weapon attack with the hand of the arm the shield is wielded on are no longer rolled with Disadvantage.
+
+***Interpose Shield***: Requires training with Shields and you to wield a Shield. If you’re subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you can take a Reaction to take no damage if you succeed on the saving throw.
 
 ***Protection***: Requires training with Shields and you to wield a Shield. When a creature you can see attacks another creature within 5 feet of you, you can take a Reaction to block that attack, potentially reducing the damage the target creature takes and giving them the cover your shield provides instead of yourself.
 

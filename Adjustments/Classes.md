@@ -3,6 +3,8 @@
 
 ***College of Valor - Combat Inspiration - Defence***: When the creature is hit by an attack roll, that creature can use the Bardic Inspiration die instead of a Reaction to attempt to [[Blocking|block]], [[Parrying|parry]] or [[Dodging|dodge]] the attack. When doing so, the creature rolls the Bardic Inspiration die and adds the number rolled to the corresponding check, potentially causing the attack to miss.
 ### Fighter
+***Tactical Master***: When you attack with a weapon you are trained with, you can use one additional [[Combat Training]] feature on the attack that the weapon does not fulfill the requirements of.
+
 ***Battle Master - Know Your Enemy***: Additionally, you find out whether there are particular weak spots that are worth targeting and what to expect when making an [[Aimed Strikes|Aimed Strike]] against that weak spot.
 
 ***Battle Master - Parry***: When [[Parrying]], you can expend one Superiority Die, rolling the die and adding the number tolled the Superiority Die to the Parry check. If the parry succeeds, you increase the Parrying Power by the maximum roll of your Superiority Die.
