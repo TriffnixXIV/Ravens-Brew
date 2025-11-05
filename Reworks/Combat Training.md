@@ -1,12 +1,20 @@
 Combat Training is a new system that encompasses weapon proficiency, weapon mastery, Fighting Styles, Armour Training, and some Feats that interface with weapons and armour. Proficiency and expertise with [[Parrying]] and [[Blocking]] are also part of this system, as are other features relating to [[AC-less defence]] generally.
 
-***No Starting Proficiency***: You no longer start with proficiency with weapon attacks with the weapons listed in your class descriptions. Instead, you are trained with the weapons that you would otherwise have proficiency with, as described below.
+This rework is motivated by three reasons. Firstly, with the Hit DC being largely unchanging with level and being quite low especially with larger creatures, there's not as large of a benefit in adding the proficiency bonus to ones attack rolls. This opens up the possibility of allowing players to decide against adding this proficiency bonus in favor of other benefits for offence or defence. One of these benefits aptly allows players to bypass parts of an enemies Damage Reduction, scaling with the proficiency bonus, so that there are now options to ease hitting enemies and to ease damaging them through armour, mirroring the separation of Armor Class into Hit DC and Damage Reduction.
+
+Secondly, the new defensive reactions introduced in this ruleset should be something a character can specialize in. In previous versions of this ruleset, this was enabled through changes to general feats and through connections with expertise class features. Both of those are limited in their accessibility, and especially fighters should be able to access special defensive features more than other classes, while not themselves having access to expertise. Thus, by introducing these features here, martial classes actually have prioritized access to the new martial features.
+
+Thirdly, the 2024 rules saw the introduction of weapon mastery properties. These were introduced as weapon-specific features that can be chosen by martials to increase their battlefield prowess, which can be assumed to be intended to lessen the infamous martial caster divide. Structurally, these mastery properties do not separate themselves from benefits that are obtainable through feats, while introducing a whole new feature list a martial can choose from. Next to Fighting Style feats and general feats, this is now the third feature list for martials. Through the rearrangement of those lists into one singular list, the flexibility and potential power of martials is further accentuated. Additionally, adding new features to this list is a new straightforward way to give feature options to martials specifically without having to restrict the features to Fighting Style feats, general feats or weapon mastery properties that martial classes tend to have quite limited access to.
+### Core Changes
+***No Starting Proficiency***: You no longer start with proficiency with weapon attacks with the weapons listed in your class descriptions. Instead, you are trained with the weapons that you would otherwise have proficiency with, as described in the section on weapon training below. When you receive Combat Training, you can choose the Accuracy feature described in the section on weapon features to add your proficiency bonus to certain attack rolls again.
 
 ***Combat Training***: When you receive Combat Training, choose one of the features listed in the following sections that you qualify for.
 
-***Fighting Styles***: Fighting Styles are now Combat Training features. Whenever you would gain a Fighting Style, you receive Combat Training instead.
+***Fighting Styles***: Fighting Style feats are now Combat Training features. Whenever you would gain a Fighting Style feat, you receive Combat Training instead.
 
 ***Weapon Masteries***: Weapon Masteries are now Combat Training features. Whenever you would gain access to a mastery property, you receive Combat Training instead.
+
+***Feats***: The benefits of a selection of general feats are now Combat Training features. There's now a new general [[Feats|feat]] that allows the player to receive Combat Training twice.
 ### Weapon Training
 Instead of working primarily through proficiency, weapons now also utilize Training, similar to how it is established for Armour. When using a weapon that you lack training with, you have Disadvantage on any D20 Test that relies on that weapon. The following features can give you training with weapons:
 

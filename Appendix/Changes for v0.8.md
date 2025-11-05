@@ -1,7 +1,7 @@
 [[Introduction]] was rewritten.
 
 [[AC-less defence]]
-- renamed Missing Threshold to Hit DC 
+- renamed Missing Threshold to Hit DC.
 - explicated that Damage Reduction applies before resistance and vulnerabilities.
 - added a passage explicating the relation between sizes and cover.
 
@@ -29,30 +29,30 @@
 - explicated how the Draconic Sorcerers AC is converted into Damage Reduction.
 
 [[Blocking]]
-- moved acquisition of blocking proficiency and expertise to [[Combat Training]]
-- updated wording to require shield training instead of shield proficiency, as the latter no longer exists as such
+- moved acquisition of blocking proficiency and expertise to [[Combat Training]].
+- updated wording to require shield training instead of shield proficiency, as the latter no longer exists as such.
 
 [[Combat]]
 - updated the Grapple and Shove attacks to appropriately relate to Unarmed Strikes.
 
 [[Combat Training]]
-- is new
-- reworks how proficiency and training with weapons, shields and armour works
-- moved Fighting Styles here
-- moved combat-oriented Feats here
-- moved weapon masteries here
+- is new.
+- reworks how proficiency and training with weapons, shields and armour works.
+- moved Fighting Styles here.
+- moved combat-oriented Feats here.
+- moved weapon mastery properties here.
 
 [[Monsters]]
-- added some more guidance on how monsters are affected by the changes in these rules
+- added some more guidance on how monsters are affected by the changes in these rules.
 
 [[Parrying]]
-- moved acquisition of parrying proficiency and expertise to [[Combat Training]]
-- updated wording to requite weapon training instead of proficiency
+- moved acquisition of parrying proficiency and expertise to [[Combat Training]].
+- updated wording to requite weapon training instead of proficiency.
 
 [[Reactions]]
-- merged Evasive Stance, Defensive Stance, Protective Stance, and Parrying Stance into one singular Defence Action
-- moved Prey on the Vulnerable to [[Combat Training]]
-- removed Trip, as it is already possible through an Opportunity Attack with an Unarmed Strike
+- merged Evasive Stance, Defensive Stance, Protective Stance, and Parrying Stance into one singular Defence Action.
+- moved Prey on the Vulnerable to [[Combat Training]].
+- removed Trip, as it is already possible through an Opportunity Attack with an Unarmed Strike.
 
 [[Spells]]
 - added Shield of Faith changes.

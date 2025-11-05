@@ -8,7 +8,7 @@ Also, adding an option to dodge & roll would be nice, especially because swiftly
 
 ***Dodging check***: A Dodging check is a Dexterity (Acrobatics) check that is modified by the armour you're wearing as follows:
 - While wearing light armour or no armour, the modifier is +5.
-- While wearing medium armour, the modifier is +2 (+3 instead with Medium Armour Master).
+- While wearing medium armour, the modifier is +2 (+4 instead with Medium Armour Master).
 - While wearing heavy armour, the modifier is +0.
 
 ***Dodge***: You can use your Reaction to try to dodge an attack that you can see and that targets you.
