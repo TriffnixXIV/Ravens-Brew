@@ -1,4 +1,4 @@
-When wielding a shield, you benefit from cover that is appropriate for your size and the size of shield you are wielding, as described in [[AC-less defence]], instead of gaining AC. Additionally, there are now two additional types of shield and dedicated shield properties and masteries.
+When wielding a shield, you benefit from cover that is appropriate for your size and the size of shield you are wielding, as described in [[AC-less defence]], instead of gaining AC. Additionally, there are now two additional types of shield and dedicated shield properties.
 
 | Type          | Size  | Blocking Bonus | Properties       | Weight | Cost  |
 | ------------- | ----- | -------------- | ---------------- | ------ | ----- |
@@ -12,4 +12,4 @@ When wielding a shield, you benefit from cover that is appropriate for your size
 
 ***Heavy***: When wielding a shield with the Heavy property and your Strength score not being at least 13, you have Disadvantage on [[Blocking]] and your movement reduced by 5 ft.
 
-***Light***: When [[Blocking]] with a shield with the Light property, the damage is not negated completely, but only reduced by your Dexterity score.
+***Light***: When [[Blocking]] with a shield with the Light property, the damage of the attack is not negated completely, but only reduced by your Dexterity score.

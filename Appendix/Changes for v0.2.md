@@ -22,10 +22,10 @@
 	- value to add to a blocking ability check
 	- = 8 + either Strength mod or Dexmod + Proficiency (if proficient with shields)
 - Defensive Stance & Protective Stance
-	- limited the uses to the proficiency bonus
+	- limited the uses to the Proficiency Bonus
 
 [[Dodging]] - Evasive Stance
-- limited the uses to the proficiency bonus
+- limited the uses to the Proficiency Bonus
 
 Variable attack actions
 - tried to add it, but the PHB was faster

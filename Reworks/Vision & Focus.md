@@ -1,22 +1,22 @@
-***Vision:*** Many features in these rules rely on seeing something happen, and humanoids typically only see what happens in front of them, being just barely unable to discern what happens 90 degrees to their left and right.
+***Vision:*** Many features in these rules rely on seeing something happen, and Humanoids typically only see what happens in front of them, being just barely unable to discern what happens 90 degrees to their left and right.
 
 In combat, track and attend to the direction you look. Using miniatures on battlemaps works well for this, but any small thing that discernibly points any direction will do.
 
-***Backstab Advantage:*** Whenever you decide to attack a creature that can’t see you, you gain advantage on that attack. Against humanoid creatures, for example, that is usually the case when being behind their back.
+***Backstab Advantage:*** Whenever you decide to attack a creature that can’t see you, you gain Advantage on that attack. Against Humanoids, for example, that is usually the case when being behind their back.
 
 ***Focus:*** You usually have something within your perception that you primarily attend to - this is what you focus on. You automatically switch focus to a creature or object when targeting them with a spell, attack, or other effect. You can only focus on one target at a time.
 
-As long as you are focused on a target, you can rotate with the target's movement, if needed, to keep that target within your sight. This way, for example, a humanoid can save their back from another creature’s attacks, leading to the attacker not receiving Backstab Advantage.
+As long as you are focused on a target, you can rotate with the target's movement, if needed, to keep that target within your sight. This way, for example, a Humanoid can save their back from another creature’s attacks, leading to the attacker not receiving Backstab Advantage.
 
-***Switch Focus:*** At the end of your turn, you can switch Focus to a creature that you can perceive. Otherwise, you can use a Free Reaction to Focus another creature that you notice moving towards you or being near you.
+***Switch Focus:*** At the end of your turn, you can switch Focus to any creature that you perceive. Otherwise, you can use a Free Reaction or Reaction to Focus another creature that you notice moving towards you or doing something near you.
 
 ***Losing Focus:*** You lose Focus if you receive the Incapacitated condition or when you lose the ability to perceive the target of your Focus.
 
 A creature that you Focus may also make you lose Focus by applying the charmed or frightened condition to you, by successfully hiding behind full cover, or by spontaneously becoming unseen by you (for example through invisibility or teleportation).
 
-***Escape Focus:*** To escape a creature's Focus, you can take a Bonus Action, making a Dexterity (Acrobatics) check contested by the creature's passive perception. This only works against creatures that are larger than you.
+***Escape Focus:*** To escape a creature's Focus, you can take a Bonus Action, making a Dexterity (Acrobatics) check contested by the creature's passive perception, and use your movement to leave their vision. On a success, the creature loses Focus, on a failure, they can turn to keep their Focus and you in their vision.
 
-This can, for example, be used to be able to attack the back of a humanoid creature that previously focused their vision on you. This way, you can gain Backstab Advantage for your attacks against that humanoid.
+This can, for example, be used to be able to attack the back of a Humanoid that previously focused their vision on you. This way, you can gain Backstab Advantage on your attacks against that Humanoid.
 
 ***Draw Focus:*** You can force other creatures to Switch Focus by drawing their attention to yourself, another creature or something else. This may occur as a side-effect of anything you do that is sufficiently noticeable, at the mercy of the player controlling the respective creature whose Focus is to be drawn.
 

@@ -2,7 +2,7 @@ It should be a fun option to play a caster.
 
 To make a caster better suited for the new changes, new reactions should be added that fit the kit of any caster without making a caster too strong regarding the damage output. Therefore, we should focus on the identity of a caster: casting spells.
 
-With this idea in mind, a caster can use their general understanding of magic in a way to alter the flow of magic around them. This can be used to enable a coven playstyle, which we rarely see, by buffing spells of each other. In addition, a caster gets new defensive tools, which are very situational, thereby leaving him in great danger of their martial enemies, looking at you, Rogue.
+With this idea in mind, a caster can use their general understanding of magic in a way to alter the flow of magic around them. This can be used to enable a coven playstyle, which we rarely see, by buffing spells of each other. In addition, a caster gets new defensive tools that work specifically against other spells, thereby leaving the caster vulnerable to their martial foes.
 
 ***Prerequisites***: To use any manipulation reaction (see below), you need to have the Spellcasting or Pact Magic feature.
 

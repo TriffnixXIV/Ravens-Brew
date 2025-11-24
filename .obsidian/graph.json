@@ -1,51 +1,51 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "file:Changes",
+      "query": "path:Private/Adventures/Tundraven  ",
       "color": {
         "a": 1,
-        "rgb": 14701138
-      }
-    },
-    {
-      "query": "path:Adjustments  ",
-      "color": {
-        "a": 1,
-        "rgb": 11752160
-      }
-    },
-    {
-      "query": "path:Reworks  ",
-      "color": {
-        "a": 1,
-        "rgb": 16448831
+        "rgb": 7855864
       }
     },
     {
       "query": "path:\"New Stuff\"  ",
       "color": {
         "a": 1,
-        "rgb": 5431378
+        "rgb": 3527736
       }
     },
     {
-      "query": "path:Tables  ",
+      "query": "path:Adjustments  ",
       "color": {
         "a": 1,
-        "rgb": 5412832
+        "rgb": 5404128
+      }
+    },
+    {
+      "query": "path:Reworks  ",
+      "color": {
+        "a": 1,
+        "rgb": 15521119
+      }
+    },
+    {
+      "query": "path:Tables",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
       }
     }
   ],
   "collapse-display": true,
-  "showArrow": true,
-  "textFadeMultiplier": 0,
+  "showArrow": false,
+  "textFadeMultiplier": -0.8,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
   "collapse-forces": true,
@@ -53,6 +53,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.6666666666666666,
+  "scale": 0.44444444444444425,
   "close": true
 }

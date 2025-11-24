@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "158006521b3bf74d",
+            "id": "aa759fa8dfc7d60d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New Stuff/Dodging.md",
+                "file": "Reworks/Vision & Focus.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dodging"
+              "title": "Vision & Focus"
             }
           }
         ]
@@ -229,43 +229,43 @@
       "bases:Create new base": false
     }
   },
-  "active": "158006521b3bf74d",
+  "active": "a18e8aca76a4a344",
   "lastOpenFiles": [
+    "Reworks/Vision & Focus.md",
     "Reworks/Combat Training.md",
     "Appendix/Changes for v0.8.md",
-    "Todo.md",
-    "Adjustments/Classes.md",
-    "Reworks/Shields.md",
-    "Adjustments/Combat.md",
-    "New Stuff/Contests.md",
-    "Adjustments/Feats.md",
-    "Reworks/AC-less defence.md",
-    "Adjustments/Monsters.md",
-    "New Stuff/Parrying.md",
+    "New Stuff/Surgery.md",
     "New Stuff/Blocking.md",
-    "Reworks/Reactions.md",
-    "Reworks/Reworks.md",
-    "New Stuff/Aimed Strikes.md",
-    "Tables/Body Part Sizes for a Medium Humanoid.md",
-    "Appendix/Changes for v0.6.md",
-    "Appendix/Changes for v0.7.md",
-    "Tables/Extended Size Table.md",
-    "README.md",
-    "Adjustments/Spells.md",
-    "Reworks/Aspects of Stealth.md",
+    "New Stuff/Parrying.md",
     "New Stuff/Dodging.md",
-    "Adjustments/Conditions.md",
-    "Adjustments/Armour.md",
-    "Appendix/Appendix.md",
-    "Untitled Document",
-    "Private/git token",
-    "git token",
-    "Private",
-    "Untitled Folder",
-    "token",
-    "PnP Krams/Homebrew/Raven's Brew/Reworks",
-    "PnP Krams/Homebrew/Raven's Brew",
-    "PnP Krams/Homebrew",
-    "PnP Krams"
+    "Adjustments/Character Creation.md",
+    "New Stuff/Rite of Regeneration.md",
+    "Appendix/Changes for v0.9.md",
+    "Todo.md",
+    "Reworks/Reactions.md",
+    "Adjustments/Classes.md",
+    "Reworks/AC-less defence.md",
+    "Private/Adventures/Tundraven/Entitäten/Akt 1/Größere Verfallene Krähe.md",
+    "Private/Adventures/Tundraven/Entitäten/Akt 1/Untitled.md",
+    "Private/Casting Rework/Spell Points.md",
+    "Private/Adventures/Tundraven/Orte/Norden/Wasserwacht.md",
+    "Private/Adventures/Tundraven/Entitäten/Akt 1/Fährmeister.md",
+    "Private/Adventures/Tundraven/Entitäten/Akt 1/Sir Maleno Dach.md",
+    "Private/Adventures/Tundraven/Entitäten/Akt 1/Sir Madach Leno.md",
+    "Private/Adventures/Tundraven/Entitäten/Akt 1/Ex-Paladin von Pelor.md",
+    "Private/Adventures/Tundraven/Dinge/Tagebuch der Handelsmeisterin.md",
+    "Private/Adventures/Tundraven/Tagebuch der Handelsmeisterin.md",
+    "Private/Adventures/Tundraven/Entitäten/Allgemein/Mielikki.md",
+    "Private/Adventures/Tundraven/Mielikki.md",
+    "Private/Adventures/Tundraven/Orte/Norden/Untitled",
+    "Private/Adventures/Tundraven/Orte/Süden",
+    "Private/Adventures/Tundraven/Orte/Untitled",
+    "Private/Adventures/Tundraven/Orte/Norden",
+    "Private/Adventures/Tundraven/Orte/Prouvenkapp",
+    "Private/Adventures/Tundraven/Entitäten/Allgemein",
+    "Private/Adventures/Tundraven/Entitäten/Untitled",
+    "Private/Adventures/Tundraven/Entitäten/Akt 1",
+    "Private/Adventures/Tundraven/Entitäten/Akt 2",
+    "Private/Adventures/Tundraven/Entitäten/Akt 3"
   ]
 }

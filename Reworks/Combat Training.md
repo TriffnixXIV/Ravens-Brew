@@ -1,13 +1,11 @@
 Combat Training is a new system that encompasses weapon proficiency, weapon mastery, Fighting Styles, Armour Training, and some Feats that interface with weapons and armour. Proficiency and expertise with [[Parrying]] and [[Blocking]] are also part of this system, as are other features relating to [[AC-less defence]] generally.
 
-This rework is motivated by three reasons. Firstly, with the Hit DC being largely unchanging with level and being quite low especially with larger creatures, there's not as large of a benefit in adding the proficiency bonus to ones attack rolls. This opens up the possibility of allowing players to decide against adding this proficiency bonus in favor of other benefits for offence or defence. One of these benefits aptly allows players to bypass parts of an enemies Damage Reduction, scaling with the proficiency bonus, so that there are now options to ease hitting enemies and to ease damaging them through armour, mirroring the separation of Armor Class into Hit DC and Damage Reduction.
+This rework is motivated by three reasons. Firstly, with the Hit DC being largely unchanging with level and being quite low especially with larger creatures, there's not as large of a benefit in adding the Proficiency Bonus to ones attack rolls. This opens up the possibility of allowing players to decide against adding this Proficiency Bonus in favor of other benefits for offence or defence. One of these benefits aptly allows players to bypass parts of an enemies Damage Reduction, scaling with the Proficiency Bonus, so that there are now options to ease hitting enemies and to ease damaging them through armour, mirroring the separation of Armor Class into Hit DC and Damage Reduction.
 
 Secondly, the new defensive reactions introduced in this ruleset should be something a character can specialize in. In previous versions of this ruleset, this was enabled through changes to general feats and through connections with expertise class features. Both of those are limited in their accessibility, and especially fighters should be able to access special defensive features more than other classes, while not themselves having access to expertise. Thus, by introducing these features here, martial classes actually have prioritized access to the new martial features.
 
 Thirdly, the 2024 rules saw the introduction of weapon mastery properties. These were introduced as weapon-specific features that can be chosen by martials to increase their battlefield prowess, which can be assumed to be intended to lessen the infamous martial caster divide. Structurally, these mastery properties do not separate themselves from benefits that are obtainable through feats, while introducing a whole new feature list a martial can choose from. Next to Fighting Style feats and general feats, this is now the third feature list for martials. Through the rearrangement of those lists into one singular list, the flexibility and potential power of martials is further accentuated. Additionally, adding new features to this list is a new straightforward way to give feature options to martials specifically without having to restrict the features to Fighting Style feats, general feats or weapon mastery properties that martial classes tend to have quite limited access to.
 ### Core Changes
-***No Starting Proficiency***: You no longer start with proficiency with weapon attacks with the weapons listed in your class descriptions. Instead, you are trained with the weapons that you would otherwise have proficiency with, as described in the section on weapon training below. When you receive Combat Training, you can choose the Accuracy feature described in the section on weapon features to add your proficiency bonus to certain attack rolls again.
-
 ***Combat Training***: When you receive Combat Training, choose one of the features listed in the following sections that you qualify for.
 
 ***Fighting Styles***: Fighting Style feats are now Combat Training features. Whenever you would gain a Fighting Style feat, you receive Combat Training instead.
@@ -18,6 +16,10 @@ Thirdly, the 2024 rules saw the introduction of weapon mastery properties. These
 ### Weapon Training
 Instead of working primarily through proficiency, weapons now also utilize Training, similar to how it is established for Armour. When using a weapon that you lack training with, you have Disadvantage on any D20 Test that relies on that weapon. The following features can give you training with weapons:
 
+***Starting Proficiency Conversion***: You no longer start with proficiency with weapon attacks with the weapons listed in your class descriptions. Instead, you are trained with the weapons that you would otherwise have proficiency with.
+
+When you receive Combat Training, you can choose the Accuracy feature described in the section on weapon features to add your Proficiency Bonus to certain attack rolls again.
+
 ***Simple Melee Weapon Training***: You gain training with Simple Melee weapons.
 
 ***Simple Ranged Weapon Training***: You gain training with Simple Ranged weapons.
@@ -26,13 +28,13 @@ Instead of working primarily through proficiency, weapons now also utilize Train
 
 ***Martial Ranged Weapon Training***: Requires training with Simple Ranged weapons. You gain training with Martial Ranged weapons.
 ### Weapon Features
-***Accuracy***: Choose a weapon property. You gain a bonus equal to your Proficiency Bonus to attack rolls with weapons with that property. You can pick this feature multiple times, but only for different weapon properties.
+***Accuracy***: Choose a weapon property. You add your Proficiency Bonus to attack rolls with weapons with that property. You can pick this feature multiple times, but only for different weapon properties, and it does not stack with itself on weapons with multiple properties that you have this feature for.
 
 ***Archery***: You gain a +2 bonus to attack rolls with Ranged weapons.
 
 ***Bypass Cover***: Your ranged weapon attacks ignore half cover and three-quarters cover.
 
-***Cleave***: Once per turn, when you hit a creature with a melee attack using a weapon that has the Heavy property and deals Slashing damage, you can make a melee attack roll with the weapon against a second creature within 5 feet of the first that is also within your reach. One a hit, the second creature takes the weapons damage, but you don't add your ability modifier to that damage unless that modifier is negative.
+***Cleave***: Once per turn, when you hit a creature with a melee attack using a weapon that has the Heavy property and deals Slashing damage, you can make a melee attack roll with the weapon against a second creature within 5 feet of the first that is also within your reach. On a hit, the second creature takes the weapons damage, but you don't add your ability modifier to that damage unless that modifier is negative.
 
 ***Dueling***: When you are holding a Melee weapon in one hand and no other weapons, you gain a +2 bonus to damage rolls with that weapon.
 
@@ -56,15 +58,21 @@ Instead of working primarily through proficiency, weapons now also utilize Train
 
 ***Hamstring***: Once per turn when you hit a creature with an attack using a Melee weapon that deals Slashing damage or using a Ranged weapon, you can reduce the Speed of that creature by 10 feet until the start of your next turn.
 
-***Heavy Weapon Master***: When you hit a creature with a weapon that has the Heavy property as part of the Attack action on your turn, you deal extra damage equal to your Proficiency Bonus.
+***Heavy Weapon Master***: When you hit a target with a weapon that has the Heavy property as part of the Attack action on your turn, you deal extra damage equal to your Proficiency Bonus.
 
 ***Hew***: Immediately after you score a Critical Hit with a Melee weapon with the Heavy property or reduce a creature to 0 Hit Points with one, you can make one attack with the same weapon as a Bonus Action.
 
 ***Ignore Loading***: You ignore the Loading property and can load a piece of ammunition into weapons with that property even without a free hand.
 
+***Immaculate Aim***: When making an Aimed Strike, add either half of the Hit DC increase or your Proficiency Bonus to the attack roll, whichever is lower.
+
+***Knowing the Spot***: When you hit a target with an Aimed Strike, you deal extra damage equal to your Proficiency Bonus.
+
 ***Long Shots***: Attacking at long range doesn't impose Disadvantage on your attack rolls with Ranged weapons.
 
 ***Nick***: When you make the extra attack of the Light property, you can make it as part of the Attack action instead of as a Bonus Action. You can make this extra attack only once per turn.
+
+***Overpower***: When you hit a target with a weapon that deals Bludgeoning damage, you deal 1 extra damage for every size category the target is smaller than you.
 
 ***Penetration***: Choose a damage type. Your damage with weapons that deal that type of damage ignores an amount of Damage Reduction equal to your Proficiency Bonus. You can pick this feature multiple times, but only for different damage types.
 
@@ -78,7 +86,7 @@ Instead of working primarily through proficiency, weapons now also utilize Train
 
 ***Quick Draw***: You can draw or stow two weapons that lack the Two-Handed property when you would normally be able to draw or stow only one.
 
-***Reactive Strike***: While you're holding a Quarterstaff, a Spear, or a weapon that has the Heavy and Reach properties, you can take a Reaction to make one melee attack against a creature that enters the reach you have with that weapon.
+***Reactive Strike***: While you're holding a Quarterstaff, a Spear, or a weapon that has the Heavy and Reach properties, you can take a Reaction to make one attack with that weapon against a creature that enters the reach you have with it.
 
 ***Sap***: When you hit a creature with a melee attack using a weapon without the Heavy property that deals Bludgeoning or Piercing damage, that creature has Disadvantage on its next attack roll before the start of your next turn.
 
@@ -98,15 +106,17 @@ Instead of working primarily through proficiency, weapons now also utilize Train
 
 ***Heavy Armour Training***: Requires training with Medium Armour. You gain training with Heavy Armour.
 
-***Heavy Armour Master***: Requires training with Heavy Armour. You can use your Heavy Armour to [[Blocking|block]] attacks instead of a Shield. When doing so successfully, the damage you take is reduced by twice the Damage Reduction of the used armour piece instead. If you have proficiency with Blocking, you also add your Proficiency Bonus to the Damage Reduction for this attack.
+***Heavy Armour Master***: Requires training with Heavy Armour. You can use your Reaction to [[Blocking|block]] an attack you can see and that targets you with one of your Heavy Armour pieces, using a Blocking Modifier of +6. When blocking this way successfully, the damage of the attack is not negated completely, but the Damage Reduction of the used armour piece is doubled against it.
+
+If you have proficiency with Blocking, you also add your Proficiency Bonus to your Damage Reduction against this attack. If you have Expertise in Blocking, you add it twice instead.
 
 ***Defence***: You gain an additional +1 bonus to Damage Reduction on all body parts covered in armour you are trained with.
 ### Shield Features
-***Blocking Proficiency***: Requires training with Shields. You add your proficiency bonus to [[Blocking]] checks.
+***Blocking Proficiency***: Requires training with Shields. You add your Proficiency Bonus to [[Blocking]] checks.
 
-***Blocking Expertise***: Requires proficiency with Blocking. You add your proficiency bonus to Blocking checks one additional time.
+***Blocking Expertise***: Requires proficiency with Blocking. You add your Proficiency Bonus to Blocking checks one additional time.
 
-***Free Hand Enhancement***: When wielding a shield with the Free Hand property, D20 Tests to use an object or make a weapon attack with the hand of the arm the shield is wielded on are no longer rolled with Disadvantage.
+***Free Hand Enhancement***: You ignore the Disadvantage imposed on D20 Tests by the Free Hand shield property.
 
 ***Interpose Shield***: Requires training with Shields and you to wield a Shield. If you’re subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you can take a Reaction to take no damage if you succeed on the saving throw.
 
@@ -120,15 +130,17 @@ Instead of working primarily through proficiency, weapons now also utilize Train
 
 ***Interception***: When a creature you can see attacks another creature within 5 feet of you, you can take a Reaction to parry that attack, potentially reducing the damage the target creature takes. You must be holding a Simple or Martial weapon to use this Reaction.
 
-***Parrying Proficiency***: You add your proficiency bonus to [[Parrying]] checks you make with weapons you are trained with.
+***Parrying Proficiency***: You add your Proficiency Bonus to [[Parrying]] checks you make with weapons you are trained with.
 
-***Parrying Expertise***: Requires proficiency with Parrying. You add your proficiency bonus to Parrying checks one additional time.
+***Parrying Expertise***: Requires proficiency with Parrying. You add your Proficiency Bonus to Parrying checks one additional time.
 
-***Potent Parry***: Requires proficiency with Parrying. You add your proficiency bonus to the Parrying Power of your Finesse weapons. If you have Expertise in Parrying, you add it twice instead.
+***Potent Parry***: Requires proficiency with Parrying. You add your Proficiency Bonus to the Parrying Power of your Finesse weapons. If you have Expertise in Parrying, you add it twice instead.
 
 ***Vengeful Parry***: Whenever you successfully parry an attack, you can take a Free Reaction or Reaction to make an attack against the attacker with one weapon you are wielding that was not part of your parry.
 ### Other Features
 ***Blind Fighting***: You have Blindsight with a range of 10 feet.
+
+***My Body is a Weapon***: Your Unarmed Strikes now also count as Melee weapon attacks. While you are not holding anything in your hand, it counts as a Light Melee weapon.
 
 ***Unarmed Fighting***: You gain the following benefits:
 - When you hit with your Unarmed Strike and deal damage, you can deal Bludgeoning damage equal to 1d6 plus your Strength modifier instead of the normal damage of an Unarmed Strike. If you aren't holding any weapons or a Shield when you make the attack roll, the d6 becomes a d8.

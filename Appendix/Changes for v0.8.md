@@ -58,3 +58,43 @@
 - added Shield of Faith changes.
 - made Cure Wounds and Inflict Wounds work with wounds.
 - Blur now no longer affects attackers that are blinded.
+### Changes for v0.8.1
+General
+- Fixed some spelling mistakes.
+
+[[Rite of Regeneration]]
+- gave more options to assist with the Rite.
+- clarified when the Rite is interrupted and what happens in that case.
+- added an example.
+
+[[Surgery]]
+- changed the primary attribute to Intelligence.
+- added two skills, Sleight of Hand and Medicine, to Surgery.
+- explicated that when proficiency with both the tools and one of the associated skills are present, the surgeon rolls with Advantage, in line with existing tool rules.
+- explicated how to assist and interrupt Surgery.
+- clarified what happens when Surgery is interrupted.
+
+[[Character Creation]]
+- added two drawbacks to being Small.
+
+[[Classes]]
+- the Monks Patient Defence now references the Defence Action.
+
+[[Blocking]] & [[Parrying]]
+- added a short introductory paragraph.
+
+[[AC-less defence]]
+- made cover its own subsection.
+- added a paragraph about crouching behind cover.
+- moved the Defence Action here and reworked it to be more like before.
+
+[[Combat Training]]
+- moved the paragraph about starting weapon Proficiencies and starting weapon Training into the subsection on weapon Training to remove some confusion.
+- reworded Accuracy to make it clear that it cannot stack with itself.
+- added Immaculate Aim, Knowing the Spot, Overpower, and My Body is a Weapon.
+- reworded Heavy Armour Master, so that it now mentions its Blocking Modifier and is further improved by Blocking expertise.
+- reworded Free Hand Enhancement so that it is more concise and clear about only negating Disadvantage imposed through the Free Hand property.
+
+[[Reactions]]
+- moved the Defence Action to AC-less Defence.
+- removed the paragraph about Reaction timing, as it was functionally equivalent to the existing base rule.

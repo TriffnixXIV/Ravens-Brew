@@ -21,7 +21,7 @@ The Hit Area refers to the area of a target that is facing the attacker. For exa
 For the purposes of very small targets, a new set of sizes has been introduced. These will, for example, be used for [[Aimed Strikes]].
 
 ***Even smaller sizes***: If a target is significantly smaller than the sizes listed above, you can either find an extended table in the [[Extended Size Table|tables chapter]], or extrapolate the Hit DC from the measures in the table. Start with the measures and Hit DC for minuscule targets. Then add 2 to the Hit DC, quarter the Hit Area and halve the height or length. Repeat this until the measures fit the target you have in mind to get the appropriate Hit DC.
-
+### Cover
 ***Cover***: Instead of increasing the Armor Class of the creature that is behind cover, the Hit DC for attacks that target that creature increases by 2 for half cover and by 5 for three-quarters cover.
 
 ***Cover sizes***: Similar to how the size of a target influences its Hit DC, the size of cover influences whether it counts as half cover, three-quarters cover or total cover for the sake of attacks that could be interrupted by the cover.
@@ -29,6 +29,12 @@ For the purposes of very small targets, a new set of sizes has been introduced. 
 Assuming that the cover matches the width-height proportions of the target it covers and has no openings, it gives total cover from attacks if it is one size category larger than the target, three-quarters cover if it is of the same size category, and half cover if it is one or two size categories smaller.
 
 Creatures and objects with significant openings or sufficiently slim proportions usually only give half-cover, regardless of their size. For example, a huge tree might still have a stem that is too thin to cover a medium humanoid properly, thus only giving half cover.
+
+***Crouching behind cover***: Creatures may crouch, perch, sit down, or fall prone behind cover at will to increase the degree of cover they can obtain. When doing so, the following effects apply to the crouched creature:
+- They decrease their effective size by one category for the purposes of determining the degree of cover they gain through the cover they crouch behind.
+- They have the Prone condition.
+
+For example, a Medium Humanoid receives three quarters cover from a Tower Shield when crouching behind it instead of the usual half cover, while a Small Humanoid can receive full cover from a Tower Shield when crouching behind it.
 ### Damage Reduction
 ***Damage Reduction***: Creatures now have a Damage Reduction value. This value is subtracted from any damage the wearer takes through an attack that is not a critical hit.
 
@@ -38,6 +44,11 @@ Every bonus to Armor Class that is not the Dexterity bonus can be converted 1:1 
 
 Damage Reduction from multiple sources stacks. However, the prerequisites for each source must still be met. For example, the Damage Reduction now gained from the Barbarians Unarmoured Defence and a heavy armour will not stack, because the heavy armour still disables the Barbarians Unarmoured Defence.
 ### Other changes
-***Reactive Defence***: There are now options to reactively defend against incoming attacks and other effects. These include [[Dodging]], [[Blocking]], [[Parrying]] and some parts of [[Spell Manipulation]]. The base mechanics of these are explained in the [[Reactions]] section.
+***Reactive Defence***: There are now options to reactively defend against incoming attacks and other effects. These include [[Dodging]], [[Blocking]], [[Parrying]] and some parts of [[Spell Manipulation]].
+
+***Defence Action***: You can use your Action to take the Defence Action. Doing so gives you a number of Reactions equal to your Proficiency Bonus. You may only use these additional Reactions for defensive purposes, including [[Dodging]], [[Blocking]], [[Parrying]], and other Reactions that fulfill the following conditions:
+- It does not deal damage, and it does not enhance something that deals damage.
+- It does not apply a condition to an enemy, and does not enhance something that applies a condition to an enemy.
+- It does not force an enemy to make a saving throw, and does not enhance something that forces an enemy to make a saving throw.
 
 ***Misses?*** Any rule or feature that requires a missed attack to work also works if the attack does not deal damage because of Damage Reduction, Blocking, or Parrying. Those attacks count as both a hit and a miss in that regard. Note that Dodging explicitly causes dodged attacks to miss.

@@ -1,13 +1,13 @@
 ### Bard
 ***College of Dance - Dazzling Footwork - Unarmoured Defence***: When you aren't wearing armour or wielding a shield, you can roll Charisma (Performance) instead of Dexterity (Acrobatics) when [[Dodging]], and you add both your Charisma modifier and your Dexterity modifier to the roll.
 
-***College of Valor - Combat Inspiration - Defence***: When the creature is hit by an attack roll, that creature can use the Bardic Inspiration die instead of a Reaction to attempt to [[Blocking|block]], [[Parrying|parry]] or [[Dodging|dodge]] the attack. When doing so, the creature rolls the Bardic Inspiration die and adds the number rolled to the corresponding check, potentially causing the attack to miss.
+***College of Valor - Combat Inspiration - Defence***: When the creature is hit by an attack roll, that creature can use the Bardic Inspiration die instead of a Reaction to attempt to [[Blocking|block]], [[Parrying|parry]] or [[Dodging|dodge]] the attack. When doing so, the creature rolls the Bardic Inspiration die and adds the number rolled to the corresponding check, potentially causing the attack to miss or deal reduced damage.
 ### Fighter
 ***Tactical Master***: When you attack with a weapon you are trained with, you can use one additional [[Combat Training]] feature on the attack that the weapon does not fulfill the requirements of.
 
 ***Battle Master - Know Your Enemy***: Additionally, you find out whether there are particular weak spots that are worth targeting and what to expect when making an [[Aimed Strikes|Aimed Strike]] against that weak spot.
 
-***Battle Master - Parry***: When [[Parrying]], you can expend one Superiority Die, rolling the die and adding the number tolled the Superiority Die to the Parry check. If the parry succeeds, you increase the Parrying Power by the maximum roll of your Superiority Die.
+***Battle Master - Parry***: When [[Parrying]], you can expend one Superiority Die, rolling the die and adding the number rolled to the Parry check. If the parry succeeds, you increase the Parrying Power by the maximum roll of your Superiority Die.
 
 ***Battle Master - Evasive Footwork***: As a Bonus Action, you can expend one Superiority Die and take the Disengage action. You also roll the die and add the number rolled to your Hit DC until the start of your next turn.
 
@@ -17,7 +17,7 @@
 
 ***Unarmoured Defence***: Instead of being converted to [[AC-less defence|Damage Reduction]], your Wisdom modifier is added to your [[Dodging]] checks.
 
-***Patient Defence***: May instead be used to enter the [[Dodging|Evasive Stance]].
+***Patient Defence***: May instead be used to take the [[Reactions|Defence Action]].
 
 ***Deflect Missiles***: May be used without using a Reaction as one use of the [[Dodging|Evasive Stance]].
 

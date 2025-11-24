@@ -1,4 +1,4 @@
-***Unarmed Strikes***: The Grapple and Shove options of the Unarmed Strike are changed to use [[contests]] again, as described below.
+***Unarmed Strikes***: The Grapple and Shove options of the Unarmed Strike are changed to use [[Contests]] again, as described below.
 
 ***Grapple***: Using at least one free hand, you try to seize the target by making a grapple check, a Strength (Athletics) check contested by the target's Strength (Athletics) or Dexterity (Acrobatics) check (their choice). If you succeed, you subject the target to the grappled condition. The condition specifies the things that end it, and you can release the target whenever you like (no action required). The target of your grapple must be no more than one size larger than you, and it must be within your reach. 
 

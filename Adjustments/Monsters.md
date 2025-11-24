@@ -1,6 +1,6 @@
-***Attack Rolls***: All monsters are trained with the weapons they wield and with their Unarmed Strikes. However, only monsters that rely on their precision or are particularly experienced add their proficiency bonus to their attacks.
+***Attack Rolls***: All monsters are trained with the weapons they wield and with their Unarmed Strikes. However, only monsters that rely on their precision or are particularly experienced add their Proficiency Bonus to their attacks.
 
-***Damage Rolls***: Monsters that are particularly aggressive or mighty may add their proficiency bonus to their damage rolls.
+***Damage Rolls***: Monsters that are particularly aggressive or mighty may add their Proficiency Bonus to their damage rolls.
 
 ***Surge Dice***: Monsters also get and can utilize Surge Dice.
 

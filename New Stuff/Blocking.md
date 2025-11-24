@@ -1,3 +1,5 @@
+Shields are made to block attacks, and while the base rules only implement this passively, a reactive implementation is highly intuitive. This implementation is provided here.
+
 ***Blocking***: Blocking is a new skill that uses Strength or Dexterity, shield wielders choice, modified by the Blocking Modifier of the wielded Shield.
 
 ***Blocking Modifier***: A usual shield has a Blocking Modifier of +4, with other variants being described in the chapter on [[Shields]]. To use the Blocking Modifier of a Shield, you have to have training with Shields.
