@@ -101,3 +101,16 @@ General
 ### v0.8.2
 General
 - rearranged the chapters to roughly align with the structure of the PHB.
+
+[[Species]]
+- renamed from Character Creation.
+- Small creatures now only get -1 to their Constitution score instead of -2 to their Strength score.
+
+[[Combat Training]]
+- changed Archery to depend on the Wisdom modifier.
+- changed Duelling to depend on the Dexterity modifier.
+- changed Heavy Weapon Master to depend on the Strength modifier.
+- changed Knowing the Spot to depend on the Intelligence modifier.
+- added Wounding Critical.
+- moved some Aimed Strike features to general features due to their lack of weapon dependence.
+- some minor linking and wording changes.
