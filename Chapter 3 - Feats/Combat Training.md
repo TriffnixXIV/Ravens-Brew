@@ -30,13 +30,13 @@ When you receive Combat Training, you can choose the Accuracy feature described 
 ### Weapon Features
 ***Accuracy***: Choose a weapon property. You add your Proficiency Bonus to attack rolls with weapons with that property. You can pick this feature multiple times, but only for different weapon properties, and it does not stack with itself on weapons with multiple properties that you have this feature for.
 
-***Archery***: You gain a +2 bonus to attack rolls with Ranged weapons.
+***Archery***: You gain a bonus to attack rolls with Ranged weapons equal to your Wisdom modifier (at least 1).
 
 ***Bypass Cover***: Your ranged weapon attacks ignore half cover and three-quarters cover.
 
 ***Cleave***: Once per turn, when you hit a creature with a melee attack using a weapon that has the Heavy property and deals Slashing damage, you can make a melee attack roll with the weapon against a second creature within 5 feet of the first that is also within your reach. On a hit, the second creature takes the weapons damage, but you don't add your ability modifier to that damage unless that modifier is negative.
 
-***Dueling***: When you are holding a Melee weapon in one hand and no other weapons, you gain a +2 bonus to damage rolls with that weapon.
+***Dueling***: When you are holding a Melee weapon in one hand and no other weapons, you gain a bonus to damage rolls with that weapon equal to your Dexterity modifier (at least 1).
 
 ***Enhanced Critical - Bludgeoning***: When you score a Critical Hit that deals Bludgeoning damage to a creature, attack rolls against that creature have Advantage until the start of your next turn.
 
@@ -58,15 +58,11 @@ When you receive Combat Training, you can choose the Accuracy feature described 
 
 ***Hamstring***: Once per turn when you hit a creature with an attack using a Melee weapon that deals Slashing damage or using a Ranged weapon, you can reduce the Speed of that creature by 10 feet until the start of your next turn.
 
-***Heavy Weapon Master***: When you hit a target with a weapon that has the Heavy property as part of the Attack action on your turn, you deal extra damage equal to your Proficiency Bonus.
+***Heavy Weapon Master***: When you hit a target with a weapon that has the Heavy property as part of the Attack action on your turn, you deal additional damage equal to your Strength modifier (at least 1).
 
 ***Hew***: Immediately after you score a Critical Hit with a Melee weapon with the Heavy property or reduce a creature to 0 Hit Points with one, you can make one attack with the same weapon as a Bonus Action.
 
 ***Ignore Loading***: You ignore the Loading property and can load a piece of ammunition into weapons with that property even without a free hand.
-
-***Immaculate Aim***: When making an Aimed Strike, add either half of the Hit DC increase or your Proficiency Bonus to the attack roll, whichever is lower.
-
-***Knowing the Spot***: When you hit a target with an Aimed Strike, you deal extra damage equal to your Proficiency Bonus.
 
 ***Long Shots***: Attacking at long range doesn't impose Disadvantage on your attack rolls with Ranged weapons.
 
@@ -82,7 +78,7 @@ When you receive Combat Training, you can choose the Accuracy feature described 
 
 ***Prey on the Vulnerable***: If a creature that you can see and that is within your Melee range receives the Incapacitated condition, you can take a Reaction to make a Melee weapon attack against that creature.
 
-***Puncture***: Once per turn, when you hit a creature with an attack that deals Piercing damage, you can reroll one of the attacks damage dice, and you must use the new roll.
+***Puncture***: Once per turn, when you hit a creature with a weapon attack that deals Piercing damage, you can reroll one of the attacks damage dice, and you must use the new roll.
 
 ***Quick Draw***: You can draw or stow two weapons that lack the Two-Handed property when you would normally be able to draw or stow only one.
 
@@ -111,8 +107,8 @@ When you receive Combat Training, you can choose the Accuracy feature described 
 If you have proficiency with Blocking, you also add your Proficiency Bonus to your Damage Reduction against this attack. If you have Expertise in Blocking, you add it twice instead.
 
 ***Defence***: You gain an additional +1 bonus to Damage Reduction on all body parts covered in armour you are trained with.
-### Shield Features
-***Blocking Proficiency***: Requires training with Shields. You add your Proficiency Bonus to [[Blocking]] checks.
+### Shield & [[Blocking]] Features
+***Blocking Proficiency***: Requires training with Shields. You add your Proficiency Bonus to Blocking checks.
 
 ***Blocking Expertise***: Requires proficiency with Blocking. You add your Proficiency Bonus to Blocking checks one additional time.
 
@@ -125,12 +121,12 @@ If you have proficiency with Blocking, you also add your Proficiency Bonus to yo
 ***Shield Bash***: Requires training with Shields and you to wield a Shield. If you hit a creature within 5 feet of you as part of the Attack action, you can immediately bash the target with your Shield, making a [[Combat|shove attack]]. You can use this benefit only once on each of your turns.
 
 ***Shield Training***: You gain training with [[Shields]].
-### Parrying Features
+### [[Parrying]] Features
 ***Elegant Parry***: Requires proficiency with Parrying. When you are using at least one Finesse weapon with which you are trained to parry, make the Parry Check with advantage.
 
 ***Interception***: When a creature you can see attacks another creature within 5 feet of you, you can take a Reaction to parry that attack, potentially reducing the damage the target creature takes. You must be holding a Simple or Martial weapon to use this Reaction.
 
-***Parrying Proficiency***: You add your Proficiency Bonus to [[Parrying]] checks you make with weapons you are trained with.
+***Parrying Proficiency***: You add your Proficiency Bonus to Parrying checks you make with weapons you are trained with.
 
 ***Parrying Expertise***: Requires proficiency with Parrying. You add your Proficiency Bonus to Parrying checks one additional time.
 
@@ -140,8 +136,14 @@ If you have proficiency with Blocking, you also add your Proficiency Bonus to yo
 ### Other Features
 ***Blind Fighting***: You have Blindsight with a range of 10 feet.
 
+***Immaculate Aim***: When making an Aimed Strike, add either half of the Hit DC increase or your Proficiency Bonus to the attack roll, whichever is lower.
+
+***Knowing the Spot***: When you hit a target with an Aimed Strike, you deal extra damage equal to your Intelligence modifier (at least 1).
+
 ***My Body is a Weapon***: Your Unarmed Strikes now also count as Melee weapon attacks. While you are not holding anything in your hand, it counts as a Light Melee weapon.
 
 ***Unarmed Fighting***: You gain the following benefits:
 - When you hit with your Unarmed Strike and deal damage, you can deal Bludgeoning damage equal to 1d6 plus your Strength modifier instead of the normal damage of an Unarmed Strike. If you aren't holding any weapons or a Shield when you make the attack roll, the d6 becomes a d8.
 - At the start of each of your turns, you can deal 1d4 Bludgeoning damage to one creature Grappled by you.
+
+***Wounding Critical***: When you score a Critical Hit on an attack that is not an Aimed Strike, you may choose a body part to wound regardless, forcing the target to roll a Wound save as if the attack had been an Aimed Strike.

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reworks/Vision & Focus.md",
+                "file": "Chapter 3 - Feats/Combat Training.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vision & Focus"
+              "title": "Combat Training"
             }
           }
         ]
@@ -52,7 +52,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Appendix/Changes for v0.8.md",
+                    "file": "Chapter 8 - Appendix/Changes for v0.8.md",
                     "mode": "source",
                     "source": false
                   },
@@ -229,22 +229,34 @@
       "bases:Create new base": false
     }
   },
-  "active": "a18e8aca76a4a344",
+  "active": "578bf44b5d9e4c19",
   "lastOpenFiles": [
-    "Reworks/Vision & Focus.md",
-    "Reworks/Combat Training.md",
-    "Appendix/Changes for v0.8.md",
-    "New Stuff/Surgery.md",
-    "New Stuff/Blocking.md",
-    "New Stuff/Parrying.md",
-    "New Stuff/Dodging.md",
-    "Adjustments/Character Creation.md",
-    "New Stuff/Rite of Regeneration.md",
+    "Chapter 3 - Feats/Combat Training.md",
+    "Chapter 8 - Appendix/Changes for v0.8.md",
+    "Private/Adventures/Tundraven/Sessions/Session 2-2.md",
+    "Private/Adventures/Tundraven/Sessions/Untitled.md",
+    "Private/Adventures/Tundraven/Sessions/Session 2.md",
+    "Chapter 3 - Feats/Feats.md",
+    "Chapter 1 - Playing the Game/Surge Dice.md",
+    "Chapter 7 - DM Tools",
+    "Chapter 6 - Rules Glossary",
+    "Chapter 5 - Magic",
+    "Chapter 4 - Equipment",
+    "Chapter 3 - Feats",
+    "Chapter 2 - Character Creation",
+    "Chapter 1 - Playing the Game",
+    "Chapter 2 - Character Creation/Species.md",
+    "Chapter 1 - Playing the Game/Vision & Focus.md",
+    "Chapter 6 - Rules Glossary/Surgery.md",
+    "Chapter 6 - Rules Glossary/Blocking.md",
+    "Chapter 6 - Rules Glossary/Parrying.md",
+    "Chapter 6 - Rules Glossary/Dodging.md",
+    "Chapter 5 - Magic/Rite of Regeneration.md",
     "Appendix/Changes for v0.9.md",
     "Todo.md",
-    "Reworks/Reactions.md",
-    "Adjustments/Classes.md",
-    "Reworks/AC-less defence.md",
+    "Chapter 1 - Playing the Game/Reactions.md",
+    "Chapter 2 - Character Creation/Classes.md",
+    "Chapter 1 - Playing the Game/AC-less defence.md",
     "Private/Adventures/Tundraven/Entitäten/Akt 1/Größere Verfallene Krähe.md",
     "Private/Adventures/Tundraven/Entitäten/Akt 1/Untitled.md",
     "Private/Casting Rework/Spell Points.md",
@@ -252,20 +264,8 @@
     "Private/Adventures/Tundraven/Entitäten/Akt 1/Fährmeister.md",
     "Private/Adventures/Tundraven/Entitäten/Akt 1/Sir Maleno Dach.md",
     "Private/Adventures/Tundraven/Entitäten/Akt 1/Sir Madach Leno.md",
-    "Private/Adventures/Tundraven/Entitäten/Akt 1/Ex-Paladin von Pelor.md",
-    "Private/Adventures/Tundraven/Dinge/Tagebuch der Handelsmeisterin.md",
-    "Private/Adventures/Tundraven/Tagebuch der Handelsmeisterin.md",
-    "Private/Adventures/Tundraven/Entitäten/Allgemein/Mielikki.md",
-    "Private/Adventures/Tundraven/Mielikki.md",
     "Private/Adventures/Tundraven/Orte/Norden/Untitled",
     "Private/Adventures/Tundraven/Orte/Süden",
-    "Private/Adventures/Tundraven/Orte/Untitled",
-    "Private/Adventures/Tundraven/Orte/Norden",
-    "Private/Adventures/Tundraven/Orte/Prouvenkapp",
-    "Private/Adventures/Tundraven/Entitäten/Allgemein",
-    "Private/Adventures/Tundraven/Entitäten/Untitled",
-    "Private/Adventures/Tundraven/Entitäten/Akt 1",
-    "Private/Adventures/Tundraven/Entitäten/Akt 2",
-    "Private/Adventures/Tundraven/Entitäten/Akt 3"
+    "Private/Adventures/Tundraven/Orte/Untitled"
   ]
 }

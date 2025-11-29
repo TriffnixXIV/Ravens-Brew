@@ -1,3 +1,3 @@
 ***Too many goodies for small characters***: In these rules, small creatures benefit through both a higher base Hit DC as well as more easily accessible cover, with no associated drawbacks. In play, this leads to a significantly increased presence of small characters. To counter this, the following two weaknesses are introduced:
 - Small creatures have their movement speed reduced by 5 feet.
-- Small creatures have their Strength score reduced by 2.
+- Small creatures have their Constitution score reduced by 1.

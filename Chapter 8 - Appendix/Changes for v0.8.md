@@ -74,7 +74,7 @@ General
 - explicated how to assist and interrupt Surgery.
 - clarified what happens when Surgery is interrupted.
 
-[[Character Creation]]
+[[Species]]
 - added two drawbacks to being Small.
 
 [[Classes]]
@@ -98,3 +98,6 @@ General
 [[Reactions]]
 - moved the Defence Action to AC-less Defence.
 - removed the paragraph about Reaction timing, as it was functionally equivalent to the existing base rule.
+### v0.8.2
+General
+- rearranged the chapters to roughly align with the structure of the PHB.
