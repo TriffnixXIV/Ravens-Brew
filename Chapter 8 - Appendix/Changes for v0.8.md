@@ -102,6 +102,11 @@ General
 General
 - rearranged the chapters to roughly align with the structure of the PHB.
 
+[[Surge Dice]]
+- renamed Speed to Overtake, because it does not give movement speed, but it does make you overtake others in the Initiative order.
+- renamed Swiftness to Speed, because it gives movement speed.
+- changed Overtake to make it weaker in encounters with fewer creatures and to make it a bit more legible.
+
 [[Species]]
 - renamed from Character Creation.
 - Small creatures now only get -1 to their Constitution score instead of -2 to their Strength score.

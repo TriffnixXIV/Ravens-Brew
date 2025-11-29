@@ -8,9 +8,9 @@ When a Surge Die is used as a part of a contest, both parties may expend further
 
 ***Force:*** Subtract the roll from one saving throw you require one creature to make. This can be part of an effect that requires multiple creatures to roll a saving throw, but it only applies to the one creature you choose.
 
-***Swiftness***: You gain 10ft. of movement speed that you can immediately use.
+***Speed***: You gain 10ft. of movement speed that you can immediately use.
 
-***Speed***: Add the roll to your Initiative, potentially changing your position in the Initiative Order. Before doing so, if you are first in the Initiative Order and act on Initiative 20 or before, move to either Initiative 0 or the Initiative one below that of the last spot, whichever is lowest.
+***Overtake***: Add the roll to your Initiative, potentially changing your position in the Initiative Order. Before doing so, if you are first in the Initiative Order and act on Initiative 20 or before, move to either Initiative 0 or the Initiative one below that of the last spot, whichever is lowest.
 
 You can only skip past a maximum of one entry per Surge Die spent. When the maximum is reached, your new Initiative cannot exceed the Initiative of the entry that is now ahead of you in the Initiative Order.
 
