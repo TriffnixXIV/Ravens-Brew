@@ -102,6 +102,11 @@ General
 General
 - rearranged the chapters to roughly align with the structure of the PHB.
 
+[[Introduction]]
+- merged the section on values into the introduction.
+- reworded the introduction accordingly.
+- merged the previous chapter introductions into a [[Content Overview]].
+
 [[Surge Dice]]
 - renamed Speed to Overtake, because it does not give movement speed, but it does make you overtake others in the Initiative order.
 - renamed Swiftness to Speed, because it gives movement speed.
@@ -118,4 +123,8 @@ General
 - changed Knowing the Spot to depend on the Intelligence modifier.
 - added Wounding Critical.
 - moved some Aimed Strike features to general features due to their lack of weapon dependence.
+- turned the [[Aimed Strikes]] option for Reliable Hits into a Combat Training feature.
 - some minor linking and wording changes.
+
+[[Shields]]
+- the Buckler is now Diminutive.

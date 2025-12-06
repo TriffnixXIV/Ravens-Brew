@@ -142,6 +142,8 @@ If you have proficiency with Blocking, you also add your Proficiency Bonus to yo
 
 ***My Body is a Weapon***: Your Unarmed Strikes now also count as Melee weapon attacks. While you are not holding anything in your hand, it counts as a Light Melee weapon.
 
+***Reliable Aim***: When making an Aimed Strike with Advantage and missing the target part, you can still hit the larger target with a normal attack, if using the lower die roll for the attack roll instead of the higher one results in a hit against the larger target. This hit does not count as an Aimed Strike and thus will not trigger a Wound save.
+
 ***Unarmed Fighting***: You gain the following benefits:
 - When you hit with your Unarmed Strike and deal damage, you can deal Bludgeoning damage equal to 1d6 plus your Strength modifier instead of the normal damage of an Unarmed Strike. If you aren't holding any weapons or a Shield when you make the attack roll, the d6 becomes a d8.
 - At the start of each of your turns, you can deal 1d4 Bludgeoning damage to one creature Grappled by you.

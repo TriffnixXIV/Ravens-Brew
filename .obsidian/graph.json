@@ -1,11 +1,11 @@
 {
-  "collapse-filter": false,
+  "collapse-filter": true,
   "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "path:Private/Adventures/Tundraven  ",
@@ -15,31 +15,66 @@
       }
     },
     {
-      "query": "path:\"New Stuff\"  ",
+      "query": "path:\"Chapter 0 - Introduction\"  ",
       "color": {
         "a": 1,
-        "rgb": 3527736
+        "rgb": 4334806
       }
     },
     {
-      "query": "path:Adjustments  ",
+      "query": "path:\"Chapter 1 - Playing the Game\"  ",
       "color": {
         "a": 1,
-        "rgb": 5404128
+        "rgb": 8471009
       }
     },
     {
-      "query": "path:Reworks  ",
+      "query": "path:\"Chapter 2 - Character Creation\"  ",
       "color": {
         "a": 1,
-        "rgb": 15521119
+        "rgb": 13866224
       }
     },
     {
-      "query": "path:Tables",
+      "query": "path:\"Chapter 3 - Feats\"  ",
       "color": {
         "a": 1,
-        "rgb": 14701138
+        "rgb": 15416637
+      }
+    },
+    {
+      "query": "path:\"Chapter 4 - Equipment\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14582843
+      }
+    },
+    {
+      "query": "path:\"Chapter 5 - Magic\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16773468
+      }
+    },
+    {
+      "query": "path:\"Chapter 6 - Rules Glossary\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 7785288
+      }
+    },
+    {
+      "query": "path:\"Chapter 7 - DM Tools\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5161674
+      }
+    },
+    {
+      "query": "path:\"Chapter 8 - Appendix\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 1196187
       }
     }
   ],
@@ -48,11 +83,11 @@
   "textFadeMultiplier": -0.8,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
+  "collapse-forces": false,
+  "centerStrength": 0.442708333333333,
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.1316872427983538,
+  "scale": 0.4444444444444439,
   "close": true
 }

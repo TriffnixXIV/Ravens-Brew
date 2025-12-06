@@ -26,9 +26,9 @@ For the purposes of very small targets, a new set of sizes has been introduced. 
 
 ***Cover sizes***: Similar to how the size of a target influences its Hit DC, the size of cover influences whether it counts as half cover, three-quarters cover or total cover for the sake of attacks that could be interrupted by the cover.
 
-Assuming that the cover matches the width-height proportions of the target it covers and has no openings, it gives total cover from attacks if it is one size category larger than the target, three-quarters cover if it is of the same size category, and half cover if it is one or two size categories smaller.
+Assuming that the cover matches the width-height proportions of the target it covers and has no openings, it gives total cover from attacks if it is at least one size category larger than the target, three-quarters cover if it is of the same size category, and half cover if it is no less than two size category smaller.
 
-Creatures and objects with significant openings or sufficiently slim proportions usually only give half-cover, regardless of their size. For example, a huge tree might still have a stem that is too thin to cover a medium humanoid properly, thus only giving half cover.
+Creatures and objects with significant openings or sufficiently slim proportions usually never give more than half cover, regardless of their size. For example, a huge tree might still have a stem that is too thin to cover a medium humanoid properly, thus only giving half cover.
 
 ***Crouching behind cover***: Creatures may crouch, perch, sit down, or fall prone behind cover at will to increase the degree of cover they can obtain. When doing so, the following effects apply to the crouched creature:
 - They decrease their effective size by one category for the purposes of determining the degree of cover they gain through the cover they crouch behind.

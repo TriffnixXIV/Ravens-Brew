@@ -33,7 +33,5 @@ For example, when a tiny shield is held accordingly, it can give total cover to 
 | Crotch    | Fine       | 18     |
 | Leg       | Tiny       | 14     |
 | Foot      | Diminutive | 16     |
-
-***Reliable Hits (optional)***: When an Aimed Strike misses the increased Hit DC of a body part, but the attack roll was still at least as high as the base Hit DC of the target, it still hits the target, but without any of the benefits of hitting a particular body part.
 ### Example Scenario
 The champion knows that a blinded cyclops is a harmless cyclops. Therefor, she decides to aim her shot at his eye. This increases the Hit DC for the attack from 6 to 18, given that the eye is a Fine target. The DM decides on the fly that the eye is vulnerable to piercing damage. She rolls her attack as usual and hits, dealing 38 piercing damage, so the cyclops must make a DC19 Wound Save. He fails this save, so his eye is now wounded, giving him disadvantage on everything that relies on his sight. This is not enough for the champion though, so she fires a second arrow towards his eye, dealing 46 piercing damage. The cyclops fails his DC23 Wound Save and his eye is now disabled, leaving him with the blinded condition.
