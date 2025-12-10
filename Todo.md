@@ -19,6 +19,9 @@ differentiate spellcasting foci mechanically
 add and adjust spells to interfere with spell points (eg. dispel removing spell points)
 add weavewounds (risked on overchannel, being dispelled or being weavestruck) that increase spell point cost by 1
 ### for whenevs
+add descriptions of the three kinds of [[Monsters]], Sponges, Shells and Smalls.
+turn bold italic text into h6 in Obsidian to be able to use them as link targets
+- turn this back into bold italic text when converting to PDF, but keep the linking
 extract extended action from the Rite and Surgery
 - three successes to win
 - resource drain on failure

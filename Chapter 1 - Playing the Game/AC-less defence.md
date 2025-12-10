@@ -44,9 +44,9 @@ Every bonus to Armor Class that is not the Dexterity bonus can be converted 1:1 
 
 Damage Reduction from multiple sources stacks. However, the prerequisites for each source must still be met. For example, the Damage Reduction now gained from the Barbarians Unarmoured Defence and a heavy armour will not stack, because the heavy armour still disables the Barbarians Unarmoured Defence.
 ### Other changes
-***Reactive Defence***: There are now options to reactively defend against incoming attacks and other effects. These include [[Dodging]], [[Blocking]], [[Parrying]] and some parts of [[Spell Manipulation]].
+***Reactive Defence***: There are now options to reactively defend against incoming attacks and other effects. These include [[Dodging]], [[Blocking]] and [[Parrying]], as detailed within the Rules Glossary. For spellcasters, [[Spell Manipulation]] and some of the changed [[Spells]] provide options for reactive defence.
 
-***Defence Action***: You can use your Action to take the Defence Action. Doing so gives you a number of Reactions equal to your Proficiency Bonus. You may only use these additional Reactions for defensive purposes, including [[Dodging]], [[Blocking]], [[Parrying]], and other Reactions that fulfill the following conditions:
+***Defence Action***: You can use your Action to take the Defence Action. Doing so gives you a number of Reactions equal to your Proficiency Bonus. You may only use these additional Reactions for defensive Reactions, including [[Dodging]], [[Blocking]], [[Parrying]], or another Reaction that fulfills the following conditions:
 - It does not deal damage, and it does not enhance something that deals damage.
 - It does not apply a condition to an enemy, and does not enhance something that applies a condition to an enemy.
 - It does not force an enemy to make a saving throw, and does not enhance something that forces an enemy to make a saving throw.

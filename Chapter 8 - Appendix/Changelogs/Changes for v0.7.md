@@ -30,7 +30,7 @@ General
 - Focus can now be switched once at the end of your turn for free, instead of as a Free Action, because those no longer exist as of the 2024 rules.
 - Losing Focus now depends on the Incapacitated condition or loss of perception.
 
-[Spell Manipulation]]
+[[Spell Manipulation]]
 - Limited range to 60ft.
 
 [[Parrying]]
@@ -41,7 +41,7 @@ General
 [[Armour]]
 - Now features a table with armour stats.
 
-[Feats]]
+[[Feats]]
 - Now offers the entire feat description.
 - Moved Fighting Styles to this chapter.
 - Rephrased and buffed Defensive Duellist.

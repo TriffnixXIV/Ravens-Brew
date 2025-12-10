@@ -8,6 +8,6 @@ Shields are made to block attacks, and while the base rules only implement this 
 
 ***Block***: You can use a Reaction to try to block an attack that you can see and that targets you.
 
-Make a Blocking check. If the result is at least as high as the attack roll, you successfully block the attack. It deals no damage.
+Make a Blocking check contesting the attack roll. If the result is at least as high as the attack roll, you successfully block the attack. It deals no damage.
 
 When trying to block a critical hit, you roll with Disadvantage.

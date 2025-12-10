@@ -1,5 +1,5 @@
 General
-- extracted [[Adjustments]] to their own chapter, featuring changes for Equipment, Class Features, Feats, Fighting Styles, Spells, and Monsters.
+- extracted Adjustments to their own chapter, featuring changes for Equipment, Class Features, Feats, Fighting Styles, Spells, and Monsters.
 	- Shields no longer give damage reduction.
 	- Buffed the Hunter's Multiattack Defence.
 	- Changed Dual Wielder, Savage Attacker and Shield Master.

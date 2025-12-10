@@ -1,0 +1,1 @@
+In light of [[AC-less defence]], many [[Classes]] had their features reviewed and, in some cases, adjusted to make sure they are translated to the new system properly. Also, small player characters now derive new bonuses from their smaller size, so they were weakened accordingly, as described in the section on [[Species]] changes.

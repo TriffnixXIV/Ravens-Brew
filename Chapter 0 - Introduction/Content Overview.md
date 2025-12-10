@@ -9,8 +9,8 @@ In response to attack rolls losing importance due to targets being generally eas
 
 [[Combat Training]] is introduced to unify a multitude of features and benefits for martials, such as Fighting Styles and Weapon Mastery.
 
-[[Aspects of Stealth]] are described to rework stealth in terms of various senses that can work against it and thus manipulated in favour of it.
+[[Aspects of Stealth]] are described to rework stealth in terms of various senses that can work against it and thus can be manipulated in favour of it.
 
 [[Spell Manipulation]] is added in the same vein as reactive defence as a treat for spellcasters, because they are otherwise less affected in their action economy by the new reworks.
 
-Finally, there are adjustments to [[Classes|class features]], [[Feats|feats]], and [[Spells|spells]], mainly to bring them in line with the changes to defence, [[Combat|Grappling and shoving]] is reverted to their 2014 version, and last but not least, there is a section offering a short guide on how [[Monsters|monsters]] are affected by the reworks offered here.
+Finally, there are adjustments to [[Classes|class features]], [[Feats|feats]], and [[Spells|spells]], mainly to bring them in line with the changes to defence, [[Other Combat Changes|Grappling and shoving]] are reverted to their 2014 version, and last but not least, there is a section offering a short guide on how [[Monsters|monsters]] are affected by the reworks offered here.

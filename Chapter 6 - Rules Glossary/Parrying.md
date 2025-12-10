@@ -4,13 +4,13 @@ Parrying has long played a relevant role in combat fiction, and these rules expl
 
 ***Prerequisites***: To use the features below, you need to wield a melee weapon that you are trained with.
 
-***Parry***: You can use your Reaction to parry a melee attack that you can see and that targets you. Make a Parrying check. If the result is at least as high as the attack roll, you successfully parry, reducing the attacks damage by your weapons Parrying Power.
+***Parry***: You can use your Reaction to try to parry a melee attack that you can see and that targets you. Make a Parrying check contesting the attack roll. If the result is at least as high as the attack roll, you successfully parry, reducing the attacks damage by your weapons Parrying Power.
 
 If you are wielding more than one melee weapon, you can parry using multiple of those weapons at once. If the parry is successful, reduce the attacks damage by the sum of the Parrying Powers of all used weapons instead.
 
 If you reduce the attacks damage to 0, your weapons lock, giving the attacker disadvantage on their attack rolls until either of you make an attack with their locked weapon or either of you moves out of the others range.
 
-When trying to parry a critical hit, you roll with disadvantage.
+When trying to parry a critical hit, you roll with Disadvantage.
 
 When rolling a natural 20 on your Parrying Check, the Parrying Power is doubled.
 

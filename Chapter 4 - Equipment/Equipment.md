@@ -1,0 +1,1 @@
+[[Armour]] and [[Shields]] have been changed in accordance with [[AC-less defence]]. Additionally, [[Armour#Armour Pieces|Armour Pieces]] have been introduced to add more variance and to protect against [[Aimed Strikes]], and new [[Shields]] have been introduced to provide distinct interactions with [[AC-less defence|Cover]] and [[Blocking]].

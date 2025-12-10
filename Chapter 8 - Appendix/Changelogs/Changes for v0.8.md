@@ -32,7 +32,7 @@
 - moved acquisition of blocking proficiency and expertise to [[Combat Training]].
 - updated wording to require shield training instead of shield proficiency, as the latter no longer exists as such.
 
-[[Combat]]
+[[Other Combat Changes]]
 - updated the Grapple and Shove attacks to appropriately relate to Unarmed Strikes.
 
 [[Combat Training]]
@@ -58,7 +58,7 @@
 - added Shield of Faith changes.
 - made Cure Wounds and Inflict Wounds work with wounds.
 - Blur now no longer affects attackers that are blinded.
-### Changes for v0.8.1
+### v0.8.1
 General
 - Fixed some spelling mistakes.
 
@@ -128,3 +128,14 @@ General
 
 [[Shields]]
 - the Buckler is now Diminutive.
+### v0.8.3
+General
+- added new chapter introductions.
+- renamed the Combat section to [[Other Combat Changes]].
+- renamed the Magic chapter to [[Spellcasting]].
+- added [[Miscellaneous Notes]] to the Appendix.
+- moved changelogs into their own folder.
+- fixed some spelling mistakes and changed some wordings.
+
+[[Contests]]
+- slightly reformulated [[Dodging]], [[Blocking]] and [[Parrying]] to mention in passing that they resemble contests.

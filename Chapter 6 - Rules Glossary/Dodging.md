@@ -13,11 +13,11 @@ Also, adding an option to dodge & roll would be nice, especially because swiftly
 
 ***Dodge***: You can use your Reaction to try to dodge an attack that you can see and that targets you.
 
-Make a Dodge check. If the result is at least as high as the attack roll, you successfully dodge the attack. It misses.
+Make a Dodging check contesting the attack roll. If the result is at least as high as the attack roll, you successfully dodge the attack. It misses.
 
 When trying to dodge a critical hit, you roll with disadvantage.
 
-***Dodge & Roll***: You can use your Reaction to try to dodge an attack that you can see and that targets you or an area effect that encompasses you. Make a Dodge check and move to an unoccupied spot within 10 feet of you.
+***Dodge & Roll***: You can use your Reaction to try to dodge an attack that you can see and that targets you or an area effect that encompasses you. Make a Dodging check and move to an unoccupied spot within 10 feet of you.
 
 If you're trying to dodge an attack and the result is at least as high as the attack roll, you dodge successfully and the attack misses.
 

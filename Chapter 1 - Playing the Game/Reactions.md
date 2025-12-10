@@ -12,4 +12,4 @@ When you have the Incapacitated condition, you can no longer use your Free React
 
 ***Reserving Reactions***: At the start your turn, you gain 1 [[Surge Dice|Surge Die]] per Reaction you did not use. If you were unable to use these Reactions because you were Incapacitated, this conversion does not happen.
 
-***Reactive Defence***: There are now options to reactively defend against incoming attacks and other effects. These include [[Dodging]], [[Blocking]], [[Parrying]] and some parts of [[Spell Manipulation]], as detailed within their respective sections.
+***Reactive Defence***: There are now options to reactively defend against incoming attacks and other effects. These include [[Dodging]], [[Blocking]] and [[Parrying]], as detailed within the Rules Glossary. For spellcasters, [[Spell Manipulation]] and some of the changed [[Spells]] provide options for reactive defence.
