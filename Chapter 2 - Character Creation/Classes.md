@@ -19,7 +19,7 @@
 
 ***Patient Defence***: May instead be used to take the [[Reactions|Defence Action]].
 
-***Deflect Missiles***: May be used without using a Reaction as one use of the [[Dodging|Evasive Stance]].
+***Deflect Missiles***: May be used as part of the [[Reactions|Defence Action]].
 
 ***Level 5: Serenity (new)***: When spending one or more Focus Points, you can instead spend the same amount of [[Surge Dice]]. You can also replace a part of the Focus Point cost with the same amount of [[Surge Dice]].
 

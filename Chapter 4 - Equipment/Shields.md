@@ -1,10 +1,14 @@
-When wielding a shield, you benefit from cover that is appropriate for your size and the size of shield you are wielding, as described in [[AC-less defence]], instead of gaining AC. Additionally, there are now two additional types of shield and dedicated shield properties.
 
-| Type          | Size       | Blocking Bonus | Properties       | Weight | Cost  |
-| ------------- | ---------- | -------------- | ---------------- | ------ | ----- |
-| Buckler       | Diminutive | +6             | Free Hand, Light | 3 lb.  | 8 GP  |
-| Wooden Shield | Tiny       | +4             |                  | 6 lb.  | 10 GP |
-| Tower Shield  | Small      | +2             | Heavy, Clunky    | 12 lb. | 20 GP |
+
+***AC-less***: When wielding a shield, you no longer gain Armor Class. Instead, your shield gives you [[AC-less defence#Cover|Cover]] that is appropriate for your size and the size of shield you are wielding.  
+
+***New Shields***: There are now two additional types of shield and dedicated shield properties that are described below.
+
+| Type          | Size  | Blocking Bonus | Properties       | Weight | Cost  |
+| ------------- | ----- | -------------- | ---------------- | ------ | ----- |
+| Buckler       | Tiny  | +6             | Free Hand, Light | 3 lb.  | 8 GP  |
+| Wooden Shield | Tiny  | +4             |                  | 6 lb.  | 10 GP |
+| Tower Shield  | Small | +2             | Heavy, Clunky    | 12 lb. | 20 GP |
 ### Shield Properties
 ***Clunky***: When wielding a shield with the Clunky property, you roll Dexterity (Acrobatics) checks with disadvantage.
 

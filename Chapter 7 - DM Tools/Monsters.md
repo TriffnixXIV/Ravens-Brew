@@ -6,7 +6,7 @@ The following rules explain how monsters are affected by the changes in these ru
 
 ***Damage Reduction***: All monsters also use Damage Reduction. To determine how high a monsters Damage Reduction is, consider their appearance and their Constitution modifier. Often, giving a monster a Damage Reduction equal to their Constitution modifier will be appropriate.
 
-If their skin, fur, feathers, hide, scales or other outer features resemble an [[Armour]], taking the Damage Reduction value of the Armour listed for player characters can also be appropriate. Some monsters will be even more resilient than that, but take the damage capabilities of your party into consideration before going for higher Damage Reduction values. Other tricks may also work, as described in a [[Monsters#Customizing a Monster|section below]].
+If their skin, fur, feathers, hide, scales or other outer features resemble an [[Chapter 4 - Equipment/Armour]], taking the Damage Reduction value of the Armour listed for player characters can also be appropriate. Some monsters will be even more resilient than that, but take the damage capabilities of your party into consideration before going for higher Damage Reduction values. Other tricks may also work, as described in a [[Monsters#Customizing a Monster|section below]].
 
 ***Attack Rolls***: All monsters are trained with the weapons they wield and with their Unarmed Strikes. However, only monsters that rely on their precision or are somewhat experienced add their Proficiency Bonus to their attacks.
 

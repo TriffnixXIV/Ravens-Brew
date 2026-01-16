@@ -6,7 +6,7 @@ When a creature has a disabled or malfunctioning body part, the Rite of Regenera
 
 After three Regeneration checks succeeded, the treated body part is no longer disabled. Instead, it is wounded until the target takes a long rest. Afterwards, the body part is healthy again.
 
-***Rolling a Regeneration check***: To roll a Regeneration check, the conductor rolls a D20 Test, adds their spellcasting ability modifier and Proficiency Bonus and casts Cure Wounds on the target with a spell slot of their choice. Any healing transmitted through this casting is also added to the result. If the result is at least 30, the check succeeds.
+***Rolling a Regeneration check***: To roll a Regeneration check, the conductor casts Cure Wounds on the target with a number of Spell Points of their choice. The Spell check of this casting is the initial value of the Regeneration check. Any healing transmitted through this casting is also added to the result. If the result is at least 30, the check succeeds.
 
 *Rolling a 20*: When a 20 is rolled on the d20, the Rite of Regeneration succeeds without the need for further Regeneration checks.
 

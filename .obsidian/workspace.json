@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapter 7 - DM Tools/Monsters.md",
+                "file": "Chapter 5 - Spellcasting/Caster Training.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Monsters"
+              "title": "Caster Training"
+            }
+          },
+          {
+            "id": "3b9ca3b67ef0ea26",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chapter 3 - Feats/Combat Training.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Combat Training"
             }
           }
         ]
@@ -52,12 +66,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Chapter 8 - Appendix/Changelogs/Changes for v0.8.md",
+                    "file": "Chapter 8 - Appendix/Changelogs/Changes for v0.9.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Changes for v0.8"
+                  "title": "Changes for v0.9"
                 }
               }
             ]
@@ -231,40 +245,40 @@
   "active": "aa759fa8dfc7d60d",
   "lastOpenFiles": [
     "Todo.md",
-    "Chapter 7 - DM Tools/Monsters.md",
-    "Chapter 7 - DM Tools/DM Tools.md",
-    "Chapter 8 - Appendix/Changelogs/Changes for v0.8.md",
-    "Private/PDF stuff/RavensBrew.synctex(busy)",
-    "Private/PDF stuff/pdflatex22503.fls",
-    "Private/PDF stuff/pdflatex22459.fls",
-    "Chapter 1 - Playing the Game/AC-less defence.md",
-    "Chapter 1 - Playing the Game/Playing the Game.md",
-    "Chapter 2 - Character Creation/Character Creation.md",
-    "Chapter 3 - Feats/Combat Training.md",
-    "Chapter 3 - Feats/Feats.md",
-    "Chapter 4 - Equipment/Armour.md",
-    "Chapter 4 - Equipment/Equipment.md",
+    "Chapter 5 - Spellcasting/Caster Training.md",
+    "Chapter 5 - Spellcasting/Spells.md",
+    "Chapter 5 - Spellcasting/Spellcasting Focus.md",
     "Chapter 5 - Spellcasting/Spellcasting.md",
-    "Private/PDF stuff/pdflatex22319.fls",
-    "Private/PDF stuff/pdflatex22315.fls",
-    "Private/PDF stuff/pdflatex22296.fls",
-    "Chapter 6 - Rules Glossary/Rules Glossary.md",
-    "Chapter 6 - Rules Glossary/Conditions.md",
-    "Chapter 4 - Equipment/Shields.md",
-    "Chapter 3 - Feats/Untitled.md",
-    "Chapter 2 - Character Creation/Classes.md",
-    "Chapter 2 - Character Creation/Species.md",
+    "Chapter 5 - Spellcasting/Spell Points.md",
+    "Chapter 5 - Spellcasting/Spell Check.md",
+    "Chapter 5 - Spellcasting/Rite of Regeneration.md",
+    "Chapter 5 - Spellcasting/Overcasting.md",
+    "Chapter 3 - Feats/Feats.md",
+    "Chapter 3 - Feats/Combat Training.md",
+    "Private/Math Stuff/lu116446orz7.tmp",
+    "Chapter 5 - Spellcasting/Weavestrikes.md",
     "Chapter 1 - Playing the Game/Reactions.md",
-    "Chapter 1 - Playing the Game/Other Combat Changes.md",
-    "Chapter 1 - Playing the Game/Aspects of Stealth.md",
-    "Chapter 1 - Playing the Game/Untitled.md",
-    "Private/Casting Rework/Spell Training.md",
-    "Private/Raven's Brew.md",
+    "Chapter 1 - Playing the Game/AC-less defence.md",
+    "Chapter 0 - Introduction/Content Overview.md",
     "Chapter 8 - Appendix/Changelogs/Changes for v0.6.md",
-    "Chapter 1 - Playing the Game/Aimed Strikes.md",
-    "Private/PDF stuff/pdflatex11005.fls",
-    "Private/PDF stuff/pdflatex10991.fls",
-    "Private/PDF stuff/pdflatex10721.fls",
-    "Private/PDF stuff/pdflatex10707.fls"
+    "Chapter 8 - Appendix/Changelogs/Changes for v0.7.md",
+    "Chapter 1 - Playing the Game/Vision & Focus.md",
+    "Chapter 8 - Appendix/Changelogs/Changes for v0.9.md",
+    "Chapter 8 - Appendix/Changelogs/Changes for v0.4.md",
+    "Chapter 5 - Spellcasting/Spell Manipulation.md",
+    "Chapter 4 - Equipment/Equipment.md",
+    "PnP Krams/Raven's Pact/Combat/Spells.md",
+    "PnP Krams/Raven's Pact/Combat",
+    "PnP Krams/Raven's Pact",
+    "PnP Krams",
+    "Private/Untitled.md",
+    "Private/Raven's Brew.md",
+    "Chapter 7 - DM Tools/Monsters.md",
+    "Private/Math Stuff/Spell Point Math.ods",
+    "Private/Math Stuff/lu22856cmfh4.tmp",
+    "Private/PDF stuff/Raven's Brew v0.8.3.pdf",
+    "Private/PDF stuff/RavensBrew (copy).pdf",
+    "Private/PDF stuff/RavensBrew.synctex(busy)",
+    "Private/PDF stuff/pdflatex24035.fls"
   ]
 }

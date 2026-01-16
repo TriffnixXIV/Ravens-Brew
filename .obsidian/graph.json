@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "path:Private/Adventures/Tundraven  ",
@@ -50,7 +50,7 @@
       }
     },
     {
-      "query": "path:\"Chapter 5 - Magic\"  ",
+      "query": "path:\"Chapter 5 - Spellcasting\"  ",
       "color": {
         "a": 1,
         "rgb": 16773468
@@ -83,11 +83,11 @@
   "textFadeMultiplier": -0.8,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": false,
+  "collapse-forces": true,
   "centerStrength": 0.442708333333333,
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.4444444444444439,
+  "scale": 0.44444444444444375,
   "close": true
 }

@@ -1,14 +1,19 @@
-***Vision:*** Many features in these rules rely on seeing something happen, and Humanoids typically only see what happens in front of them, being just barely unable to discern what happens 90 degrees to their left and right.
+### Vision
+***Vision:*** Many features in these rules rely on seeing something happen. In combat, track and attend to the direction you look. Using miniatures on battlemaps works well for this, but any small thing that discernibly points any direction will do.
 
-In combat, track and attend to the direction you look. Using miniatures on battlemaps works well for this, but any small thing that discernibly points any direction will do.
+***Field of View***: There are four different fields of view that apply to creatures and objects that have vision:
+- *Narrow*: Those with a narrow field of view only properly see what's happening within a Cone in front of them. This field of view is most common for objects such as mechanical or magical sensors, but some creatures may use it, too.
+- *Wide*: Those with a wide view are just barely unable to properly see what's happening 90 degrees to their left and right, and don't see anything further than that. This field of view is used for most creatures, including all Humanoids, creatures whose shape resembles that of Humanoids, and Beasts that are predators. When nothing is said about the field of view of a creature, it uses a wide one.
+- *Extended*: Those with an extended field of view are only unable to properly see what's happening within a Cone behind them. This field of view is most common for Beasts that are prey and creatures that resemble prey.
+- *Complete*: Those with a complete field of view are able to properly see what's happening in every direction. This field of view is rare and most of the time unnatural. Some Aberrations and Monstrosities use it, and some objects are equipped with it.
 
-***Backstab Advantage:*** Whenever you decide to attack a creature that can’t see you, you gain Advantage on that attack. Against Humanoids, for example, that is usually the case when being behind their back.
-
+***Backstab Advantage:*** Whenever you decide to attack a creature you can see that can’t see you, you gain Advantage on that attack. This is usually the case when attacking from behind them.
+### Focus
 ***Focus:*** You usually have something within your perception that you primarily attend to - this is what you focus on. You automatically switch focus to a creature or object when targeting them with a spell, attack, or other effect. You can only focus on one target at a time.
 
 As long as you are focused on a target, you can rotate with the target's movement, if needed, to keep that target within your sight. This way, for example, a Humanoid can save their back from another creature’s attacks, leading to the attacker not receiving Backstab Advantage.
 
-***Switch Focus:*** At the end of your turn, you can switch Focus to any creature that you perceive. Otherwise, you can use a Free Reaction or Reaction to Focus another creature that you notice moving towards you or doing something near you.
+***Switch Focus:*** At the end of your turn, you can switch Focus to a creature that you perceive. Otherwise, you can use a Free Reaction or Reaction to Focus a creature that you notice moving towards you or doing something near you.
 
 ***Losing Focus:*** You lose Focus if you receive the Incapacitated condition or when you lose the ability to perceive the target of your Focus.
 

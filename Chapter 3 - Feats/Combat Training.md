@@ -122,9 +122,11 @@ If you have proficiency with Blocking, you also add your Proficiency Bonus to yo
 
 ***Shield Training***: You gain training with [[Shields]].
 ### [[Parrying]] Features
+***Arrow Splitting***: Requires Expertise in Parrying. You can parry Ranged weapon attacks that you can see and that target you. If you have the Interception feature, you can also parry Ranged weapon attacks targeting other creatures within 5 feet of you.
+
 ***Elegant Parry***: Requires proficiency with Parrying. When you are using at least one Finesse weapon with which you are trained to parry, make the Parry Check with advantage.
 
-***Interception***: When a creature you can see attacks another creature within 5 feet of you, you can take a Reaction to parry that attack, potentially reducing the damage the target creature takes. You must be holding a Simple or Martial weapon to use this Reaction.
+***Interception***: When a creature you can see attacks another creature within 5 feet of you with a Melee weapon, you can take a Reaction to parry that attack, potentially reducing the damage the target creature takes. You must be holding a Melee weapon to use this Reaction.
 
 ***Parrying Proficiency***: You add your Proficiency Bonus to Parrying checks you make with weapons you are trained with.
 

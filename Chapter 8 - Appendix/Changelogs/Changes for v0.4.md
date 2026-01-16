@@ -1,4 +1,4 @@
-[[Spell Manipulation]] (new)
+[[Caster Training#Spell Manipulation Features|Spell Manipulation]] (new)
 - possibility to do stuff with and against spells
 - Thwart
 	- make a spell attack miss

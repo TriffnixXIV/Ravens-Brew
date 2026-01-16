@@ -30,7 +30,7 @@ General
 - Focus can now be switched once at the end of your turn for free, instead of as a Free Action, because those no longer exist as of the 2024 rules.
 - Losing Focus now depends on the Incapacitated condition or loss of perception.
 
-[[Spell Manipulation]]
+[[Caster Training#Spell Manipulation Features|Spell Manipulation]]
 - Limited range to 60ft.
 
 [[Parrying]]
@@ -38,7 +38,7 @@ General
 - Explicated that temporary damage increases also increase Parrying Power.
 - Critical Parries now have increased Parrying Power.
 
-[[Armour]]
+[[Chapter 4 - Equipment/Armour]]
 - Now features a table with armour stats.
 
 [[Feats]]

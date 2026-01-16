@@ -22,13 +22,17 @@ For the purposes of very small targets, a new set of sizes has been introduced. 
 
 ***Even smaller sizes***: If a target is significantly smaller than the sizes listed above, you can either find an extended table in the [[Extended Size Table|tables chapter]], or extrapolate the Hit DC from the measures in the table. Start with the measures and Hit DC for minuscule targets. Then add 2 to the Hit DC, quarter the Hit Area and halve the height or length. Repeat this until the measures fit the target you have in mind to get the appropriate Hit DC.
 ### Cover
-***Cover***: Instead of increasing the Armor Class of the creature that is behind cover, the Hit DC for attacks that target that creature increases by 2 for half cover and by 5 for three-quarters cover.
+***Cover***: Instead of increasing the Armor Class of the target that is behind cover, the Hit DC for attacks against the target increases in correlation with the now reduced Hit Area. Thus, Half Cover and Three-Quarters Cover can now be disregarded for attack rolls.
 
-***Cover sizes***: Similar to how the size of a target influences its Hit DC, the size of cover influences whether it counts as half cover, three-quarters cover or total cover for the sake of attacks that could be interrupted by the cover.
+For example, if the Hit Area of an otherwise Medium size target matches the Tiny size due to Cover, the targets Hit DC is that of a Tiny target for attacks that are affected by that Cover.
 
-Assuming that the cover matches the width-height proportions of the target it covers and has no openings, it gives total cover from attacks if it is at least one size category larger than the target, three-quarters cover if it is of the same size category, and half cover if it is no less than two size category smaller.
+***Cover size***: Sometimes, the creatures or objects that are used for Cover have an associated size category. If the Cover is of a larger size category than the target, it gives Total Cover. If it has the same category, it only leaves a few openings at best, which usually manifests as an increase in Hit DC of +4. If it is one category smaller, it leaves a decent area open to attack, giving no more than a +2 to the Hit DC. Even smaller Cover is too small to effectively reduce the Hit Area. It can, however, still be used to give Cover to specific body parts and other smaller targets.
 
-Creatures and objects with significant openings or sufficiently slim proportions usually never give more than half cover, regardless of their size. For example, a huge tree might still have a stem that is too thin to cover a medium humanoid properly, thus only giving half cover.
+***Cover Cone***: In some cases, it is not clear against which attacks a target benefits from Cover. The Dungeon Masters Guide describes a method to determine Cover through occupied and blocked spaces on a battle map, but some cover is not represented by this because it is too small and thus too finicky to place and manage on a battle map. For example, this is usually the case with [[Shields]].
+
+In such cases where the cover is sufficiently small and close to the target, attacks originating from within a type of Cone, the Cover Cone, are affected by that cover. The Cover Cone originates from the target and is directed towards the cover, has no range limit and can't be interrupted.
+
+To continue the Shield example, if you are holding a Shield directly towards an enemy, that enemy is within the Cover Cone originating from you and directed through the Shield, as they are directly on the opposite side of the Shield. Therefor, you benefit from the Cover your Shield provides you with, increasing your Hit DC against attacks by that enemy, usually by 2 or 4.
 
 ***Crouching behind cover***: Creatures may crouch, perch, sit down, or fall prone behind cover at will to increase the degree of cover they can obtain. When doing so, the following effects apply to the crouched creature:
 - They decrease their effective size by one category for the purposes of determining the degree of cover they gain through the cover they crouch behind.
@@ -44,7 +48,7 @@ Every bonus to Armor Class that is not the Dexterity bonus can be converted 1:1 
 
 Damage Reduction from multiple sources stacks. However, the prerequisites for each source must still be met. For example, the Damage Reduction now gained from the Barbarians Unarmoured Defence and a heavy armour will not stack, because the heavy armour still disables the Barbarians Unarmoured Defence.
 ### Other changes
-***Reactive Defence***: There are now options to reactively defend against incoming attacks and other effects. These include [[Dodging]], [[Blocking]] and [[Parrying]], as detailed within the Rules Glossary. For spellcasters, [[Spell Manipulation]] and some of the changed [[Spells]] provide options for reactive defence.
+***Reactive Defence***: There are now options to reactively defend against incoming attacks and other effects. These include [[Dodging]], [[Blocking]] and [[Parrying]], as detailed within the Rules Glossary. For spellcasters, [[Caster Training#Spell Manipulation Features|Spell Manipulation]] and some of the changed [[Chapter 5 - Spellcasting/Spells|Spells]] provide options for reactive defence.
 
 ***Defence Action***: You can use your Action to take the Defence Action. Doing so gives you a number of Reactions equal to your Proficiency Bonus. You may only use these additional Reactions for defensive Reactions, including [[Dodging]], [[Blocking]], [[Parrying]], or another Reaction that fulfills the following conditions:
 - It does not deal damage, and it does not enhance something that deals damage.

@@ -30,7 +30,7 @@ General
 
 [[Classes|Monk]] changes are new.
 
-[[Spell Manipulation]]
+[[Caster Training#Spell Manipulation Features|Spell Manipulation]]
 - Spell Manipulation is now a skill and thus no longer starts with a flat bonus.
 - Extracted reaction timing and line of sight to the caster to be prerequisites for all manipulation options. This is the same as before, but the options are now more quickly read.
 - Thwart can now be buffed by spending a spell slot.

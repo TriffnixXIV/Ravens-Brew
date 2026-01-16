@@ -11,7 +11,7 @@
 - moved Wounded and Disabled to a new chapter on [[Conditions]].
 - added a table offering example body part sizes for a Medium Humanoid.
 
-[[Armour]]
+[[Chapter 4 - Equipment/Armour]]
 - added two new shields and rephrased how they work in terms of size. Moved them to the [[Shields]] chapter.
 - explicated that Damage Reduction from armour usually only works against attacks that aren't Aimed Strikes, unless the armour includes coverage of the targeted body part.
 - added some rudimentary rules for armour pieces to cover other body parts.
@@ -132,7 +132,7 @@ General
 General
 - added new chapter introductions.
 - renamed the Combat section to [[Other Combat Changes]].
-- renamed the Magic chapter to [[Spellcasting]].
+- renamed the Magic chapter to [[Chapter 5 - Spellcasting/Spellcasting]].
 - added [[Miscellaneous Notes]] to the Appendix.
 - moved changelogs into their own folder.
 - fixed some spelling mistakes and changed some wordings.
