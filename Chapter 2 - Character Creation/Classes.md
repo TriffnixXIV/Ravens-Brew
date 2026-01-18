@@ -37,6 +37,47 @@ For example, when spending 3 Focus Points, you may instead spend either 3 Surge 
 
 ***Level 5: Prepared Strike (new)***: When using Surge Dice to increase the damage of a Sneak Attack, the Surge Dice are d12 instead of d6.
 ### Sorcerer
+***Sorcery Points***: You now have Sorcery Points equal to twice your Sorcerer level instead, starting with 4 Sorcery Points at level 2. The cost of Metamagic Options is doubled accordingly.
+
+***Sorcery Points - Converting Spell Points to Sorcery Points***: You can spend any number of Spell Points to convert them into Sorcery Points, no action required. When doing so, 3 Spell Points become 2 Sorcery Points.
+
+***Sorcery Points - Converting Sorcery Points to Spell Points***: As a Bonus Action, you can transform any number of unspent Sorcery Points into Spell Points. When doing so, 1 Sorcery Point becomes 1 Spell Point.
+
+***Metamagic - Quickened Spell***: You can now use this feature even if you have already spent Spell Points this round, and you can spend more Spell Points afterwards.
+
 ***Draconic Sorcery - Draconic Resilience***: Instead of adding your Charisma modifier to your AC when you are not wearing armour, your Charisma modifier is added to your Damage Reduction.
 
 ***Wild Magic Sorcery - Wild Magic Surge - 49-52***: Instead of increasing your AC by 2, the floating shield gives half cover. If you already benefit from half cover, you benefit from three quarters cover instead.
+### Warlock
+***Pact Magic - Spell Slots***: Similar to all other classes, you now also use [[Spell Points]]. However, as your patron is the source of your power, you have a potentially enormous supply that is only limited by your ability to be your patrons conduit and your patrons willingness or pact-bound duty to provide for you. As such, you are only limited by your Casting Limit and their Patronage.
+
+| Level | Caster Training | Casting Limit | Patronage |
+| ----- | --------------- | ------------- | --------- |
+| 1     | 1               | 3             | 1         |
+| 2     | 1               | 5             | 2         |
+| 3     | 1               | 6             | 2         |
+| 4     | 1               | 8             | 2         |
+| 5     | 2               | 9             | 2         |
+| 6     | 2               | 11            | 2         |
+| 7     | 2               | 12            | 2         |
+| 8     | 2               | 14            | 2         |
+| 9     | 3               | 15            | 2         |
+| 10    | 3               | 17            | 2         |
+| 11    | 3               | 18            | 3         |
+| 12    | 3               | 20            | 3         |
+| 13    | 4               | 21            | 3         |
+| 14    | 4               | 23            | 3         |
+| 15    | 4               | 24            | 3         |
+| 16    | 4               | 26            | 3         |
+| 17    | 5               | 27            | 4         |
+| 18    | 5               | 29            | 4         |
+| 19    | 5               | 30            | 4         |
+| 20    | 5               | 32            | 4         |
+| x     | (x+1)/4         | 3(x+1)/2      |           |
+***Patronage***: The Patronage determines how many spells you are able to cast before your patron temporarily cuts off your supply. This is the case after you've cast the number of spells noted in the table above, with the count resetting after you finish a Short or Long Rest.
+
+This may, for example, express your patrons limited willingness to offer their power to a weaker being, a lack of established trust between you and your patron, or terms of the pact agreed upon as such, with the Patronage resetting when you appeal to your patron or ask for more during a Rest, or, again, because the pact says so.
+
+***Patronage - Variant***: You and your DM may find your own consensus about how your patron supplies you with Spell Points. For example, you may decide that your patron offers more of their supply when you fulfill their tasks or act following their ideals, and that they cut it off only when you break a promise or act in opposition to their ideals.
+
+When finding and playing with a consensus like this, always consider how your power compares to that of your party members, so that you have neither too many spellcasts at your disposal nor too few. The narrative, however, may on occasion lead to one extreme or the other, and it can be fun and interesting to follow the narrative there from time to time. It is about the pact and relationship between you and your patron, after all. Whether you two are buddies, business partners, or one exploits or extorts the other, that is up to discussion and design.

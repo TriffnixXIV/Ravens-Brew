@@ -6,6 +6,7 @@
       {
         "id": "97e66b0df962a70f",
         "type": "tabs",
+        "dimension": 53.58072916666667,
         "children": [
           {
             "id": "aa759fa8dfc7d60d",
@@ -13,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapter 5 - Spellcasting/Caster Training.md",
+                "file": "Chapter 5 - Spellcasting/Spells.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Caster Training"
+              "title": "Spells"
             }
           },
           {
@@ -27,12 +28,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapter 3 - Feats/Combat Training.md",
+                "file": "Chapter 2 - Character Creation/Classes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Combat Training"
+              "title": "Classes"
             }
           }
         ]
@@ -40,6 +41,7 @@
       {
         "id": "6e9e12924c7b21e8",
         "type": "split",
+        "dimension": 46.419270833333336,
         "children": [
           {
             "id": "12842177f9c6153e",
@@ -74,7 +76,8 @@
                   "title": "Changes for v0.9"
                 }
               }
-            ]
+            ],
+            "currentTab": 1
           },
           {
             "id": "7679dbee04eec94e",
@@ -244,17 +247,21 @@
   },
   "active": "aa759fa8dfc7d60d",
   "lastOpenFiles": [
-    "Todo.md",
-    "Chapter 5 - Spellcasting/Caster Training.md",
+    "Chapter 8 - Appendix/Changelogs/Changes for v0.9.md",
     "Chapter 5 - Spellcasting/Spells.md",
-    "Chapter 5 - Spellcasting/Spellcasting Focus.md",
-    "Chapter 5 - Spellcasting/Spellcasting.md",
-    "Chapter 5 - Spellcasting/Spell Points.md",
-    "Chapter 5 - Spellcasting/Spell Check.md",
     "Chapter 5 - Spellcasting/Rite of Regeneration.md",
-    "Chapter 5 - Spellcasting/Overcasting.md",
+    "Chapter 5 - Spellcasting/Spell Points.md",
     "Chapter 3 - Feats/Feats.md",
+    "Chapter 8 - Appendix/Changelogs/Changes for v0.8.md",
+    "Chapter 1 - Playing the Game/Surge Dice.md",
+    "Chapter 5 - Spellcasting/Spellcasting.md",
+    "Chapter 5 - Spellcasting/Spellcasting Focus.md",
+    "Chapter 5 - Spellcasting/Caster Training.md",
+    "Chapter 2 - Character Creation/Classes.md",
     "Chapter 3 - Feats/Combat Training.md",
+    "Todo.md",
+    "Chapter 5 - Spellcasting/Spell Check.md",
+    "Chapter 5 - Spellcasting/Overcasting.md",
     "Private/Math Stuff/lu116446orz7.tmp",
     "Chapter 5 - Spellcasting/Weavestrikes.md",
     "Chapter 1 - Playing the Game/Reactions.md",
@@ -263,7 +270,6 @@
     "Chapter 8 - Appendix/Changelogs/Changes for v0.6.md",
     "Chapter 8 - Appendix/Changelogs/Changes for v0.7.md",
     "Chapter 1 - Playing the Game/Vision & Focus.md",
-    "Chapter 8 - Appendix/Changelogs/Changes for v0.9.md",
     "Chapter 8 - Appendix/Changelogs/Changes for v0.4.md",
     "Chapter 5 - Spellcasting/Spell Manipulation.md",
     "Chapter 4 - Equipment/Equipment.md",
@@ -271,9 +277,6 @@
     "PnP Krams/Raven's Pact/Combat",
     "PnP Krams/Raven's Pact",
     "PnP Krams",
-    "Private/Untitled.md",
-    "Private/Raven's Brew.md",
-    "Chapter 7 - DM Tools/Monsters.md",
     "Private/Math Stuff/Spell Point Math.ods",
     "Private/Math Stuff/lu22856cmfh4.tmp",
     "Private/PDF stuff/Raven's Brew v0.8.3.pdf",

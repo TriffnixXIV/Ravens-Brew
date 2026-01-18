@@ -4,15 +4,15 @@
 
 ***Feats***: The benefits of a selection of general feats are now Combat Training features. There's now a new general [[Feats|feat]] that allows the player to receive Combat Training twice.
 ### Spell Features
-***Beyond The Medium***: Choose a spell school. When casting spells of that school, you add your Proficiency Bonus to your Spell check as if you were using a Spellcasting Focus associated with that school. You can pick this feature multiple times, but only for different spell schools.
-
-***Beyond Matter***: Choose a spell school. When casting spells of that school that have material components that are neither consumed nor specify a cost, you can ignore the material components as if you were using a Spellcasting Focus. You can pick this feature multiple times, but only for different spell schools.
-
 ***Bypass Cover***: Your ranged spell attacks ignore half cover and three-quarters cover.
 
 ***Casting in Melee***: Being within 5 feet of an enemy doesn't impose Disadvantage on your spell attack rolls.
 
+***Cantrip Upcasting***: When casting a Cantrip, you can now spend 2 Spell Points to cast it at the next Cantrip Upgrade that you don't already have. Alternatively, you can spend 4 Spell Points to cast it two Cantrip Upgrades higher, or 6 Spell Points to cast it three Cantrip Upgrades higher.
+
 ***Dual Spellcasting Focus***: When you cast a spell while holding two Spellcasting Foci that are associated with its school, you add your Proficiency Bonus to the Spell check twice instead of once.
+
+***Hoarder***: You have additional Spell Points equal to twice your Proficiency Bonus.
 
 ***Iron Will***: You have Advantage on Constitution saving throws that you make to maintain Concentration.
 
@@ -28,21 +28,23 @@
 
 ***Spell Sniper***: When you cast a spell that has a range of at least 10 feet and requires you to make an attack roll, you can increase the spell's range by 60 feet.
 
-***Spell Specialization***: Choose a spell whose initial Spell Point cost is below your Spellcaster level. Its initial cost is reduced by your Proficiency Bonus. If the initial cost is reduced to 0 or below this way, you neither spend nor regain Spell Points when casting the spell. Through upcasting, the cost can go above 0 again. You can pick this feature multiple times, but only for different spells.
+***Spell Specialization***: Choose a spell whose initial Spell Point cost is below your Spellcaster level. Its initial cost is reduced by your Proficiency Bonus. If the initial cost is reduced to 0 or below this way, you neither spend nor regain Spell Points when casting the spell at that cost. Through upcasting, the cost can go above 0 again. You can pick this feature multiple times, but only for different spells.
 
 ***War Caster***: You can perform the Somatic components of spells even when you have weapons or a Shield in one or both hands.
 ### Spell Point Features
 ***Cheat***: Once per short rest when you spend Spell Points, you can increase your Casting Limit by your Proficiency Bonus until the start of your next turn.
 
-***Defiance***: When Overcasting and succeeding on an Overcast Saving Throw, the Overcast Damage you take is halved.
+***Defiance***: When [[Overcasting]] and succeeding on an Overcast Saving Throw, the Overcast Damage you take is halved.
 
 ***Emphasis***: When you roll a Spell check, you can spend any number of Spell Points to improve it by the number of Spell Points spent.
 
-***Expectation***: When Overcasting, you roll Overcast Saving Throws against 10 + half the number of excess Spell Points instead.
+***Expectation***: When [[Overcasting]], you roll Overcast Saving Throws with Advantage.
 
-***Vampiric Weavestrike***: Requires the Weavestrike feature. When you make a target lose Spell Points through Weavestrike, you gain Temporary Hit Points equal to the amount of Spell Points the target lost.
+***Insistence***: Requires the Emphasis feature. When you roll a Spell check, you can spend any number of Spell Points to improve it by twice the number of Spell Points spent.
 
-***Weavestrike***: When you hit a target that has Spell Points with an attack, you can take a Bonus Action and spend any number of Spell Points to make them lose the same amount of Spell Points. Those lost spell points count against their Casting Limit and can thus force them to [[Overcasting|Overcast]].
+***Vampiric Weavestrike***: Requires the Weavestrike feature. When you make a target lose Spell Points through Weavestrike, you gain Temporary Hit Points equal to twice the amount of Spell Points the target lost.
+
+***Weavestrike***: When you hit a target that has Spell Points with an attack, you can take a Bonus Action and spend any number of Spell Points to make them lose the same amount of Spell Points. Those lost Spell Points count against their Casting Limit and can thus force them to [[Overcasting|Overcast]].
 ### Spell Manipulation Features
 ***Thwart***: You can use a Reaction to try to thwart a spell attack you can see that targets you or a creature you can see within 30 feet of you. Make a Spell check. If the result exceeds the attack roll by more than the spells cost, the spell attack misses its target.
 
@@ -55,3 +57,11 @@ You can spend any number of Spell Points to give them an additional bonus to the
 ***Amplify***: You can use a Reaction to amplify a spell that wasn't cast by you within 30 feet of you. Make a Spell check. If it exceeds 10 + the spells cost, the spell is cast as if three additional Spell Points were spent on it for upcasting.
 
 Additionally, you can spend any number of Spell Points to upcast the spell with regardless of whether you succeed on the check above.
+### Spellcasting Focus Features
+***Beyond Matter***: Choose a spell school. When casting spells of that school that have material components that are neither consumed nor specify a cost, you can ignore the material components as if you were using a Spellcasting Focus. You can pick this feature multiple times, but only for different spell schools.
+
+***Beyond The Medium***: Choose one of your body parts and two spell schools. You can now use that body part as a Spellcasting Focus for spells of those schools. You can pick this feature multiple times, but not with the same combination of body part and spell schools.
+
+***Flexible Focus***: Choose a kind of Spellcasting Focus (such as Wands or Staffs) and two spell schools that they are not already associated with. When you use this Spellcasting Focus, it is now also associated with those schools. You can pick this feature multiple times, but only for different kinds of Spellcasting Focus.
+
+***Universal Focus***: Choose a kind of Spellcasting Focus (such as Wands or Staffs) that you have the Flexible Focus feature with. When you use this Spellcasting Focus, it is now associated with all spell schools. You can pick this feature multiple times, but only for different kinds of Spellcasting Focus.

@@ -14,7 +14,11 @@ An attacker is unaffected by this spell if they have the Blinded condition, Blin
 ### Counterspell
 Abjuration (Sorcerer, Warlock, Wizard) Cost: 9 Spell Points. Casting Time: Reaction, which you take when you see a creature within 60 feet of yourself casting a spell with Verbal, Somatic, or Material components. Range: 60 feet. Components: S. Duration: Instantaneous.
 
-You attempt to interrupt a creature in the process of casting a spell. If your Spell check exceeds theirs, the spell dissipates with no effect, and the action, Bonus Action, or Reaction used to cast it is wasted. If that spell was cast with a spell slot, the slot isn't expended.
+You attempt to interrupt a creature in the process of casting a spell. If their spell didn't cost more than this spell, it dissipates. Otherwise, compare your Spell check to theirs. If your Spell check exceeds theirs by more than the other spells additional cost, it also dissipates.
+
+When their spell dissipates like this, it has no effect, and the action, Bonus Action, or Reaction used to cast it is wasted. If it was cast with Spell Points, those Spell Points are not spent.
+
+*Upcasting*: Every additional Spell Point increases the range of spells that automatically dissipate and makes it easier to make more costly spells dissipate, as described above.
 ### Cure Wounds
 Abjuration (Bard, Cleric, Druid, Paladin, Ranger). Cost: 3 Spell Points. Casting Time: Action. Range: Touch. Components: V, S. Duration: Instantaneous.
 
