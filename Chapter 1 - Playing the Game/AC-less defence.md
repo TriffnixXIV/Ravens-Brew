@@ -40,7 +40,7 @@ To continue the Shield example, if you are holding a Shield directly towards an 
 
 For example, a Medium Humanoid receives three quarters cover from a Tower Shield when crouching behind it instead of the usual half cover, while a Small Humanoid can receive full cover from a Tower Shield when crouching behind it.
 ### Damage Reduction
-***Damage Reduction***: Creatures now have a Damage Reduction value. This value is subtracted from any damage the wearer takes through an attack that is not a critical hit.
+***Damage Reduction***: Creatures now have a Damage Reduction value. This value is subtracted from any damage the wearer takes through an attack.
 
 This subtraction happens before resistances and vulnerabilities modify the damage.
 

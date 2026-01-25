@@ -1,13 +1,13 @@
 This version introduces the Spellcasting Rework.
 ### Changes for v0.9.a1
 [[Spellcasting]]
-- Reworked Spellcasting to work through [[Spell Points]] instead of Spell Slots.
-- Spellcasting is now only limited by the [[Spell Points|Casting Limit]].
+- Reworked Spellcasting to work through [[Spellcasting#Spell Points|Spell Points]] instead of Spell Slots.
+- Spellcasting is now only limited by the [[Spellcasting#Casting Limit|Casting Limit]].
 - Added [[Overcasting]] to allow breaking the Casting Limit in exchange for damage and a debuff.
 - You now roll a [[Spell Check|Spell check]] every time you cast a spell to determine how forceful it is, the first attack roll, and the save DC for the targets.
 
 [[Caster Training]]
-- Introduced Caster Training as a parallel to Combat Training for Spellcasters.
+- Introduced Caster Training as a parallel to Martial Training for Spellcasters.
 - Merged multiple spellcasting-related feats into Caster Training.
 - Caster Training features can be acquired through Spellcaster levels, as described in [[Spellcasting]], and through the new Spellcasting Adept [[Feats|feat]].
 - Spell Manipulation is now a part of Caster Training.
@@ -36,7 +36,7 @@ This version introduces the Spellcasting Rework.
 - Added descriptions for different fields of view.
 - Changed the indefinite articles in Switch Focus to prevent confusion.
 
-[[Combat Training]]
+[[Martial Training]]
 - Changed Interception to only work with Melee weapons and against Melee weapon attacks.
 - Added the Arrow Splitting feature to allow parrying Ranged weapon attacks.
 ### Changes for v0.9.a2
@@ -67,3 +67,46 @@ General
 
 [[Spells]]
 - Changed [[Spells#Counterspell|Counterspell]] to be harder against more costly spells.
+### Changes for v0.9.a3
+[[Spellcasting]]
+- Moved the [[Spellcasting#Spell Points|Spell Points]] chapter into this chapter.
+- Explicated that these rules refer to initial Spell Point cost when speaking of a Spell Point cost and that they explicitly reference final costs otherwise. Changed the rules to actually fulfill this standard.
+- Explicated how features that aren't spells and use spell slots now also use Spell Points instead.
+- Turned [[Spellcasting#Upcasting|Upcasting]] into its own subsection.
+- Clarified that Upcasting works through increasing the spells cost, and not through spending additional Spell Points separately.
+- Removed automatic cantrip scaling.
+- Cantrips can now be upcast.
+- Added a paragraph about preparing spells when multiclassing that is in line with base rules, but translated to use the Casting Limit.
+- Added a subsection on [[Spellcasting#Sunken Spells & Depthcasting|Sunken Spells & Depthcasting]], describing what happens when a spells cost is below 0.
+
+[[Spellcasting Focus]]
+- When using an unlisted Spellcasting Focus, you now choose two spell schools to associate that Spellcasting Focus with. 
+
+[[Overcasting]]
+- Named the number of Spell Points the Casting Limit was exceeded by Excess to simplify the descriptions of Overcast Damage and Overcast Saves.
+- Moved the Overcast Damage into the spellcast or use of the feature.
+- Failing the Overcast Save now makes the spell or feature fail, but no Spell Points are lost.
+- Weavestrain now reduces the Casting Limit by 1 per stack instead.
+
+[[Caster Training]]
+- Added some introductory text.
+- Moved some features to their proper subsection.
+- *Ritualist* now allows a choice of spellcasting ability when the one who chooses the feature doesn't already have one.
+- Added *By Any Means*, allowing rerolls of the Overcast Save in exchange for more Overcast Damage.
+- Renamed *Spell Specialization* to *Cheapskate* and allows the choice of two spells instead of one.
+- *Hoarder* can now be picked multiple times.
+- Reworked *Cantrip Upcasting* into *Trash Becomes Treasure*, giving a limited amount of free upcasting to free spells.
+- Reworded *Amplify* a little.
+- *Beyond The Medium* now turns the chosen body part into a Spellcasting Focus instead of making it usable as if it was one, making it clear that it can be used for *Double Up*.
+- Renamed *Dual Spellcasting Focus* to *Double Up*.
+
+[[Classes#Warlock|Warlock]]
+- Explicated that Eldritch Invocation Options that allow free spellcasts practically set the cost of those spells to 0.
+- The Patronage now depends on uses of Spell Points instead of cast spells.
+
+[[AC-less defence]]
+- Critical Hits no longer automatically ignore Damage Reduction.
+
+[[Martial Training]]
+- Renamed Combat Training to Martial Training.
+- Merged the three Enhanced Critical features into one and added the benefit that Critical Hits of the chosen damage type ignore Damage Reduction.

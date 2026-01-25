@@ -29,13 +29,13 @@
 - explicated how the Draconic Sorcerers AC is converted into Damage Reduction.
 
 [[Blocking]]
-- moved acquisition of blocking proficiency and expertise to [[Combat Training]].
+- moved acquisition of blocking proficiency and expertise to [[Martial Training]].
 - updated wording to require shield training instead of shield proficiency, as the latter no longer exists as such.
 
 [[Other Combat Changes]]
 - updated the Grapple and Shove attacks to appropriately relate to Unarmed Strikes.
 
-[[Combat Training]]
+[[Martial Training]]
 - is new.
 - reworks how proficiency and training with weapons, shields and armour works.
 - moved Fighting Styles here.
@@ -46,12 +46,12 @@
 - added some more guidance on how monsters are affected by the changes in these rules.
 
 [[Parrying]]
-- moved acquisition of parrying proficiency and expertise to [[Combat Training]].
+- moved acquisition of parrying proficiency and expertise to [[Martial Training]].
 - updated wording to requite weapon training instead of proficiency.
 
 [[Reactions]]
 - merged Evasive Stance, Defensive Stance, Protective Stance, and Parrying Stance into one singular Defence Action.
-- moved Prey on the Vulnerable to [[Combat Training]].
+- moved Prey on the Vulnerable to [[Martial Training]].
 - removed Trip, as it is already possible through an Opportunity Attack with an Unarmed Strike.
 
 [[Spells]]
@@ -88,7 +88,7 @@ General
 - added a paragraph about crouching behind cover.
 - moved the Defence Action here and reworked it to be more like before.
 
-[[Combat Training]]
+[[Martial Training]]
 - moved the paragraph about starting weapon Proficiencies and starting weapon Training into the subsection on weapon Training to remove some confusion.
 - reworded Accuracy to make it clear that it cannot stack with itself.
 - added Immaculate Aim, Knowing the Spot, Overpower, and My Body is a Weapon.
@@ -116,14 +116,14 @@ General
 - renamed from Character Creation.
 - Small creatures now only get -1 to their Constitution score instead of -2 to their Strength score.
 
-[[Combat Training]]
+[[Martial Training]]
 - changed Archery to depend on the Wisdom modifier.
 - changed Duelling to depend on the Dexterity modifier.
 - changed Heavy Weapon Master to depend on the Strength modifier.
 - changed Knowing the Spot to depend on the Intelligence modifier.
 - added Wounding Critical.
 - moved some Aimed Strike features to general features due to their lack of weapon dependence.
-- turned the [[Aimed Strikes]] option for Reliable Hits into a Combat Training feature.
+- turned the [[Aimed Strikes]] option for Reliable Hits into a Martial Training feature.
 - some minor linking and wording changes.
 
 [[Shields]]

@@ -7,7 +7,7 @@ In response to attack rolls losing importance due to targets being generally eas
 
 [[Vision & Focus]] are described in detail to encourage more strategic positioning and give attackers a way to bypass their targets reactive defense.
 
-[[Combat Training]] is introduced to unify a multitude of features and benefits for martials, such as Fighting Styles and Weapon Mastery.
+[[Martial Training]] is introduced to unify a multitude of features and benefits for martials, such as Fighting Styles and Weapon Mastery.
 
 [[Aspects of Stealth]] are described to rework stealth in terms of various senses that can work against it and thus can be manipulated in favour of it.
 

@@ -1,9 +1,3 @@
-A Spellcasting Focus is a very flavourful part of magical fantasy, and it's a bit underwhelming that it is only used to substitute material components, which also add a nice narrative and worldly touch to magic. Thus, it only feels proper to give a Spellcasting Focus a use outside of substituting material components.
-
-Tying the Proficiency Bonus that was previously automatically given to spell attack rolls and spell save DC to a Spellcasting Focus makes mechanical sense, especially given the reduced importance of the Proficiency Bonus for spell attacks now that the Hit DC of enemies is largely unchanging throughout the levels.
-
-***Enhanced Schools***: Every Spellcasting Focus has three associated spell schools, as shown below. When you cast a spell while using a Spellcasting Focus that is associated with its school, you add your Proficiency Bonus to the Spell check.
-
 | Spellcasting Focus                            | Type    | Associated Schools                     |
 | --------------------------------------------- | ------- | -------------------------------------- |
 | Crystal                                       | Arcane  | Illusion, Necromancy, Transmutation    |
@@ -21,4 +15,5 @@ Tying the Proficiency Bonus that was previously automatically given to spell att
 | Strings (dulcimer, lute, lyre, viol)          | Bardic  | Enchantment, Necromancy, Transmutation |
 | Woodwind (bag pipes, flute, pan flute, shawm) | Bardic  | Divination, Enchantment, Illusion      |
 | Brass Instrument (horn)                       | Bardic  | Conjuration, Enchantment, Evocation    |
-***Other Spellcasting Foci***: If a feature gives you something as a Spellcasting Focus that isn't listed above or lets you use something as a Spellcasting Focus without associating spell schools with it, choose two spell schools to associate with that Spellcasting Focus.
+
+As used in the [[Spellcasting Focus]] chapter.

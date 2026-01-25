@@ -1,4 +1,4 @@
-Combat Training is a new system that encompasses weapon proficiency, weapon mastery, Fighting Styles, Armour Training, and some Feats that interface with weapons and armour. Proficiency and expertise with [[Parrying]] and [[Blocking]] are also part of this system, as are other features relating to [[AC-less defence]] generally.
+Martial Training is a new system that encompasses weapon proficiency, weapon mastery, Fighting Styles, Armour Training, and some Feats that interface with weapons and armour. Proficiency and expertise with [[Parrying]] and [[Blocking]] are also part of this system, as are other features relating to [[AC-less defence]] generally.
 
 This rework is motivated by three reasons. Firstly, with the Hit DC being largely unchanging with level and being quite low especially with larger creatures, there's not as large of a benefit in adding the Proficiency Bonus to ones attack rolls. This opens up the possibility of allowing players to decide against adding this Proficiency Bonus in favor of other benefits for offence or defence. One of these benefits aptly allows players to bypass parts of an enemies Damage Reduction, scaling with the Proficiency Bonus, so that there are now options to ease hitting enemies and to ease damaging them through armour, mirroring the separation of Armor Class into Hit DC and Damage Reduction.
 
@@ -6,19 +6,19 @@ Secondly, the new defensive reactions introduced in this ruleset should be somet
 
 Thirdly, the 2024 rules saw the introduction of weapon mastery properties. These were introduced as weapon-specific features that can be chosen by martials to increase their battlefield prowess, which can be assumed to be intended to lessen the infamous martial caster divide. Structurally, these mastery properties do not separate themselves from benefits that are obtainable through feats, while introducing a whole new feature list a martial can choose from. Next to Fighting Style feats and general feats, this is now the third feature list for martials. Through the rearrangement of those lists into one singular list, the flexibility and potential power of martials is further accentuated. Additionally, adding new features to this list is a new straightforward way to give feature options to martials specifically without having to restrict the features to Fighting Style feats, general feats or weapon mastery properties that martial classes tend to have quite limited access to.
 ### Core Changes
-***Combat Training***: When you receive Combat Training, choose one of the features listed in the following sections that you qualify for.
+***Martial Training***: When you receive Martial Training, choose one of the features listed in the following sections that you qualify for.
 
-***Fighting Styles***: Fighting Style feats are now Combat Training features. Whenever you would gain a Fighting Style feat, you receive Combat Training instead.
+***Fighting Styles***: Fighting Style feats are now Martial Training features. Whenever you would gain a Fighting Style feat, you receive Martial Training instead.
 
-***Weapon Masteries***: Weapon Masteries are now Combat Training features. Whenever you would gain access to a mastery property, you receive Combat Training instead.
+***Weapon Masteries***: Weapon Masteries are now Martial Training features. Whenever you would gain access to a mastery property, you receive Martial Training instead.
 
-***Feats***: The benefits of a selection of general feats are now Combat Training features. There's now a new general [[Feats|feat]] that allows the player to receive Combat Training twice.
+***Feats***: The benefits of a selection of general feats are now Martial Training features. There's now a new general [[Feats|feat]] that allows the player to receive Martial Training twice.
 ### Weapon Training
 Instead of working primarily through proficiency, weapons now also utilize Training, similar to how it is established for Armour. When using a weapon that you lack training with, you have Disadvantage on any D20 Test that relies on that weapon. The following features can give you training with weapons:
 
 ***Starting Proficiency Conversion***: You no longer start with proficiency with weapon attacks with the weapons listed in your class descriptions. Instead, you are trained with the weapons that you would otherwise have proficiency with.
 
-When you receive Combat Training, you can choose the Accuracy feature described in the section on weapon features to add your Proficiency Bonus to certain attack rolls again.
+When you receive Martial Training, you can choose the Accuracy feature described in the section on weapon features to add your Proficiency Bonus to certain attack rolls again.
 
 ***Simple Melee Weapon Training***: You gain training with Simple Melee weapons.
 
@@ -38,11 +38,11 @@ When you receive Combat Training, you can choose the Accuracy feature described 
 
 ***Dueling***: When you are holding a Melee weapon in one hand and no other weapons, you gain a bonus to damage rolls with that weapon equal to your Dexterity modifier (at least 1).
 
-***Enhanced Critical - Bludgeoning***: When you score a Critical Hit that deals Bludgeoning damage to a creature, attack rolls against that creature have Advantage until the start of your next turn.
-
-***Enhanced Critical - Slashing***: When you score a Critical Hit that deals Slashing damage to a creature, it has Disadvantage on attack rolls until the start of your next turn.
-
-***Enhanced Critical - Piercing***: When you score a Critical Hit that deals Piercing damage to a creature, you can roll one additional damage die when determining the extra Piercing damage the target takes.
+***Enhanced Critical - Bludgeoning***: Choose either Bludgeoning, Piercing, or Slashing damage. When you score a Critical Hit that deals damage of that damage type, you ignore the targets Damage Reduction and gain the benefit associated with that damage type:
+- *Bludgeoning*: Attack rolls against the target have Advantage until the start of your next turn.
+- *Slashing*: The target has Disadvantage on attack rolls until the start of your next turn.
+- *Piercing*: You can roll one additional damage die when determining the extra Piercing damage the target takes.
+You can pick this feature multiple times, but only for different damage types.
 
 ***Enhanced Dual Wielding***: When you take the Attack action on your turn and attack with a weapon that has the Light property, you can make one extra attack as a Bonus Action later on the same turn with a different weapon, which must be a Melee weapon that lacks the Two-Handed property. You don't add your ability modifier to the extra attack's damage unless that modifier is negative.
 

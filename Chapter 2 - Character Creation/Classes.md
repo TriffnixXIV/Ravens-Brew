@@ -3,7 +3,7 @@
 
 ***College of Valor - Combat Inspiration - Defence***: When the creature is hit by an attack roll, that creature can use the Bardic Inspiration die instead of a Reaction to attempt to [[Blocking|block]], [[Parrying|parry]] or [[Dodging|dodge]] the attack. When doing so, the creature rolls the Bardic Inspiration die and adds the number rolled to the corresponding check, potentially causing the attack to miss or deal reduced damage.
 ### Fighter
-***Tactical Master***: When you attack with a weapon you are trained with, you can use one additional [[Combat Training]] feature on the attack that the weapon does not fulfill the requirements of.
+***Tactical Master***: When you attack with a weapon you are trained with, you can use one additional [[Martial Training]] feature on the attack that the weapon does not fulfill the requirements of.
 
 ***Battle Master - Know Your Enemy***: Additionally, you find out whether there are particular weak spots that are worth targeting and what to expect when making an [[Aimed Strikes|Aimed Strike]] against that weak spot.
 
@@ -49,7 +49,9 @@ For example, when spending 3 Focus Points, you may instead spend either 3 Surge 
 
 ***Wild Magic Sorcery - Wild Magic Surge - 49-52***: Instead of increasing your AC by 2, the floating shield gives half cover. If you already benefit from half cover, you benefit from three quarters cover instead.
 ### Warlock
-***Pact Magic - Spell Slots***: Similar to all other classes, you now also use [[Spell Points]]. However, as your patron is the source of your power, you have a potentially enormous supply that is only limited by your ability to be your patrons conduit and your patrons willingness or pact-bound duty to provide for you. As such, you are only limited by your Casting Limit and their Patronage.
+***Eldritch Invocations***: When an Eldritch Invocation Option allows you to cast a spell without expending a spell slot, that spell has its Spell Point cost reduced to 0 through that Eldritch Invocation instead.
+
+***Pact Magic - Spell Slots***: Similar to all other classes, you now also use [[Spellcasting#Spell Points|Spell Points]]. However, as your patron is the source of your power, you have a potentially enormous supply that is only limited by your ability to be your patrons conduit and your patrons willingness or pact-bound duty to provide for you. As such, you are only limited by your Casting Limit and their Patronage.
 
 | Level | Caster Training | Casting Limit | Patronage |
 | ----- | --------------- | ------------- | --------- |
@@ -74,10 +76,10 @@ For example, when spending 3 Focus Points, you may instead spend either 3 Surge 
 | 19    | 5               | 30            | 4         |
 | 20    | 5               | 32            | 4         |
 | x     | (x+1)/4         | 3(x+1)/2      |           |
-***Patronage***: The Patronage determines how many spells you are able to cast before your patron temporarily cuts off your supply. This is the case after you've cast the number of spells noted in the table above, with the count resetting after you finish a Short or Long Rest.
+***Patronage***: The Patronage determines how often you can spend Spell Points before your patron temporarily cuts off your supply. This is the case after you've spent Spell Points a number of times as noted in the table above, with the count resetting after you finish a Short or Long Rest.
 
 This may, for example, express your patrons limited willingness to offer their power to a weaker being, a lack of established trust between you and your patron, or terms of the pact agreed upon as such, with the Patronage resetting when you appeal to your patron or ask for more during a Rest, or, again, because the pact says so.
 
 ***Patronage - Variant***: You and your DM may find your own consensus about how your patron supplies you with Spell Points. For example, you may decide that your patron offers more of their supply when you fulfill their tasks or act following their ideals, and that they cut it off only when you break a promise or act in opposition to their ideals.
 
-When finding and playing with a consensus like this, always consider how your power compares to that of your party members, so that you have neither too many spellcasts at your disposal nor too few. The narrative, however, may on occasion lead to one extreme or the other, and it can be fun and interesting to follow the narrative there from time to time. It is about the pact and relationship between you and your patron, after all. Whether you two are buddies, business partners, or one exploits or extorts the other, that is up to discussion and design.
+When finding and playing with a consensus like this, always consider how your power compares to that of your party members, so that you have neither too many Spell Points at your disposal nor too few. The narrative, however, may on occasion lead to one extreme or the other, and it can be fun and interesting to follow the narrative there from time to time. It is about the pact and relationship between you and your patron, after all. Whether you two are buddies, business partners, or one exploits or extorts the other, that is up to discussion and design.

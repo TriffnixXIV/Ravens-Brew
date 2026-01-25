@@ -16,13 +16,13 @@ Abjuration (Sorcerer, Warlock, Wizard) Cost: 9 Spell Points. Casting Time: React
 
 You attempt to interrupt a creature in the process of casting a spell. If their spell didn't cost more than this spell, it dissipates. Otherwise, compare your Spell check to theirs. If your Spell check exceeds theirs by more than the other spells additional cost, it also dissipates.
 
-When their spell dissipates like this, it has no effect, and the action, Bonus Action, or Reaction used to cast it is wasted. If it was cast with Spell Points, those Spell Points are not spent.
+When their spell dissipates like this, it has no effect, and the Action, Bonus Action, or Reaction used to cast it is wasted. If it was cast with Spell Points, they regain the spent Spell Points.
 
 *Upcasting*: Every additional Spell Point increases the range of spells that automatically dissipate and makes it easier to make more costly spells dissipate, as described above.
 ### Cure Wounds
 Abjuration (Bard, Cleric, Druid, Paladin, Ranger). Cost: 3 Spell Points. Casting Time: Action. Range: Touch. Components: V, S. Duration: Instantaneous.
 
-A creature you touch regains a number of Hit Points equal to 2d8 plus your spellcasting ability modifier and has all their [[Conditions|wounds]] removed.
+A creature you touch regains a number of Hit Points equal to 2d8 plus your spellcasting ability modifier and has all their [[Conditions#Wounded|wounds]] removed.
 
 *Upcasting*: The healing increases by 2d8 for every additional 3 Spell Points spent.
 ### Dispel Magic
@@ -36,7 +36,7 @@ Necromancy (Cleric). Cost: 3 Spell Points. Casting Time: Action. Range: Touch. C
 
 A creature you touch makes a Constitution saving throw, taking 2d10 Necrotic damage on a failed save or half as much damage on a successful one.
 
-On a failed save, you may choose to convert any number of the damage dice into [[Conditions|wounds]]. For every converted die, pick a body part that is not already [[Conditions|Wounded]]. The body part is now [[Conditions|Wounded]].
+On a failed save, you may choose to convert any number of the damage dice into [[Conditions#Wounded|wounds]]. For every converted die, pick a body part that is not already [[Conditions#Wounded|Wounded]]. The body part is now [[Conditions#Wounded|Wounded]].
 
 *Upcasting*: The damage increases by 1d10 for every additional 3 Spell Points spent.
 ### Mage Armour

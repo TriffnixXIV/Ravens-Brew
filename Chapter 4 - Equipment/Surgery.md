@@ -1,4 +1,4 @@
-When a creature has a disabled or malfunctioning body part, Surgery is the go-to non-magical way to treat it.
+When a creature has a [[Conditions#Disabled|disabled]] or malfunctioning body part, Surgery is the go-to non-magical way to treat it.
 
 ***Surgery Tools***: Surgery Tools are a type of Artisan's Tools that are used in Surgery. Cost: 30 GP. Ability: Intelligence. Skill: Sleight of Hand or Medicine (your choice). Weight: 4 lb. Utilize: Treat disabled body part, as described here.
 

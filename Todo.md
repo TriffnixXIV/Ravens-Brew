@@ -1,6 +1,5 @@
 ### for v0.9
-implement Spellcasting Training
-- cantrip upgrade choices instead of automatic leveling
+add guidance for converting monsters that use spellcasting to use Spell Points.
 ### for whenevs
 add descriptions of the three kinds of [[Monsters]], Sponges, Shells and Smalls.
 turn bold italic text into h6 in Obsidian to be able to use them as link targets
