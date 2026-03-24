@@ -1,11 +1,11 @@
 ### New
-***[[Aimed Strikes]]***: Introduced to make attack rolls more meaningful.
-***[[Contests]]***: Added a chapter about them, as they were removed from the 2024 rules.
-***[[Classes|Rogue]]***: now gains a new Surge Die feature on level 5: Prepared Strike.
-***[[Spells]]***: Added adjustments to Blur.
-***[[Feats]]***: Added adjustments to Weapon Master.
+**_[[Aimed Strikes]]_**: Introduced to make attack rolls more meaningful.
+**_[[Contests]]_**: Added a chapter about them, as they were removed from the 2024 rules.
+**_[[Classes|Rogue]]_**: now gains a new Surge Die feature on level 5: Prepared Strike.
+**_[[Spells]]_**: Added adjustments to Blur.
+**_[[Feats]]_**: Added adjustments to Weapon Master.
 ### Removed
-***from Surge Dice***: Dying Struggle, Elation and Kill Rush.
+**_from Surge Dice_**: Dying Struggle, Elation and Kill Rush.
 ### Adjusted
 General
 - Committed to 2024 rules. All changes are now in reference to 2024 rules.

@@ -1,5 +1,6 @@
 ### for v0.9
 add guidance for converting monsters that use spellcasting to use Spell Points.
+introduce spellcasting focus training parallel to weapon training.
 ### for whenevs
 add descriptions of the three kinds of [[Monsters]], Sponges, Shells and Smalls.
 turn bold italic text into h6 in Obsidian to be able to use them as link targets
@@ -17,5 +18,5 @@ new magic items
 - amantine Jazz: Adamant Defensivaura wegen crit prot; bufft defensive reactions
 - elemental armour
 - damage reduction drain aura armour
-- wounding weapon (imposes wound save disadvantage)
+- wounding weapon (imposes wound save Disadvantage)
 - +0|+1d4 and +2|+0 weapons

@@ -2,17 +2,17 @@ When you spend more [[Spellcasting#Spell Points|Spell Points]] than your [[Spell
 
 When Overcasting, you have to roll an Overcast Save and take Overcast Damage.
 
-***Excess***: Your Excess is the number of Spell Points you've exceeded your Casting Limit by.
+**_Excess_**: Your Excess is the number of Spell Points you've exceeded your Casting Limit by.
 
-***Overcast Damage***: When Overcasting, you take a number of d6 of necrotic damage equal to half your Excess, rounded up. This damage occurs while you cast the spell or use the feature.
+**_Overcast Damage_**: When Overcasting, you take a number of d6 of necrotic damage equal to half your Excess, rounded up. This damage occurs while you cast the spell or use the feature.
 
 If the spell has a casting time of 1 minute or more, this also triggers a Concentration check that you have to succeed on to be able to continue the casting, in accordance with usual spell rules.
 
-***Overcast Save***: An Overcast Save is a saving throw using your spellcasting ability. The Save DC equals 10 + your Excess. On a successful save, nothing happens. On a failed save, the spell or feature dissipates and you receive one stack of Weavestrain for every 3 you've failed the saving throw by.
+**_Overcast Save_**: An Overcast Save is a saving throw using your spellcasting ability. The Save DC equals 10 + your Excess. On a successful save, nothing happens. On a failed save, the spell or feature dissipates and you receive one stack of Weavestrain for every 3 you've failed the saving throw by.
 
 When your spell or feature dissipates like this, it has no effect, and the Action, Bonus Action, or Reaction you've used to cast it is wasted. You regain the spent Spell Points.
 
-***Weavestrain***: For every stack of Weavestrain you have, your Casting Limit is reduced by 1. If your Casting Limit is below 0, you also have to Overcast when using cantrips, and [[Spellcasting#Sunken Spells & Depthcasting|Depthcasting]] only upcasts by as many Spell Points as are needed to reach the Casting Limit.
+**_Weavestrain_**: For every stack of Weavestrain you have, your Casting Limit is reduced by 1. If your Casting Limit is below 0, you also have to Overcast when using cantrips, and [[Spellcasting#Sunken Spells & Depthcasting|Depthcasting]] only upcasts by as many Spell Points as are needed to reach the Casting Limit.
 
 After finishing a short rest, you lose one stack of Weavestrain, and after finishing a long rest, you lose a number of stacks of Weavestrain equal to your Proficiency Bonus.
 ### Examples

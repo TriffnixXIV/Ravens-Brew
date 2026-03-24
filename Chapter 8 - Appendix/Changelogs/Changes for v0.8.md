@@ -25,19 +25,19 @@
 - the Gloomstalker Rangers Shadowy Dodge now utilizes [[Dodging]].
 - removed the paragraph about the Hunters Uncanny Dodge, as the Hunter no longer has that feature.
 - the Hunters Multiattack Defence is now cheaper.
-- the Rogue no longer gains advantage on [[Dodging]] checks.
+- the Rogue no longer gains Advantage on [[Dodging]] checks.
 - explicated how the Draconic Sorcerers AC is converted into Damage Reduction.
 
 [[Blocking]]
-- moved acquisition of blocking proficiency and expertise to [[Martial Training]].
-- updated wording to require shield training instead of shield proficiency, as the latter no longer exists as such.
+- moved acquisition of blocking Proficiency and Expertise to [[Martial Training]].
+- updated wording to require shield training instead of shield Proficiency, as the latter no longer exists as such.
 
 [[Other Combat Changes]]
 - updated the Grapple and Shove attacks to appropriately relate to Unarmed Strikes.
 
 [[Martial Training]]
 - is new.
-- reworks how proficiency and training with weapons, shields and armour works.
+- reworks how Proficiency and training with weapons, shields and armour works.
 - moved Fighting Styles here.
 - moved combat-oriented Feats here.
 - moved weapon mastery properties here.
@@ -46,8 +46,8 @@
 - added some more guidance on how monsters are affected by the changes in these rules.
 
 [[Parrying]]
-- moved acquisition of parrying proficiency and expertise to [[Martial Training]].
-- updated wording to requite weapon training instead of proficiency.
+- moved acquisition of parrying Proficiency and Expertise to [[Martial Training]].
+- updated wording to requite weapon training instead of Proficiency.
 
 [[Reactions]]
 - merged Evasive Stance, Defensive Stance, Protective Stance, and Parrying Stance into one singular Defence Action.
@@ -70,7 +70,7 @@ General
 [[Surgery]]
 - changed the primary attribute to Intelligence.
 - added two skills, Sleight of Hand and Medicine, to Surgery.
-- explicated that when proficiency with both the tools and one of the associated skills are present, the surgeon rolls with Advantage, in line with existing tool rules.
+- explicated that when Proficiency in both the tools and one of the associated skills are present, the surgeon rolls with Advantage, in line with existing tool rules.
 - explicated how to assist and interrupt Surgery.
 - clarified what happens when Surgery is interrupted.
 
@@ -92,7 +92,7 @@ General
 - moved the paragraph about starting weapon Proficiencies and starting weapon Training into the subsection on weapon Training to remove some confusion.
 - reworded Accuracy to make it clear that it cannot stack with itself.
 - added Immaculate Aim, Knowing the Spot, Overpower, and My Body is a Weapon.
-- reworded Heavy Armour Master, so that it now mentions its Blocking Modifier and is further improved by Blocking expertise.
+- reworded Heavy Armour Master, so that it now mentions its Blocking Modifier and is further improved by Blocking Expertise.
 - reworded Free Hand Enhancement so that it is more concise and clear about only negating Disadvantage imposed through the Free Hand property.
 
 [[Reactions]]

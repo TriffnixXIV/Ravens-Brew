@@ -13,7 +13,7 @@ This version introduces the Spellcasting Rework.
 - Spell Manipulation is now a part of Caster Training.
 
 [[Spellcasting Focus]]
-- A Spellcasting Focus now gives Proficiency with Spell checks for spells of three associated spell schools each. It is the primary way to be able to add the Proficiency Bonus to Spell checks, and thus spell attacks and spell save DC.
+- A Spellcasting Focus now gives Proficiency in Spell checks for spells of three associated spell schools each. It is the primary way to be able to add the Proficiency Bonus to Spell checks, and thus spell attacks and spell save DC.
 
 [[Rite of Regeneration]]
 - Now uses the [[Spell Check|Spell check]] of the Cure Wounds casting as a base value.
@@ -47,15 +47,15 @@ General
 - Explicated that it is now possible to cast multiple spells with Spell Point costs in a turn.
 
 [[Caster Training]]
-- Added the Cantrip Upcasting feature.
-- Added the Hoarder feature that gives more Spell Points.
-- Changed the Expectation feature to give Advantage on the Overcast Saving Throw instead.
-- Added the Insistence feature, doubling the effect of the Emphasis feature.
-- Changed the Vampiric Weavestrike feature to give twice as many Temporary Hit Points.
+- Added _Cantrip Upcasting_ to upcast Cantrips.
+- Added _Hoarder_ to gain more Spell Points.
+- Changed _Expectation_ to give Advantage on the Overcast Saving Throw instead.
+- Added _Insistence_ feature, doubling the effect of _Emphasis_.
+- Changed _Vampiric Weavestrike_ to give twice as many Temporary Hit Points.
 - Added a subsection with Spellcasting Focus related features.
-- Changed the Beyond The Medium feature to make a body part usable as a Spellcasting Focus associated with two spell schools.
-- Added the Flexible Focus feature to allow adding more associated spell schools to a Spellcasting Focus.
-- Added the Universal Focus feature to make a Spellcasting Focus be associated with all spell schools.
+- Changed _Beyond The Medium_ to make a body part usable as a Spellcasting Focus associated with two spell schools.
+- Added _Flexible Focus_ to allow adding more associated spell schools to a Spellcasting Focus.
+- Added _Universal Focus_ to make a Spellcasting Focus be associated with all spell schools.
 
 [[Classes#Sorcerer|Sorcerer]]
 - Changed Sorcery Points so that they interface with Spell Points more intuitively.
@@ -91,14 +91,14 @@ General
 [[Caster Training]]
 - Added some introductory text.
 - Moved some features to their proper subsection.
-- *Ritualist* now allows a choice of spellcasting ability when the one who chooses the feature doesn't already have one.
-- Added *By Any Means*, allowing rerolls of the Overcast Save in exchange for more Overcast Damage.
-- Renamed *Spell Specialization* to *Cheapskate* and allows the choice of two spells instead of one.
-- *Hoarder* can now be picked multiple times.
-- Reworked *Cantrip Upcasting* into *Trash Becomes Treasure*, giving a limited amount of free upcasting to free spells.
-- Reworded *Amplify* a little.
-- *Beyond The Medium* now turns the chosen body part into a Spellcasting Focus instead of making it usable as if it was one, making it clear that it can be used for *Double Up*.
-- Renamed *Dual Spellcasting Focus* to *Double Up*.
+- _Ritualist_ now allows a choice of spellcasting ability when the one who chooses the feature doesn't already have one.
+- Added _By Any Means_, allowing rerolls of the Overcast Save in exchange for more Overcast Damage.
+- Renamed _Spell Specialization_ to _Cheapskate_ and allows the choice of two spells instead of one.
+- _Hoarder_ can now be picked multiple times.
+- Reworked _Cantrip Upcasting_ into _Trash Becomes Treasure_, giving a limited amount of free upcasting to free spells.
+- Reworded _Amplify_ a little.
+- _Beyond The Medium_ now turns the chosen body part into a Spellcasting Focus instead of making it usable as if it was one, making it clear that it can be used for _Double Up_.
+- Renamed _Dual Spellcasting Focus_ to _Double Up_.
 
 [[Classes#Warlock|Warlock]]
 - Explicated that Eldritch Invocation Options that allow free spellcasts practically set the cost of those spells to 0.
@@ -110,3 +110,55 @@ General
 [[Martial Training]]
 - Renamed Combat Training to Martial Training.
 - Merged the three Enhanced Critical features into one and added the benefit that Critical Hits of the chosen damage type ignore Damage Reduction.
+### Changes for v0.9.a4
+[[Caster Training]]
+- Turned [[Spells#Weavestrike|Weavestrike]] into a spell.
+- Added _Arsenal of Tricks_ as an option to get more cantrips.
+- Added _Enhanced Critical_ to mirror the Martial version with non-physical damage types.
+- Added _Force of Evil_ to increase necrotic damage and _Force of Good_ to increase radiant damage.
+- Added _Penetrating Element_ to allow bypassing Damage Reduction with a chosen element.
+- Changed _Reactive Spell_ to _Opportunistic Caster_ and changed its wording to make it independent from Opportunity Attacks. It now uses Opportunity Spells instead.
+- Added _Reliable Casting_ to make a Spell check always result in at least a 10.
+- Doubled the Casting Limit increase of _Cheat_.
+- Reworked _Vampiric Weavestrike_ into _Weave Vampirism_, now giving you Temporary Hit Points when Spell Points are spent or lost within 5ft. of you and not by you.
+- Changed _Cheapskate_ to allow picking 0-cost spells again.
+- Changed _Cheapskate_ so that when it reduces the cost of a healing or permanent creation spell to 0 the effects become temporary.
+- Changed _Insistence_ to now automatically improve your Spell checks based on the cost of the corresponding spellcast.
+- Added an associated spell school to two of the Spell Manipulation features to clarify when a Spellcasting Focus allows the wielder to add their Proficiency Bonus to the Spell check.
+
+[[Spell Check]]
+- Made Spell attack rolls a separate thing again.
+- The Spell check now influences Spell attack rolls, giving a bonus when good and a malus when bad.
+- Reduced the saving throw DC by another 2 when the spell affects more than one target.
+
+[[AC-less defence]]
+- Changed the _Defence Action_ so that when you had more than three unspent Reactions at the start of your next turn, only three of them are converted into [[Surge Dice]].
+
+[[Dodging]]
+- Turned dodging an AoE into a Martial Training feature.
+- Reduced the armour-based dodging modifier.
+	- When wearing light or no armour, it's now +2 instead of +5.
+	- When wearing medium armour, it's now +0 instead of +2.
+	- When wearing heavy armour, you now roll with Disadvantage instead of with +0.
+
+[[Martial Training]]
+- Turned Opportunity Attacks into the _Opportunist - Melee_ feature.
+- Added _Opportunist - Ranged_ to allow for ranged Opportunity Attacks.
+- Turned [[Dodging]] an AoE with Dodge & Roll into the _Areal Awareness_ feature.
+- Added _Dodging Adept_ to give Proficiency in Acrobatics.
+- Added _Dodging Expert_ to give Expertise in Acrobatics.
+- Added _Happy Feet_ to increase the unarmoured and lightly armoured Dodging bonus back to +5.
+- Added _Nimble Attack_ to allow throwing a Finesse weapon as a part of a Dodge & Roll.
+- Added _Prediction_ to allow for an additional free dodge after dodging with Advantage.
+- Renamed _Blocking Proficiency_ to _Blocking Adept_ and _Blocking Expertise_ to _Blocking Expert_ and simplified their wording.
+- Changed _Protection_ to require Proficiency in Blocking instead of training with Shields.
+- Renamed _Parrying Proficiency_ to _Parrying Adept_ and _Parrying Expertise_ to _Parrying Expert_ and simplified their wording.
+- Changed _Arrow Splitting_ to also require Proficiency in Perception.
+- Turned Weapon Locking from [[Parrying]] into the _Weapon Locking_ feature.
+- Turned multi-weapon Parrying into the _Cross-parry_ feature.
+- Added _Pattern Recognition_ to give Advantage on the next block, dodge or parry after a successful block, dodge or parry.
+
+General
+- Turned all occurences of Proficiency, Expertise, Advantage and Disadvantage uppercase.
+- Now consistently uses "Proficiency in ..." and "Expertise in ..." instead of "Proficiency with ..." and "Expertise with ...".
+- Changed .md italics to use \_ instead of \*.

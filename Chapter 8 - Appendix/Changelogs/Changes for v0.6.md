@@ -11,7 +11,7 @@ General
 
 [[AC-less defence]]
 - Removed the Constitution Modifier from the base Damage Reduction.
-- Defensive Reactions are now rolled with disadvantage against critical hits.
+- Defensive Reactions are now rolled with Disadvantage against critical hits.
 - Size now impacts Missing Threshold.
 
 [[Dodging]]

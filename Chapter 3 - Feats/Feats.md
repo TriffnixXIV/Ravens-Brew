@@ -6,16 +6,16 @@ These Feats have been merged into [[Caster Training]]: Elemental Adept, Ritual C
 
 Outside of that, other changes to feats can be found here, with the full description of the new changed feat being shown here.
 ### Origin Feats
-***Savage Attacker***: Whenever you roll damage for an attack, add a d6 to the dice pool and ignore the lowest die result.
+**_Savage Attacker_**: Whenever you roll damage for an attack, add a d6 to the dice pool and ignore the lowest die result.
 ### General Feats
-***Combat Adept***: You gain the following benefits:
-- *Ability Score Increase*: Increase your Strength, Dexterity or Constitution score by 1, to a maximum of 20.
-- *Training*: You gain two [[Martial Training]] features of your choice.
-- *Repeatable*: You can take this feat more than once.
+**_Combat Adept_**: You gain the following benefits:
+- _Ability Score Increase_: Increase your Strength, Dexterity or Constitution score by 1, to a maximum of 20.
+- _Training_: You gain two [[Martial Training]] features of your choice.
+- _Repeatable_: You can take this feat more than once.
 
-***Spellcasting Adept***: You gain the following benefits:
-- *Ability Score Increase*: Increase your Intelligence, Wisdom or Charisma score by 1, to a maximum of 20.
-- *Training*: You gain two [[Caster Training]] features of your choice.
-- *Repeatable*: You can take this feat more than once.
+**_Spellcasting Adept_**: You gain the following benefits:
+- _Ability Score Increase_: Increase your Intelligence, Wisdom or Charisma score by 1, to a maximum of 20.
+- _Training_: You gain two [[Caster Training]] features of your choice.
+- _Repeatable_: You can take this feat more than once.
 ### Fighting Style Feats
 These feats are all now part of [[Martial Training]] and can be accessed through the Combat Adept Feat and through class features, as described in the chapter on [[Martial Training]].

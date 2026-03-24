@@ -7,9 +7,9 @@ This can bring a breath of fresh air to those for whom D&D combat has grown stal
 In implementing the rules and features above, this book orients itself around two cornerstones in the choice of which rules to change, how to design these changes, and when and how to introduce new rules. These big cornerstones are interactivity and narrative embedding.
 ### Interactivity
 Rules and features should consider how other players to interact with them. This can come in the shapes of synergy, counterplay and multiplicity, and primarily pursues the goal of improved agency and engagement.
-- *Synergy*: When a player tries to achieve something, there should be options for other players to assist with that or enhance the effect. Additionally, there should be ways for players to protect one another in combat, as well as actions that are deliberately cooperative.
-- *Counterplay*: It should be possible to avoid or mitigate harmful effects within reason, and it should be possible to undo them with adequate effort. Especially powerful effects may be an exception to this rule when it comes to being avoided or mitigated, but those should remain special.
-- *Multiplicity*: There should be meaningfully distinct ways for players to interact with the challenges the dungeon master offers. The more choice the players can meaningfully exercise, the better, and the more tools the dungeon master has to challenge the players, the better.
+- _Synergy_: When a player tries to achieve something, there should be options for other players to assist with that or enhance the effect. Additionally, there should be ways for players to protect one another in combat, as well as actions that are deliberately cooperative.
+- _Counterplay_: It should be possible to avoid or mitigate harmful effects within reason, and it should be possible to undo them with adequate effort. Especially powerful effects may be an exception to this rule when it comes to being avoided or mitigated, but those should remain special.
+- _Multiplicity_: There should be meaningfully distinct ways for players to interact with the challenges the dungeon master offers. The more choice the players can meaningfully exercise, the better, and the more tools the dungeon master has to challenge the players, the better.
 ### Narrative Embedding
 Rules and features should be explainable in narrative terms, and things that are possible should be represented by game mechanics. This, however, should not escalate into highly accurate simulation, and the rules and features should not be too concerned with realism.
 

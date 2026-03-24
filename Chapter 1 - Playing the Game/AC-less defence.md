@@ -1,8 +1,8 @@
-***AC-less***: Creatures do not have an Armor Class anymore. A combination of Hit DC and Damage Reduction takes its place.
+**_AC-less_**: Creatures do not have an Armor Class anymore. A combination of Hit DC and Damage Reduction takes its place.
 ### Hit DC
-***Missing attacks***: An attack automatically misses its target if the attack roll isn’t at least as high as the Hit DC.
+**_Missing attacks_**: An attack automatically misses its target if the attack roll isn’t at least as high as the Hit DC.
 
-***Base Hit DC***: The base Hit DC of a target depends on its size, as shown in the table below. To determine the size of something that has no given size, you can use the Hit Area and height or length measures as guidelines.
+**_Base Hit DC_**: The base Hit DC of a target depends on its size, as shown in the table below. To determine the size of something that has no given size, you can use the Hit Area and height or length measures as guidelines.
 
 | Size       | Hit DC | Hit Area | Height or Length |
 | ---------- | ------ | -------- | ---------------- |
@@ -20,27 +20,27 @@ The Hit Area refers to the area of a target that is facing the attacker. For exa
 
 For the purposes of very small targets, a new set of sizes has been introduced. These will, for example, be used for [[Aimed Strikes]].
 
-***Even smaller sizes***: If a target is significantly smaller than the sizes listed above, you can either find an extended table in the [[Extended Size Table|tables chapter]], or extrapolate the Hit DC from the measures in the table. Start with the measures and Hit DC for minuscule targets. Then add 2 to the Hit DC, quarter the Hit Area and halve the height or length. Repeat this until the measures fit the target you have in mind to get the appropriate Hit DC.
+**_Even smaller sizes_**: If a target is significantly smaller than the sizes listed above, you can either find an extended table in the [[Extended Size Table|tables chapter]], or extrapolate the Hit DC from the measures in the table. Start with the measures and Hit DC for minuscule targets. Then add 2 to the Hit DC, quarter the Hit Area and halve the height or length. Repeat this until the measures fit the target you have in mind to get the appropriate Hit DC.
 ### Cover
-***Cover***: Instead of increasing the Armor Class of the target that is behind cover, the Hit DC for attacks against the target increases in correlation with the now reduced Hit Area. Thus, Half Cover and Three-Quarters Cover can now be disregarded for attack rolls.
+**_Cover_**: Instead of increasing the Armor Class of the target that is behind cover, the Hit DC for attacks against the target increases in correlation with the now reduced Hit Area. Thus, Half Cover and Three-Quarters Cover can now be disregarded for attack rolls.
 
 For example, if the Hit Area of an otherwise Medium size target matches the Tiny size due to Cover, the targets Hit DC is that of a Tiny target for attacks that are affected by that Cover.
 
-***Cover size***: Sometimes, the creatures or objects that are used for Cover have an associated size category. If the Cover is of a larger size category than the target, it gives Total Cover. If it has the same category, it only leaves a few openings at best, which usually manifests as an increase in Hit DC of +4. If it is one category smaller, it leaves a decent area open to attack, giving no more than a +2 to the Hit DC. Even smaller Cover is too small to effectively reduce the Hit Area. It can, however, still be used to give Cover to specific body parts and other smaller targets.
+**_Cover size_**: Sometimes, the creatures or objects that are used for Cover have an associated size category. If the Cover is of a larger size category than the target, it gives Total Cover. If it has the same category, it only leaves a few openings at best, which usually manifests as an increase in Hit DC of +4. If it is one category smaller, it leaves a decent area open to attack, giving no more than a +2 to the Hit DC. Even smaller Cover is too small to effectively reduce the Hit Area. It can, however, still be used to give Cover to specific body parts and other smaller targets.
 
-***Cover Cone***: In some cases, it is not clear against which attacks a target benefits from Cover. The Dungeon Masters Guide describes a method to determine Cover through occupied and blocked spaces on a battle map, but some cover is not represented by this because it is too small and thus too finicky to place and manage on a battle map. For example, this is usually the case with [[Shields]].
+**_Cover Cone_**: In some cases, it is not clear against which attacks a target benefits from Cover. The Dungeon Masters Guide describes a method to determine Cover through occupied and blocked spaces on a battle map, but some cover is not represented by this because it is too small and thus too finicky to place and manage on a battle map. For example, this is usually the case with [[Shields]].
 
 In such cases where the cover is sufficiently small and close to the target, attacks originating from within a type of Cone, the Cover Cone, are affected by that cover. The Cover Cone originates from the target and is directed towards the cover, has no range limit and can't be interrupted.
 
 To continue the Shield example, if you are holding a Shield directly towards an enemy, that enemy is within the Cover Cone originating from you and directed through the Shield, as they are directly on the opposite side of the Shield. Therefor, you benefit from the Cover your Shield provides you with, increasing your Hit DC against attacks by that enemy, usually by 2 or 4.
 
-***Crouching behind cover***: Creatures may crouch, perch, sit down, or fall prone behind cover at will to increase the degree of cover they can obtain. When doing so, the following effects apply to the crouched creature:
+**_Crouching behind cover_**: Creatures may crouch, perch, sit down, or fall prone behind cover at will to increase the degree of cover they can obtain. When doing so, the following effects apply to the crouched creature:
 - They decrease their effective size by one category for the purposes of determining the degree of cover they gain through the cover they crouch behind.
 - They have the Prone condition.
 
 For example, a Medium Humanoid receives three quarters cover from a Tower Shield when crouching behind it instead of the usual half cover, while a Small Humanoid can receive full cover from a Tower Shield when crouching behind it.
 ### Damage Reduction
-***Damage Reduction***: Creatures now have a Damage Reduction value. This value is subtracted from any damage the wearer takes through an attack.
+**_Damage Reduction_**: Creatures now have a Damage Reduction value. This value is subtracted from any damage the wearer takes through an attack.
 
 This subtraction happens before resistances and vulnerabilities modify the damage.
 
@@ -48,11 +48,13 @@ Every bonus to Armor Class that is not the Dexterity bonus can be converted 1:1 
 
 Damage Reduction from multiple sources stacks. However, the prerequisites for each source must still be met. For example, the Damage Reduction now gained from the Barbarians Unarmoured Defence and a heavy armour will not stack, because the heavy armour still disables the Barbarians Unarmoured Defence.
 ### Other changes
-***Reactive Defence***: There are now options to reactively defend against incoming attacks and other effects. These include [[Dodging]], [[Blocking]] and [[Parrying]], as detailed within the Rules Glossary. For spellcasters, [[Caster Training#Spell Manipulation Features|Spell Manipulation]] and some of the changed [[Chapter 5 - Spellcasting/Spells|Spells]] provide options for reactive defence.
+**_Reactive Defence_**: There are now options to reactively defend against incoming attacks and other effects. These include [[Dodging]], [[Blocking]] and [[Parrying]], as detailed within the Rules Glossary. For spellcasters, [[Caster Training#Spell Manipulation Features|Spell Manipulation]] and some of the changed [[Chapter 5 - Spellcasting/Spells|Spells]] provide options for reactive defence.
 
-***Defence Action***: You can use your Action to take the Defence Action. Doing so gives you a number of Reactions equal to your Proficiency Bonus. You may only use these additional Reactions for defensive Reactions, including [[Dodging]], [[Blocking]], [[Parrying]], or another Reaction that fulfills the following conditions:
+**_Defence Action_**: You can use your Action to take the Defence Action. Doing so gives you a number of Reactions equal to your Proficiency Bonus. You may only use these additional Reactions for defensive Reactions, including [[Dodging]], [[Blocking]], [[Parrying]], or another Reaction that fulfills the following conditions:
 - It does not deal damage, and it does not enhance something that deals damage.
 - It does not apply a condition to an enemy, and does not enhance something that applies a condition to an enemy.
 - It does not force an enemy to make a saving throw, and does not enhance something that forces an enemy to make a saving throw.
 
-***Misses?*** Any rule or feature that requires a missed attack to work also works if the attack does not deal damage because of Damage Reduction, Blocking, or Parrying. Those attacks count as both a hit and a miss in that regard. Note that Dodging explicitly causes dodged attacks to miss.
+When gaining [[Surge Dice]] at the start of your next turn, no more than three of your unspent Reactions are converted into Surge Dice.
+
+**_Misses?_** Any rule or feature that requires a missed attack to work also works if the attack does not deal damage because of Damage Reduction, Blocking, or Parrying. Those attacks count as both a hit and a miss in that regard. Note that Dodging explicitly causes dodged attacks to miss.

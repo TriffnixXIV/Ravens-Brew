@@ -6,27 +6,25 @@ Implementing some sort of mechanic that allows for reactive dodging would be qui
 
 Also, adding an option to dodge & roll would be nice, especially because swiftly jumping away from the point of impact of an attack is something that feels like it should be possible.
 
-***Dodging check***: A Dodging check is a Dexterity (Acrobatics) check that is modified by the armour you're wearing as follows:
-- While wearing light armour or no armour, the modifier is +5.
-- While wearing medium armour, the modifier is +2 (+4 instead with Medium Armour Master).
-- While wearing heavy armour, the modifier is +0.
+**_Dodging check_**: A Dodging check is a Dexterity (Acrobatics) check that is modified by the armour you're wearing as follows:
+- While wearing light armour or no armour, the modifier is +2 (+5 instead with Happy Feet).
+- While wearing medium armour, the modifier is +0 (+2 instead with Medium Armour Master).
+- While wearing heavy armour, you roll Dodging checks with Disadvantage.
 
-***Dodge***: You can use your Reaction to try to dodge an attack that you can see and that targets you.
+**_Dodge_**: You can use your Reaction to try to dodge an attack that you can see and that targets you.
 
 Make a Dodging check contesting the attack roll. If the result is at least as high as the attack roll, you successfully dodge the attack. It misses.
 
-When trying to dodge a critical hit, you roll with disadvantage.
+When trying to dodge a critical hit, you roll with Disadvantage.
 
-***Dodge & Roll***: You can use your Reaction to try to dodge an attack that you can see and that targets you or an area effect that encompasses you. Make a Dodging check and move to an unoccupied spot within 10 feet of you.
+**_Dodge & Roll_**: You can use your Reaction to try to dodge an attack that you can see and that targets you. Make a Dodging check and move to an unoccupied spot within 10 feet of you.
 
 If you're trying to dodge an attack and the result is at least as high as the attack roll, you dodge successfully and the attack misses.
 
-If you're trying to dodge an area effect and the result is at least as high as the DC of the effect and your movement makes you leave the area of the area effect, you succeed and are not affected. If you remain inside the area effect and it required a Dexterity saving throw, you automatically succeed on the saving throw. If it required another saving throw, make the other saving throw as usual.
+If the Dodging check succeeds, your movement does not provoke opportunity attacks.
 
-If the Dodge check succeeds, your movement does not provoke opportunity attacks.
+If the Dodging check fails, you fall prone at your target location.
 
-If the Dodge check fails, you fall prone at your target location.
+If all spots within 10 feet are occupied, you fall prone in place, even if the Dodging check succeeded.
 
-If all spots within 10 feet are occupied, you fall prone in place, even if the Dodge check succeeded.
-
-When trying to dodge & roll in response to a critical hit, you roll with disadvantage.
+When trying to dodge & roll in response to a critical hit, you roll with Disadvantage.

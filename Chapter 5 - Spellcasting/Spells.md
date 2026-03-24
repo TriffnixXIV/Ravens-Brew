@@ -14,7 +14,7 @@ An attacker is unaffected by this spell if they have the Blinded condition, Blin
 ### Counterspell
 Abjuration (Sorcerer, Warlock, Wizard) Cost: 9 Spell Points. Casting Time: Reaction, which you take when you see a creature within 60 feet of yourself casting a spell with Verbal, Somatic, or Material components. Range: 60 feet. Components: S. Duration: Instantaneous.
 
-You attempt to interrupt a creature in the process of casting a spell. If their spell didn't cost more than this spell, it dissipates. Otherwise, compare your Spell check to theirs. If your Spell check exceeds theirs by more than the other spells additional cost, it also dissipates.
+You attempt to interrupt a creature in the process of casting a spell. If their spell didn't cost more than casting this spell, it dissipates. Otherwise, compare your Spell check to theirs. If your Spell check exceeds theirs by more than the other spells additional cost, it also dissipates.
 
 When their spell dissipates like this, it has no effect, and the Action, Bonus Action, or Reaction used to cast it is wasted. If it was cast with Spell Points, they regain the spent Spell Points.
 
@@ -28,7 +28,7 @@ A creature you touch regains a number of Hit Points equal to 2d8 plus your spell
 ### Dispel Magic
 Abjuration (Bard, Cleric, Druid, Paladin, Ranger, Sorcerer, Warlock, Wizard). Cost: 9 Spell Points. Casting Time: Action. Range: 120 feet. Components: V, S. Duration: Instantaneous.
 
-Choose one creature, object, or magical effect within range. Any ongoing spell on the target that didn't cost more than this spell ends. For each ongoing more costly spell on the target, compare your Spell check to its Spell check. If your Spell check exceeds the other by more than the other spells additional cost, the target spell ends.
+Choose one creature, object, or magical effect within range. Any ongoing spell on the target that didn't cost more than casting this spell ends. For each ongoing more costly spell on the target, compare your Spell check to its Spell check. If your Spell check exceeds the other by more than the other spells additional cost, the target spell ends.
 
 *Upcasting*: Every additional Spell Point increases the range of spells that are automatically ended and makes it easier to end more costly spells, as described above.
 ### Inflict Wounds
@@ -51,3 +51,9 @@ An imperceptible barrier of magical force protects you. You take no damage from 
 Abjuration (Cleric, Paladin). Cost: 3 Spell Points. Casting Time: Bonus Action. Range: 60 feet. Components: V, S, M (a prayer scroll). Duration: Concentration, up to 10 minutes.
 
 A shimmering field surrounds a creature of your choice within range, diverting incoming attacks for the duration, granting the creature a +2 bonus to their Hit DC.
+### Weavestrike
+New. Evocation (Bard, Sorcerer, Warlock, Wizard). Cost: 3 Spell Points. Casting Time: Bonus Action, which you take immediately after hitting a target that has Spell Points with a Melee attack. Range: Self. Component: V. Duration: Instantaneous.
+
+As you hit the target, it loses 3 Spell Points. If the target has a Casting Limit, these lost Spell Points count against its Casting Limit and can thus force it to [[Overcasting|Overcast]].
+
+*Upcasting*: Every additional Spell Point spent increases the number of Spell Points the target loses by 1.

@@ -1,6 +1,6 @@
 When using stealth, there are multiple aspects that can lead to being detected. Most commonly, being seen or heard is key to being detected, but scent may also play a role at some points, especially when a creature that may detect you has a keen sense of smell, like a wolf.
 
-***Passive Stealth (Scent)***: You have a base passive Stealth (Scent) score of 15. You can mask your scent to gain a bonus of +5 to this score, but you can also receive -5 to this score when giving off a strong scent that is uncommon for the place you are traversing.
+**_Passive Stealth (Scent)_**: You have a base passive Stealth (Scent) score of 15. You can mask your scent to gain a bonus of +5 to this score, but you can also receive -5 to this score when giving off a strong scent that is uncommon for the place you are traversing.
 
 The bonus might be given after applying herbs or some magic to yourself or by being washed. The malus might be given after taking a tour through the sewers, after a tough battle that left you wounded or after strenuous activity that left you sweaty.
 
