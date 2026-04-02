@@ -40,11 +40,19 @@ To continue the Shield example, if you are holding a Shield directly towards an 
 
 For example, a Medium Humanoid receives three quarters cover from a Tower Shield when crouching behind it instead of the usual half cover, while a Small Humanoid can receive full cover from a Tower Shield when crouching behind it.
 ### Damage Reduction
-**_Damage Reduction_**: Creatures now have a Damage Reduction value. This value is subtracted from any damage the wearer takes through an attack.
+**_Damage Reduction_**: Targets now have a Damage Reduction value. This value is subtracted from the damage the target takes through an attack.
 
-This subtraction happens before resistances and vulnerabilities modify the damage.
+**_Resistances & Vulnerabilities_**: Damage Reduction happens before resistances and vulnerabilities modify the damage.
 
-Every bonus to Armor Class that is not the Dexterity bonus can be converted 1:1 into a bonus for Damage Reduction, unless otherwise noted. An armour that sets the Armor Class of the wearer to 13 + Dexterity modifier will, for example, be converted to 3 Damage Reduction, because it is an Armor Class bonus of +3 compared to the base Armor Class of 10, while the Dexterity modifier is discarded. The conversion for armours can also be seen in the [[Armour Table|tables chapter]].
+**_Multiple Damage Types_**: When one attack deals damage of multiple different damage types, the Damage Reduction still only applies once to the attack, not to every type of damage it deals.
+
+Damage of different types is reduced in order, with leftover reduction being carried to the next type. Bludgeoning, Piercing and Slashing damage are reduced first, Force damage is reduced last, and all other damage types are reduced in-between. Within the first two categories, the order of reduction is chosen by the target for the attack, so you may choose to reduce Bludgeoning damage before Slashing damage and vice versa whenever relevant.
+
+For example, if an attack deals 2 Piercing damage, 2 Cold damage and 2 Force damage against a Damage Reduction of 3, the Piercing damage is reduced to 0, the Cold damage to 1 and the Force damage stays at 2, reducing the total damage dealt by 3. If it dealt Fire damage instead of Force damage, the target could have chosen to reduce the Fire damage by 1 instead of the Cold damage.
+
+**_Damage Reduction for specific Damage Types_**: Some features may give Damage Reduction against a specific damage type only. This Damage Reduction only reduces the Damage of its specified type, and its reduction takes place before general Damage Reduction is applied as described above.
+
+**_Converting AC to DR_**: Every bonus to Armor Class that is not the Dexterity bonus can be converted 1:1 into a bonus for Damage Reduction, unless otherwise noted. An armour that sets the Armor Class of the wearer to 13 + Dexterity modifier will, for example, be converted to 3 Damage Reduction, because it is an Armor Class bonus of +3 compared to the base Armor Class of 10, while the Dexterity modifier is discarded. The conversion for armours can also be seen in the [[Armour Table|tables chapter]].
 
 Damage Reduction from multiple sources stacks. However, the prerequisites for each source must still be met. For example, the Damage Reduction now gained from the Barbarians Unarmoured Defence and a heavy armour will not stack, because the heavy armour still disables the Barbarians Unarmoured Defence.
 ### Other changes
@@ -56,5 +64,11 @@ Damage Reduction from multiple sources stacks. However, the prerequisites for ea
 - It does not force an enemy to make a saving throw, and does not enhance something that forces an enemy to make a saving throw.
 
 When gaining [[Surge Dice]] at the start of your next turn, no more than three of your unspent Reactions are converted into Surge Dice.
+
+**_Dodge Action_**: If you take the Dodge action, you gain a number of Reactions equal to your Proficiency Bonus. You may only use these additional Reactions for [[Dodging]]. You also gain the following benefits until the start of your next turn:
+- You have Advantage on [[Dodging]] checks.
+- You have Advantage on Dexterity saving throws.
+
+You lose these benefits if you have the Incapacitated condition or if your Speed is 0.
 
 **_Misses?_** Any rule or feature that requires a missed attack to work also works if the attack does not deal damage because of Damage Reduction, Blocking, or Parrying. Those attacks count as both a hit and a miss in that regard. Note that Dodging explicitly causes dodged attacks to miss.

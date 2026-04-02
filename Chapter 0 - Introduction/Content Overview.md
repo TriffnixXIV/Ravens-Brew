@@ -5,12 +5,12 @@ Passive defence is also reworked, featuring changes to [[AC-less defence#Cover|C
 
 In response to attack rolls losing importance due to targets being generally easier to hit, [[Aimed Strikes]] bring new flavourful options and tactical complexities to the game by allowing creatures to target specific body parts with their attacks. This can [[Conditions|wound or disable]] the body parts in question. To work against the detrimental effects of these, [[Surgery]] and the [[Rite of Regeneration]] were added to allow their restoration. Distinct [[Chapter 4 - Equipment/Armour#Armour Pieces|armour pieces]] are introduced to fill in defence against [[Aimed Strikes]].
 
-[[Vision & Focus]] are described in detail to encourage more strategic positioning and give attackers a way to bypass their targets reactive defense.
+[[Spellcasting]] has been reworked to work through [[Spell Points]] and a [[Spell Limits]] instead, allowing for more variance between spellcasters and their playstyles. In the same vein, [[Upcasting]] has been changed a bit, [[Overcasting]] has been introduced to allow the risky choice of offering ones health for more powerful spells, and the effects of having a [[Spellcasting Focus]] are more impactful now. Spells are now also rolled with a [[Spell Check]] that can enhance spell attacks and that replaces the Spell Save DC to, once again, shift the focus more towards contested rolls. There is a small load of new spells to interface with the new spell rules and reaction economy, and many spells have seen changes to fit into this system better.
 
-[[Martial Training]] is introduced to unify a multitude of features and benefits for martials, such as Fighting Styles and Weapon Mastery.
+[[Martial Training]] is introduced to unify a multitude of features and benefits for martials, such as Fighting Styles and Weapon Mastery. [[Caster Training]] is introduced in turn to offer a parallel system for casters.
+
+[[Vision & Focus]] are described in detail to encourage more strategic positioning and give attackers a way to bypass their targets reactive defense.
 
 [[Aspects of Stealth]] are described to rework stealth in terms of various senses that can work against it and thus can be manipulated in favour of it.
 
-[[Caster Training#Spell Manipulation Features|Spell Manipulation]] is added in the same vein as reactive defence as a treat for spellcasters, because they are otherwise less affected in their action economy by the new reworks.
-
-Finally, there are adjustments to [[Classes|class features]], [[Feats|feats]], and [[Chapter 5 - Spellcasting/Spells|spells]], mainly to bring them in line with the changes to defence, [[Other Combat Changes|Grappling and shoving]] are reverted to their 2014 version, and last but not least, there is a section offering a short guide on how [[Monsters|monsters]] are affected by the reworks offered here.
+Finally, there are adjustments to [[Classes|class features]], [[Feats|feats]], and [[Chapter 5 - Spellcasting/Spells|spells]], mainly to bring them in line with the changes to defence, [[Grappling and Shoving|grappling and shoving]] are reverted to their 2014 version, and last but not least, there is a section offering a short guide on how [[Monsters|monsters]] are affected by the reworks offered here.

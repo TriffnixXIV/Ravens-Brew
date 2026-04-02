@@ -6,4 +6,4 @@ _Escaping a Grapple_: A grappled creature can use its action to escape. To do so
 
 _Moving a Grappled Creature_: When you move, you can drag or carry the grappled creature with you, but your speed is halved, unless the creature is two or more sizes smaller than you.
 
-**_Shove_**: You make a Strength (Athletics) check contested by the target's Strength (Athletics) or Dexterity (Acrobatics) check (their choice). If you win the contest, you either knock the target prone or push it 5 feet away from you. The target of your shove must be no more than one size larger than you, and it must be within your reach.
+**_Shove_**: You make a Strength (Athletics) check contested by the target's Strength (Athletics) or Dexterity (Acrobatics) check (their choice). If you win the contest, you either knock the target Prone or push it 5 feet away from you. The target of your shove must be no more than one size larger than you, and it must be within your reach.

@@ -32,7 +32,7 @@
 - moved acquisition of blocking Proficiency and Expertise to [[Martial Training]].
 - updated wording to require shield training instead of shield Proficiency, as the latter no longer exists as such.
 
-[[Other Combat Changes]]
+[[Grappling and Shoving]]
 - updated the Grapple and Shove attacks to appropriately relate to Unarmed Strikes.
 
 [[Martial Training]]
@@ -131,7 +131,7 @@ General
 ### v0.8.3
 General
 - added new chapter introductions.
-- renamed the Combat section to [[Other Combat Changes]].
+- renamed the Combat section to [[Grappling and Shoving]].
 - renamed the Magic chapter to [[Chapter 5 - Spellcasting/Spellcasting]].
 - added [[Miscellaneous Notes]] to the Appendix.
 - moved changelogs into their own folder.

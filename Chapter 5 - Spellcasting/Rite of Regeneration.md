@@ -8,11 +8,11 @@ After three Regeneration checks succeeded, the treated body part is no longer di
 
 **_Rolling a Regeneration check_**: To roll a Regeneration check, the conductor casts Cure Wounds on the target, upcasting if they choose to. The Spell check of this casting is the initial value of the Regeneration check. Any healing transmitted through this casting is also added to the result. If the result is at least 30, the check succeeds.
 
-*Rolling a 20*: When a 20 is rolled on the d20 of the Spell check, the Rite of Regeneration succeeds without the need for further Regeneration checks.
+_Rolling a 20_: When a 20 is rolled on the d20 of the Spell check, the Rite of Regeneration succeeds without the need for further Regeneration checks.
 
 **_Failing a Regeneration check_**: A failed Regeneration check does not make the Rite of Regeneration fail. Instead, when a Regeneration check fails, the target needs to succeed on a DC 15 Constitution saving throw to not receive one level of Exhaustion.
 
-*Rolling a 1*: When a 1 is rolled on the d20 of the Spell check, the Regeneration check automatically fails and the target receives one level of Exhaustion in addition to taking the consequences above.
+_Rolling a 1_: When a 1 is rolled on the d20 of the Spell check, the Regeneration check automatically fails and the target receives one level of Exhaustion in addition to taking the consequences above.
 
 **_Assisting a Rite of Regeneration_**: Creatures that are also able to cast Cure Wounds may take the Help Action on all of their turns during the Rite to give Advantage on the Regeneration checks. When doing so, they may cast the spell instead of the conductor, using a spell slot of their own.
 

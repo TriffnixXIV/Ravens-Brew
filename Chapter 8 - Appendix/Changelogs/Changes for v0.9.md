@@ -162,3 +162,84 @@ General
 - Turned all occurences of Proficiency, Expertise, Advantage and Disadvantage uppercase.
 - Now consistently uses "Proficiency in ..." and "Expertise in ..." instead of "Proficiency with ..." and "Expertise with ...".
 - Changed .md italics to use \_ instead of \*.
+### Changes for v0.9.a5
+General
+- Renamed Other Combat Changes to [[Grappling and Shoving]], as nothing else is in there.
+- Mentions the Spellcasting changes in the [[Content Overview]] now.
+
+[[Spellcasting]]
+- Moved [[Spell Points]], [[Spell Limits]], [[Upcasting]] and [[Sunken Spells & Depthcasting]] to their own chapters.
+- Rephrased the introduction a bit.
+- Introduced a Caster Proficiency Bonus that depends on the spellcaster level, but otherwise mirrors the regular Proficiency Bonus progression.
+- Adjusted Spell Limits to properly fit thirdcaster scaling.
+- Increased the number of Caster Training features to match the Caster Proficiency Bonus and removed their entry from the Spellcasting Table.
+
+[[Caster Training]]
+- Added a short passage about how many features a spellcaster has.
+- Added _Consistent Casting_ as a stepping stone before _Reliable Casting_ and changed the latter to affect the result instead of the roll.
+- Added _Everyone's Problem_ to spread Overcast to other nearby creatures.
+- Added _Flow_ to increase the Casting Limit throughout a combat.
+- Added _Hubris_ to allow Wizards to write spells they cannot afford into their spellbook and prepare those.
+- Added _Limitbreaker_ to force a successful Overcast Save once a short rest.
+- Added _Recast_ to cheapen repeated casts of the same spell.
+- Added _Snowball_ to improve spells when casting them repeatedly.
+- Turned Spell Manipulation features into [[Spells|spells]].
+- Changed _Cheat_, _Cheapskate_, _Hoarder_ and _Trash Becomes Treasure_ to use the Caster Proficiency Bonus instead.
+
+[[Spell Limits]]
+- Rephrased the paragraph on Multiclassing to not call two different things Casting Limit. Renamed one of them to Preparation Limit to ease understanding.
+- Reworked the entire section accordingly.
+- Renamed the section and references to it from Casting Limit to Spell Limits.
+
+[[Spell Check]]
+- Distinguishes between spells with singular and multiple attack rolls now. The Spell check merges into the spell attack roll in the first case, and enhances the spell attacks in the other.
+
+[[Spell Points]]
+- Elaborated a bit more.
+- Clarified that there is a Spell Point maximum and current Spell Points, similar to Hit Points.
+
+[[Spells]]
+- Grouped them by [[Spells#New Spells|new spells]], [[Spells#Reworked Spells - Defence|spells reworked due to defence changes]], [[Spells#Reworked Spells - Spell checks|spells reworked due to the introduction of Spell checks]] and [[Spells#Spells with adjusted Upcasting|spells with adjusted upcasting]].
+- [[Spells#Counterspell|Counterspell]] and [[Spells#Dispel Magic|Dispel Magic]] are now 5% better.
+- Adjusted the Upcasting costs and power of a lot of spells.
+- Changed [[Spells#Haste|Haste]] to give Advantage on Reactions instead of an AC bonus.
+- Changed [[Spells#Mage Armour|Mage Armour]] to give more Damage Reduction when upcast.
+- Changed [[Spells#Warding Bond|Warding Bond]] to give Damage Reduction instead of an AC bonus. Also, it can now be upcast.
+- Adjusted the previous Spell Manipulation features that are now Cantrips so that they fit the spell format properly.
+- Renamed Weaken to [[Spells#Guard|Guard]].
+- Added [[Spells#Chain|Chain]] to enable some binding and pulling action.
+- Added [[Spells#Gift|Gift]] to transfer Spell Points to another creature.
+- Added [[Spells#Rewind|Rewind]] to convert Surge Dice back into action economy.
+- Added [[Spells#Weavestrike|Weavestrike]] to the Paladin spell list.
+
+[[Upcasting]]
+- Added a paragraph about other upcasting intervals.
+
+[[Classes#Warlock|Warlock]]
+- Clarified that Warlocks do not have Spell Points themselves.
+- Changed Patronage to only track when the patrons Spell Points are used.
+- Clarified that the Patronage can be used as a source for Spell Points for other features, too.
+- Changed free Eldritch Invocations spells to not spend Spell Points at all.
+- Clarified that free Eldritch Invocations spells are cast with a number of Spell Points equal to your Warlock Preparation Limit.
+
+[[AC-less defence]]
+- Changed the Dodge Action to now give additional Reactions and Advantage on [[Dodging]] instead of imposing Disadvantage on attack rolls.
+- Added more paragraphs to Damage Reduction and gave all distinct rulings there names.
+	- Clarified that Damage Reduction only applies once per attack, not to each damage instance of an attack in case there are multiple instances or damage types dealt by that attack.
+	- Described in which order damage of different types is reduced.
+	- Added a paragraph about Damage Reduction that is limited to reducing damage of a specified damage type.
+
+[[Martial Training]]
+- Added _C-C-Combo_, increasing damage output the more you've hit this round.
+- Added _Untraceable_, giving the next incoming attack Disadvantage after successfully dodging.
+
+[[Vision & Focus]]
+- Being Unseen no longer gives Advantage on attack rolls. This feels narratively intuitive, as the advantage from being unseen lies in the target not being able to react to the attack, which is already implemented.
+- Removed Backstab Advantage accordingly.
+- Changed the [[Conditions#Invisible|Invisible]] and [[Conditions#Blinded|Blinded]] conditions to not give Advantage on attacks accordingly.
+- Changed the Rogues Sneak Attack to also be applicable when unseen.
+
+[[Classes]]
+- Added _Sudden Momentum_ to the [[Classes#Barbarian|Barbarian]].
+- Changed the [[Classes#Wizard|Wizards]] _Arcane Recovery_ to use Spell Points.
+- Added a [[Fullcaster Table]], [[Halfcaster Table]] and [[Thirdcaster Table]] to the Appendix and linked to them from each class.

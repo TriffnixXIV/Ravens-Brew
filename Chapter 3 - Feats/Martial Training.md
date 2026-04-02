@@ -36,6 +36,8 @@ When you receive Martial Training, you can choose the Accuracy feature described
 
 **_Bypass Cover_**: Your ranged weapon attacks ignore half cover and three-quarters cover.
 
+**_C-C-Combo_**: Your weapon attacks deal additional damage equal to your Proficiency Bonus for every time you've hit with a weapon attack since the start of your turn.
+
 **_Cleave_**: Once per turn, when you hit a creature with a melee attack using a weapon that has the Heavy property and deals Slashing damage, you can make a melee attack roll with the weapon against a second creature within 5 feet of the first that is also within your reach. On a hit, the second creature takes the weapons damage, but you don't add your ability modifier to that damage unless that modifier is negative.
 
 **_Dueling_**: When you are holding a Melee weapon in one hand and no other weapons, you gain a bonus to damage rolls with that weapon equal to your Dexterity modifier (at least 1).
@@ -123,9 +125,11 @@ If you have Proficiency in Blocking, you also add your Proficiency Bonus to your
 
 **_Dodging Expert_**: Requires Proficiency in Acrobatics. You gain Expertise in Acrobatics.
 
-**_Nimble Attack_**: Whenever you successfully dodge an attack with a Dodge & Roll, you can take a Free Reaction or Reaction mid-roll to make a ranged weapon attack with one of your weapons with the Finesse and Thrown properties against a creature of your choice within range that you can see.
+**_Nimble Attack_**: Whenever you successfully dodge an attack with a Dodge & Roll, you can take a Free Reaction or Reaction mid-roll to make a ranged attack with one of your weapons with the Finesse and Thrown properties against a creature of your choice within range that you can see.
 
 **_Prediction_**: Once per round, when you use a Reaction to Dodge an attack and roll the Dodging check with Advantage, you can Dodge another attack you can see before the start of your turn without using a Reaction. You have to use the lower die of the previous roll as the roll for the Dodging check.
+
+**_Untraceable_**: Whenever you successfully dodge an attack, the next attack against you before the start of your next turn is rolled with Disadvantage.
 ### Shield & [[Blocking]] Features
 **_Blocking Adept_**: Requires training with Shields. You gain Proficiency in Blocking.
 
@@ -137,7 +141,7 @@ If you have Proficiency in Blocking, you also add your Proficiency Bonus to your
 
 **_Protection_**: Requires Proficiency in Blocking. When a creature you can see attacks another creature within 5 feet of you, you can take a Reaction to block that attack, potentially reducing the damage the target creature takes and giving them the cover your shield provides instead of yourself.
 
-**_Shield Bash_**: Requires training with Shields and you to wield a Shield. If you hit a creature within 5 feet of you as part of the Attack action, you can immediately bash the target with your Shield, making a [[Other Combat Changes|shove attack]]. You can use this benefit only once on each of your turns.
+**_Shield Bash_**: Requires training with Shields and you to wield a Shield. If you hit a creature within 5 feet of you as part of the Attack action, you can immediately bash the target with your Shield, making a [[Grappling and Shoving|shove attack]]. You can use this benefit only once on each of your turns.
 
 **_Shield Training_**: You gain training with [[Shields]].
 ### [[Parrying]] Features

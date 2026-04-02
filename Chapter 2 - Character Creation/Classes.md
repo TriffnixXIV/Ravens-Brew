@@ -1,7 +1,15 @@
+### Barbarian
+**_Level 5 - Sudden Momentum (new)_**: When you spend Surge Dice to deal more damage with a Reckless Attack, you receive one Surge Die afterwards.
 ### Bard
+**_Updated Spellcasting Table_**: The Bard uses the [[Fullcaster Table]].
+
 **_College of Dance - Dazzling Footwork - Unarmoured Defence_**: When you aren't wearing armour or wielding a shield, you can roll Charisma (Performance) instead of Dexterity (Acrobatics) when [[Dodging]], and you add both your Charisma modifier and your Dexterity modifier to the roll.
 
 **_College of Valor - Combat Inspiration - Defence_**: When the creature is hit by an attack roll, that creature can use the Bardic Inspiration die instead of a Reaction to attempt to [[Blocking|block]], [[Parrying|parry]] or [[Dodging|dodge]] the attack. When doing so, the creature rolls the Bardic Inspiration die and adds the number rolled to the corresponding check, potentially causing the attack to miss or deal reduced damage.
+### Cleric
+**_Updated Spellcasting Table_**: The Cleric uses the [[Fullcaster Table]].
+### Druid
+**_Updated Spellcasting Table_**: The Druid uses the [[Fullcaster Table]].
 ### Fighter
 **_Tactical Master_**: When you attack with a weapon you are trained with, you can use one additional [[Martial Training]] feature on the attack that the weapon does not fulfill the requirements of.
 
@@ -12,6 +20,8 @@
 **_Battle Master - Evasive Footwork_**: As a Bonus Action, you can expend one Superiority Die and take the Disengage action. You also roll the die and add the number rolled to your Hit DC until the start of your next turn.
 
 **_Battle Master - Riposte_**: When you successfully [[Blocking|block]], [[Dodging|dodge]], or [[Parrying|parry]] a melee attack, you can expend one Superiority Die to make a melee weapon against the attacking creature. If you hit, you add the Superiority Die to the attacks damage roll.
+
+**_Eldritch Knight - Updated Spellcasting Table_**: The Eldritch Knight uses the [[Thirdcaster Table]].
 ### Monk
 **_Martial Arts - Dexterous Attacks_**: Instead of using the Dexterity modifier to determine the save DC when using the Grapple or Shove option of your Unarmed Strike, you can make a Dexterity (Athletics) check instead of a Strength (Athletics) check when attempting to Grapple or Shove, using the [[Contests|Contest]] rules.
 
@@ -21,22 +31,32 @@
 
 **_Deflect Missiles_**: May be used as part of the [[Reactions|Defence Action]].
 
-**_Level 5: Serenity (new)_**: When spending one or more Focus Points, you can instead spend the same amount of [[Surge Dice]]. You can also replace a part of the Focus Point cost with the same amount of [[Surge Dice]].
+**_Level 5 - Serenity (new)_**: When spending one or more Focus Points, you can instead spend the same amount of [[Surge Dice]]. You can also replace a part of the Focus Point cost with the same amount of [[Surge Dice]].
 
 For example, when spending 3 Focus Points, you may instead spend either 3 Surge Dice, 2 Surge Dice + 1 Focus Point, or 1 Surge Die + 2 Focus Points.
 ### Paladin
+**_Updated Spellcasting Table_**: The Paladin uses the [[Halfcaster Table]].
+
 **_Oath of Glory - Glorious Defence_**: Instead of increasing the targets AC, your Charisma modifier (minimum of 1) is subtracted from the attack roll, potentially causing the attack to miss.
 ### Ranger
+**_Updated Spellcasting Table_**: The Ranger uses the [[Halfcaster Table]].
+
 **_Beast Master_**: Instead of their AC value, the Beast Masters beast will have a Damage Reduction equal to 3 + the Rangers Wisdom modifier.
 
-**_Gloomstalker - Shadowy Dodge_**: When trying to [[Dodging|dodge]] an attack, you roll with Advantage. Afterwards, you can teleport up to 30 feet to an unoccupied space you can see, regardless of whether the [[Dodging|dodge]] was successful or not.
+**_Gloomstalker - Shadowy Dodge_**: You roll [[Dodging]] checks with Advantage. After a dodge, you can teleport up to 30 feet to an unoccupied space you can see, regardless of whether the [[Dodging|dodge]] was successful or not.
 
 **_Hunter - Multiattack Defence_**: When you use any Reaction to counter a creatures attack, you may counter all following attacks made by the same creature against you this turn without using another Reaction. Eligible Reactions include [[Blocking]], [[Dodging]], and [[Parrying]].
 ### Rogue
+**_Sneak Attack_**: Additionally, you don't need Advantage on the attack roll if your target cannot see you and you don't have Disadvantage on the attack roll.
+
 **_Uncanny Dodge_**: When your [[Dodging]] checks fail, you only take half damage instead of full damage. If you fail a Dodge & Roll or all spots within 10 feet of you are occupied when making a Dodge & Roll, you do not fall prone.
 
-**_Level 5: Prepared Strike (new)_**: When using Surge Dice to increase the damage of a Sneak Attack, the Surge Dice are d12 instead of d6.
+**_Level 5 - Prepared Strike (new)_**: When using Surge Dice to increase the damage of a Sneak Attack, the Surge Dice are d12 instead of d6.
+
+**_Arcane Trickster - Updated Spellcasting Table_**: The Arcane Trickster uses the [[Thirdcaster Table]].
 ### Sorcerer
+**_Updated Spellcasting Table_**: The Sorcerer uses the [[Fullcaster Table]].
+
 **_Sorcery Points_**: You now have Sorcery Points equal to twice your Sorcerer level instead, starting with 4 Sorcery Points at level 2. The cost of Metamagic Options is doubled accordingly.
 
 **_Sorcery Points - Converting Spell Points to Sorcery Points_**: You can spend any number of Spell Points to convert them into Sorcery Points, no action required. When doing so, 3 Spell Points become 2 Sorcery Points.
@@ -49,37 +69,42 @@ For example, when spending 3 Focus Points, you may instead spend either 3 Surge 
 
 **_Wild Magic Sorcery - Wild Magic Surge - 49-52_**: Instead of increasing your AC by 2, the floating shield gives half cover. If you already benefit from half cover, you benefit from three quarters cover instead.
 ### Warlock
-**_Eldritch Invocations_**: When an Eldritch Invocation Option allows you to cast a spell without expending a spell slot, that spell has its Spell Point cost reduced to 0 through that Eldritch Invocation instead.
+**_Pact Magic - Spell Slots_**: Similar to all other classes, you now also use [[Spellcasting#Spell Points|Spell Points]]. However, as your patron is the source of your power, you do not have these Spell Points yourself. Instead, you have the potentially enormous supply of your patron at your disposal, only limited by your ability to be your patrons conduit and your patrons willingness or pact-bound duty to provide for you. As such, you are only limited by your Casting Limit and their Patronage, as shown below.
 
-**_Pact Magic - Spell Slots_**: Similar to all other classes, you now also use [[Spellcasting#Spell Points|Spell Points]]. However, as your patron is the source of your power, you have a potentially enormous supply that is only limited by your ability to be your patrons conduit and your patrons willingness or pact-bound duty to provide for you. As such, you are only limited by your Casting Limit and their Patronage.
-
-| Level | Caster Training | Casting Limit | Patronage |
-| ----- | --------------- | ------------- | --------- |
-| 1     | 1               | 3             | 1         |
-| 2     | 1               | 5             | 2         |
-| 3     | 1               | 6             | 2         |
-| 4     | 1               | 8             | 2         |
-| 5     | 2               | 9             | 2         |
-| 6     | 2               | 11            | 2         |
-| 7     | 2               | 12            | 2         |
-| 8     | 2               | 14            | 2         |
-| 9     | 3               | 15            | 2         |
-| 10    | 3               | 17            | 2         |
-| 11    | 3               | 18            | 3         |
-| 12    | 3               | 20            | 3         |
-| 13    | 4               | 21            | 3         |
-| 14    | 4               | 23            | 3         |
-| 15    | 4               | 24            | 3         |
-| 16    | 4               | 26            | 3         |
-| 17    | 5               | 27            | 4         |
-| 18    | 5               | 29            | 4         |
-| 19    | 5               | 30            | 4         |
-| 20    | 5               | 32            | 4         |
-| x     | (x+1)/4         | 3(x+1)/2      |           |
-**_Patronage_**: The Patronage determines how often you can spend Spell Points before your patron temporarily cuts off your supply. This is the case after you've spent Spell Points a number of times as noted in the table above, with the count resetting after you finish a Short or Long Rest.
+| Level | Caster Proficiency & Training | Spell Limits | Patronage |
+| ----- | ----------------------------- | ------------ | --------- |
+| 1     | 2                             | 3            | 1         |
+| 2     | 2                             | 4            | 2         |
+| 3     | 2                             | 6            | 2         |
+| 4     | 2                             | 7            | 2         |
+| 5     | 3                             | 9            | 2         |
+| 6     | 3                             | 10           | 2         |
+| 7     | 3                             | 12           | 2         |
+| 8     | 3                             | 13           | 2         |
+| 9     | 4                             | 15           | 2         |
+| 10    | 4                             | 16           | 2         |
+| 11    | 4                             | 18           | 3         |
+| 12    | 4                             | 19           | 3         |
+| 13    | 5                             | 21           | 3         |
+| 14    | 5                             | 22           | 3         |
+| 15    | 5                             | 24           | 3         |
+| 16    | 5                             | 25           | 3         |
+| 17    | 6                             | 27           | 4         |
+| 18    | 6                             | 28           | 4         |
+| 19    | 6                             | 30           | 4         |
+| 20    | 6                             | 31           | 4         |
+**_Patronage_**: The Patronage determines how often you can spend your patrons Spell Points before they temporarily cut off your supply. This is the case after you've spent their Spell Points a number of times equal to the number noted in the table above, with the count resetting after you finish a Short or Long Rest.
 
 This may, for example, express your patrons limited willingness to offer their power to a weaker being, a lack of established trust between you and your patron, or terms of the pact agreed upon as such, with the Patronage resetting when you appeal to your patron or ask for more during a Rest, or, again, because the pact says so.
+
+**_Patronage with other Spell Point Features_**: When one of your features uses Spell Points, you can decide to use your patrons Spell Points instead, at the cost of a Patronage use. For example, you can use your Patronage to spend any number of Spell Points to get Sorcery Points through the Sorcerers conversion feature. This is constrained by the [[Spell Limits]] as usual.
+
+**_Free Eldritch Invocations_**: When an Eldritch Invocation Option allows you to cast a spell without expending a spell slot, you instead cast that spell without spending Spell Points through that Eldritch Invocation. You cast the spell as if you've spent a number of Spell Points equal to your Warlock Preparation Limit on it.
 
 **_Patronage - Variant_**: You and your DM may find your own consensus about how your patron supplies you with Spell Points. For example, you may decide that your patron offers more of their supply when you fulfill their tasks or act following their ideals, and that they cut it off only when you break a promise or act in opposition to their ideals.
 
 When finding and playing with a consensus like this, always consider how your power compares to that of your party members, so that you have neither too many Spell Points at your disposal nor too few. The narrative, however, may on occasion lead to one extreme or the other, and it can be fun and interesting to follow the narrative there from time to time. It is about the pact and relationship between you and your patron, after all. Whether you two are buddies, business partners, or one exploits or extorts the other, that is up to discussion and design.
+### Wizard
+**_Updated Spellcasting Table_**: The Wizard uses the [[Fullcaster Table]].
+
+**_Arcane Recovery_**: Once per Long Rest, when you finish a Short Rest, you can recover a number of Spell Points equal to your Wizard Preparation Limit.

@@ -4,15 +4,19 @@ This new system is motivated by two reasons. Firstly, the translation of spell s
 
 Secondly, through this system, another layer of difference is established that aims to increase spellcaster diversity through increasing the amount of feature options available to them.
 ### Core Rules
+**_Number of Caster Training Features_**: You have a number of Caster Training features equal to your Caster Proficiency Bonus. This means that when you get your first spellcaster level, you choose two Caster Training features, and every four spellcaster levels afterwards, you receive one additional Caster Training feature.
+
 **_Caster Training_**: When you receive Caster Training, choose one of the features listed in the following sections that you qualify for.
 
-**_Feats_**: The benefits of a selection of general feats are now Martial Training features. There's now a new general [[Feats|feat]] that allows the player to receive Martial Training twice.
+**_Feats_**: The benefits of a selection of general feats are now Caster Training features. There's now a new general [[Feats|feat]] that allows the player to receive Caster Training twice.
 ### Spell Features
 **_Arsenal of Tricks_**: Choose one cantrip from any class's spell list that you don't already have prepared. You have the chosen cantrip prepared, and it functions as a spell of a class of your choice. You can pick this feature multiple times.
 
 **_Bypass Cover_**: Your ranged spell attacks ignore half cover and three-quarters cover.
 
 **_Casting in Melee_**: Being within 5 feet of an enemy doesn't impose Disadvantage on your spell attack rolls.
+
+**_Consistent Casting_**: Whenever you make a Spell check, you can treat a result of 9 or less as a 10.
 
 **_Enhanced Critical_**: Choose one of the following damage types: Acid, Cold, Fire, Lightning, Necrotic, Poison, Psychic, Radiant, or Thunder. When you score a Critical Hit that deals damage of that damage type, you ignore the targets Damage Reduction and gain the benefit associated with that damage type:
 - _Acid_: The targets Damage Reduction is reduced by your Proficiency Bonus (not below 0) until the start of your next turn.
@@ -23,7 +27,7 @@ Secondly, through this system, another layer of difference is established that a
 - _Poison_: The target has the Poisoned condition until the start of your next turn.
 - _Psychic_: The target has Disadvantage on Wisdom saving throws until the start of your next turn.
 - _Radiant_: Attack rolls against the target have Advantage until the start of your next turn.
-- _Thunder_: The target has Disadvantage on attack rolls until the start of your next turn and falls prone.
+- _Thunder_: The target has Disadvantage on attack rolls until the start of your next turn and falls Prone.
 You can pick this feature multiple times, but only for different damage types.
 
 **_Force of Evil_**: Requires your alignment to be evil. When you deal necrotic damage, that damage is increased by the number of dice you roll to determine the damage.
@@ -40,7 +44,7 @@ You can pick this feature multiple times, but only for different damage types.
 
 **_Quick Ritual_**: Once per long rest, you can cast a Ritual spell that you have prepared using its regular casting time instead of the extended time for a Ritual without spending Spell Points.
 
-**_Reliable Casting_**: Whenever you make a Spell check, you can treat a result of 9 or lower as a 10.
+**_Reliable Casting_**: Requires _Consistent Casting_. Whenever you make a Spell check, you can treat a roll of 9 or lower as a 10.
 
 **_Reliable Element_**: Choose one of the following damage types: Acid, Cold, Fire, Lightning, or Thunder. When you roll damage for a spell you cast that deals damage of that type, you can treat any 1 or 2 on a damage die as a 3. You can pick this feature multiple times, but only for different damage types.
 
@@ -52,9 +56,9 @@ You can pick this feature multiple times, but only for different damage types.
 ### Spell Point Features
 **_By Any Means_**: When you [[Overcasting|Overcast]], you can chose to reroll the Overcast Save again as often as you wish, taking the Overcast Damage again each time you do so.
 
-**_Cheat_**: Once per short rest when you spend Spell Points, you can increase your Casting Limit by twice your Proficiency Bonus until the start of your next turn.
+**_Cheat_**: Once per short rest when you spend Spell Points, you can increase your Casting Limit by twice your Caster Proficiency Bonus until the start of your next turn.
 
-**_Cheapskate_**: Choose two spells with a Spell Point cost below your Spellcaster level. Its cost is reduced by your Proficiency Bonus. If the cost is reduced to below 0 this way, the rules for [[Spellcasting#Sunken Spells & Depthcasting|Sunken Spells & Depthcasting]] apply. You can pick this feature multiple times, but only for different spells.
+**_Cheapskate_**: Choose two spells with a Spell Point cost below your Spellcaster level. Its cost is reduced by your Caster Proficiency Bonus. If the cost is reduced to below 0 this way, the rules for [[Spellcasting#Sunken Spells & Depthcasting|Sunken Spells & Depthcasting]] apply. You can pick this feature multiple times, but only for different spells.
 
 If you reduce the cost of a spell that restores Hit Points to 1 or less, it only gives Temporary Hit Points when cast at reduced cost. Similarly, if you reduce the cost of a spell that permanently creates something to 1 or less, the creation becomes temporary, too. In both cases, the effects vanish as soon as you cast the spell for free again. If those spells are upcast to cost at least their initial cost, their effects return to normal.
 
@@ -64,35 +68,31 @@ For example, if you apply this feature to Cure Wounds with a Proficiency Bonus o
 
 **_Emphasis_**: When you roll a Spell check, you can spend any number of Spell Points to improve it by the number of Spell Points spent.
 
+**_Everyone's Problem_**: When you take Overcast Damage, creatures within 5 feet of have to make a Constitution saving throw against 10 or half the Overcast Damage, whichever is higher. On a failure, they take necrotic damage equal to half the Overcast Damage.
+
 **_Expectation_**: When you [[Overcasting|Overcast]], you roll Overcast Saves with Advantage.
 
-**_Hoarder_**: You have additional Spell Points equal to twice your Proficiency Bonus. You can pick this feature multiple times.
+**_Flow_**: If you've spent a number of Spell Points equal to your Casting Limit last round, your Casting Limit increases by your Caster Proficiency Bonus. This effect stacks, and it ends when you spend less Spell Points than your Casting Limit allows for in a round or when combat ends.
+
+**_Hoarder_**: Your Spell Point maximum increases by twice your Caster Proficiency Bonus. You can pick this feature multiple times.
+
+**_Hubris_**: Requires a spellbook. You may write spells into your spellbook and prepare spells from your spellbook even if their cost exceeds your Preparation Limit.
 
 **_Insistence_**: Requires _Emphasis_. When you roll a Spell check, you add a bonus to the checks total equal to half the number of Spell Points you've spent on the corresponding spellcast, rounded up.
 
-**_Trash Becomes Treasure_**: The cost of your spells with a Spell Point cost of 0 or below is reduced by your Proficiency Bonus. The rules for [[Spellcasting#Sunken Spells & Depthcasting|Sunken Spells & Depthcasting]] apply.
+**_Limitbreaker_**: Requires _By Any Means_. Once per short rest, when you fail an Overcast Save, you may choose to succeed instead.
+
+**_Recast_**: When casting a spell that you've already cast last round, the casting cost is halved.
+
+**_Snowball_**: When casting a spell that you've already cast last round and the roll of the Spell check is lower than the previous one, the previous roll replaces it.
+
+**_Trash Becomes Treasure_**: The cost of your spells with a Spell Point cost of 0 or below is reduced by your Caster Proficiency Bonus. The rules for [[Spellcasting#Sunken Spells & Depthcasting|Sunken Spells & Depthcasting]] apply.
 
 **_Weave Vampirism_**: When an object or creature other than you spends or loses Spell Points within 5ft. of you, you can use a Reaction to gain a number of Temporary Hit Points equal to the number of Spell Points spent or lost.
-### Spell Manipulation Features
-**_Thwart_**: You can use a Reaction to try to thwart a spell attack you can see that targets you or a creature you can see within 30 feet of you. Make a Spell check. If the result exceeds the attack roll by more than the spells cost, the spell attack misses its target.
-
-When trying to thwart a critical hit, you roll with Disadvantage.
-
-For Spellcasting Foci, this feature is considered to be an Abjuration spell.
-
-**_Weaken_**: You can use a Reaction to try to weaken the effect of a spell that requires a saving throw. Choose one affected creature that is either you or that you can see within 30 feet of you. They add your Spellcasting ability modifier to their saving throw.
-
-You can spend any number of Spell Points to give them an additional bonus to their saving throw equal to that amount.
-
-**_Amplify_**: You can use a Reaction to amplify a spell that wasn't cast by you within 30 feet of you. Make a Spell check. If the result exceeds 10 + the spells cost, the spell is upcast by 3 Spell Points with no additional cost.
-
-Additionally, you can spend any number of Spell Points to upcast the spell with regardless of whether you succeed on the check above.
-
-For Spellcasting Foci, this feature is considered a spell of the same school as the targeted spell.
 ### Spellcasting Focus Features
 **_Beyond Matter_**: Choose a spell school. When casting spells of that school that have material components that are neither consumed nor specify a cost, you can ignore the material components as if you were using a Spellcasting Focus. You can pick this feature multiple times, but only for different spell schools.
 
-**_Beyond The Medium_**: Choose one of your body parts and two spell schools. Your body part is now a Spellcasting Focus for spells of those schools. You can pick this feature multiple times, but not with the same combination of body part and spell schools.
+**_Beyond The Medium_**: Choose one of your body parts and two spell schools. The chosen body part is now a Spellcasting Focus for spells of the chosen schools. You can pick this feature multiple times, but not with the same combination of body part and spell schools.
 
 **_Double Up_**: When you cast a spell while using two Spellcasting Foci that are associated with its school, you add your Proficiency Bonus to the Spell check twice instead of once.
 

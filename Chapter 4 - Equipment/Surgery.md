@@ -8,11 +8,11 @@ When you have Proficiency or Expertise in both Surgery Tools and an associated s
 
 After three Surgery checks succeeded, the treated body part is no longer disabled. Instead, it is wounded until the target takes a long rest. Afterwards, the body part is healthy again.
 
-*Rolling a 20*: When a 20 is rolled on the d20, the Surgery succeeds without the need for further Surgery checks.
+_Rolling a 20_: When a 20 is rolled on the d20, the Surgery succeeds without the need for further Surgery checks.
 
 **_Failing a Surgery check_**: A failed Surgery check does not make the Surgery fail. Instead, when a Surgery check fails, the target must succeed on a DC 15 Constitution saving throw to not take 1d4+1 piercing damage that can not be reduced.
 
-*Rolling a 1*: When a 1 is rolled on the d20, the Surgery check automatically fails. Instead of the consequences above, the target must roll a DC 20 Constitution saving throw, taking 4d4+4 piercing damage on a failed save, half as much on a successful one. This damage can not be reduced.
+_Rolling a 1_: When a 1 is rolled on the d20, the Surgery check automatically fails. Instead of the consequences above, the target must roll a DC 20 Constitution saving throw, taking 4d4+4 piercing damage on a failed save, half as much on a successful one. This damage can not be reduced.
 
 **_Anaesthesia_**: The Surgery Tools include anaesthetics that can make the target creature unresponsive, giving them the Unconscious condition. The following effects also apply:
 - The surgeon rolls an additional 1d4 on each Surgery check and adds the number rolled to the result.
