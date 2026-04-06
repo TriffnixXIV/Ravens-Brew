@@ -141,7 +141,7 @@ If you have Proficiency in Blocking, you also add your Proficiency Bonus to your
 
 **_Protection_**: Requires Proficiency in Blocking. When a creature you can see attacks another creature within 5 feet of you, you can take a Reaction to block that attack, potentially reducing the damage the target creature takes and giving them the cover your shield provides instead of yourself.
 
-**_Shield Bash_**: Requires training with Shields and you to wield a Shield. If you hit a creature within 5 feet of you as part of the Attack action, you can immediately bash the target with your Shield, making a [[Grappling and Shoving|shove attack]]. You can use this benefit only once on each of your turns.
+**_Shield Bash_**: Requires training with Shields and you to wield a Shield. If you hit a creature within 5 feet of you as part of the Attack action, you can immediately bash the target with your Shield, making a [[Grappling & Shoving|shove attack]]. You can use this benefit only once on each of your turns.
 
 **_Shield Training_**: You gain training with [[Shields]].
 ### [[Parrying]] Features

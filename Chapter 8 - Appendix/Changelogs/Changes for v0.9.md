@@ -1,8 +1,8 @@
 This version introduces the Spellcasting Rework.
-### Changes for v0.9.a1
+### v0.9.a1
 [[Spellcasting]]
 - Reworked Spellcasting to work through [[Spellcasting#Spell Points|Spell Points]] instead of Spell Slots.
-- Spellcasting is now only limited by the [[Spellcasting#Casting Limit|Casting Limit]].
+- Spellcasting is now only limited by the [[Spell Limits#Casting Limit|Casting Limit]].
 - Added [[Overcasting]] to allow breaking the Casting Limit in exchange for damage and a debuff.
 - You now roll a [[Spell Check|Spell check]] every time you cast a spell to determine how forceful it is, the first attack roll, and the save DC for the targets.
 
@@ -39,7 +39,7 @@ This version introduces the Spellcasting Rework.
 [[Martial Training]]
 - Changed Interception to only work with Melee weapons and against Melee weapon attacks.
 - Added the Arrow Splitting feature to allow parrying Ranged weapon attacks.
-### Changes for v0.9.a2
+### v0.9.a2
 General
 - Updated this file :)
 
@@ -67,7 +67,7 @@ General
 
 [[Spells]]
 - Changed [[Spells#Counterspell|Counterspell]] to be harder against more costly spells.
-### Changes for v0.9.a3
+### v0.9.a3
 [[Spellcasting]]
 - Moved the [[Spellcasting#Spell Points|Spell Points]] chapter into this chapter.
 - Explicated that these rules refer to initial Spell Point cost when speaking of a Spell Point cost and that they explicitly reference final costs otherwise. Changed the rules to actually fulfill this standard.
@@ -110,7 +110,7 @@ General
 [[Martial Training]]
 - Renamed Combat Training to Martial Training.
 - Merged the three Enhanced Critical features into one and added the benefit that Critical Hits of the chosen damage type ignore Damage Reduction.
-### Changes for v0.9.a4
+### v0.9.a4
 [[Caster Training]]
 - Turned [[Spells#Weavestrike|Weavestrike]] into a spell.
 - Added _Arsenal of Tricks_ as an option to get more cantrips.
@@ -162,9 +162,9 @@ General
 - Turned all occurences of Proficiency, Expertise, Advantage and Disadvantage uppercase.
 - Now consistently uses "Proficiency in ..." and "Expertise in ..." instead of "Proficiency with ..." and "Expertise with ...".
 - Changed .md italics to use \_ instead of \*.
-### Changes for v0.9.a5
+### v0.9.a5
 General
-- Renamed Other Combat Changes to [[Grappling and Shoving]], as nothing else is in there.
+- Renamed Other Combat Changes to [[Grappling & Shoving]], as nothing else is in there.
 - Mentions the Spellcasting changes in the [[Content Overview]] now.
 
 [[Spellcasting]]
@@ -183,7 +183,7 @@ General
 - Added _Limitbreaker_ to force a successful Overcast Save once a short rest.
 - Added _Recast_ to cheapen repeated casts of the same spell.
 - Added _Snowball_ to improve spells when casting them repeatedly.
-- Turned Spell Manipulation features into [[Spells|spells]].
+- Turned Spell Manipulation features into [[Spells#New Spells|spells]].
 - Changed _Cheat_, _Cheapskate_, _Hoarder_ and _Trash Becomes Treasure_ to use the Caster Proficiency Bonus instead.
 
 [[Spell Limits]]
@@ -243,3 +243,28 @@ General
 - Added _Sudden Momentum_ to the [[Classes#Barbarian|Barbarian]].
 - Changed the [[Classes#Wizard|Wizards]] _Arcane Recovery_ to use Spell Points.
 - Added a [[Fullcaster Table]], [[Halfcaster Table]] and [[Thirdcaster Table]] to the Appendix and linked to them from each class.
+### v0.9
+[[Caster Training]]
+- Made _Arsenal of Tricks_ give two cantrips instead.
+- Changed _Cheat_ and _Limitbreaker_ to recharge on Long Rest, too.
+- Changed _Cheapskate_ so that healing and creation spells regain their effects when cast for at least 2 Spell Points instead of at their initial cost. Also changed it so that the temporary effects vanish when casting the spell for 1 Spell Point or less instead of when casting it for free, similar to the other conditions there before.
+- Clarified that _Consistent Casting_ affects the check total and _Reliable Casting_ affects the roll of the d20.
+- Added _Gambler_.
+
+[[Spell Limits]]
+- Clarified how to determine Casting Limit and Preparation Limit.
+
+[[Overcasting]]
+- Made Weavestrain reduction use the Caster Proficiency Bonus instead and moved it to [[Conditions]].
+
+[[Sunken Spells & Depthcasting]]
+- Reworded _Depthcasting_ a bit to be in line with other similar passages.
+
+[[Classes#Warlock|Warlock]]
+- Properly adjusted the Pact Magic table to fit the Spellcasting Table.
+
+[[Classes#Wizard|Wizard]]
+- Changed the _Arcane Ward_ to interact with cheapened spells and Sunken Spells similarly to _Cheapskate_.
+
+[[Armour]]
+- Changed the table to use the changed Dodging check modifiers from the last minor version. Adjusted the text above accordingly.

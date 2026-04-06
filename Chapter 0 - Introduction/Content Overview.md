@@ -13,4 +13,4 @@ In response to attack rolls losing importance due to targets being generally eas
 
 [[Aspects of Stealth]] are described to rework stealth in terms of various senses that can work against it and thus can be manipulated in favour of it.
 
-Finally, there are adjustments to [[Classes|class features]], [[Feats|feats]], and [[Chapter 5 - Spellcasting/Spells|spells]], mainly to bring them in line with the changes to defence, [[Grappling and Shoving|grappling and shoving]] are reverted to their 2014 version, and last but not least, there is a section offering a short guide on how [[Monsters|monsters]] are affected by the reworks offered here.
+Finally, there are adjustments to [[Classes|class features]], [[Feats|feats]], and [[Chapter 5 - Spellcasting/Spells|spells]], mainly to bring them in line with the changes to defence, [[Grappling & Shoving|grappling and shoving]] are reverted to their 2014 version, and last but not least, there is a section offering a short guide on how [[Monsters|monsters]] are affected by the reworks offered here.

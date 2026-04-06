@@ -11,7 +11,7 @@
 - moved Wounded and Disabled to a new chapter on [[Conditions]].
 - added a table offering example body part sizes for a Medium Humanoid.
 
-[[Chapter 4 - Equipment/Armour]]
+[[Armour]]
 - added two new shields and rephrased how they work in terms of size. Moved them to the [[Shields]] chapter.
 - explicated that Damage Reduction from armour usually only works against attacks that aren't Aimed Strikes, unless the armour includes coverage of the targeted body part.
 - added some rudimentary rules for armour pieces to cover other body parts.
@@ -32,7 +32,7 @@
 - moved acquisition of blocking Proficiency and Expertise to [[Martial Training]].
 - updated wording to require shield training instead of shield Proficiency, as the latter no longer exists as such.
 
-[[Grappling and Shoving]]
+[[Grappling & Shoving]]
 - updated the Grapple and Shove attacks to appropriately relate to Unarmed Strikes.
 
 [[Martial Training]]
@@ -131,8 +131,8 @@ General
 ### v0.8.3
 General
 - added new chapter introductions.
-- renamed the Combat section to [[Grappling and Shoving]].
-- renamed the Magic chapter to [[Chapter 5 - Spellcasting/Spellcasting]].
+- renamed the Combat section to [[Grappling & Shoving]].
+- renamed the Magic chapter to [[Spellcasting]].
 - added [[Miscellaneous Notes]] to the Appendix.
 - moved changelogs into their own folder.
 - fixed some spelling mistakes and changed some wordings.

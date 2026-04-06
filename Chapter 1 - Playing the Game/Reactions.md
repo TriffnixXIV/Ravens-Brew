@@ -14,4 +14,4 @@ Every feature that uses a Free Reaction can also use a Reaction instead.
 
 **_Reserving Reactions_**: At the start your turn, you gain 1 [[Surge Dice|Surge Die]] per Reaction you did not use. If you were unable to use these Reactions because you were Incapacitated, this conversion does not happen.
 
-**_Reactive Defence_**: There are now options to reactively defend against incoming attacks and other effects. These include [[Dodging]], [[Blocking]] and [[Parrying]], as detailed within the Rules Glossary. For spellcasters, [[Caster Training#Spell Manipulation Features|Spell Manipulation]] and some of the changed [[Spells]] provide options for reactive defence.
+**_Reactive Defence_**: There are now options to reactively defend against incoming attacks and other effects. These include [[Dodging]], [[Blocking]] and [[Parrying]], as detailed within the Rules Glossary. For spellcasters, some of the [[Spells#New Spells|new]] and [[Spells#Reworked Spells - Defence|reworked spells]] provide options for reactive defence.

@@ -11,6 +11,10 @@ While you have the Invisible condition, you experience the following effects.
 - _Surprise_: If you're Invisible when you roll Initiative, you have Advantage on the roll.
 - _Concealed_: You aren't affected by any effect that requires its target to be seen unless the effect's creator can somehow see you. Any equipment you are wearing or carrying is also concealed.
 - _Impairing Aim_: Attack rolls against you have Disadvantage. If a creature can somehow see you, you don't gain this benefit against that creature.
+### Weavestrain
+For every stack of Weavestrain you have, your [[Spell Limits#Casting Limit|Casting Limit]] is reduced by 1. If your Casting Limit is below 0, you also have to [[Overcasting|Overcast]] when using cantrips, and [[Sunken Spells & Depthcasting|Depthcasting]] only upcasts by as many [[Spell Points]] as are needed to reach the Casting Limit.
+
+After finishing a Short Rest, you lose one stack of Weavestrain, and after finishing a Long Rest, you lose a number of stacks of Weavestrain equal to your Caster Proficiency Bonus.
 ### Wounded
 A Wounded body part is more difficult to use. D20 Tests that rely on that body part are rolled with Disadvantage. If a body part is Wounded and receives another wound, it becomes Disabled instead.
 

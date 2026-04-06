@@ -56,7 +56,7 @@ For example, if an attack deals 2 Piercing damage, 2 Cold damage and 2 Force dam
 
 Damage Reduction from multiple sources stacks. However, the prerequisites for each source must still be met. For example, the Damage Reduction now gained from the Barbarians Unarmoured Defence and a heavy armour will not stack, because the heavy armour still disables the Barbarians Unarmoured Defence.
 ### Other changes
-**_Reactive Defence_**: There are now options to reactively defend against incoming attacks and other effects. These include [[Dodging]], [[Blocking]] and [[Parrying]], as detailed within the Rules Glossary. For spellcasters, [[Caster Training#Spell Manipulation Features|Spell Manipulation]] and some of the changed [[Chapter 5 - Spellcasting/Spells|Spells]] provide options for reactive defence.
+**_Reactive Defence_**: There are now options to reactively defend against incoming attacks and other effects. These include [[Dodging]], [[Blocking]] and [[Parrying]], as detailed within the Rules Glossary. For spellcasters, some of the [[Spells#New Spells|new]] and [[Spells#Reworked Spells - Defence|reworked spells]] provide options for reactive defence.
 
 **_Defence Action_**: You can use your Action to take the Defence Action. Doing so gives you a number of Reactions equal to your Proficiency Bonus. You may only use these additional Reactions for defensive Reactions, including [[Dodging]], [[Blocking]], [[Parrying]], or another Reaction that fulfills the following conditions:
 - It does not deal damage, and it does not enhance something that deals damage.
@@ -68,6 +68,8 @@ When gaining [[Surge Dice]] at the start of your next turn, no more than three o
 **_Dodge Action_**: If you take the Dodge action, you gain a number of Reactions equal to your Proficiency Bonus. You may only use these additional Reactions for [[Dodging]]. You also gain the following benefits until the start of your next turn:
 - You have Advantage on [[Dodging]] checks.
 - You have Advantage on Dexterity saving throws.
+
+When gaining [[Surge Dice]] at the start of your next turn, no more than three of your unspent Reactions are converted into Surge Dice.
 
 You lose these benefits if you have the Incapacitated condition or if your Speed is 0.
 

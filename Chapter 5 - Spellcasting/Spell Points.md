@@ -1,4 +1,4 @@
-Spell Slots are replaced by Spell Points and a Casting Limit. These rules run roughly parallel to the variant rule in the 2014 DMG.
+Spell Slots are replaced by Spell Points and [[Spell Limits]]. These rules run roughly parallel to the variant rule in the 2014 DMG.
 
 **_Spell Points_**: Instead of gaining a number of Spell Slots from the Spellcasting feature, you now gain a number of Spell Points that determine your Spell Point maximum. You can't have more Spell Points than your Spell Point maximum, and you can't have less than 0. Your current Spell Points are set to your Spell Point maximum when you finish a long rest, similar to Hit Points.
 

@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapter 8 - Appendix/Tables/Spellcasting Table.md",
+                "file": "Chapter 5 - Spellcasting/Spell Points.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Spellcasting Table"
+              "title": "Spell Points"
             }
           }
         ]
@@ -32,7 +32,7 @@
           {
             "id": "12842177f9c6153e",
             "type": "tabs",
-            "dimension": 41.666666666666664,
+            "dimension": 41.66666666666666,
             "children": [
               {
                 "id": "a18e8aca76a4a344",
@@ -67,7 +67,7 @@
           {
             "id": "7679dbee04eec94e",
             "type": "tabs",
-            "dimension": 58.333333333333336,
+            "dimension": 58.33333333333334,
             "children": [
               {
                 "id": "578bf44b5d9e4c19",
@@ -232,41 +232,41 @@
   },
   "active": "a18e8aca76a4a344",
   "lastOpenFiles": [
-    "Chapter 8 - Appendix/Tables/Spellcasting Table.md",
-    "Chapter 8 - Appendix/Tables/Halfcaster Table.md",
-    "Chapter 8 - Appendix/Tables/Fullcaster Table.md",
-    "Chapter 3 - Feats/Caster Training.md",
-    "Chapter 3 - Feats/Martial Training.md",
-    "Chapter 3 - Feats/Feats.md",
-    "Chapter 2 - Character Creation/Classes.md",
-    "Chapter 7 - DM Tools/Monsters.md",
-    "Private/Monster Stat Table.md",
-    "Chapter 0 - Introduction/Content Overview.md",
-    "Chapter 8 - Appendix/Tables/Thirdcaster Table.md",
-    "Todo.md",
-    "Chapter 8 - Appendix/Changelogs/Changes for v0.9.md",
-    "Chapter 5 - Spellcasting/Spellcasting.md",
-    "Private/Raven's Brew.md",
-    "Chapter 0 - Introduction/Introduction.md",
-    "Chapter 8 - Appendix/Appendix.md",
-    "Chapter 1 - Playing the Game/Vision & Focus.md",
-    "Chapter 5 - Spellcasting/Spell Limits.md",
-    "Chapter 8 - Appendix/Tables/Shield Table.md",
-    "Chapter 6 - Rules Glossary/Dodging.md",
-    "Chapter 6 - Rules Glossary/Conditions.md",
-    "Chapter 6 - Rules Glossary/Rules Glossary.md",
-    "Chapter 5 - Spellcasting/Spell Check.md",
-    "Chapter 5 - Spellcasting/Spells.md",
+    "Private/HTML stuff/Downloads/Raven's Brew v0.9-dev raw text.zip",
+    "Private/HTML stuff/Downloads/Raven's Brew v0.9-dev Markdown.zip",
+    "Private/HTML stuff/Downloads/Raven's Brew v0.9-dev HTML.zip",
+    "Private/HTML stuff/Downloads/Raven's Brew v0.2.pdf",
+    "Private/HTML stuff/Downloads/Raven's Brew v0.9.a-dev raw text.zip",
+    "Private/HTML stuff/Downloads/Raven's Brew v0.9.a-dev Markdown.zip",
+    "Private/HTML stuff/Downloads/v0.9.a-dev raw text.zip",
+    "Private/HTML stuff/Downloads/Raven's Brew v0.9.a5-dev Markdown.zip",
+    "Raven's Brew v0.9.a5-dev Markdown.zip",
+    "Private/HTML stuff/Downloads/Raven's Brew v0.9.a-dev HTML.zip",
+    "Private/HTML stuff/Files/Raven's Brew v0.9.a-dev HTML.zip",
     "Chapter 5 - Spellcasting/Spell Points.md",
-    "Private/Adventures/The Grey Council/Die Gruppe",
-    "Private/Adventures/The Grey Council",
-    "Private/PDF stuff/RavensBrew v0.9.a4.pdf",
-    "Private/PDF stuff/RavensBrew (copy).pdf",
-    "Private/PDF stuff/RavensBrew.synctex(busy)",
-    "Private/PDF stuff/pdflatex14430.fls",
-    "Private/PDF stuff/pdflatex14428.fls",
-    "Private/PDF stuff/pdflatex14389.fls",
-    "Private/PDF stuff/pdflatex14387.fls",
-    "Private/PDF stuff/pdflatex14378.fls"
+    "Chapter 5 - Spellcasting/Spell Limits.md",
+    "Chapter 8 - Appendix/Changelogs/Changes for v0.9.md",
+    "Chapter 2 - Character Creation/Classes.md",
+    "Chapter 8 - Appendix/Tables/Thirdcaster Table.md",
+    "Chapter 8 - Appendix/Tables/Halfcaster Table.md",
+    "Chapter 3 - Feats/Caster Training.md",
+    "Chapter 5 - Spellcasting/Spells.md",
+    "Chapter 5 - Spellcasting/Overcasting.md",
+    "Chapter 6 - Rules Glossary/Conditions.md",
+    "Chapter 5 - Spellcasting/Spellcasting.md",
+    "Chapter 5 - Spellcasting/Upcasting.md",
+    "Chapter 8 - Appendix/Tables/Spellcasting Table.md",
+    "Chapter 8 - Appendix/Tables/Spell Slot Translation Table.md",
+    "Chapter 8 - Appendix/Tables/Extended Size Table.md",
+    "Chapter 8 - Appendix/Tables/Pact Magic Table.md",
+    "Chapter 8 - Appendix/Tables/Fullcaster Table.md",
+    "Chapter 5 - Spellcasting/Spellcasting Focus.md",
+    "Todo.md",
+    "Chapter 8 - Appendix/Changelogs/Changes for v0.8.md",
+    "Chapter 8 - Appendix/Changelogs/Changes for v0.7.md",
+    "Chapter 8 - Appendix/Changelogs/Changes for v0.6.md",
+    "Chapter 8 - Appendix/Changelogs/Changes for v0.4.md",
+    "Chapter 1 - Playing the Game/Reactions.md",
+    "Chapter 1 - Playing the Game/AC-less defence.md"
   ]
 }

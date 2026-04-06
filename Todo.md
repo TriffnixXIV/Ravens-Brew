@@ -1,5 +1,6 @@
 ### for v0.9
 - add guidance for converting monsters that use spellcasting to use Spell Points.
+- think about introducing Spell Power = Spell Points spent + Spell Point reduction more. Would be nice for Counterspell, Dispel Magic, TBT and Depthcasting, would complicate the baseline.
 ### for whenevs
 add descriptions of the three kinds of [[Monsters]], Sponges, Shells and Smalls.
 turn bold italic text into h6 in Obsidian to be able to use them as link targets

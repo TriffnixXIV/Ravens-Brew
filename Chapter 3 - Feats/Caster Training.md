@@ -10,13 +10,13 @@ Secondly, through this system, another layer of difference is established that a
 
 **_Feats_**: The benefits of a selection of general feats are now Caster Training features. There's now a new general [[Feats|feat]] that allows the player to receive Caster Training twice.
 ### Spell Features
-**_Arsenal of Tricks_**: Choose one cantrip from any class's spell list that you don't already have prepared. You have the chosen cantrip prepared, and it functions as a spell of a class of your choice. You can pick this feature multiple times.
+**_Arsenal of Tricks_**: Choose two cantrips from any class's spell list that you don't already have prepared. You have the chosen cantrip prepared, and it functions as a spell of a class of your choice. You can pick this feature multiple times.
 
 **_Bypass Cover_**: Your ranged spell attacks ignore half cover and three-quarters cover.
 
 **_Casting in Melee_**: Being within 5 feet of an enemy doesn't impose Disadvantage on your spell attack rolls.
 
-**_Consistent Casting_**: Whenever you make a Spell check, you can treat a result of 9 or less as a 10.
+**_Consistent Casting_**: Whenever you make a Spell check, you can treat a check total of 9 or less as a check total of 10.
 
 **_Enhanced Critical_**: Choose one of the following damage types: Acid, Cold, Fire, Lightning, Necrotic, Poison, Psychic, Radiant, or Thunder. When you score a Critical Hit that deals damage of that damage type, you ignore the targets Damage Reduction and gain the benefit associated with that damage type:
 - _Acid_: The targets Damage Reduction is reduced by your Proficiency Bonus (not below 0) until the start of your next turn.
@@ -34,6 +34,11 @@ You can pick this feature multiple times, but only for different damage types.
 
 **_Force of Good_**: Requires your alignment to be good. When you deal radiant damage, that damage is increased by the number of dice you roll to determine the damage.
 
+**_Gambler_**: You can mold your damaging spells to deal more damage by taking a bit of risk. You gain the following feature and effects:
+- Before rolling the Spell check, you can choose to increase the spells damage by reducing your Spell check by a number of d4s. For every d4 you reduce your Spell check by, the damage increases by one damage die.
+- When you roll a 1 on the d20 of the Spell check or the total is 0 or below, the spell dissipates, having no effect, the Action, Bonus Action, or Reaction you've used to cast it is wasted, and you regain the spent Spell Points.
+- When you roll a 20 on the d20 and the spell is not an attack, the spell is a Critical Hit regardless. Roll the damage dice twice and add them together to determine the damage.
+
 **_Iron Will_**: You have Advantage on Constitution saving throws that you make to maintain Concentration.
 
 **_Irresistible Element_**: Choose one of the following damage types: Acid, Cold, Fire, Lightning, or Thunder. Spells you cast ignore Resistance to damage of the chosen type. You can pick this feature multiple times, but only for different damage types.
@@ -44,7 +49,7 @@ You can pick this feature multiple times, but only for different damage types.
 
 **_Quick Ritual_**: Once per long rest, you can cast a Ritual spell that you have prepared using its regular casting time instead of the extended time for a Ritual without spending Spell Points.
 
-**_Reliable Casting_**: Requires _Consistent Casting_. Whenever you make a Spell check, you can treat a roll of 9 or lower as a 10.
+**_Reliable Casting_**: Requires _Consistent Casting_. Whenever you make a Spell check, you can treat a roll of 9 or lower on the d20 as a 10.
 
 **_Reliable Element_**: Choose one of the following damage types: Acid, Cold, Fire, Lightning, or Thunder. When you roll damage for a spell you cast that deals damage of that type, you can treat any 1 or 2 on a damage die as a 3. You can pick this feature multiple times, but only for different damage types.
 
@@ -56,11 +61,11 @@ You can pick this feature multiple times, but only for different damage types.
 ### Spell Point Features
 **_By Any Means_**: When you [[Overcasting|Overcast]], you can chose to reroll the Overcast Save again as often as you wish, taking the Overcast Damage again each time you do so.
 
-**_Cheat_**: Once per short rest when you spend Spell Points, you can increase your Casting Limit by twice your Caster Proficiency Bonus until the start of your next turn.
+**_Cheat_**: Once per Short or Long Rest when you spend Spell Points, you can increase your Casting Limit by twice your Caster Proficiency Bonus until the start of your next turn.
 
 **_Cheapskate_**: Choose two spells with a Spell Point cost below your Spellcaster level. Its cost is reduced by your Caster Proficiency Bonus. If the cost is reduced to below 0 this way, the rules for [[Spellcasting#Sunken Spells & Depthcasting|Sunken Spells & Depthcasting]] apply. You can pick this feature multiple times, but only for different spells.
 
-If you reduce the cost of a spell that restores Hit Points to 1 or less, it only gives Temporary Hit Points when cast at reduced cost. Similarly, if you reduce the cost of a spell that permanently creates something to 1 or less, the creation becomes temporary, too. In both cases, the effects vanish as soon as you cast the spell for free again. If those spells are upcast to cost at least their initial cost, their effects return to normal.
+If you reduce the cost of a spell that restores Hit Points to 1 Spell Point or less, it only gives Temporary Hit Points when cast at reduced cost. Similarly, if you reduce the cost of a spell that permanently creates something to 1 Spell Point or less, the creation becomes temporary, too. In both cases, the effects vanish as soon as you cast the spell for 1 Spell Point or less again. If those spells are upcast to cost at least 2 Spell Points, their effects return to normal.
 
 For example, if you apply this feature to Cure Wounds with a Proficiency Bonus of +3, you can cast it for free to give the target 2d8+mod Temporary Hit Points until you cast it for free again, or upcast it by 3 to spend the initial cost of 3 Spell Points to restore the 4d8+mod Hit Points that would usually cost 6 Spell Points.
 
@@ -80,7 +85,7 @@ For example, if you apply this feature to Cure Wounds with a Proficiency Bonus o
 
 **_Insistence_**: Requires _Emphasis_. When you roll a Spell check, you add a bonus to the checks total equal to half the number of Spell Points you've spent on the corresponding spellcast, rounded up.
 
-**_Limitbreaker_**: Requires _By Any Means_. Once per short rest, when you fail an Overcast Save, you may choose to succeed instead.
+**_Limitbreaker_**: Requires _By Any Means_. Once per Short or Long Rest when you fail an Overcast Save, you may choose to succeed instead.
 
 **_Recast_**: When casting a spell that you've already cast last round, the casting cost is halved.
 

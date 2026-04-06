@@ -69,30 +69,30 @@ For example, when spending 3 Focus Points, you may instead spend either 3 Surge 
 
 **_Wild Magic Sorcery - Wild Magic Surge - 49-52_**: Instead of increasing your AC by 2, the floating shield gives half cover. If you already benefit from half cover, you benefit from three quarters cover instead.
 ### Warlock
-**_Pact Magic - Spell Slots_**: Similar to all other classes, you now also use [[Spellcasting#Spell Points|Spell Points]]. However, as your patron is the source of your power, you do not have these Spell Points yourself. Instead, you have the potentially enormous supply of your patron at your disposal, only limited by your ability to be your patrons conduit and your patrons willingness or pact-bound duty to provide for you. As such, you are only limited by your Casting Limit and their Patronage, as shown below.
+**_Pact Magic - Spell Slots_**: Similar to all other classes, you now also use [[Spellcasting#Spell Points|Spell Points]]. However, as your patron is the source of your power, you do not have these Spell Points yourself. Instead, you have the potentially enormous supply of your patron at your disposal, only limited by your ability to be your patrons conduit and your patrons willingness or pact-bound duty to provide for you. As such, you are only limited by your [[Spell Limits]] and their Patronage, as shown below.
 
 | Level | Caster Proficiency & Training | Spell Limits | Patronage |
 | ----- | ----------------------------- | ------------ | --------- |
 | 1     | 2                             | 3            | 1         |
-| 2     | 2                             | 4            | 2         |
-| 3     | 2                             | 6            | 2         |
-| 4     | 2                             | 7            | 2         |
-| 5     | 3                             | 9            | 2         |
-| 6     | 3                             | 10           | 2         |
-| 7     | 3                             | 12           | 2         |
-| 8     | 3                             | 13           | 2         |
-| 9     | 4                             | 15           | 2         |
-| 10    | 4                             | 16           | 2         |
-| 11    | 4                             | 18           | 3         |
-| 12    | 4                             | 19           | 3         |
-| 13    | 5                             | 21           | 3         |
-| 14    | 5                             | 22           | 3         |
-| 15    | 5                             | 24           | 3         |
-| 16    | 5                             | 25           | 3         |
+| 2     |                               | 4            | 2         |
+| 3     |                               | 6            |           |
+| 4     |                               | 7            |           |
+| 5     | 3                             | 9            |           |
+| 6     |                               | 10           |           |
+| 7     |                               | 12           |           |
+| 8     |                               | 13           |           |
+| 9     | 4                             | 15           |           |
+| 10    |                               | 16           |           |
+| 11    |                               | 18           | 3         |
+| 12    |                               | 19           |           |
+| 13    | 5                             | 21           |           |
+| 14    |                               | 22           |           |
+| 15    |                               | 24           |           |
+| 16    |                               | 25           |           |
 | 17    | 6                             | 27           | 4         |
-| 18    | 6                             | 28           | 4         |
-| 19    | 6                             | 30           | 4         |
-| 20    | 6                             | 31           | 4         |
+| 18    |                               | 28           |           |
+| 19    |                               | 30           |           |
+| 20    |                               | 31           |           |
 **_Patronage_**: The Patronage determines how often you can spend your patrons Spell Points before they temporarily cut off your supply. This is the case after you've spent their Spell Points a number of times equal to the number noted in the table above, with the count resetting after you finish a Short or Long Rest.
 
 This may, for example, express your patrons limited willingness to offer their power to a weaker being, a lack of established trust between you and your patron, or terms of the pact agreed upon as such, with the Patronage resetting when you appeal to your patron or ask for more during a Rest, or, again, because the pact says so.
@@ -108,3 +108,9 @@ When finding and playing with a consensus like this, always consider how your po
 **_Updated Spellcasting Table_**: The Wizard uses the [[Fullcaster Table]].
 
 **_Arcane Recovery_**: Once per Long Rest, when you finish a Short Rest, you can recover a number of Spell Points equal to your Wizard Preparation Limit.
+
+**_Abjurer - Arcane Ward_**: Instead of depending on the use of a spell slot, the Arcane Ward now depends on the use of Spell Points. Whenever you cast an Abjuration spell with Spell Points, the ward regains a number of Hit Points equal to the number of Spell Points spent.
+
+Alternatively, as a Bonus Action, you can spend any number of Spell Points, and the ward regains a number Hit Points equal to the number of Spell Points spent.
+
+When casting an Abjuration spell with reduced Spell Point cost, the ward gains a number of Temporary Hit Points equal to the Spell Point cost reduction.
