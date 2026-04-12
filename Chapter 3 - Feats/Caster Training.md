@@ -16,8 +16,6 @@ Secondly, through this system, another layer of difference is established that a
 
 **_Casting in Melee_**: Being within 5 feet of an enemy doesn't impose Disadvantage on your spell attack rolls.
 
-**_Consistent Casting_**: Whenever you make a Spell check, you can treat a check total of 9 or less as a check total of 10.
-
 **_Enhanced Critical_**: Choose one of the following damage types: Acid, Cold, Fire, Lightning, Necrotic, Poison, Psychic, Radiant, or Thunder. When you score a Critical Hit that deals damage of that damage type, you ignore the targets Damage Reduction and gain the benefit associated with that damage type:
 - _Acid_: The targets Damage Reduction is reduced by your Proficiency Bonus (not below 0) until the start of your next turn.
 - _Cold_: The targets Speed is reduced to 0 until the start of your next turn and can't increase until then.
@@ -49,7 +47,7 @@ You can pick this feature multiple times, but only for different damage types.
 
 **_Quick Ritual_**: Once per long rest, you can cast a Ritual spell that you have prepared using its regular casting time instead of the extended time for a Ritual without spending Spell Points.
 
-**_Reliable Casting_**: Requires _Consistent Casting_. Whenever you make a Spell check, you can treat a roll of 9 or lower on the d20 as a 10.
+**_Reliable Casting_**: Whenever you make a Spell check, you can treat a roll of 7 or lower on the d20 as an 8.
 
 **_Reliable Element_**: Choose one of the following damage types: Acid, Cold, Fire, Lightning, or Thunder. When you roll damage for a spell you cast that deals damage of that type, you can treat any 1 or 2 on a damage die as a 3. You can pick this feature multiple times, but only for different damage types.
 
@@ -59,23 +57,23 @@ You can pick this feature multiple times, but only for different damage types.
 
 **_War Caster_**: You can perform the Somatic components of spells even when you have weapons or a Shield in one or both hands.
 ### Spell Point Features
-**_By Any Means_**: When you [[Overcasting|Overcast]], you can chose to reroll the Overcast Save again as often as you wish, taking the Overcast Damage again each time you do so.
+**_By Any Means_**: When you [[Overcasting|Overcast]], you can choose to reroll the Overcast Save again as often as you wish, taking the Overcast Damage again each time you do so.
 
 **_Cheat_**: Once per Short or Long Rest when you spend Spell Points, you can increase your Casting Limit by twice your Caster Proficiency Bonus until the start of your next turn.
 
-**_Cheapskate_**: Choose two spells with a Spell Point cost below your Spellcaster level. Its cost is reduced by your Caster Proficiency Bonus. If the cost is reduced to below 0 this way, the rules for [[Spellcasting#Sunken Spells & Depthcasting|Sunken Spells & Depthcasting]] apply. You can pick this feature multiple times, but only for different spells.
+**_Cheapskate_**: Choose a spell with a Spell Point cost below your Spellcaster level. Its cost is reduced by your Caster Proficiency Bonus. If the cost is reduced to below 0 this way, the rules for [[Spellcasting#Sunken Spells & Depthcasting|Sunken Spells & Depthcasting]] apply. You can pick this feature multiple times, but only for different spells.
 
 If you reduce the cost of a spell that restores Hit Points to 1 Spell Point or less, it only gives Temporary Hit Points when cast at reduced cost. Similarly, if you reduce the cost of a spell that permanently creates something to 1 Spell Point or less, the creation becomes temporary, too. In both cases, the effects vanish as soon as you cast the spell for 1 Spell Point or less again. If those spells are upcast to cost at least 2 Spell Points, their effects return to normal.
 
 For example, if you apply this feature to Cure Wounds with a Proficiency Bonus of +3, you can cast it for free to give the target 2d8+mod Temporary Hit Points until you cast it for free again, or upcast it by 3 to spend the initial cost of 3 Spell Points to restore the 4d8+mod Hit Points that would usually cost 6 Spell Points.
 
-**_Defiance_**: When you [[Overcasting|Overcast]] and succeed on the Overcast Save, the Overcast Damage you take is halved.
+**_Defiance_**: When you succeed on an [[Overcasting|Overcast]] Save, the Overcast Damage you take is halved.
 
 **_Emphasis_**: When you roll a Spell check, you can spend any number of Spell Points to improve it by the number of Spell Points spent.
 
-**_Everyone's Problem_**: When you take Overcast Damage, creatures within 5 feet of have to make a Constitution saving throw against 10 or half the Overcast Damage, whichever is higher. On a failure, they take necrotic damage equal to half the Overcast Damage.
+**_Everyone's Problem_**: When you take Overcast Damage, creatures within 5ft. of you have to make a Constitution saving throw against 10 or half the Overcast Damage, whichever is higher. On a failure, they take necrotic damage equal to half the Overcast Damage.
 
-**_Expectation_**: When you [[Overcasting|Overcast]], you roll Overcast Saves with Advantage.
+**_Expectation_**: You roll [[Overcasting|Overcast]] Saves with Advantage.
 
 **_Flow_**: If you've spent a number of Spell Points equal to your Casting Limit last round, your Casting Limit increases by your Caster Proficiency Bonus. This effect stacks, and it ends when you spend less Spell Points than your Casting Limit allows for in a round or when combat ends.
 
@@ -87,13 +85,15 @@ For example, if you apply this feature to Cure Wounds with a Proficiency Bonus o
 
 **_Limitbreaker_**: Requires _By Any Means_. Once per Short or Long Rest when you fail an Overcast Save, you may choose to succeed instead.
 
+**_Money Shot_**: When you spend your Spell Points to cast a spell and have no Spell Points left afterwards, the roll on the d20 of the Spell check is automatically a 20.
+
 **_Recast_**: When casting a spell that you've already cast last round, the casting cost is halved.
 
 **_Snowball_**: When casting a spell that you've already cast last round and the roll of the Spell check is lower than the previous one, the previous roll replaces it.
 
 **_Trash Becomes Treasure_**: The cost of your spells with a Spell Point cost of 0 or below is reduced by your Caster Proficiency Bonus. The rules for [[Spellcasting#Sunken Spells & Depthcasting|Sunken Spells & Depthcasting]] apply.
 
-**_Weave Vampirism_**: When an object or creature other than you spends or loses Spell Points within 5ft. of you, you can use a Reaction to gain a number of Temporary Hit Points equal to the number of Spell Points spent or lost.
+**_Weave Vampirism_**: When an object or creature other than you spends or loses Spell Points within 10ft. of you, you can use a Reaction to gain a number of Temporary Hit Points equal to the number of Spell Points spent or lost.
 ### Spellcasting Focus Features
 **_Beyond Matter_**: Choose a spell school. When casting spells of that school that have material components that are neither consumed nor specify a cost, you can ignore the material components as if you were using a Spellcasting Focus. You can pick this feature multiple times, but only for different spell schools.
 

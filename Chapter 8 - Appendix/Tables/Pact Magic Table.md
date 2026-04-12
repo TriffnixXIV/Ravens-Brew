@@ -1,3 +1,4 @@
+As used by the [[Classes#Warlock|Warlock]].
 
 | Level | Caster Proficiency & Training | Spell Limits | Patronage |
 | ----- | ----------------------------- | ------------ | --------- |
@@ -21,4 +22,5 @@
 | 18    |                               | 28           |           |
 | 19    |                               | 30           |           |
 | 20    |                               | 31           |           |
-As used by the [[Classes#Warlock|Warlock]].
+| x     | (x+7)/4                       | 3(x+1)/2     |           |
+The numbers are calculated through the formulas given in the last row. The results are always rounded down.

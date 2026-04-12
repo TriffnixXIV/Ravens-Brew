@@ -244,18 +244,27 @@ General
 - Changed the [[Classes#Wizard|Wizards]] _Arcane Recovery_ to use Spell Points.
 - Added a [[Fullcaster Table]], [[Halfcaster Table]] and [[Thirdcaster Table]] to the Appendix and linked to them from each class.
 ### v0.9
+[[Spellcasting]]
+- Added formulas to the tables again.
+
 [[Caster Training]]
 - Made _Arsenal of Tricks_ give two cantrips instead.
 - Changed _Cheat_ and _Limitbreaker_ to recharge on Long Rest, too.
 - Changed _Cheapskate_ so that healing and creation spells regain their effects when cast for at least 2 Spell Points instead of at their initial cost. Also changed it so that the temporary effects vanish when casting the spell for 1 Spell Point or less instead of when casting it for free, similar to the other conditions there before.
-- Clarified that _Consistent Casting_ affects the check total and _Reliable Casting_ affects the roll of the d20.
-- Added _Gambler_.
+- Changed _Cheapskate_ to only have you choose one spell.
+- Removed _Consistent Casting_, reduced _Reliable Casting_ from 10 to 8 and clarified that it affects the roll of the d20.
+- Added _Gambler_ and _Money Shot_.
+
+[[Overcasting]]
+- Made Weavestrain restoration use the Caster Proficiency Bonus instead and moved it to [[Conditions]].
 
 [[Spell Limits]]
 - Clarified how to determine Casting Limit and Preparation Limit.
 
-[[Overcasting]]
-- Made Weavestrain reduction use the Caster Proficiency Bonus instead and moved it to [[Conditions]].
+[[Spells]]
+- Added [[Spells#Inhibit|Inhibit]] and [[Spells#Zone of Inhibition|Zone of Inhibition]] to temporarily reduce Casting Limits.
+- Changed [[Spells#Counterspell|Counterspell]] and [[Spells#Dispel Magic|Dispel Magic]] slightly to benefit more from being cheapened.
+- Made some wordings more consistent.
 
 [[Sunken Spells & Depthcasting]]
 - Reworded _Depthcasting_ a bit to be in line with other similar passages.
@@ -268,3 +277,6 @@ General
 
 [[Armour]]
 - Changed the table to use the changed Dodging check modifiers from the last minor version. Adjusted the text above accordingly.
+
+[[Surge Dice]]
+- Removed _Overtake_. It was too complicated and too strong to keep.

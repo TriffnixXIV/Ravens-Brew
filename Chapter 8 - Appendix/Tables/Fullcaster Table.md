@@ -22,3 +22,5 @@ The following table is used by the fullcaster classes, such as Bard, Cleric, Dru
 | 18    |                               | 28           | 108          |
 | 19    |                               | 30           | 114          |
 | 20    |                               | 31           | 120          |
+| x     | (x+7)/4                       | 3(x+1)/2     | 6x           |
+The numbers are calculated through the formulas given in the last row. The results are always rounded down.

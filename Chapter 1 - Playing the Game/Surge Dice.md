@@ -14,12 +14,4 @@ You can use Surge Dice for the following effects:
 
 **_Speed_**: You gain 10ft. of movement that you can immediately use.
 
-**_Overtake_**: Add the roll to your Initiative, potentially changing your position in the Initiative Order. Before doing so, if you are first in the Initiative Order and act on Initiative 20 or before, move to either Initiative 0 or the Initiative one below that of the last spot, whichever is lowest.
-
-You can only skip past a maximum of one entry per Surge Die spent. When the maximum is reached, your new Initiative cannot exceed the Initiative of the entry that is now ahead of you in the Initiative Order.
-
-If your Initiative is tied with another entry after the roll, you act after the other entry.
-
-If you are doing this during your turn, this does not lend creatures that acted before you another turn after you in case you skip past them, and it similarly does not trigger effects tied to Initiative again. If you are doing this outside of your turn and skip past the creature whose turn it currently is, you take your turn directly after them. After your turn, Initiative resumes as before.
-
 **_Tenacity_**: You gain temporary hit points equal to the roll until the start of your next turn.

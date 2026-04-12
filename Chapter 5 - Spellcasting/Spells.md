@@ -23,7 +23,7 @@ A creature can pull on the chain to try to pull one of the chained targets, maki
 
 _Upcasting_: For every additional Spell Point spent, the Hit Points of the chain increase by 2. For every 2 additional spell points spent, both damage instances are increased by 1d4.
 #### Gift
-Evocation (Bard, Cleric, Druid, Sorcerer, Wizard). Cost: 3 Spell Points. Casting Time: Action. Range: Touch. Components: V, S. Duration: 10 minutes.
+Evocation (Bard, Cleric, Druid, Ranger, Sorcerer, Wizard). Cost: 3 Spell Points. Casting Time: Action. Range: Touch. Components: V, S. Duration: 10 minutes.
 
 You transfer a part of your magical reserves to a willing creature. Spend any number of Spell Points. The target's Spell Point maximum increases by that number for the duration, and it gains a number of Spell Points equal to that number.
 
@@ -34,6 +34,12 @@ Abjuration (Bard, Cleric, Druid). Cost: 0 Spell Points. Casting Time: Reaction, 
 You try to guard your target from the effects of an incoming spell. They add your Spellcasting ability modifier to their saving throw.
 
 _Upcasting_: Every additional Spell Point spent gives them an additional +1 to their saving throw.
+#### Inhibit
+Enchantment (Cleric, Wizard, Warlock). Cost: 3 Spell Points. Casting Time: Action. Range: 60 feet. Components: V, S. Duration: Concentration, up to 1 minute.
+
+You decrease a spellcasters ability to cast powerful spells. One creature that you can see within range must succeed on a Charisma saving throw or have their Casting Limit reduced by 3 for the duration of this spell. At the end of each of its turns, the target repeats the save, ending the spell on itself on a success.
+
+_Upcasting_: For every additional Spell Point spent, the Casting Limit reduction increases by 1.
 #### Rewind
 Transmutation (Bard, Sorcerer, Wizard). Cost: 3 Spell Points. Casting Time: Bonus Action. Range: Self. Components: V, S, M (an hourglass). Duration: Instantaneous.
 
@@ -49,9 +55,15 @@ When trying to thwart a critical hit, you roll the Spell check with Disadvantage
 #### Weavestrike
 Evocation (Bard, Paladin, Sorcerer, Warlock, Wizard). Cost: 3 Spell Points. Casting Time: Bonus Action, which you take immediately after hitting a target that has Spell Points with a Melee attack. Range: Self. Component: V. Duration: Instantaneous.
 
-As you hit the target, it loses 3 Spell Points. If the target has a Casting Limit, these lost Spell Points count against its Casting Limit and can thus force it to [[Overcasting|Overcast]].
+As you hit the target, it loses 3 Spell Points. These lost Spell Points count against its Casting Limit and can thus force it to [[Overcasting|Overcast]].
 
-_Upcasting_: Every additional Spell Point spent increases the number of Spell Points the target loses by 1.
+_Upcasting_: For every additional Spell Point spent, the number of Spell Points the target loses increases by 1.
+#### Zone of Inhibition
+Enchantment (Cleric, Wizard, Warlock). Cost: 12 Spell Points. Casting Time: Action. Range: 60 feet. Components: V, S. Duration: Concentration, up to 1 minute.
+
+You create a magical zone that decreases spellcasters ability to cast powerful spells in a 15-foot-radius Sphere centered on a point within range. Until the spell ends, a creature that enters the spell's area for the first time on a turn or starts its turn there makes a Charisma saving throw. On a failed save, a creature has its Casting Limit reduced by 9 while in the radius.
+
+_Upcasting_: For every additional 2 Spell Points spent, the Casting Limit reduction increases by 1.
 ### Reworked Spells - Defence
 #### Barkskin
 Transmutation (Druid, Ranger). Cost: 6 Spell Points. Casting Time: Bonus Action. Range: Touch. Components: V, S, M (a handful of bark). Duration: 1 hour.
@@ -111,17 +123,17 @@ _Upcasting_: For every additional 6 Spell Points spent, the bonus to Damage Redu
 #### Counterspell
 Abjuration (Sorcerer, Warlock, Wizard) Cost: 9 Spell Points. Casting Time: Reaction, which you take when you see a creature within 60 feet of yourself casting a spell with Verbal, Somatic, or Material components. Range: 60 feet. Components: S. Duration: Instantaneous.
 
-You attempt to interrupt a creature in the process of casting a spell. If their spell didn't cost more than casting this spell, it dissipates. Otherwise, compare your Spell check to theirs. If your Spell check exceeds theirs by at least the other spells additional cost, it also dissipates.
+You attempt to interrupt a creature in the process of casting a spell. If their spell costs 9 Spell Points or less, it dissipates. Otherwise, compare your Spell check to theirs. If your Spell check exceeds theirs by more than the other spells additional cost, it also dissipates.
 
 When their spell dissipates like this, it has no effect, and the Action, Bonus Action, or Reaction used to cast it is wasted. If it was cast with Spell Points, they regain the spent Spell Points.
 
-_Upcasting_: Every additional Spell Point increases the range of spells that automatically dissipate and makes it easier to make more costly spells dissipate, as described above.
+_Upcasting_: For every additional Spell Point spent, the Spell Point threshold increases by 1. For example, if you spend 3 additional Spell Points, spells with a cost of 12 or less dissipate automatically.
 #### Dispel Magic
 Abjuration (Bard, Cleric, Druid, Paladin, Ranger, Sorcerer, Warlock, Wizard). Cost: 9 Spell Points. Casting Time: Action. Range: 120 feet. Components: V, S. Duration: Instantaneous.
 
-Choose one creature, object, or magical effect within range. Any ongoing spell on the target that didn't cost more than casting this spell ends. For each ongoing more costly spell on the target, compare your Spell check to its Spell check. If your Spell check exceeds the other by at least the other spells additional cost, the target spell ends.
+Choose one creature, object, or magical effect within range. Any ongoing spell on the target that didn't cost more than 9 Spell Points ends. For each ongoing more costly spell on the target, compare your Spell check to its Spell check. If your Spell check exceeds the other by more than the other spells additional cost, the target spell ends.
 
-_Upcasting_: Every additional Spell Point increases the range of spells that are automatically ended and makes it easier to end more costly spells, as described above.
+_Upcasting_: For every additional Spell Point spent, the Spell Point threshold increases by 1. For example, if you spend 3 additional Spell Points, spells with a cost of 12 or less end automatically.
 ### Spells with adjusted Upcasting
 The following only states the changes to the spells upcasting. The rest of the spell remains unchanged.
 

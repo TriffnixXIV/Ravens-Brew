@@ -22,3 +22,5 @@ The following table is used by the thirdcaster characters, such as the Arcane Tr
 | 18    | 6+2/3             |                               |              | 40           |
 | 19    | 7                 |                               | 12           | 42           |
 | 20    | 7+1/3             |                               |              | 44           |
+| x     | (x+2)/3           | (x+23)/12                     | 0.5(x+5)     | 2x+4         |
+The numbers are calculated through the formulas given in the last row. The results are always rounded down.
