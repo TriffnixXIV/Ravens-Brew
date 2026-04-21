@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapter 5 - Spellcasting/Spellcasting.md",
+                "file": "Chapter 5 - Spellcasting/Spells.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Spellcasting"
+              "title": "Spells"
             }
           }
         ]
@@ -62,7 +62,8 @@
                   "title": "Changes for v0.9"
                 }
               }
-            ]
+            ],
+            "currentTab": 1
           },
           {
             "id": "7679dbee04eec94e",
@@ -230,43 +231,43 @@
       "bases:Create new base": false
     }
   },
-  "active": "81d9299bd8133ae3",
+  "active": "b93fdcd56d561ac0",
   "lastOpenFiles": [
     "Chapter 8 - Appendix/Changelogs/Changes for v0.9.md",
-    "Chapter 5 - Spellcasting/Spellcasting.md",
-    "Todo.md",
-    "Chapter 8 - Appendix/Tables/Pact Magic Table.md",
-    "Chapter 8 - Appendix/Tables/Spellcasting Table.md",
-    "Chapter 8 - Appendix/Tables/Thirdcaster Table.md",
-    "Chapter 8 - Appendix/Tables/Tables.md",
-    "Chapter 8 - Appendix/Tables/Fullcaster Table.md",
-    "Chapter 8 - Appendix/Tables/Halfcaster Table.md",
-    "Chapter 3 - Feats/Caster Training.md",
-    "Chapter 1 - Playing the Game/Surge Dice.md",
-    "Private/Monster Stat Table.md",
-    "Private/Adventures/Tundraven/Entitäten/Akt 3/Admiral Nerlis Navlosit.md",
-    "Private/Adventures/Tundraven/Entitäten/Akt 3/Admiral Nerlis Losnavit.md",
-    "Private/Adventures/Tundraven/Entitäten/Akt 3/Admiral Lisner Losnavit.md",
-    "Private/Adventures/Tundraven/Entitäten/Akt 3/Admiral Tillis Becker Selow.md",
-    "Private/Adventures/Tundraven/Entitäten/Akt 3/Admiral Tillis Becker Sen.md",
-    "Private/Adventures/Tundraven/Entitäten/Akt 3/Admiral Tillis Becker-Sen.md",
-    "Private/Adventures/Tundraven/Entitäten/Akt 3/Admiral Tillis Becker Low.md",
-    "Private/Adventures/Tundraven/Entitäten/Akt 3/Admiral Chia Megah.md",
-    "Chapter 7 - DM Tools/Monsters.md",
-    "Chapter 5 - Spellcasting/Overcasting.md",
-    "Chapter 3 - Feats/Feats.md",
-    "Chapter 3 - Feats/Martial Training.md",
     "Chapter 5 - Spellcasting/Spells.md",
+    "Chapter 5 - Spellcasting/Spellcasting.md",
+    "Chapter 5 - Spellcasting/Spell Check.md",
     "Chapter 5 - Spellcasting/Spellcasting Focus.md",
+    "Chapter 2 - Character Creation/Classes.md",
+    "Chapter 6 - Rules Glossary/Dodging.md",
+    "Chapter 6 - Rules Glossary/Blocking.md",
+    "Chapter 1 - Playing the Game/Reactions.md",
+    "Chapter 3 - Feats/Martial Training.md",
+    "Chapter 3 - Feats/Caster Training.md",
+    "Chapter 1 - Playing the Game/Contests.md",
+    "Chapter 1 - Playing the Game/Grappling & Shoving.md",
+    "Chapter 1 - Playing the Game/Vision & Focus.md",
+    "Chapter 6 - Rules Glossary/Conditions.md",
+    "Chapter 1 - Playing the Game/Surge Dice.md",
+    "Todo.md",
+    "Chapter 1 - Playing the Game/Playing the Game.md",
+    "Chapter 1 - Playing the Game/Aimed Strikes.md",
+    "Chapter 1 - Playing the Game/AC-less Defence.md",
+    "Chapter 4 - Equipment/Armour.md",
+    "Chapter 0 - Introduction/Content Overview.md",
+    "Chapter 0 - Introduction/Introduction.md",
+    "Private/Monster Stat Table.md",
+    "Chapter 7 - DM Tools/Monsters.md",
+    "Private/PDF stuff/RavensBrew.synctex(busy)",
+    "Private/PDF stuff/pdflatex13757.fls",
+    "Private/PDF stuff/pdflatex13753.fls",
+    "Chapter 4 - Equipment/Shields.md",
     "Private/PDF stuff/Raven's Brew v0.2.pdf",
     "Private/HTML stuff/Content/index.html",
     "Private/HTML stuff/Content/Tables.html",
     "Private/HTML stuff/Content/Vision & Focus.html",
     "Private/HTML stuff/Content/Upcasting.html",
     "Private/HTML stuff/Content/Thirdcaster Table.html",
-    "Private/HTML stuff/Content/Surgery.html",
-    "Private/HTML stuff/Content/Surge Dice.html",
-    "Private/HTML stuff/Content/Spells.html",
-    "Private/HTML stuff/Content/Sunken Spells & Depthcasting.html"
+    "Private/HTML stuff/Content/Surgery.html"
   ]
 }

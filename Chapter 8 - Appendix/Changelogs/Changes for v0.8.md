@@ -1,6 +1,6 @@
 [[Introduction]] was rewritten.
 
-[[AC-less defence]]
+[[AC-less Defence]]
 - renamed Missing Threshold to Hit DC.
 - explicated that Damage Reduction applies before resistance and vulnerabilities.
 - added a passage explicating the relation between sizes and cover.
@@ -83,7 +83,7 @@ General
 [[Blocking]] & [[Parrying]]
 - added a short introductory paragraph.
 
-[[AC-less defence]]
+[[AC-less Defence]]
 - made cover its own subsection.
 - added a paragraph about crouching behind cover.
 - moved the Defence Action here and reworked it to be more like before.

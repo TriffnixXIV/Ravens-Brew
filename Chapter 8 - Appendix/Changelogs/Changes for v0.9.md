@@ -21,7 +21,7 @@ This version introduces the Spellcasting Rework.
 [[Spells]]
 - Changed [[Spells#Counterspell|Counterspell]] and [[Spells#Dispel Magic|Dispel Magic]] to work based on [[Spell Check|Spell checks]].
 
-[[AC-less defence#Cover|Cover]]
+[[AC-less Defence#Cover|Cover]]
 - Changed cover to work through changes to Hit DC based on the target size instead of degrees of cover.
 - Added cover cones to ease a visual derivation of when someone benefits from cover through shields or other small objects.
 
@@ -104,7 +104,7 @@ General
 - Explicated that Eldritch Invocation Options that allow free spellcasts practically set the cost of those spells to 0.
 - The Patronage now depends on uses of Spell Points instead of cast spells.
 
-[[AC-less defence]]
+[[AC-less Defence]]
 - Critical Hits no longer automatically ignore Damage Reduction.
 
 [[Martial Training]]
@@ -131,7 +131,7 @@ General
 - The Spell check now influences Spell attack rolls, giving a bonus when good and a malus when bad.
 - Reduced the saving throw DC by another 2 when the spell affects more than one target.
 
-[[AC-less defence]]
+[[AC-less Defence]]
 - Changed the _Defence Action_ so that when you had more than three unspent Reactions at the start of your next turn, only three of them are converted into [[Surge Dice]].
 
 [[Dodging]]
@@ -222,7 +222,7 @@ General
 - Changed free Eldritch Invocations spells to not spend Spell Points at all.
 - Clarified that free Eldritch Invocations spells are cast with a number of Spell Points equal to your Warlock Preparation Limit.
 
-[[AC-less defence]]
+[[AC-less Defence]]
 - Changed the Dodge Action to now give additional Reactions and Advantage on [[Dodging]] instead of imposing Disadvantage on attack rolls.
 - Added more paragraphs to Damage Reduction and gave all distinct rulings there names.
 	- Clarified that Damage Reduction only applies once per attack, not to each damage instance of an attack in case there are multiple instances or damage types dealt by that attack.
@@ -244,6 +244,7 @@ General
 - Changed the [[Classes#Wizard|Wizards]] _Arcane Recovery_ to use Spell Points.
 - Added a [[Fullcaster Table]], [[Halfcaster Table]] and [[Thirdcaster Table]] to the Appendix and linked to them from each class.
 ### v0.9
+#### Casting Changes
 [[Spellcasting]]
 - Added formulas to the tables again.
 
@@ -254,6 +255,7 @@ General
 - Changed _Cheapskate_ to only have you choose one spell.
 - Removed _Consistent Casting_, reduced _Reliable Casting_ from 10 to 8 and clarified that it affects the roll of the d20.
 - Added _Gambler_ and _Money Shot_.
+- Removed _Bypass Cover_ as neither half-cover nor three-quarters cover affect attack rolls anymore.
 
 [[Overcasting]]
 - Made Weavestrain restoration use the Caster Proficiency Bonus instead and moved it to [[Conditions]].
@@ -263,6 +265,7 @@ General
 
 [[Spells]]
 - Added [[Spells#Inhibit|Inhibit]] and [[Spells#Zone of Inhibition|Zone of Inhibition]] to temporarily reduce Casting Limits.
+- Added [[Spells#Aura of Amplification|Aura of Amplification]] to temporarily increase Casting Limits and allow free upcasting.
 - Changed [[Spells#Counterspell|Counterspell]] and [[Spells#Dispel Magic|Dispel Magic]] slightly to benefit more from being cheapened.
 - Made some wordings more consistent.
 
@@ -274,9 +277,28 @@ General
 
 [[Classes#Wizard|Wizard]]
 - Changed the _Arcane Ward_ to interact with cheapened spells and Sunken Spells similarly to _Cheapskate_.
-
+#### Other Changes
 [[Armour]]
 - Changed the table to use the changed Dodging check modifiers from the last minor version. Adjusted the text above accordingly.
+- Added a paragraph explaining how Armour Pieces relate to the Dodging Modifier.
+
+[[Contests]]
+- Changed them to refer to D20-Tests instead of ability checks to encompass situations such as contesting an attack roll.
+
+[[Feats]]
+- Renamed _Combat Adept_ to _Martial Adept_.
+
+[[Grappling & Shoving]]
+- Adjusted Grappling to account for the entries on Grappling and the Grappled condition in the 2024 PHB.
+
+[[Martial Training]]
+- Removed _Bypass Cover_ as neither half-cover nor three-quarters cover affect attack rolls anymore.
+
+[[Classes#Ranger|Ranger]]
+- Reworded the Hunters _Multiattack Defence_ a bit.
 
 [[Surge Dice]]
-- Removed _Overtake_. It was too complicated and too strong to keep.
+- Removed _Overtake_. It was too complicated, too strong and too disruptive to keep.
+
+[[Vision & Focus]]
+- Removed the passage about treating creatures that can't see you as Blinded because that was practically irrelevant.

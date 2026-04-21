@@ -12,8 +12,6 @@ Secondly, through this system, another layer of difference is established that a
 ### Spell Features
 **_Arsenal of Tricks_**: Choose two cantrips from any class's spell list that you don't already have prepared. You have the chosen cantrip prepared, and it functions as a spell of a class of your choice. You can pick this feature multiple times.
 
-**_Bypass Cover_**: Your ranged spell attacks ignore half cover and three-quarters cover.
-
 **_Casting in Melee_**: Being within 5 feet of an enemy doesn't impose Disadvantage on your spell attack rolls.
 
 **_Enhanced Critical_**: Choose one of the following damage types: Acid, Cold, Fire, Lightning, Necrotic, Poison, Psychic, Radiant, or Thunder. When you score a Critical Hit that deals damage of that damage type, you ignore the targets Damage Reduction and gain the benefit associated with that damage type:

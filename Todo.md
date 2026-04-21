@@ -2,21 +2,34 @@
 - add guidance for converting monsters that use spellcasting to use Spell Points.
 - Cheapskate auf damaging spells beschränken -> Cheapshot?
 ### for whenevs
-add descriptions of the three kinds of [[Monsters]], Sponges, Shells and Smalls.
-turn bold italic text into h6 in Obsidian to be able to use them as link targets
-- turn this back into bold italic text when converting to PDF, but keep the linking
-extract extended action from the Rite and Surgery
-- three successes to win
-- resource drain on failure
-reflect on the reliability of dodging compared to blocking and parrying
 explicate how vision manifests on grids
+#### Action Economy
+- merge Reactions and Surge Dice into a section on Action Economy
+- move changed Reactions and Actions there
+#### [[Aimed Strikes]]
+- add a paragraph about targeting the brain, heart or other internal organs
+#### [[Monsters]]
+add descriptions of the three kinds of Monsters, Sponges, Shells and Smalls.
 explain how to design fair monsters
 - high DR, low Hit DC & HP -> counter with damage surge &/ aimed strikes
 - high Hit DC, low HP & DR -> counter with attack surge
 - high HP, low DR & Hit DC -> counter with aimed strikes
-new magic items
+#### [[Magic Items]]
 - amantine Jazz: Adamant Defensivaura wegen crit prot; bufft defensive reactions
 - elemental armour
 - damage reduction drain aura armour
 - wounding weapon (imposes wound save Disadvantage)
 - +0|+1d4 and +2|+0 weapons
+#### Perception
+- generalize [[Aspects of Stealth]] and [[Vision & Focus]] to become a section about Perception generally
+- redescribe Blindsight, Truesight and Tremorsense as necessary
+#### Long Actions
+extract extended action from the Rite and Surgery
+- three successes to win
+- resource drain on failure
+- move [[Surgery]], [[Rite of Regeneration]], [[Grafting]] and Alchemy there
+#### Reflection
+- reflect on the reliability of dodging compared to blocking and parrying
+#### Formatting
+turn bold italic text into h6 in Obsidian to be able to use them as link targets
+- turn this back into bold italic text when converting to PDF, but keep the linking

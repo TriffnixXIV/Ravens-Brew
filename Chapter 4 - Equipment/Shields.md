@@ -1,6 +1,4 @@
-
-
-**_AC-less_**: When wielding a shield, you no longer gain Armor Class. Instead, your shield gives you [[AC-less defence#Cover|Cover]] that is appropriate for your size and the size of shield you are wielding.  
+**_AC-less_**: When wielding a shield, you no longer gain Armor Class. Instead, your shield gives you [[AC-less Defence#Cover|Cover]] that is appropriate for your size and the size of shield you are wielding.  
 
 **_New Shields_**: There are now two additional types of shield and dedicated shield properties that are described below.
 

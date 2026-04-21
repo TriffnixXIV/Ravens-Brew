@@ -7,21 +7,21 @@
 - _Extended_: Those with an extended field of view are only unable to properly see what's happening within a Cone behind them. This field of view is most common for Beasts that are prey and creatures that resemble prey.
 - _Complete_: Those with a complete field of view are able to properly see what's happening in every direction. This field of view is rare and most of the time unnatural. Some Aberrations and Monstrosities use it, and some objects are equipped with it.
 
-**_Out of View_**: When you are outside of another creatures or objects field of view, you treat it as if it had the [[Conditions#Blinded|Blinded]] condition, and it treats you as if you had the [[Conditions#Invisible|Invisible]] condition.
+**_Out of View_**: When you are outside of another creatures or objects field of view, it treats you as if you had the [[Conditions#Invisible|Invisible]] condition.
 ### Focus
-**_Focus_**: You usually have something within your perception that you primarily attend to - this is what you focus on. You automatically switch focus to a creature or object when targeting them with a spell, attack, or other effect. You can only focus on one target at a time.
+**_Focus_**: You usually have something within your perception that you primarily attend to - this is what you focus on. You automatically switch focus to a creature or object when targeting them with a single-target spell, attack, or other effect. You can only focus on one target at a time.
 
 As long as you are focused on a target, you can rotate with the target's movement, if needed, to keep that target within your sight. This way, for example, a Humanoid can save their back from another creature’s attacks, allowing them to react to their attacks.
 
-**_Switch Focus_**: At the end of your turn, you can switch Focus to a creature that you perceive. Otherwise, you can use a Free Reaction or Reaction to Focus a creature that you notice moving towards you or doing something near you.
+**_Switch Focus_**: At the end of your turn, you can switch Focus to any creature that you perceive. Otherwise, you can use a Free Reaction or Reaction to Focus a creature that you notice moving towards you or doing something near you.
 
 **_Losing Focus_**: You lose Focus if you receive the Incapacitated condition or when you lose the ability to perceive the target of your Focus.
 
-A creature that you Focus may also make you lose Focus by applying the charmed or frightened condition to you, by successfully hiding behind full cover, or by spontaneously becoming unseen by you (for example through invisibility or teleportation).
+A creature that you Focus may also make you lose Focus by applying the charmed or frightened condition to you, by successfully hiding behind total cover, or by spontaneously becoming unperceived by you (for example through [[Conditions#Invisible|invisibility]] or teleportation).
 
 **_Escape Focus_**: To escape a creature's Focus, you can take a Bonus Action, making a Dexterity (Acrobatics) check contested by the creature's passive perception, and use your movement to leave their vision. On a success, the creature loses Focus, on a failure, they can turn to keep their Focus and you in their vision.
 
-This can, for example, be used to be able to attack the back of a Humanoid that previously focused their vision on you. This way, you can make sure they can't react to your attack.
+This can, for example, be used to be able to attack the back of a Humanoid that previously focused their vision on you, making sure they can't react to your attack.
 
 **_Draw Focus_**: You can force other creatures to Switch Focus by drawing their attention to yourself, another creature or something else. This may occur as a side-effect of anything you do that is sufficiently noticeable, at the mercy of the player controlling the respective creature whose Focus is to be drawn.
 

@@ -6,7 +6,7 @@ This can bring a breath of fresh air to those for whom D&D combat has grown stal
 
 In implementing the rules and features above, this book orients itself around two cornerstones in the choice of which rules to change, how to design these changes, and when and how to introduce new rules. These big cornerstones are interactivity and narrative embedding.
 ### Interactivity
-Rules and features should consider how other players to interact with them. This can come in the shapes of synergy, counterplay and multiplicity, and primarily pursues the goal of improved agency and engagement.
+Rules and features should consider how other players interact with them. This can come in the shapes of synergy, counterplay and multiplicity, and primarily pursues the goal of improved agency and engagement.
 - _Synergy_: When a player tries to achieve something, there should be options for other players to assist with that or enhance the effect. Additionally, there should be ways for players to protect one another in combat, as well as actions that are deliberately cooperative.
 - _Counterplay_: It should be possible to avoid or mitigate harmful effects within reason, and it should be possible to undo them with adequate effort. Especially powerful effects may be an exception to this rule when it comes to being avoided or mitigated, but those should remain special.
 - _Multiplicity_: There should be meaningfully distinct ways for players to interact with the challenges the dungeon master offers. The more choice the players can meaningfully exercise, the better, and the more tools the dungeon master has to challenge the players, the better.
@@ -21,6 +21,6 @@ Rules should be simple. However, the core interests explained above do not yield
 
 Characters and challenges should be balanced. However, the complexity added through the rules and features in this book makes it more difficult to playtest and evaluate the balance properly. There is no guarantee that the contents of this book are well balanced. Still, the rules and features should be balanced enough to not establish playstyles that render too many challenges trivial and are themselves too hard to challenge. Every character should have a chance to shine.
 ### Notable Influences
-These reworks have taken inspiration from Warhammer: Vermintide 2, Divinity: Original Sin 2, Das schwarze Auge (The Dark Eye), D&D 3.5, and the D&D 5e 2014 books.
+These reworks have taken inspiration from Warhammer: Vermintide 2, Divinity: Original Sin 2, Das schwarze Auge (The Dark Eye), D&D 3.5, the D&D 5e 2014 books, Pendragon, Splittermond and other games, both video games and tabletop games.
 
-They have been playtested and reviewed by some of my friends, and some features have been their suggestion. Special thanks to Magnus, Johannes, Chad, Paul, David, Noah, Lee and Lia.
+This homebrew ruleset has been playtested and reviewed by some of my friends, and some features have been their suggestion. Special thanks to Magnus, Noah, Lia, Chad, David, Meta, Merlin, Johannes, Paul and Lee.

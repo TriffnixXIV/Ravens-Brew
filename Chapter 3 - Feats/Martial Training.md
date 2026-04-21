@@ -1,4 +1,4 @@
-Martial Training is a new system that encompasses weapon Proficiency, weapon mastery, Fighting Styles, Armour Training, and some Feats that interface with weapons and armour. Proficiency and Expertise in [[Parrying]] and [[Blocking]] are also part of this system, as are other features relating to [[AC-less defence]] generally.
+Martial Training is a new system that encompasses weapon Proficiency, weapon mastery, Fighting Styles, Armour Training, and some Feats that interface with weapons and armour. Proficiency and Expertise in [[Parrying]] and [[Blocking]] are also part of this system, as are other features relating to [[AC-less Defence]] generally.
 
 This rework is motivated by three reasons. Firstly, with the Hit DC being largely unchanging with level and being quite low especially with larger creatures, there's not as large of a benefit in adding the Proficiency Bonus to ones attack rolls. This opens up the possibility of allowing players to decide against adding this Proficiency Bonus in favor of other benefits for offence or defence. One of these benefits aptly allows players to bypass parts of an enemies Damage Reduction, scaling with the Proficiency Bonus, so that there are now options to ease hitting enemies and to ease damaging them through armour, mirroring the separation of Armor Class into Hit DC and Damage Reduction.
 
@@ -33,8 +33,6 @@ When you receive Martial Training, you can choose the Accuracy feature described
 **_Accuracy_**: Choose a weapon property. You add your Proficiency Bonus to attack rolls with weapons with that property. You can pick this feature multiple times, but only for different weapon properties, and it does not stack with itself on weapons with multiple properties that you have this feature for.
 
 **_Archery_**: You gain a bonus to attack rolls with Ranged weapons equal to your Wisdom modifier (at least 1).
-
-**_Bypass Cover_**: Your ranged weapon attacks ignore half cover and three-quarters cover.
 
 **_C-C-Combo_**: Your weapon attacks deal additional damage equal to your Proficiency Bonus for every time you've hit with a weapon attack since the start of your turn.
 

@@ -1,3 +1,3 @@
-This book focuses on changes to combat, including changes and additions to the fundamental combat rules. Most other fundamentals remain unchanged.
+This chapter focuses on the fundamental changes to the combat rules. Most other fundamentals remain unchanged.
 
-Firstly, the core change, [[AC-less defence]], is introduced, featuring [[AC-less defence#Hit DC|Hit DC]], [[AC-less defence#Damage Reduction|Damage Reduction]] and [[AC-less defence#Cover|Cover]]. Then, [[Aimed Strikes]], [[Surge Dice]] and changes to [[Reactions]] are added to supplement [[AC-less defence]], and [[Contests]] are reintroduced. Finally, [[Vision & Focus]] in combat are changed.
+Firstly, the core change, [[AC-less Defence]], is introduced, featuring [[AC-less Defence#Hit DC|Hit DC]], [[AC-less Defence#Damage Reduction|Damage Reduction]] and [[AC-less Defence#Cover|Cover]]. Then, [[Aimed Strikes]], [[Surge Dice]] and changes to [[Reactions]] are added to supplement [[AC-less Defence]], and [[Contests]] are reintroduced. Finally, [[Vision & Focus]] and [[Grappling & Shoving]] are changed, and [[Aspects of Stealth]] are introduced.
