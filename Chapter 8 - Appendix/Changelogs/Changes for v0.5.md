@@ -7,7 +7,7 @@ General
 - Tripping up (new)
 	- You can now make a shove attack as a Reaction to trip up a moving creature
 
-[[AC-less defence]]
+[[AC-less Defence]]
 - Clarified intentions
 - adjusted the Battle Masters' Evasive Footwork and Riposte
 - adjusted the Hunters' Multiattack Defence

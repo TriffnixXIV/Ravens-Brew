@@ -25,11 +25,11 @@
 ### Monk
 **_Martial Arts - Dexterous Attacks_**: Instead of using the Dexterity modifier to determine the save DC when using the Grapple or Shove option of your Unarmed Strike, you can make a Dexterity (Athletics) check instead of a Strength (Athletics) check when attempting to Grapple or Shove, using the [[Contests|Contest]] rules.
 
-**_Unarmoured Defence_**: Instead of being converted to [[AC-less defence|Damage Reduction]], your Wisdom modifier is added to your [[Dodging]] checks.
+**_Unarmoured Defence_**: Instead of being converted to [[AC-less Defence|Damage Reduction]], your Wisdom modifier is added to your [[Dodging]] checks.
 
-**_Patient Defence_**: May instead be used to take the [[Reactions|Defence Action]].
+**_Patient Defence_**: May instead be used to take the [[AC-less Defence#Other changes|Defence Action]].
 
-**_Deflect Missiles_**: May be used as part of the [[Reactions|Defence Action]].
+**_Deflect Missiles_**: May be used as part of the [[AC-less Defence#Other changes|Defence Action]].
 
 **_Level 5 - Serenity (new)_**: When spending one or more Focus Points, you can instead spend the same amount of [[Surge Dice]]. You can also replace a part of the Focus Point cost with the same amount of [[Surge Dice]].
 
@@ -45,11 +45,11 @@ For example, when spending 3 Focus Points, you may instead spend either 3 Surge 
 
 **_Gloomstalker - Shadowy Dodge_**: You roll [[Dodging]] checks with Advantage. After a dodge, you can teleport up to 30 feet to an unoccupied space you can see, regardless of whether the [[Dodging|dodge]] was successful or not.
 
-**_Hunter - Multiattack Defence_**: When you use any Reaction to counter a creatures attack, you may counter all following attacks made by the same creature against you this turn without using another Reaction. Eligible Reactions include [[Blocking]], [[Dodging]], and [[Parrying]].
+**_Hunter - Multiattack Defence_**: When you [[Blocking|block]], [[Dodging|dodge]], or [[Parrying|parry]] a creatures attack, you may [[Blocking|block]], [[Dodging|dodge]], or [[Parrying|parry]] all following attacks made by the same creature against you this turn without using another Reaction.
 ### Rogue
 **_Sneak Attack_**: Additionally, you don't need Advantage on the attack roll if your target cannot see you and you don't have Disadvantage on the attack roll.
 
-**_Uncanny Dodge_**: When your [[Dodging]] checks fail, you only take half damage instead of full damage. If you fail a Dodge & Roll or all spots within 10 feet of you are occupied when making a Dodge & Roll, you do not fall prone.
+**_Uncanny Dodge_**: When your [[Dodging]] checks fail, you only take half damage instead of full damage. If you fail a Dodge & Roll or all spots within 10 feet of you are occupied when making a Dodge & Roll, you do not fall Prone.
 
 **_Level 5 - Prepared Strike (new)_**: When using Surge Dice to increase the damage of a Sneak Attack, the Surge Dice are d12 instead of d6.
 

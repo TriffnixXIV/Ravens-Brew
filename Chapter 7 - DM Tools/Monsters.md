@@ -2,7 +2,7 @@ These rules bring many changes to how defence works that also affects all monste
 ### General Adjustments
 The following rules explain how monsters are affected by the changes in these rules.
 
-**_AC and Hit DC_**: All monsters have their AC replaced by the [[AC-less defence#Hit DC|Hit DC]] that befits their size.
+**_AC and Hit DC_**: All monsters have their AC replaced by the [[AC-less Defence#Hit DC|Hit DC]] that befits their size.
 
 **_Damage Reduction_**: All monsters also use Damage Reduction. To determine how high a monsters Damage Reduction is, consider their appearance and their Constitution modifier. Often, giving a monster a Damage Reduction equal to their Constitution modifier will be appropriate.
 

@@ -14,7 +14,7 @@ General
 - Added a chapter for tables.
 - Added an appendix with past changelogs.
 
-[[AC-less defence]]
+[[AC-less Defence]]
 - Added an example for Armor Class to Damage Reduction conversion.
 - Damage Reduction now applies to attacks instead, including spell attacks. This is meant to be a buff to Damage Reduction and meant to make it more intuitive when it applies and when it doesn't. This also restores the classic connection between attacks and armour.
 - Removed Dodging from the list of reactions that can reduce attack damage to 0 and thus make the attack count as a miss, because Dodging explicitly states that a dodged attack misses.

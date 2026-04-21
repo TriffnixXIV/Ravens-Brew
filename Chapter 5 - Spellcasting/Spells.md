@@ -1,15 +1,25 @@
-Here, you'll find all new spells and spell changes. These spell changes are meant to bring spells in line with the new mechanics, such as [[Spell Check|Spell checks]], [[AC-less defence]] and [[Conditions|wounds]]. They also work as examples for how Spell levels and Spell Slots are converted to Spell Points. The new spells are introduced to interact with the new mechanics.
+Here, you'll find all new spells and spell changes. These spell changes are meant to bring spells in line with the new mechanics, such as [[Spell Check|Spell checks]], [[AC-less Defence]] and [[Conditions#Wounded|wounds]]. They also work as examples for how Spell levels and Spell Slots are converted to Spell Points. The new spells are introduced to interact with the new mechanics.
 ### New Spells
 #### Amplify
 Transmutation (Bard, Sorcerer, Warlock, Wizard). Cost: 0 Spell Points. Casting Time: Reaction, which you take when you see a spell being cast. Range: 30 feet. Components: V, S. Duration: Instantaneous.
 
-You amplify a spell with your own magical prowess. If the result of your Spell check exceeds 10 + the spells cost, the spell is upcast by 3 Spell Points with no additional cost.
+You amplify a spell with your own magical prowess. If the result of your Spell check exceeds 10 + the spells cost, the spell is upcast by 3 Spell Points without cost.
 
 _Upcasting_: Every additional Spell Point spent on this spell is used to upcast the target spell regardless of whether you succeed on the check above.
 #### Assist
 Enchantment (Bard, Cleric, Druid). Cost: 0 Spell Points. Casting Time: Reaction, which you take when you see a spell being cast. Range: 30 feet. Components: V, S. Duration: Instantaneous.
 
 You lend the caster your spellcasting ability for their spell. If the result of your Spell check exceeds the current result of the triggering spell, it replaces it.
+#### Aura of Amplification
+Transmutation (Bard, Sorcerer). Cost: 9 Spell Points. Casting Time: Action. Range: Self. Components: V, S. Duration: Concentration, up to 1 minute.
+
+An aura radiates from you in a 30-foot Emanation for the duration. While in the aura, spellcasters have their [[Spell Limits#Casting Limit|Casting Limit]] increased by a number of Spell Points equal to your Charisma modifier (at least 1).
+
+When you see a spell being cast in this aura, you can decide at will to have that spell be upcast by a number of Spell Points equal to your Charisma modifier (at least 1) without cost.
+
+When the spell ends, you receive 1 stack of [[Conditions#Weavestrain|Weavestrain]] for every 3 Spell Points you've spent on this spell.
+
+_Upcasting_: For every additional 3 Spell Points spent, the Casting Limit increase and free upcast amount increases by 1.
 #### Chain
 Conjuration (Warlock, Wizard). Cost: 6 Spell Points. Casting Time: Action. Range: 30 feet. Components: V, S, M (one foot of iron chains). Duration: Until broken, dispelled, or escaped from.
 
@@ -41,7 +51,7 @@ You decrease a spellcasters ability to cast powerful spells. One creature that y
 
 _Upcasting_: For every additional Spell Point spent, the Casting Limit reduction increases by 1.
 #### Rewind
-Transmutation (Bard, Sorcerer, Wizard). Cost: 3 Spell Points. Casting Time: Bonus Action. Range: Self. Components: V, S, M (an hourglass). Duration: Instantaneous.
+Transmutation (Sorcerer, Wizard). Cost: 3 Spell Points. Casting Time: Bonus Action. Range: Self. Components: V, S, M (an hourglass). Duration: Instantaneous.
 
 You seize the time you've left in the past to do something with it now. You can spend any number of Surge Dice to turn them back into actions. You can gain Bonus Actions or Reactions by spending one Surge Die each, and you can gain Actions by spending two Surge Dice each.
 
@@ -70,7 +80,7 @@ Transmutation (Druid, Ranger). Cost: 6 Spell Points. Casting Time: Bonus Action.
 
 You touch a willing creature. Until the spell ends, the target’s skin assumes a bark-like appearance, and the target has a Damage Reduction of 4 if its Damage Reduction was lower before. Then, its Damage Reduction is increased by 3, for a minimum Damage Reduction of 7.
 
-_Upcasting_: For every additional 3 Spell points spent, the Damage Reduction is increased by an additional 1.
+_Upcasting_: For every additional 4 Spell points spent, the Damage Reduction is increased by an additional 1.
 #### Blur
 Illusion (Sorcerer, Wizard). Cost: 6 Spell Points. Casting Time: Action. Range: Self. Component: V. Duration: Concentration, up to 1 minute.
 
@@ -102,7 +112,7 @@ Abjuration (Sorcerer, Wizard). Cost: 3 Spell Points. Casting Time: Action. Range
 
 You touch a willing creature who isn’t wearing armor. Until the spell ends, the target's Damage Reduction is increased by 3. The spell ends early if the target dons armor.
 
-_Upcasting_: For every additional 3 Spell Points spent, the bonus to Damage Reduction increases by 1.
+_Upcasting_: For every additional 4 Spell Points spent, the bonus to Damage Reduction increases by 1.
 #### Shield
 Abjuration (Sorcerer, Wizard). Cost: 3 Spell Points. Casting Time: Reaction, which you take when you are hit by an attack roll or targeted by the Magic Missile spell. Range: Self. Components: V, S. Duration: Instantaneous.
 

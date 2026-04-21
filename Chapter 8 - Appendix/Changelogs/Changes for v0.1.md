@@ -2,7 +2,7 @@
 - only against larger creatures
 - only Acrobatics, not Stealth
 
-[[AC-less defence]] - Damage Reduction
+[[AC-less Defence]] - Damage Reduction
 - only reduces non-magical damage
 
 [[Surge Dice]]

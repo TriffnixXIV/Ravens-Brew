@@ -10,7 +10,7 @@
 - Losing Focus (new)
 	- You now lose focus under certain circumstances.
 
-[[AC-less defence]]
+[[AC-less Defence]]
 - Damage Reduction
 	- now only reduces non-spell damage
 	- cleaned up wording

@@ -1,6 +1,6 @@
 A Surge Die is 1d6 that can be used for various effects that are described below. You can use one or more Surge Dice as part of any of your Actions, Bonus Actions, Free Actions, Reactions, or Free Reactions. You can use more than one Surge Die at once for the same effect. All unspent Surge Dice expire at the start of your next turn and at the end of combat.
 
-When a Surge Die is used as a part of a contest, both parties may expend further Surge Dice at will to aid them in the contest, even after the other added one to their roll.
+When Surge Dice are to be used in a contest, each participating party must announce the number of Surge Dice they use before knowing the roll of another party.
 
 **_Obtaining Surge Dice_**: You can obtain Surge Dice through reserving Reactions as described in the [[Reactions|Reaction]] rules. Some classes may also give features that relate to Surge Dice.
 
@@ -8,7 +8,7 @@ When a Surge Die is used as a part of a contest, both parties may expend further
 ### Surge Die Effects
 You can use Surge Dice for the following effects:
 
-**_Power_**: Add the roll to an attack roll, ability check, or the damage you deal to one creature. If the Surge Die is added to the damage of a critical hit, it is not doubled.
+**_Power_**: Add the roll to an attack roll, an ability check, or the damage you deal to one creature. If the Surge Die is added to the damage of a critical hit, it is not doubled.
 
 **_Force_**: Subtract the roll from one saving throw you require one creature to make. This can be part of an effect that requires multiple creatures to roll a saving throw, but it only applies to the one creature you choose.
 

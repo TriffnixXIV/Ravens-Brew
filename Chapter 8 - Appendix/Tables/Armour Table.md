@@ -14,4 +14,4 @@
 | Splint Armour          | Heavy  | 7                | Disadvantage     |
 | Plate Armour           | Heavy  | 8                | Disadvantage     |
 
-Related to [[AC-less defence]].
+Related to [[AC-less Defence]].

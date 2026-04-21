@@ -18,4 +18,4 @@
 | Colossal   | 2      | <600m²   | <40m             |
 | Unmissable | 0      | >600m²   | >40m             |
 
-Related to [[AC-less defence]].
+Related to [[AC-less Defence]].

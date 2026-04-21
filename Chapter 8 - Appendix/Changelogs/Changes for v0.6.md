@@ -9,7 +9,7 @@ General
 [[Reactions]]
 -  Added a paragraph on general reaction timing and cleaned up other descriptions throughout the rules accordingly.
 
-[[AC-less defence]]
+[[AC-less Defence]]
 - Removed the Constitution Modifier from the base Damage Reduction.
 - Defensive Reactions are now rolled with Disadvantage against critical hits.
 - Size now impacts Missing Threshold.

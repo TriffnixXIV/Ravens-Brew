@@ -2,9 +2,9 @@ A Spellcasting Focus is a very flavourful part of magical fantasy, and it's a bi
 
 Tying the Proficiency Bonus that was previously automatically given to spell attack rolls and spell save DC to a Spellcasting Focus makes mechanical sense, especially given the reduced importance of the Proficiency Bonus for spell attacks now that the Hit DC of enemies is largely unchanging throughout the levels.
 
-**_Enhanced Schools_**: Every Spellcasting Focus has three associated spell schools, as shown below. When you cast a spell while using a Spellcasting Focus that is associated with its school, you add your Proficiency Bonus to the Spell check and to the Spell attack rolls.
-
 **_No Automatic Spell Attack Roll Proficiency_**: Your Spell attack modifier is now only equal to your Spellcasting ability modifier. To add your Proficiency Bonus, you now require a Spellcasting Focus associated with the spells school.
+
+**_Enhanced Schools_**: Every Spellcasting Focus has three associated spell schools, as shown below. When you cast a spell while using a Spellcasting Focus that is associated with its school, you add your Proficiency Bonus to the Spell check and to the Spell attack rolls.
 
 | Spellcasting Focus                            | Type    | Associated Schools                     |
 | --------------------------------------------- | ------- | -------------------------------------- |

@@ -1,6 +1,6 @@
 When you cast a spell, you now always roll a Spell check that determines the forcefulness of the spell in question. The higher the roll, the more likely it is to be effective, and the harder it is to counterspell or dispel.
 
-**_Spell Check_**: When you cast a spell, you roll a D20 Test and add your spellcasting ability modifier. If you use a [[Spellcasting Focus]] that enhances the school of the spell to cast the spell, you also add your Proficiency Bonus, as described there.
+**_Spell Check_**: When you cast a spell, you roll a D20 Test and add your spellcasting ability modifier. If you use a [[Spellcasting Focus]] that is associated with the school of the spell to cast the spell, you also add your Proficiency Bonus.
 
 **_Determines Forcefulness_**: When a caster tries to [[Chapter 5 - Spellcasting/Spells#Counterspell|counterspell]] or [[Chapter 5 - Spellcasting/Spells#Dispel Magic|dispel]] a spell you cast, they have to beat the Spell check to succeed.
 
