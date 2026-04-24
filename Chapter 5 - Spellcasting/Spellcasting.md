@@ -28,7 +28,7 @@ Some [[Spells]] have seen changes to fit with [[AC-less Defence]], and some spel
 | 18    | 6                             | 28           | 108          | 110  | 111  | 112  |
 | 19    | 6                             | 30           | 114          | 116  | 117  | 118  |
 | 20    | 6                             | 31           | 120          | 122  | 123  | 124  |
-| x     | 0.25(x+7)                     | 1.5(x+1)     | 6x           | 6x+2 | 6x+3 | 6x+4 |
+| x     | (x+7)/4                       | 3(x+1)/2     | 6x           | 6x+2 | 6x+3 | 6x+4 |
 The columns to the right of the spell points column show how many Spell Points spellcasters with half levels and third levels have access to, for example when having Ranger or Arcane Trickster levels. Generally, you gain 6 Spell Points per Spellcaster level, 3 Spell Points per Halfcaster level, and 2 Spell Points per Thirdcaster level.
 
 The numbers are calculated through the formulas given in the last row. The results are always rounded down.

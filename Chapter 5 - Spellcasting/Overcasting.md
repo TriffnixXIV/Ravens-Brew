@@ -4,7 +4,7 @@ When Overcasting, you have to roll an Overcast Save and take Overcast Damage.
 
 **_Excess_**: Your Excess is the number of Spell Points you've exceeded your Casting Limit by.
 
-**_Overcast Damage_**: When Overcasting, you take a number of d6 of necrotic damage equal to half your Excess, rounded up. This damage occurs while you cast the spell or use the feature.
+**_Overcast Damage_**: When Overcasting, you take a number of d6 of Necrotic damage equal to half your Excess, rounded up. This damage occurs while you cast the spell or use the feature.
 
 If the spell has a casting time of 1 minute or more, this also triggers a Concentration check that you have to succeed on to be able to continue the casting, in accordance with usual spell rules.
 

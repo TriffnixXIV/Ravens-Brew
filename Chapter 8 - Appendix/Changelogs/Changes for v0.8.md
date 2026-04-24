@@ -29,7 +29,7 @@
 - explicated how the Draconic Sorcerers AC is converted into Damage Reduction.
 
 [[Blocking]]
-- moved acquisition of blocking Proficiency and Expertise to [[Martial Training]].
+- moved acquisition of Blocking Proficiency and Expertise to [[Martial Training]].
 - updated wording to require shield training instead of shield Proficiency, as the latter no longer exists as such.
 
 [[Grappling & Shoving]]

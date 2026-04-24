@@ -93,6 +93,7 @@ For example, when spending 3 Focus Points, you may instead spend either 3 Surge 
 | 18    |                               | 28           |           |
 | 19    |                               | 30           |           |
 | 20    |                               | 31           |           |
+| x     | (x+7)/4                       | 3(x+1)/2     |           |
 **_Patronage_**: The Patronage determines how often you can spend your patrons Spell Points before they temporarily cut off your supply. This is the case after you've spent their Spell Points a number of times equal to the number noted in the table above, with the count resetting after you finish a Short or Long Rest.
 
 This may, for example, express your patrons limited willingness to offer their power to a weaker being, a lack of established trust between you and your patron, or terms of the pact agreed upon as such, with the Patronage resetting when you appeal to your patron or ask for more during a Rest, or, again, because the pact says so.
