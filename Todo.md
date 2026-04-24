@@ -1,6 +1,8 @@
 ### for v0.9
 - add guidance for converting monsters that use spellcasting to use Spell Points.
 - Cheapskate auf damaging spells beschränken -> Cheapshot?
+### for v0.10
+- turn Death Saves into [[Scene Checks]]?
 ### for whenevs
 explicate how vision manifests on grids
 #### Action Economy
@@ -23,11 +25,6 @@ explain how to design fair monsters
 #### Perception
 - generalize [[Aspects of Stealth]] and [[Vision & Focus]] to become a section about Perception generally
 - redescribe Blindsight, Truesight and Tremorsense as necessary
-#### Long Actions
-extract extended action from the Rite and Surgery
-- three successes to win
-- resource drain on failure
-- move [[Surgery]], [[Rite of Regeneration]], [[Grafting]] and Alchemy there
 #### Reflection
 - reflect on the reliability of dodging compared to blocking and parrying
 #### Formatting

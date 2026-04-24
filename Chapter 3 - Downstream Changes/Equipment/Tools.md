@@ -1,0 +1,2 @@
+#### Surgery Tools
+Surgery Tools are a type of Artisan's Tools that are used in Surgery. Cost: 30 GP. Ability: Intelligence. Skill: Sleight of Hand or Medicine (your choice). Weight: 4 lb. Utilize: Treat disabled body part, as described here.

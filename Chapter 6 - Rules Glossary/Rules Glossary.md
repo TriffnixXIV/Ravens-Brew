@@ -1,1 +1,0 @@
-Here, you'll find definitions of some rules mentioned throughout the book, including the new defensive reactions, [[Blocking]], [[Dodging]] and [[Parrying]], as well as the newly added Wounded and Disabled [[Conditions]] as caused by [[Aimed Strikes]] and some [[Spells]].

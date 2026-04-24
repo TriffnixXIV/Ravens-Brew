@@ -58,19 +58,6 @@ For example, if an attack deals 2 Piercing damage, 2 Cold damage and 2 Force dam
 ### Other changes
 **_Reactive Defence_**: There are now options to reactively defend against incoming attacks and other effects. These include [[Dodging]], [[Blocking]] and [[Parrying]], as detailed within the Rules Glossary. For spellcasters, some of the [[Spells#New Spells|new]] and [[Spells#Reworked Spells - Defence|reworked spells]] provide options for reactive defence.
 
-**_Defence Action_**: You can use your Action to take the Defence Action. Doing so gives you a number of Reactions equal to your Proficiency Bonus. You may only use these additional Reactions for defensive Reactions, including [[Dodging]], [[Blocking]], [[Parrying]], or another Reaction that fulfills the following conditions:
-- It does not deal damage, and it does not enhance something that deals damage.
-- It does not apply a condition to an enemy, and does not enhance something that applies a condition to an enemy.
-- It does not force an enemy to make a saving throw, and does not enhance something that forces an enemy to make a saving throw.
-
-When gaining [[Surge Dice]] at the start of your next turn, no more than three of your unspent Reactions are converted into Surge Dice.
-
-**_Dodge Action_**: If you take the Dodge action, you gain a number of Reactions equal to your Proficiency Bonus. You may only use these additional Reactions for [[Dodging]]. You also gain the following benefits until the start of your next turn:
-- You have Advantage on [[Dodging]] checks.
-- You have Advantage on Dexterity saving throws.
-
-When gaining [[Surge Dice]] at the start of your next turn, no more than three of your unspent Reactions are converted into Surge Dice.
-
-You lose these benefits if you have the Incapacitated condition or if your Speed is 0.
+**_Defence and Dodge Action_**: The [[Actions#]]
 
 **_Misses?_** Any rule or feature that requires a missed attack to work also works if the attack does not deal damage because of Damage Reduction, Blocking, or Parrying. Those attacks count as both a hit and a miss in that regard. Note that Dodging explicitly causes dodged attacks to miss.

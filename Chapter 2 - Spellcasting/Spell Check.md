@@ -2,7 +2,7 @@ When you cast a spell, you now always roll a Spell check that determines the for
 
 **_Spell Check_**: When you cast a spell, you roll a D20 Test and add your spellcasting ability modifier. If you use a [[Spellcasting Focus]] that is associated with the school of the spell to cast the spell, you also add your Proficiency Bonus.
 
-**_Determines Forcefulness_**: When a caster tries to [[Chapter 5 - Spellcasting/Spells#Counterspell|counterspell]] or [[Chapter 5 - Spellcasting/Spells#Dispel Magic|dispel]] a spell you cast, they have to beat the Spell check to succeed.
+**_Determines Forcefulness_**: When a caster tries to [[Spells#Counterspell|counterspell]] or [[Spells#Dispel Magic|dispel]] a spell you cast, they have to beat the Spell check to succeed.
 
 **_Replaces Spell Save DC_**: When you cast a spell that requires its targets to roll one or multiple saving throws, the DC is now equal to the Spell check minus 2 instead. If the spell affects more than one target, the DC is reduced by another 2.
 
