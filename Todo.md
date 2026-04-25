@@ -3,11 +3,6 @@
 - Cheapskate auf damaging spells beschränken -> Cheapshot?
 ### for v0.10
 - turn Death Saves into [[Scene Checks]]?
-### for whenevs
-explicate how vision manifests on grids
-#### Action Economy
-- merge Reactions and Surge Dice into a section on Action Economy
-- move changed Reactions and Actions there
 #### [[Aimed Strikes]]
 - add a paragraph about targeting the brain, heart or other internal organs
 #### [[Monsters]]
@@ -19,6 +14,7 @@ explain how to design fair monsters
 #### Perception
 - generalize [[Aspects of Stealth]] and [[Vision & Focus]] to become a section about Perception generally
 - redescribe Blindsight, Truesight and Tremorsense as necessary
+- explicate how vision manifests on grids
 #### Reflection
 - reflect on the reliability of dodging compared to blocking and parrying
 #### Formatting
