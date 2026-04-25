@@ -302,3 +302,6 @@ General
 
 [[Vision & Focus]]
 - Removed the passage about treating creatures that can't see you as Blinded because that was practically irrelevant.
+### v0.9.1
+[[Aimed Strikes]]
+- Added a passage about targeting organs.
