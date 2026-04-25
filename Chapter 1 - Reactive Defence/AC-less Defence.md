@@ -58,6 +58,6 @@ For example, if an attack deals 2 Piercing damage, 2 Cold damage and 2 Force dam
 ### Other changes
 **_Reactive Defence_**: There are now options to reactively defend against incoming attacks and other effects. These include [[Dodging]], [[Blocking]] and [[Parrying]], as detailed within the Rules Glossary. For spellcasters, some of the [[Spells#New Spells|new]] and [[Spells#Reworked Spells - Defence|reworked spells]] provide options for reactive defence.
 
-**_Defence and Dodge Action_**: The [[Actions#]]
+**_Defence and Dodge Action_**: The [[Actions#Defence Action|Defence Action]] has been introduced and the [[Actions#Dodge Action|Dodge Action]] has been changed to fit the new reaction rules.
 
 **_Misses?_** Any rule or feature that requires a missed attack to work also works if the attack does not deal damage because of Damage Reduction, Blocking, or Parrying. Those attacks count as both a hit and a miss in that regard. Note that Dodging explicitly causes dodged attacks to miss.
