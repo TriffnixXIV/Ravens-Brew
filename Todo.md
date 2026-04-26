@@ -1,10 +1,5 @@
-### for v0.9
-- add guidance for converting monsters that use spellcasting to use Spell Points.
-- Cheapskate auf damaging spells beschränken -> Cheapshot?
 ### for v0.10
 - turn Death Saves into [[Scene Checks]]?
-#### [[Aimed Strikes]]
-- add a paragraph about targeting the brain, heart or other internal organs
 #### [[Monsters]]
 add descriptions of the three kinds of Monsters, Sponges, Shells and Smalls.
 explain how to design fair monsters
