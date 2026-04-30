@@ -1,0 +1,1 @@
+**_Universally Castable Scrolls_**: Spell scrolls can now be used by all characters that know a command word to activate the spell. The command word is known by the creator and can be found by decyphering the scroll, through the usual means (Investigation/Arcana/Identify).

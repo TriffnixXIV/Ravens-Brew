@@ -35,7 +35,7 @@ You can pick this feature multiple times, but only for different damage types.
 - When you roll a 1 on the d20 of the Spell check or the total is 0 or below, the spell dissipates, having no effect, the Action, Bonus Action, or Reaction you've used to cast it is wasted, and you regain the spent Spell Points.
 - When you roll a 20 on the d20 and the spell is not an attack, the spell is a Critical Hit regardless. Roll the damage dice twice and add them together to determine the damage.
 
-**_Iron Will_**: You have Advantage on Constitution saving throws that you make to maintain Concentration.
+**_Iron Will_**: You gain a bonus to your Concentration checks equal to your spellcasting ability modifier (at least 1).
 
 **_Irresistible Element_**: Choose one of the following damage types: Acid, Cold, Fire, Lightning, or Thunder. Spells you cast ignore Resistance to damage of the chosen type. You can pick this feature multiple times, but only for different damage types.
 
@@ -71,9 +71,9 @@ For example, if you apply this feature to Cure Wounds with a Proficiency Bonus o
 
 **_Everyone's Problem_**: When you take Overcast Damage, creatures within 5ft. of you have to make a Constitution saving throw against 10 or half the Overcast Damage, whichever is higher. On a failure, they take necrotic damage equal to half the Overcast Damage.
 
-**_Expectation_**: You roll [[Overcasting|Overcast]] Saves with Advantage.
-
 **_Flow_**: If you've spent a number of Spell Points equal to your Casting Limit last round, your Casting Limit increases by your Caster Proficiency Bonus. This effect stacks, and it ends when you spend less Spell Points than your Casting Limit allows for in a round or when combat ends.
+
+**_Hardened Conduits_**: You gain a bonus to your [[Overcasting|Overcast]] Saves equal to your Constitution modifier (at least 1).
 
 **_Hoarder_**: Your Spell Point maximum increases by twice your Caster Proficiency Bonus. You can pick this feature multiple times.
 

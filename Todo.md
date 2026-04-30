@@ -1,5 +1,9 @@
 ### for v0.10
 - turn Death Saves into [[Scene Checks]]?
+#### [[Scrolls]]
+- Actually check out the section on scrolls again and validate the changes.
+#### [[Objects]]
+- Actually check out the section on objects again and validate the changes.
 #### [[Monsters]]
 add descriptions of the three kinds of Monsters, Sponges, Shells and Smalls.
 explain how to design fair monsters

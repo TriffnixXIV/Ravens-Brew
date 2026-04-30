@@ -129,7 +129,7 @@ If you have Proficiency in Blocking, you also add your Proficiency Bonus to your
 
 **_Untraceable_**: Whenever you successfully dodge an attack, the next attack against you before the start of your next turn is rolled with Disadvantage.
 ### Shield & [[Blocking]] Features
-**_Blocking Adept_**: Requires training with Shields. You gain Proficiency in Blocking.
+**_Blocking Adept_**: You gain Proficiency in Blocking.
 
 **_Blocking Expert_**: Requires Proficiency in Blocking. You gain Expertise in Blocking.
 
@@ -149,11 +149,13 @@ If you have Proficiency in Blocking, you also add your Proficiency Bonus to your
 
 **_Elegant Parry_**: Requires Proficiency in Parrying. When you are using at least one Finesse weapon with which you are trained to parry, make the Parry Check with Advantage.
 
+**_Elegant Parry_**: You gain a bonus to your Parrying checks equal to your Wisdom modifier (at least 1).
+
 **_Interception_**: When a creature you can see attacks another creature within 5 feet of you with a Melee weapon, you can take a Reaction to parry that attack, potentially reducing the damage the target creature takes. You must be holding a Melee weapon to use this Reaction.
 
-**_Parrying Adept_**: You gain Proficiency in Parrying. If you are not trained with the weapon you are using to parry, you also do not add your Proficiency Bonus to the Parrying check.
+**_Parrying Adept_**: You gain Proficiency in Parrying.
 
-**_Parrying Expert_**: Requires Proficiency in Parrying. You gain Expertise in Parrying. If you are not trained with the weapon you are using to parry, you do not add this bonus.
+**_Parrying Expert_**: Requires Proficiency in Parrying. You gain Expertise in Parrying.
 
 **_Potent Parry_**: Requires Proficiency in Parrying. You add your Proficiency Bonus to the Parrying Power of your Finesse weapons. If you have Expertise in Parrying, you add it twice instead.
 

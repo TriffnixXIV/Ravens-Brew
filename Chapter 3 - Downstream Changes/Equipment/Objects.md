@@ -1,0 +1,3 @@
+**_Object Statblocks_**: Objects have Hit Points, a Hit DC and a Damage Reduction value, similar to creatures. The Hit DC depends on the size of the object, the Damage Reduction value on the density and hardness of the material, and the Hit Points on the overall sturdiness and resiliance. 
+
+**_Weapons, Shields and Armour_**: Weapons, shields and armour are usually considered to not take damage from attacks against their wearers or wielders, and they are usually considered to not take damage through ordinary means. When an attack deals sufficient damage to the wearer, an armour may be damaged, and when such an attack is blocked or parried, the shield or weapon may be damaged, too. This should be reserved for special occasions.
