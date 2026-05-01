@@ -33,5 +33,8 @@ For example, when a Tiny shield is held accordingly, it can give total cover to 
 | Crotch    | Fine       | 18     |
 | Leg       | Tiny       | 14     |
 | Foot      | Diminutive | 16     |
+**_Targeting Organs_**: Organs such as the heart, lungs, or the brain are considered to have total cover inside the body. This total must either be pierced or disabled through Aimed Strikes targeting it before the organs can be affected by an attack or targeted. When the damage of an Aimed Strike in an organs direction is high enough, the DM may decide that the organ has been struck regardless of its cover.
+
+When an organ is hit, the damage should be increased by a significant amount, and disabling a vital organ should impose potent drawbacks. For the lungs, you might refer to the rules on Suffocation, for the brain, the target may have the Stunned condition, and for the heart, the target may repeatedly take damage and stacks of Exhaustion.
 ### Example Scenario
 The champion knows that a blinded cyclops is a harmless cyclops. Therefor, she decides to aim her shot at his eye. This increases the Hit DC for the attack from 6 to 18, given that the eye is a Fine target. The DM decides on the fly that the eye is vulnerable to piercing damage. She rolls her attack as usual and hits, dealing 38 piercing damage, so the cyclops must make a DC19 Wound Save. He fails this save, so his eye is now wounded, giving him Disadvantage on everything that relies on his sight. This is not enough for the champion though, so she fires a second arrow towards his eye, dealing 46 piercing damage. The cyclops fails his DC23 Wound Save and his eye is now disabled, leaving him Blinded.

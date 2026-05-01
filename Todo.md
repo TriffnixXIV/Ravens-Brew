@@ -1,4 +1,4 @@
-### for v0.10
+### towards v1
 - turn Death Saves into [[Scene Checks]]?
 #### [[Scrolls]]
 - Actually check out the section on scrolls again and validate the changes.
@@ -19,3 +19,6 @@ explain how to design fair monsters
 #### Formatting
 turn bold italic text into h6 in Obsidian to be able to use them as link targets
 - turn this back into bold italic text when converting to PDF, but keep the linking
+### for v0.9
+- add guidance for converting monsters that use spellcasting to use Spell Points.
+- Cheapskate auf damaging spells beschränken -> Cheapshot?
