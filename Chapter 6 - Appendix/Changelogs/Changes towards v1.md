@@ -1,3 +1,4 @@
+### v0.9.1
 General
 - Restructured the entire thing again.
 - Added a chapter on [[Variant Rules|variant rules]].
@@ -23,7 +24,7 @@ General
 
 [[Scrolls]]
 - Added a paragraph about universally usable scrolls.
-### Feats
+#### Feats
 [[Caster Training]]
 - Changed _Iron Will_ to give a bonus equal to your spellcasting ability modifier instead of Advantage.
 - Renamed _Expectation_ to _Hardened Conduits_. Changed it to give a bonus equal to your Constitution modifier instead of Advantage.
