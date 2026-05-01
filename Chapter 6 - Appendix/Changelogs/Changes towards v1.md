@@ -12,6 +12,8 @@ General
 
 [[Objects]]
 - Added to give guidance on objects as targets.
+- Added a paragraph on disabling objects.
+- Introduced object parts similar to body parts.
 
 [[Tools]]
 - Tools use Training instead of Proficiency now.
@@ -22,8 +24,9 @@ General
 [[Magic Items]]
 - Introduced for new magical items interacting with the new rules.
 
-[[Scrolls]]
-- Added a paragraph about universally usable scrolls.
+[[Spell Scrolls]]
+- Added universal scrolls that can be used by all characters.
+- Rephrased spell scrolls a bit to fit the Spell Point system.
 #### Feats
 [[Caster Training]]
 - Changed _Iron Will_ to give a bonus equal to your spellcasting ability modifier instead of Advantage.
@@ -32,3 +35,10 @@ General
 [[Martial Training]]
 - Changed some Blocking and Parrying features to no longer mention requirements that were already checked in the sections on the reactions.
 - Changed _Elegant Parry_ to give a bonus equal to your Wisdom modifier instead of Advantage.
+#### [[Monsters]]
+- Added an introduction of the roughly three kinds of monsters.
+- Added a few paragraphs about body parts.
+- Restructured the section into multiple subsections.
+- Added some paragraphs about tracking various aspects.
+- Drafted a subsection about Spellcasting for monsters.
+- Explicated a few ways of customizing a monster.

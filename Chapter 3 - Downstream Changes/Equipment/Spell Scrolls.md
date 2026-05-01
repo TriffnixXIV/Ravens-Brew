@@ -1,0 +1,7 @@
+**_Spell Scroll_**: A Spell Scroll bears the words of a single spell, written in a mystical cipher. If the spell is on your spell list, you can read the scroll and cast its spell without Material components. Otherwise, the scroll is unintelligible. Casting the spell by reading the scroll requires the spell's normal casting time. Once the spell is cast, the scroll crumbles to dust. If the casting is interrupted, the scroll isn't lost.
+
+If the spell is on your spell list but its Spell Point cost exceeds your Casting Limit, you make an ability check using your spellcasting ability to determine whether you cast the spell. The DC equals 10 plus the excess Spell Point cost. On a failed check, the spell disappears from the scroll with no other effect.
+
+**_Universal Scrolls_**: Universal Scrolls are a special kind of spell scroll that can be used by all characters that know the command word to activate it. The command word can be shared by the creator and discovered by deciphering the scroll.
+
+**_Crafting Universal Scrolls_**: You can craft a universal scroll in the same way you can craft a regular spell scroll, with the same time and coin cost. It is a matter of your decision whether you want to make a spell universally accessible or only accessible to those that know the spell.
