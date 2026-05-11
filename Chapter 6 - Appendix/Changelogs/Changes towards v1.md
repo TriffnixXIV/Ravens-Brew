@@ -4,10 +4,16 @@ General
 - Added a chapter on [[Variant Rules|variant rules]].
 	- Added a Help Action variant that does not work through Advantage.
 
+[[Aimed Strikes]]
+- Added a passage about targeting organs.
+
+[[Classes]]
+- Rephrased the Monks _Patient Defence_.
+
 [[Scene Checks]]
 - Introduced to encompass [[Surgery]] and the [[Rite of Regeneration]].
 - Added [[Domestication]] and [[Grafting]] as further examples.
-### [[Equipment]]
+#### [[Equipment]]
 - Committed to having equipment only correlate with training and not with Proficiency or Expertise.
 
 [[Objects]]
@@ -23,6 +29,10 @@ General
 
 [[Magic Items]]
 - Introduced for new magical items interacting with the new rules.
+
+[[Shields]]
+- [[Blocking]] checks with shields with the Light property can now only be rolled with Dexterity.
+- Blocking checks with shields with the Heavy property can now only be rolled with Strength.
 
 [[Spell Scrolls]]
 - Added universal scrolls that can be used by all characters.

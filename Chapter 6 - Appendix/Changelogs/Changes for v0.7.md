@@ -21,7 +21,7 @@ General
 - Added a new set of smaller sizes and changed multiple base Missing Thresholds.
 - Added a table as a reference for the sizes.
 
-[[Reactions]]
+[[Action Economy]]
 - Free Reactions no longer reference Free Actions, as those are not part of the 2024 rules. They now refer to the free object interaction instead.
 - Using the Ready action now gives an additional Reaction.
 - Limited Prey on the Vulnerable to melee weapon attacks and tied it exclusively to the Incapacitated condition.

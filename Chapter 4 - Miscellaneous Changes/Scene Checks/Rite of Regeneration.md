@@ -28,5 +28,5 @@ The Rite is interrupted when the following conditions are not met:
 - The conductor must maintain Concentration on the Rite.
 - The target body part must be sufficiently still.
 - The target must stay in the space they occupied at the start of the Rite.
-### Example Scenario
+#### Example Scenario
 A Thief Rogue flew a bit too close to the sun and had his left leg disabled by the nasty bite attack of a Guard Drake that was not ready to let him pass. Lucky as he is, one of his associates is a Life Domain Cleric that is willing to help, and they've met in an isolated place to minimize disruption. Only their Bard friend presents a significant threat in that regard, though they did offer some Bardic Inspiration to help. The Cleric starts the Rite as its conductor and rolls the first Regeneration check. She rolls the d20 for a 7, adds her spellcasting modifier of +5 for a 12, and casts Cure Wounds with a first level spell slot, for 12 (2d8+3) healing by the spell and 2 healing from the Life Domains Disciple of Life feature, for a total of 26. This is not enough, but with the use of the Bardic Inspiration die the Bard oh-so-graciously offered the check total is a 31, barely making the Regeneration check succeed. Only two more successes to go, and the leg will be properly usable again!

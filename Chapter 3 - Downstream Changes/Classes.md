@@ -1,4 +1,6 @@
 ### Barbarian
+**_Unarmoured Defence_**: Instead of adding your Constitution modifier to your AC when you are not wearing armour, your Constitution modifier is added to your [[AC-less Defence#Damage Reduction|Damage Reduction]].
+
 **_Level 5 - Sudden Momentum (new)_**: When you spend Surge Dice to deal more damage with a Reckless Attack, you receive one Surge Die afterwards.
 ### Bard
 **_Updated Spellcasting Table_**: The Bard uses the [[Fullcaster Table]].
@@ -25,9 +27,9 @@
 ### Monk
 **_Martial Arts - Dexterous Attacks_**: Instead of using the Dexterity modifier to determine the save DC when using the Grapple or Shove option of your Unarmed Strike, you can make a Dexterity (Athletics) check instead of a Strength (Athletics) check when attempting to Grapple or Shove, using the [[Contests|Contest]] rules.
 
-**_Unarmoured Defence_**: Instead of being converted to [[AC-less Defence|Damage Reduction]], your Wisdom modifier is added to your [[Dodging]] checks.
+**_Unarmoured Defence_**: Instead of being converted to [[AC-less Defence#Damage Reduction|Damage Reduction]], your Wisdom modifier is added to your [[Dodging]] checks.
 
-**_Patient Defence_**: May instead be used to take the [[AC-less Defence#Other changes|Defence Action]].
+**_Patient Defence_**: When spending 1 Focus Point to take the Disengage and Dodge actions as a Bonus Action, you may take the Disengage and [[AC-less Defence#Other changes|Defence]] actions as a Bonus Action instead.
 
 **_Deflect Missiles_**: May be used as part of the [[AC-less Defence#Other changes|Defence Action]].
 
@@ -65,9 +67,9 @@ For example, when spending 3 Focus Points, you may instead spend either 3 Surge 
 
 **_Metamagic - Quickened Spell_**: You can now use this feature even if you have already spent Spell Points this round, and you can spend more Spell Points afterwards.
 
-**_Draconic Sorcery - Draconic Resilience_**: Instead of adding your Charisma modifier to your AC when you are not wearing armour, your Charisma modifier is added to your Damage Reduction.
+**_Draconic Sorcery - Draconic Resilience_**: Instead of adding your Charisma modifier to your AC when you are not wearing armour, your Charisma modifier is added to your [[AC-less Defence#Damage Reduction|Damage Reduction]].
 
-**_Wild Magic Sorcery - Wild Magic Surge - 49-52_**: Instead of increasing your AC by 2, the floating shield gives half cover. If you already benefit from half cover, you benefit from three quarters cover instead.
+**_Wild Magic Sorcery - Wild Magic Surge - 49-52_**: Instead of increasing your AC by 2, the floating shield is small and thus gives a +2 Hit DC to covered medium targets.
 ### Warlock
 **_Pact Magic - Spell Slots_**: Similar to all other classes, you now also use [[Spellcasting#Spell Points|Spell Points]]. However, as your patron is the source of your power, you do not have these Spell Points yourself. Instead, you have the potentially enormous supply of your patron at your disposal, only limited by your ability to be your patrons conduit and your patrons willingness or pact-bound duty to provide for you. As such, you are only limited by your [[Spell Limits]] and their Patronage, as shown below.
 

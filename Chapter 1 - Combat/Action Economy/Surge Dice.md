@@ -2,7 +2,7 @@ A Surge Die is 1d6 that can be used for various effects that are described below
 
 When Surge Dice are to be used in a contest, each participating party must announce the number of Surge Dice they use before knowing the roll of another party.
 
-**_Obtaining Surge Dice_**: You can obtain Surge Dice through reserving Reactions as described in the [[Reactions|Reaction]] rules. Some classes may also give features that relate to Surge Dice.
+**_Obtaining Surge Dice_**: You can obtain Surge Dice through reserving Reactions as described in the [[Action Economy|Reaction]] rules. Some classes may also give features that relate to Surge Dice.
 
 **_Surge Reaction_**: Instead of using Surge Dice as part of other actions, you can also use them by themselves. When you notice something happening, you can take a Free Reaction to use any number of your Surge Dice.
 ### Surge Die Effects

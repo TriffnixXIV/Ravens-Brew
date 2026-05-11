@@ -38,7 +38,7 @@ To continue the Shield example, if you are holding a Shield directly towards an 
 - They decrease their effective size by one category for the purposes of determining the degree of cover they gain through the cover they crouch behind.
 - They have the Prone condition.
 
-For example, a Medium Humanoid receives three quarters cover from a Tower Shield when crouching behind it instead of the usual half cover, while a Small Humanoid can receive full cover from a Tower Shield when crouching behind it.
+For example, a Medium Humanoid receives a +4 to their Hit DC from a Tower Shield when crouching behind it instead of the usual +2, while a Small Humanoid can receive full cover from a Tower Shield when crouching behind it.
 ### Damage Reduction
 **_Damage Reduction_**: Targets now have a Damage Reduction value. When the target takes damage through an attack, that value is subtracted from this damage.
 

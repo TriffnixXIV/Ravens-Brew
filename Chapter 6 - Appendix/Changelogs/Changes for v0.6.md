@@ -6,7 +6,7 @@ General
 	- Added spell changes for Shield, Mage Armour, and Barkskin.
 - Renamed the Backstab Advantage & Focus chapter to [[Vision & Focus]]. Added two paragraphs about Vision and rephrased a few things.
 
-[[Reactions]]
+[[Action Economy]]
 -  Added a paragraph on general reaction timing and cleaned up other descriptions throughout the rules accordingly.
 
 [[AC-less Defence]]

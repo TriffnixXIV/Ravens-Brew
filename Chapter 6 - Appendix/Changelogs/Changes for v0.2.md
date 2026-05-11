@@ -1,4 +1,4 @@
-[[Reactions]] - Free Reactions (new)
+[[Action Economy]] - Free Reactions (new)
 - every turn, in addition to a Reaction, you also have one Free Reaction that can be used for some stuff.
 
 [[Vision & Focus]]

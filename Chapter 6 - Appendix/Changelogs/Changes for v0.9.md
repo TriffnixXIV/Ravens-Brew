@@ -302,10 +302,3 @@ General
 
 [[Vision & Focus]]
 - Removed the passage about treating creatures that can't see you as Blinded because that was practically irrelevant.
-### v0.9.1
-[[Aimed Strikes]]
-- Added a passage about targeting organs.
-
-[[Shields]]
-- [[Blocking]] checks with shields with the Light property can now only be rolled with Dexterity.
-- Blocking checks with shields with the Heavy property can now only be rolled with Strength.

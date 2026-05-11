@@ -1,7 +1,7 @@
 General
 - reordered the chapters to make more sense
 
-[[Reactions]] - Reserving Actions
+[[Action Economy]] - Reserving Actions
 - now only gives one Reaction per Action
 
 [[Dodging]]

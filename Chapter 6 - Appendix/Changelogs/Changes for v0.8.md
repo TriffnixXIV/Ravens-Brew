@@ -49,7 +49,7 @@
 - moved acquisition of parrying Proficiency and Expertise to [[Martial Training]].
 - updated wording to requite weapon training instead of Proficiency.
 
-[[Reactions]]
+[[Action Economy]]
 - merged Evasive Stance, Defensive Stance, Protective Stance, and Parrying Stance into one singular Defence Action.
 - moved Prey on the Vulnerable to [[Martial Training]].
 - removed Trip, as it is already possible through an Opportunity Attack with an Unarmed Strike.
@@ -95,7 +95,7 @@ General
 - reworded Heavy Armour Master, so that it now mentions its Blocking Modifier and is further improved by Blocking Expertise.
 - reworded Free Hand Enhancement so that it is more concise and clear about only negating Disadvantage imposed through the Free Hand property.
 
-[[Reactions]]
+[[Action Economy]]
 - moved the Defence Action to AC-less Defence.
 - removed the paragraph about Reaction timing, as it was functionally equivalent to the existing base rule.
 ### v0.8.2
