@@ -21,7 +21,7 @@
 
 **_Battle Master - Evasive Footwork_**: As a Bonus Action, you can expend one Superiority Die and take the Disengage action. You also roll the die and add the number rolled to your Hit DC until the start of your next turn.
 
-**_Battle Master - Riposte_**: When you successfully [[Blocking|block]], [[Dodging|dodge]], or [[Parrying|parry]] a melee attack, you can expend one Superiority Die to make a melee weapon against the attacking creature. If you hit, you add the Superiority Die to the attacks damage roll.
+**_Battle Master - Riposte_**: When you successfully [[Blocking|block]], [[Dodging|dodge]], or [[Parrying|parry]] a melee attack, you can expend one Superiority Die to make a melee weapon attack against the attacking creature. If you hit, you add the Superiority Die to the attacks damage roll.
 
 **_Eldritch Knight - Updated Spellcasting Table_**: The Eldritch Knight uses the [[Thirdcaster Table]].
 ### Monk

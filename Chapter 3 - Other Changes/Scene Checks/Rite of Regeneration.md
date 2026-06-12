@@ -16,7 +16,7 @@ _Rolling a 20_: When a 20 is rolled on the d20 of the Spell check, the Rite of R
 
 _Rolling a 1_: When a 1 is rolled on the d20 of the Spell check, the Regeneration check automatically fails and the target receives one additional level of Exhaustion regardless of the saving throw.
 
-**_Assisting a Rite of Regeneration_**: Creatures that are also able to cast Cure Wounds may take the Help Action on all of their turns during the Rite to give Advantage on the Regeneration checks. When doing so, they may cast the spell instead of the conductor, using a spell slot of their own.
+**_Assisting a Rite of Regeneration_**: Creatures that are also able to cast Cure Wounds may take the Help Action on all of their turns during the Rite to give Advantage on the Regeneration checks. When doing so, they may cast the spell instead of the conductor, using Spell Points of their own.
 
 Creatures that are able to heal the target creature can assist by using their healing abilities during the Rite and before a Regeneration check is rolled. Any healing transmitted to the target will be added to the next Regeneration check.
 

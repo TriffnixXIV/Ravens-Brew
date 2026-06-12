@@ -1,10 +1,3 @@
-Spellcasting is fundamentally reworked. Firstly, casting a spell now uses [[Spell Points]] and [[Spell Limits]] instead of Spell Slots, secondly, spells now always require the caster to roll a [[Spell Check|Spell check]] that influences Spell attack rolls and replaces the Spell Save DC to turn it into a contest, and thirdly, it is now possible to cast multiple spells a round and even [[Upcasting|upcast]] spells further than before through [[Overcasting]], though the spellcaster takes damage and risks [[Conditions#Weavestrain|Weavestrain]] by doing so.
-
-Additionally, Spellcasting has been supplemented with [[Caster Training]] to offer novel ways of interacting with spells and customize the character. The inner workings of [[Spellcasting Focus|Spellcasting Foci]] have been changed as well to give a bonus when casting spells of specific schools. Cantrips have been reworked to not scale automatically, instead, they can now be upcast. Also, [[Sunken Spells & Depthcasting]] have been introduced for automatic upcasting on negative Spell Point costs, which are achievable through Caster Training.
-
-Some [[Spells]] have seen changes to fit with [[AC-less Defence]], and some spells have been changed to interact with [[Conditions#Wounded|Wounds]], as caused by [[Aimed Strikes]]. Similarly, the [[Rite of Regeneration]] has been added as a method of removing [[Conditions#Disabled|Disabilities]]. Some Spells have been changed to upcast better.
-
-**_Spellcaster Level_**: There are five traits that scale with Spellcaster level now. These include the number of [[#Spell Points]] the caster has access to, their number of [[Caster Training]] features and Caster Proficiency Bonus (both are equal) as described below, and their [[Spell Limits]], as shown in the table below.
 
 | Caster Level | Caster Proficiency & Training | Spell Limits | Spell Points | +1/3 | +1/2 | +2/3 |
 | ------------ | ----------------------------- | ------------ | ------------ | ---- | ---- | ---- |
@@ -33,4 +26,4 @@ The columns to the right of the spell points column show how many Spell Points s
 
 The numbers are calculated through the formulas given in the last row. The results are always rounded down.
 
-**_Caster Proficiency Bonus_**: In addition to the regular Proficiency Bonus, spellcasters also use a Caster Proficiency Bonus. This bonus replaces the Proficiency Bonus when it comes to some [[Caster Training]] features and depends solely on the spellcaster level. If the spellcaster level is equal to the character level, the Caster Proficiency Bonus is also equal to the regular Proficiency Bonus.
+This table is used in the [[Spellcasting]] chapter and is the source for the [[Fullcaster Table]], the [[Halfcaster Table]] and the [[Thirdcaster Table]].

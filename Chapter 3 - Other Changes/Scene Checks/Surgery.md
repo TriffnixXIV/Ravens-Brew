@@ -4,6 +4,8 @@ When a creature has a [[Conditions#Disabled|disabled]] or malfunctioning body pa
 
 **_Requirements_**: A Surgery requires the use of [[Tools#Surgery Tools|Surgery Tools]].
 
+**_Associated Skills_**: Sleight of Hand, Nature, Medicine.
+
 **_Performing a Surgery_**: A Surgery is performed on a singular target creature and lead by one character, the surgeon, that rolls all the required rolls, and takes an hour. To successfully perform a Surgery, the surgeon must succeed on a DC 20 Surgery check three times, utilizing Surgery Tools.
 
 When you have Proficiency or Expertise in both Surgery Tools and an associated skill, you roll with Advantage.

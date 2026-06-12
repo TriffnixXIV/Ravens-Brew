@@ -8,8 +8,6 @@ Grafting is a multi-purpose activity. When a creature has a [[Conditions#Disable
 
 **_Grafting_**: Grafting is done to a singular target creature, the graftee, and lead by one character, the grafter, that rolls all the required rolls, and takes roughly an hour. To successfully graft a body part onto the graftee, the grafter must succeed on a DC 25 Grafting check four times, utilizing Surgery Tools.
 
-When you have Proficiency or Expertise in both Surgery Tools and an associated skill, you roll with Advantage.
-
 After four Grafting checks succeeded, the body part or prosthetic is successfully grafted onto the graftee and [[Conditions#Wounded|Wounded]] until the target takes a long rest. Afterwards, the body part is healthy. Consult the subsection on [[Grafting#Results of Grafting|Results of Grafting]] for more details.
 
 _Rolling a 20_: When a 20 is rolled on the d20, this Grafting check and the next one are automatically successful.
@@ -26,7 +24,7 @@ _Rolling a 1_: When a 1 is rolled on the d20, the Grafting check automatically f
 
 **_Assisting a Grafting_**: Creatures that are proficient with Surgery Tools or with one of the associated skills may take the Help Action on all of their turns during the Graft to give Advantage on the Grafting checks.
 
-**_Interrupting a Grafting_**: When a Grafting is interrupted, the graftee and the body part remain fully unaffected and the Grafting must be started anew.
+**_Interrupting a Grafting_**: When a Grafting is interrupted, the graftee and the body part remain fully unaffected and the Grafting must be started anew. When a Grafting is interrupted after the first two successes, the graftee is [[Conditions#Wounded|wounded]] on the body part where the Grafting takes place.
 
 The Grafting is interrupted when the following conditions are not met:
 - The grafter must take the Utilize Action on each of their turns, utilizing Surgery Tools on the target body part or graftee.
@@ -42,16 +40,17 @@ Grafting is very versatile and can lead to many helpful, powerful, ridiculous an
 
 **_Adding a Body Part_**: Similarly, a new body part can be added in a place where no such body part was before. The benefits and drawbacks of the new body part now apply to the graftee accordingly. As this most definitely breaks with anatomic conventions and can lead to various benefits, consider adding an appropriate amount of drawbacks.
 
-**_Potential Benefits_**: Potential benefits include:
+**_Potential Benefits_**:
 - Access to stronger Unarmed Strikes through claws or hooves.
+- New body parts.
 - New and increased speeds through changed legs, added wings, added fins, and the like.
 - Improved senses.
 - Improved Strength, Dexterity or Constitution. In some circumstances, maybe even improved Charisma.
 
-**_Potential Drawbacks_**: Potential drawbacks include:
+**_Potential Drawbacks_**:
 - Decreased Strength, Dexterity, Constitution or Charisma.
 - A recurring Spell Point cost (for example after every long rest or for each minute of use), as the body requires magical energy to listen to your will or to have sufficient energy to unfold its effects.
-- Heightened vulnerability to Exhaustion, such as being exhausted after 2 hours of travel or being dehydrated or starving after a shorter frame of time, leading to increased need for rations or breaks.
+- Heightened vulnerability to Exhaustion, such as being exhausted after a shorter duration of travel, dehydration or starvation, leading to an increased need for rations or breaks.
 - Stigmata.
 
 **_Other Potential Effects_**:

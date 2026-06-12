@@ -13,6 +13,9 @@ General
 [[Scene Checks]]
 - Introduced to encompass [[Surgery]] and the [[Rite of Regeneration]].
 - Added [[Domestication]] and [[Grafting]] as further examples.
+
+[[Spells]]
+- Clarified that Weavestrike can't make a target lose more Spell Points than it has.
 #### [[Equipment]]
 - Committed to having equipment only correlate with training and not with Proficiency or Expertise.
 
@@ -41,6 +44,8 @@ General
 [[Caster Training]]
 - Changed _Iron Will_ to give a bonus equal to your spellcasting ability modifier instead of Advantage.
 - Renamed _Expectation_ to _Hardened Conduits_. Changed it to give a bonus equal to your Constitution modifier instead of Advantage.
+- Changed _Hubris_ to explicitly reference copying from spell scrolls or other spellbooks.
+- Changed _Money Shot_ to be limited use per Long Rest.
 
 [[Martial Training]]
 - Changed some Blocking and Parrying features to no longer mention requirements that were already checked in the sections on the reactions.

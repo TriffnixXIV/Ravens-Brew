@@ -5,7 +5,7 @@ When Surge Dice are to be used in a contest, each participating party must annou
 **_Obtaining Surge Dice_**: You can obtain Surge Dice through reserving Reactions as described in the [[Action Economy|Reaction]] rules. Some classes may also give features that relate to Surge Dice.
 
 **_Surge Reaction_**: Instead of using Surge Dice as part of other actions, you can also use them by themselves. When you notice something happening, you can take a Free Reaction to use any number of your Surge Dice.
-### Surge Die Effects
+#### Surge Die Effects
 You can use Surge Dice for the following effects:
 
 **_Power_**: Add the roll to an attack roll, an ability check, or the damage you deal to one creature. If the Surge Die is added to the damage of a critical hit, it is not doubled.

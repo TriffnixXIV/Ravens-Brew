@@ -4,7 +4,7 @@ Domestication is the go-to way to find new friends without having to interact wi
 
 **_Scene Check_**: Domestication makes use of the [[Scene Checks|Scene check]] rules.
 
-**_Requirements_**: Domestication requires a creature that can be domesticated and is open to be domesticated. Most of the time, this is the case for Beasts, more rarely for Dragons, Monstrosities or Plants, and very rare for Aberrations, Elementals and Oozes. Celestials, Constructs, Fey, Fiends, Giants, Humanoids and Undead are assumed to not be open to be domesticated, though there can be exceptions.
+**_Requirements_**: Domestication requires a creature that can be domesticated and is open to be domesticated. Most of the time, this is the case for Beasts, more rarely for Dragons, Monstrosities or Plants, and very rare for Aberrations, Elementals and Oozes. Celestials, Constructs, Fey, Fiends, Giants, Humanoids and Undead are assumed to not be open to being domesticated, though there can be exceptions.
 
 **_Associated Skills_**: Animal Handling, Performance.
 

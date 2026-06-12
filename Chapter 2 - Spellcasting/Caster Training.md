@@ -77,13 +77,13 @@ For example, if you apply this feature to Cure Wounds with a Proficiency Bonus o
 
 **_Hoarder_**: Your Spell Point maximum increases by twice your Caster Proficiency Bonus. You can pick this feature multiple times.
 
-**_Hubris_**: Requires a spellbook. You may write spells into your spellbook and prepare spells from your spellbook even if their cost exceeds your Preparation Limit.
+**_Hubris_**: Requires a spellbook. You may copy spells from spell scrolls or other spellbooks into your spellbook and prepare them even if their cost exceeds your Preparation Limit.
 
 **_Insistence_**: Requires _Emphasis_. When you roll a Spell check, you add a bonus to the checks total equal to half the number of Spell Points you've spent on the corresponding spellcast, rounded up.
 
 **_Limitbreaker_**: Requires _By Any Means_. Once per Short or Long Rest when you fail an Overcast Save, you may choose to succeed instead.
 
-**_Money Shot_**: When you spend your Spell Points to cast a spell and have no Spell Points left afterwards, the roll on the d20 of the Spell check is automatically a 20.
+**_Money Shot_**: When you spend your Spell Points to cast a spell and have no Spell Points left afterwards, the roll on the d20 of the Spell check is automatically a 20. You can use this feature a number of times equal to your Caster Proficiency Bonus per Long Rest.
 
 **_Recast_**: When casting a spell that you've already cast last round, the casting cost is halved.
 

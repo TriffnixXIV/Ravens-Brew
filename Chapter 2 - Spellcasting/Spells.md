@@ -67,6 +67,8 @@ Evocation (Bard, Paladin, Sorcerer, Warlock, Wizard). Cost: 3 Spell Points. Cast
 
 As you hit the target, it loses 3 Spell Points. These lost Spell Points count against its Casting Limit and can thus force it to [[Overcasting|Overcast]].
 
+The target can't lose more Spell Points than it currently has. Any Spell Points that would've been spent to remove Spell Points that the target doesn't have remain unspent.
+
 _Upcasting_: For every additional Spell Point spent, the number of Spell Points the target loses increases by 1.
 #### Zone of Inhibition
 Enchantment (Cleric, Wizard, Warlock). Cost: 12 Spell Points. Casting Time: Action. Range: 60 feet. Components: V, S. Duration: Concentration, up to 1 minute.
