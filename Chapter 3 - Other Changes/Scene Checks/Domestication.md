@@ -1,4 +1,4 @@
-like, imagine a potent flying foe having their wings clipped by the party and surrendering to the whims of the party under certain circumstances, now that is something
+Like, imagine a potent flying foe having their wings clipped by the party and surrendering to the whims of the party under certain circumstances, now that is something.
 
 Domestication is the go-to way to find new friends without having to interact with Humanoids.
 
@@ -12,7 +12,7 @@ Domestication is the go-to way to find new friends without having to interact wi
 
 When you use methods that particularly appeal to the target creature, you roll with Advantage.
 
-After the five Domestication checks succeeded, the target is domesticated. Consult the chapter on [[Pets]] for more details.
+After the five Domestication checks succeeded, the target is domesticated. It regards you as an ally and comes back to you from time to time. It roughly understands you, but does not follow any commands yet, and will not fight for you yet. To achieve this, the target must specifically be trained to follow each command.
 
 _Rolling a 20_: When a 20 is rolled on the d20, this Domestication check and the next one are automatically successful. Any increase of the difficulty through previous failures on Domestication checks are reset this way.
 
@@ -22,4 +22,4 @@ _Rolling a 1_: When a 1 is rolled on the d20, the Domestication check automatica
 #### Affecting a Domestication
 **_Assisting a Domestication_**: Creatures that are proficient with one of the associated skills may give Advantage on the Domestication checks.
 
-**_Interrupting a Domestication_**: A Domestication can only interrupted by an elongated absence of the domesticator or the death of the target creature. After not rolling a Domestication check for a week, the Domestication has to be started anew.
+**_Interrupting a Domestication_**: A Domestication can only be interrupted by an elongated absence of the domesticator or the death of the target creature. After not rolling a Domestication check for a week, the Domestication has to be started anew.

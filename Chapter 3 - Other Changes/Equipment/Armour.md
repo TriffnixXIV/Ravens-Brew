@@ -38,4 +38,4 @@ The Damage Reduction of an armour will usually only work against attacks that ar
 
 When purchasing an armour set to cover only the torso and the hips, without additional armour pieces, the costs should be roughly half of the full cost.
 
-**_Wearing Armour Pieces without Training_**: When wearing an armour piece of an armour category you don't have the corresponding armour training for, you have Disadvantage on any D20 Test that relies on the body part covered by that armour piece.
+**_Wearing Armour Pieces without Training_**: When wearing an armour piece of an armour category you don't have the corresponding armour Training for, you have Disadvantage on any D20 Test that relies on the body part covered by that armour piece.

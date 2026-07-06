@@ -5,22 +5,24 @@ Tying the Proficiency Bonus that was previously automatically given to spell att
 **_No Automatic Spell Attack Roll Proficiency_**: Your Spell attack modifier is now only equal to your Spellcasting ability modifier. To add your Proficiency Bonus, you now require a Spellcasting Focus associated with the spells school.
 
 **_Enhanced Schools_**: Every Spellcasting Focus has three associated spell schools, as shown below. When you cast a spell while using a Spellcasting Focus that is associated with its school, you add your Proficiency Bonus to the Spell check and to the Spell attack rolls.
-
-| Spellcasting Focus                            | Type    | Associated Schools                     |
-| --------------------------------------------- | ------- | -------------------------------------- |
-| Crystal                                       | Arcane  | Illusion, Necromancy, Transmutation    |
-| Orb                                           | Arcane  | Conjuration, Divination, Illusion      |
-| Rod                                           | Arcane  | Abjuration, Divination, Necromancy     |
-| Staff (also Quarterstaff)                     | Arcane  | Abjuration, Conjuration, Evocation     |
-| Wand                                          | Arcane  | Enchantment, Evocation, Transmutation  |
-| Sprig of Mistletoe                            | Druidic | Abjuration, Divination, Transmutation  |
-| Staff (also Quarterstaff)                     | Druidic | Abjuration, Conjuration, Evocation     |
-| Yew wand                                      | Druidic | Enchantment, Illusion, Necromancy      |
-| Amulet (worn or held)                         | Holy    | Abjuration, Conjuration, Evocation     |
-| Emblem (borne on fabric or a Shield)          | Holy    | Abjuration, Enchantment, Transmutation |
-| Reliquary (held)                              | Holy    | Divination, Illusion, Necromancy       |
-| Percussion (drum)                             | Bardic  | Abjuration, Conjuration, Evocation     |
-| Strings (dulcimer, lute, lyre, viol)          | Bardic  | Enchantment, Necromancy, Transmutation |
-| Woodwind (bag pipes, flute, pan flute, shawm) | Bardic  | Divination, Enchantment, Illusion      |
-| Brass Instrument (horn)                       | Bardic  | Conjuration, Enchantment, Evocation    |
-**_Other Spellcasting Foci_**: If a feature gives you something as a Spellcasting Focus that isn't listed above or lets you use something as a Spellcasting Focus without associating spell schools with it, choose two spell schools to associate with that Spellcasting Focus.
+#### Arcane Focus
+- _Crystal_: Illusion, Necromancy, Transmutation
+- _Orb_: Conjuration, Divination, Illusion
+- _Rod_: Abjuration, Divination, Necromancy
+- _Staff (also Quarterstaff)_: Abjuration, Conjuration, Evocation
+- _Wand_: Enchantment, Evocation, Transmutation
+#### Druidic Focus
+- _Sprig of Mistletoe_: Abjuration, Divination, Transmutation
+- _Staff (also Quarterstaff)_: Abjuration, Conjuration, Evocation
+- _Yew wand_: Enchantment, Illusion, Necromancy
+#### Holy Focus
+- _Amulet (worn or held)_: Abjuration, Conjuration, Evocation
+- _Emblem (borne on fabric or a Shield)_: Abjuration, Enchantment, Transmutation
+- _Reliquary (held)_: Divination, Illusion, Necromancy
+#### Bardic Focus
+- _Percussion (drum)_: Abjuration, Conjuration, Evocation
+- _Strings (dulcimer, lute, lyre, viol)_: Enchantment, Necromancy, Transmutation
+- _Woodwind (bag pipes, flute, pan flute, shawm)_: Divination, Enchantment, Illusion
+- _Brass Instrument (horn)_: Conjuration, Enchantment, Evocation
+#### Other Spellcasting Foci
+If a feature gives you something as a Spellcasting Focus that isn't listed above or lets you use something as a Spellcasting Focus without associating spell schools with it, choose two spell schools to associate with that Spellcasting Focus.

@@ -115,7 +115,7 @@ General
 - Turned [[Spells#Weavestrike|Weavestrike]] into a spell.
 - Added _Arsenal of Tricks_ as an option to get more cantrips.
 - Added _Enhanced Critical_ to mirror the Martial version with non-physical damage types.
-- Added _Force of Evil_ to increase necrotic damage and _Force of Good_ to increase radiant damage.
+- Added _Force of Evil_ to increase Necrotic damage and _Force of Good_ to increase Radiant damage.
 - Added _Penetrating Element_ to allow bypassing Damage Reduction with a chosen element.
 - Changed _Reactive Spell_ to _Opportunistic Caster_ and changed its wording to make it independent from Opportunity Attacks. It now uses Opportunity Spells instead.
 - Added _Reliable Casting_ to make a Spell check always result in at least a 10.
@@ -151,7 +151,7 @@ General
 - Added _Nimble Attack_ to allow throwing a Finesse weapon as a part of a Dodge & Roll.
 - Added _Prediction_ to allow for an additional free dodge after dodging with Advantage.
 - Renamed _Blocking Proficiency_ to _Blocking Adept_ and _Blocking Expertise_ to _Blocking Expert_ and simplified their wording.
-- Changed _Protection_ to require Proficiency in Blocking instead of training with Shields.
+- Changed _Protection_ to require Proficiency in Blocking instead of Training with Shields.
 - Renamed _Parrying Proficiency_ to _Parrying Adept_ and _Parrying Expertise_ to _Parrying Expert_ and simplified their wording.
 - Changed _Arrow Splitting_ to also require Proficiency in Perception.
 - Turned Weapon Locking from [[Parrying]] into the _Weapon Locking_ feature.

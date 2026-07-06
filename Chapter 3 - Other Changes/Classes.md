@@ -1,3 +1,4 @@
+In light of the changes to [[Combat]] and [[Spellcasting]], many Classes had their features reviewed and, in some cases, adjusted to make sure they are translated to the new system properly.
 ### Barbarian
 **_Unarmoured Defence_**: Instead of adding your Constitution modifier to your AC when you are not wearing armour, your Constitution modifier is added to your [[AC-less Defence#Damage Reduction|Damage Reduction]].
 

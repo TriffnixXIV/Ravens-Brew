@@ -1,3 +1,26 @@
+### v0.9.2
+General
+- All damage types are now capitalized.
+- Chapter introductions for [[Combat]], [[Spellcasting]] and [[Other Changes]] have been rewritten a bit.
+
+[[AC-less Defence]]
+- Creatures now have an attack modifier based on their size to make hitting targets of their size easy, smaller targets appropriately difficult and larger targets appropriately easy.
+
+[[Caster Training]]
+- Changed _Cheapskate_ to allow choosing from your spells from the start, with no effect before reaching the required caster level.
+- Changed _Insistence_ to only give +1 for every 3 Spell Points spent.
+- Added _Jack Up_ to offer a synergy with high Spell check results.
+- Changed _Trash Becomes Treasure_ to require a choice of spell school. It is now also repeatable.
+
+[[Spellcasting Focus]]
+- Turned the associated spell school table into a few lists.
+
+[[Species]]
+- Small characters have seen a few changes.
+
+[[Monsters]]
+- Added more guidance on the different types of monsters.
+- Added more guidance on monsters with spellcasting.
 ### v0.9.1
 General
 - Restructured the entire thing again.
@@ -17,7 +40,7 @@ General
 [[Spells]]
 - Clarified that Weavestrike can't make a target lose more Spell Points than it has.
 #### [[Equipment]]
-- Committed to having equipment only correlate with training and not with Proficiency or Expertise.
+- Committed to having equipment only correlate with Training and not with Proficiency or Expertise.
 
 [[Objects]]
 - Added to give guidance on objects as targets.
@@ -31,7 +54,7 @@ General
 - Said a few things about how using tools works.
 
 [[Magic Items]]
-- Introduced for new magical items interacting with the new rules.
+- Introduced new magical items interacting with the new rules.
 
 [[Shields]]
 - [[Blocking]] checks with shields with the Light property can now only be rolled with Dexterity.

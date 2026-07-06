@@ -6,7 +6,7 @@
 | ------------- | ----- | -------------- | ---------------- | ------ | ----- |
 | Buckler       | Tiny  | +6             | Free Hand, Light | 3 lb.  | 8 GP  |
 | Wooden Shield | Tiny  | +4             |                  | 6 lb.  | 10 GP |
-| Tower Shield  | Small | +2             | Heavy, Clunky    | 12 lb. | 20 GP |
+| Tower Shield  | Small | +2             | Clunky, Heavy    | 12 lb. | 20 GP |
 ### Shield Properties
 **_Clunky_**: When wielding a shield with the Clunky property, you roll Dexterity (Acrobatics) checks with Disadvantage.
 

@@ -26,9 +26,9 @@ Secondly, through this system, another layer of difference is established that a
 - _Thunder_: The target has Disadvantage on attack rolls until the start of your next turn and falls Prone.
 You can pick this feature multiple times, but only for different damage types.
 
-**_Force of Evil_**: Requires your alignment to be evil. When you deal necrotic damage, that damage is increased by the number of dice you roll to determine the damage.
+**_Force of Evil_**: Requires your alignment to be evil. When you deal Necrotic damage, that damage is increased by the number of dice you roll to determine the damage.
 
-**_Force of Good_**: Requires your alignment to be good. When you deal radiant damage, that damage is increased by the number of dice you roll to determine the damage.
+**_Force of Good_**: Requires your alignment to be good. When you deal Radiant damage, that damage is increased by the number of dice you roll to determine the damage.
 
 **_Gambler_**: You can mold your damaging spells to deal more damage by taking a bit of risk. You gain the following feature and effects:
 - Before rolling the Spell check, you can choose to increase the spells damage by reducing your Spell check by a number of d4s. For every d4 you reduce your Spell check by, the damage increases by one damage die.
@@ -59,7 +59,7 @@ You can pick this feature multiple times, but only for different damage types.
 
 **_Cheat_**: Once per Short or Long Rest when you spend Spell Points, you can increase your Casting Limit by twice your Caster Proficiency Bonus until the start of your next turn.
 
-**_Cheapskate_**: Choose a spell with a Spell Point cost below your Spellcaster level. Its cost is reduced by your Caster Proficiency Bonus. If the cost is reduced to below 0 this way, the rules for [[Spellcasting#Sunken Spells & Depthcasting|Sunken Spells & Depthcasting]] apply. You can pick this feature multiple times, but only for different spells.
+**_Cheapskate_**: Choose one of your spells. When your Spellcaster level exceeds its Spell Point cost, its cost is reduced by your Caster Proficiency Bonus. If the cost is reduced to below 0 this way, the rules for [[Spellcasting#Sunken Spells & Depthcasting|Sunken Spells & Depthcasting]] apply. You can pick this feature multiple times, but only for different spells.
 
 If you reduce the cost of a spell that restores Hit Points to 1 Spell Point or less, it only gives Temporary Hit Points when cast at reduced cost. Similarly, if you reduce the cost of a spell that permanently creates something to 1 Spell Point or less, the creation becomes temporary, too. In both cases, the effects vanish as soon as you cast the spell for 1 Spell Point or less again. If those spells are upcast to cost at least 2 Spell Points, their effects return to normal.
 
@@ -69,7 +69,7 @@ For example, if you apply this feature to Cure Wounds with a Proficiency Bonus o
 
 **_Emphasis_**: When you roll a Spell check, you can spend any number of Spell Points to improve it by the number of Spell Points spent.
 
-**_Everyone's Problem_**: When you take Overcast Damage, creatures within 5ft. of you have to make a Constitution saving throw against 10 or half the Overcast Damage, whichever is higher. On a failure, they take necrotic damage equal to half the Overcast Damage.
+**_Everyone's Problem_**: When you take Overcast Damage, creatures within 5ft. of you have to make a Constitution saving throw against 10 or half the Overcast Damage, whichever is higher. On a failure, they take Necrotic damage equal to half the Overcast Damage.
 
 **_Flow_**: If you've spent a number of Spell Points equal to your Casting Limit last round, your Casting Limit increases by your Caster Proficiency Bonus. This effect stacks, and it ends when you spend less Spell Points than your Casting Limit allows for in a round or when combat ends.
 
@@ -79,7 +79,9 @@ For example, if you apply this feature to Cure Wounds with a Proficiency Bonus o
 
 **_Hubris_**: Requires a spellbook. You may copy spells from spell scrolls or other spellbooks into your spellbook and prepare them even if their cost exceeds your Preparation Limit.
 
-**_Insistence_**: Requires _Emphasis_. When you roll a Spell check, you add a bonus to the checks total equal to half the number of Spell Points you've spent on the corresponding spellcast, rounded up.
+**_Insistence_**: Requires _Emphasis_. When you roll a Spell check, you add a bonus of 1 to the checks total for every 3 Spell Points you've spent on the corresponding spellcast.
+
+**_Jack Up_**: When you cast a spell, it is automatically upcast by one Spell Point for every 5 your Spell check exceeds 10 by for free.
 
 **_Limitbreaker_**: Requires _By Any Means_. Once per Short or Long Rest when you fail an Overcast Save, you may choose to succeed instead.
 
@@ -89,7 +91,7 @@ For example, if you apply this feature to Cure Wounds with a Proficiency Bonus o
 
 **_Snowball_**: When casting a spell that you've already cast last round and the roll of the Spell check is lower than the previous one, the previous roll replaces it.
 
-**_Trash Becomes Treasure_**: The cost of your spells with a Spell Point cost of 0 or below is reduced by your Caster Proficiency Bonus. The rules for [[Spellcasting#Sunken Spells & Depthcasting|Sunken Spells & Depthcasting]] apply.
+**_Trash Becomes Treasure_**: Choose a spell school. Your spells from that school with a Spell Point cost of 0 or less have their cost reduced by your Caster Proficiency Bonus. The rules for [[Spellcasting#Sunken Spells & Depthcasting|Sunken Spells & Depthcasting]] apply. You can pick this feature multiple times, but only for different spell schools.
 
 **_Weave Vampirism_**: When an object or creature other than you spends or loses Spell Points within 10ft. of you, you can use a Reaction to gain a number of Temporary Hit Points equal to the number of Spell Points spent or lost.
 ### Spellcasting Focus Features

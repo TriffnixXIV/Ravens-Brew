@@ -4,23 +4,25 @@
 
 **_Base Hit DC_**: The base Hit DC of a target depends on its size, as shown in the table below. To determine the size of something that has no given size, you can use the Hit Area and height or length measures as guidelines.
 
-| Size       | Hit DC | Hit Area | Height or Length |
-| ---------- | ------ | -------- | ---------------- |
-| Minuscule  | 20     | <25cm²   | <8cm             |
-| Fine       | 18     | <100cm²  | <15cm            |
-| Diminutive | 16     | <400cm²  | <30cm            |
-| Tiny       | 14     | <0.15m²  | <60cm            |
-| Small      | 12     | <0.6m²   | <120cm           |
-| Medium     | 10     | <2.5m²   | <240cm           |
-| Large      | 8      | <10m²    | <5m              |
-| Huge       | 6      | <40m²    | <10m             |
-| Gargantuan | 4      | >40m²    | >10m             |
+| Size       | Hit DC | Hit Area | Height or Length | Attack Modifier |
+| ---------- | ------ | -------- | ---------------- | --------------- |
+| Minuscule  | 20     | <25cm²   | <8cm             | +10             |
+| Fine       | 18     | <100cm²  | <15cm            | +8              |
+| Diminutive | 16     | <400cm²  | <30cm            | +6              |
+| Tiny       | 14     | <0.15m²  | <60cm            | +4              |
+| Small      | 12     | <0.6m²   | <120cm           | +2              |
+| Medium     | 10     | <2.5m²   | <240cm           | +0              |
+| Large      | 8      | <10m²    | <5m              | -2              |
+| Huge       | 6      | <40m²    | <10m             | -4              |
+| Gargantuan | 4      | >40m²    | >10m             | -6              |
 
 The Hit Area refers to the area of a target that is facing the attacker. For example, a piece of paper is easier to hit from the front than from the side, because the papers thinness leads to a smaller Hit Area when looking at it sideways.
 
 For the purposes of very small targets, a new set of sizes has been introduced. These will, for example, be used for [[Aimed Strikes]].
 
 **_Even smaller sizes_**: If a target is significantly smaller than the sizes listed above, you can either find an extended table in the [[Extended Size Table|tables chapter]], or extrapolate the Hit DC from the measures in the table. Start with the measures and Hit DC for minuscule targets. Then add 2 to the Hit DC, quarter the Hit Area and halve the height or length. Repeat this until the measures fit the target you have in mind to get the appropriate Hit DC.
+
+**_Attack Modifier_**: As creatures of a given size should have an as easy time hitting targets of their size as a Medium creature has hitting a Medium target, creatures have their attack rolls modified by their size as shown above. For [[Monsters]], this is balanced out by them dealing more damage and damage in larger areas the larger they are, and less damage and damage in smaller areas the smaller they are, as well as having more Hit Points the larger they are, and less Hit Points the smaller they are. Both of these correlations are already part of the monster design of DnD.
 ### Cover
 **_Cover_**: Instead of increasing the Armor Class of the target that is behind cover, the Hit DC for attacks against the target increases in correlation with the now reduced Hit Area. Thus, Half Cover and Three-Quarters Cover can now be disregarded for attack rolls.
 

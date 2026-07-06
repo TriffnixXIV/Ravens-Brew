@@ -39,7 +39,7 @@ You transfer a part of your magical reserves to a willing creature. Spend any nu
 
 _Upcasting_: For an additional 3 Spell Points spent, the duration increases to an hour. For another additional 3 Spell Points, the duration increases to 8 hours.
 #### Guard
-Abjuration (Bard, Cleric, Druid). Cost: 0 Spell Points. Casting Time: Reaction, which you take when a creature you see rolls is affected by a spell that requires a saving throw. Range: 30 feet. Components: V, S. Duration: Instantaneous.
+Abjuration (Bard, Cleric, Druid). Cost: 0 Spell Points. Casting Time: Reaction, which you take when a creature you see is affected by a spell that requires a saving throw. Range: 30 feet. Components: V, S. Duration: Instantaneous.
 
 You try to guard your target from the effects of an incoming spell. They add your Spellcasting ability modifier to their saving throw.
 
@@ -137,7 +137,7 @@ Abjuration (Sorcerer, Warlock, Wizard) Cost: 9 Spell Points. Casting Time: React
 
 You attempt to interrupt a creature in the process of casting a spell. If their spell costs 9 Spell Points or less, it dissipates. Otherwise, compare your Spell check to theirs. If your Spell check exceeds theirs by more than the other spells additional cost, it also dissipates.
 
-When their spell dissipates like this, it has no effect, and the Action, Bonus Action, or Reaction used to cast it is wasted. If it was cast with Spell Points, they regain the spent Spell Points.
+When their spell dissipates like this, it has no effect, and the Action, Bonus Action, or Reaction used to cast it is wasted. If it was cast with Spell Points, the spent Spell Points are restored.
 
 _Upcasting_: For every additional Spell Point spent, the Spell Point threshold increases by 1. For example, if you spend 3 additional Spell Points, spells with a cost of 12 or less dissipate automatically.
 #### Dispel Magic

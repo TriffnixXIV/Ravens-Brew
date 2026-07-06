@@ -16,19 +16,19 @@ Thirdly, the 2024 rules saw the introduction of weapon mastery properties. These
 
 **_Opportunity Attacks_**: You now need the Opportunist feature to be able to make Opportunity Attacks.
 ### Weapon Training
-Instead of working primarily through Proficiency, weapons now also utilize Training, similar to how it is established for Armour. When using a weapon that you lack training with, you have Disadvantage on any D20 Test that relies on that weapon. The following features can give you training with weapons:
+Instead of working primarily through Proficiency, weapons now also utilize Training, similar to how it is established for Armour. When using a weapon that you lack Training with, you have Disadvantage on any D20 Test that relies on that weapon. The following features can give you Training with weapons:
 
 **_Starting Proficiency Conversion_**: You no longer start with Proficiency in weapon attacks with the weapons listed in your class descriptions. Instead, you are trained with the weapons that you would otherwise have Proficiency in.
 
 When you receive Martial Training, you can choose the Accuracy feature described in the section on weapon features to add your Proficiency Bonus to certain attack rolls again.
 
-**_Simple Melee Weapon Training_**: You gain training with Simple Melee weapons.
+**_Simple Melee Weapon Training_**: You gain Training with Simple Melee weapons.
 
-**_Simple Ranged Weapon Training_**: You gain training with Simple Ranged weapons.
+**_Simple Ranged Weapon Training_**: You gain Training with Simple Ranged weapons.
 
-**_Martial Melee Weapon Training_**: Requires training with Simple Melee weapons. You gain training with Martial Melee weapons.
+**_Martial Melee Weapon Training_**: Requires Training with Simple Melee weapons. You gain Training with Martial Melee weapons.
 
-**_Martial Ranged Weapon Training_**: Requires training with Simple Ranged weapons. You gain training with Martial Ranged weapons.
+**_Martial Ranged Weapon Training_**: Requires Training with Simple Ranged weapons. You gain Training with Martial Ranged weapons.
 ### Weapon Features
 **_Accuracy_**: Choose a weapon property. You add your Proficiency Bonus to attack rolls with weapons with that property. You can pick this feature multiple times, but only for different weapon properties, and it does not stack with itself on weapons with multiple properties that you have this feature for.
 
@@ -101,17 +101,17 @@ You can pick this feature again to pick the other option.
 
 **_Vex_**: When you hit a creature with a Ranged weapon or a weapon that has the Light property, you have Advantage on your next attack roll against that creature before the end of your next turn.
 ### Armour Features
-**_Light Armour Training_**: You gain training with Light Armour.
+**_Light Armour Training_**: You gain Training with Light Armour.
 
 **_Happy Feet_**: While wearing Light Armour or no Armour, your armour-based Dodging modifier is +5 instead of +2.
 
-**_Medium Armour Training_**: Requires training with Light Armour. You gain training with Medium Armour.
+**_Medium Armour Training_**: Requires Training with Light Armour. You gain Training with Medium Armour.
 
-**_Medium Armour Master_**: Requires training with Medium Armour. While wearing Medium Armour, your armour-based Dodging modifier is +2 instead of +0.
+**_Medium Armour Master_**: Requires Training with Medium Armour. While wearing Medium Armour, your armour-based Dodging modifier is +2 instead of +0.
 
-**_Heavy Armour Training_**: Requires training with Medium Armour. You gain training with Heavy Armour.
+**_Heavy Armour Training_**: Requires Training with Medium Armour. You gain Training with Heavy Armour.
 
-**_Heavy Armour Master_**: Requires training with Heavy Armour. You can use your Reaction to [[Blocking|block]] an attack you can see and that targets you with one of your Heavy Armour pieces, using a Blocking Modifier of +6. When blocking this way successfully, the damage of the attack is not negated completely, but the Damage Reduction of the used armour piece is doubled against it.
+**_Heavy Armour Master_**: Requires Training with Heavy Armour. You can use your Reaction to [[Blocking|block]] an attack you can see and that targets you with one of your Heavy Armour pieces, using a Blocking Modifier of +6. When blocking this way successfully, the damage of the attack is not negated completely, but the Damage Reduction of the used armour piece is doubled against it.
 
 If you have Proficiency in Blocking, you also add your Proficiency Bonus to your Damage Reduction against this attack. If you have Expertise in Blocking, you add it twice instead.
 
@@ -135,13 +135,13 @@ If you have Proficiency in Blocking, you also add your Proficiency Bonus to your
 
 **_Free Hand Enhancement_**: You ignore the Disadvantage imposed on D20 Tests by the Free Hand shield property.
 
-**_Interpose Shield_**: Requires training with Shields and you to wield a Shield. If you’re subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you can take a Reaction to take no damage if you succeed on the saving throw.
+**_Interpose Shield_**: Requires Training with Shields and you to wield a Shield. If you’re subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you can take a Reaction to take no damage if you succeed on the saving throw.
 
 **_Protection_**: Requires Proficiency in Blocking. When a creature you can see attacks another creature within 5 feet of you, you can take a Reaction to block that attack, potentially reducing the damage the target creature takes and giving them the cover your shield provides instead of yourself.
 
-**_Shield Bash_**: Requires training with Shields and you to wield a Shield. If you hit a creature within 5 feet of you as part of the Attack action, you can immediately bash the target with your Shield, making a [[Grappling & Shoving|shove attack]]. You can use this benefit only once on each of your turns.
+**_Shield Bash_**: Requires Training with Shields and you to wield a Shield. If you hit a creature within 5 feet of you as part of the Attack action, you can immediately bash the target with your Shield, making a [[Actions#Grappling & Shoving|shove attack]]. You can use this benefit only once on each of your turns.
 
-**_Shield Training_**: You gain training with [[Shields]].
+**_Shield Training_**: You gain Training with [[Shields]].
 ### [[Parrying]] Features
 **_Arrow Splitting_**: Requires Expertise in Parrying and Proficiency in Perception. You can parry Ranged weapon attacks that you can see and that target you. If you have the Interception feature, you can also parry Ranged weapon attacks targeting other creatures within 5 feet of you.
 

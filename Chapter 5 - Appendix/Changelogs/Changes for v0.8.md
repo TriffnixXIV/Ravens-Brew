@@ -30,14 +30,14 @@
 
 [[Blocking]]
 - moved acquisition of Blocking Proficiency and Expertise to [[Martial Training]].
-- updated wording to require shield training instead of shield Proficiency, as the latter no longer exists as such.
+- updated wording to require shield Training instead of shield Proficiency, as the latter no longer exists as such.
 
 [[Grappling & Shoving]]
 - updated the Grapple and Shove attacks to appropriately relate to Unarmed Strikes.
 
 [[Martial Training]]
 - is new.
-- reworks how Proficiency and training with weapons, shields and armour works.
+- reworks how Proficiency and Training with weapons, shields and armour works.
 - moved Fighting Styles here.
 - moved combat-oriented Feats here.
 - moved weapon mastery properties here.
@@ -47,7 +47,7 @@
 
 [[Parrying]]
 - moved acquisition of parrying Proficiency and Expertise to [[Martial Training]].
-- updated wording to requite weapon training instead of Proficiency.
+- updated wording to requite weapon Training instead of Proficiency.
 
 [[Action Economy]]
 - merged Evasive Stance, Defensive Stance, Protective Stance, and Parrying Stance into one singular Defence Action.
