@@ -6,6 +6,15 @@ General
 [[AC-less Defence]]
 - Creatures now have an attack modifier based on their size to make hitting targets of their size easy, smaller targets appropriately difficult and larger targets appropriately easy.
 
+[[Surge Dice]]
+- Removed the option to increase ability checks with Surge Dice as a turn of preparation does not help with most of them, narratively speaking.
+
+[[Perception & Focus]]
+- Merged Vision & Focus and Aspects of Stealth into this new chapter.
+- Added more mechanics for perception and tied them in with Stealth.
+- Now describes Vision, Hearing and Smell in similar terms.
+- Added a passage about optional additional spell components.
+
 [[Caster Training]]
 - Changed _Cheapskate_ to allow choosing from your spells from the start, with no effect before reaching the required caster level.
 - Changed _Insistence_ to only give +1 for every 3 Spell Points spent.

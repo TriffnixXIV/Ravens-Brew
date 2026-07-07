@@ -26,7 +26,7 @@ General
 - Using the Ready action now gives an additional Reaction.
 - Limited Prey on the Vulnerable to melee weapon attacks and tied it exclusively to the Incapacitated condition.
 
-[[Vision & Focus]]
+[[Perception & Focus]]
 - Focus can now be switched once at the end of your turn for free, instead of as a Free Action, because those no longer exist as of the 2024 rules.
 - Losing Focus now depends on the Incapacitated condition or loss of perception.
 

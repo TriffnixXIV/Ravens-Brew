@@ -7,3 +7,4 @@ Here, you'll find all the tables spread throughout the book once more. These inc
 - the [[Spellcasting Table]] listing the Caster Training feature amounts, Spell Limits, and Spell Point amounts that spellcasters use.
 - the [[Fullcaster Table]], [[Halfcaster Table]] and [[Thirdcaster Table]] for the distinct tables for each caster class.
 - the [[Pact Magic Table]] showing the Warlocks equivalent of the Spellcasting Table.
+- the [[Monster Stat Reference Tables]] showing guidelines for monster stats.

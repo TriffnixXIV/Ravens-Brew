@@ -1,4 +1,4 @@
-[[Vision & Focus]] - Escape Focus
+[[Perception & Focus]] - Escape Focus
 - only against larger creatures
 - only Acrobatics, not Stealth
 

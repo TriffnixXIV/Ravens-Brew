@@ -8,7 +8,7 @@ In response to attack rolls losing importance due to targets being generally eas
 
 [[Martial Training]] is introduced to unify a multitude of features and benefits for martials, such as Fighting Styles and Weapon Mastery. [[Caster Training]] is introduced in turn to offer a parallel system for casters. Both aim to allow for more varied characters, starting at level 1.
 
-[[Vision & Focus]] are described in detail to encourage more strategic positioning and give attackers a way to bypass their targets reactive defense based on sight. [[Aspects of Stealth]] are described in parallel to rework stealth in terms of other senses that can work against it and thus can be manipulated in favour of it.
+[[Perception & Focus]] are described in detail to encourage more strategic positioning and give attackers a way to bypass their targets reactive defense based on sight. Also, Perception now uses more mechanics, reworking it and Stealth in terms of vision, hearing and smell, opening up more variety in what can and has to be done to be stealthy, and how creatures can be perceived.
 
 Then, there are adjustments to [[Classes|class features]], [[Feats|feats]] and [[Equipment|equipment]], mainly to bring them in line with the changes to defence. Some [[Variant Rules|variant rules]] are also offered, and [[Scene Checks]] are introduced as a framework for downtime activity such as [[Surgery]], the [[Rite of Regeneration]], [[Domestication]] and [[Grafting]].
 

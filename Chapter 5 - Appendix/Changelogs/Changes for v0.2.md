@@ -1,7 +1,7 @@
 [[Action Economy]] - Free Reactions (new)
 - every turn, in addition to a Reaction, you also have one Free Reaction that can be used for some stuff.
 
-[[Vision & Focus]]
+[[Perception & Focus]]
 - More precise wording
 - Switch Focus now takes a Free Reaction instead of a Reaction 
 - Switch Focus can also be used as a Free Action

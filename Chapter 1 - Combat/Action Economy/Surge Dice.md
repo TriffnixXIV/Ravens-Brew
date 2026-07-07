@@ -8,7 +8,7 @@ When Surge Dice are to be used in a contest, each participating party must annou
 #### Surge Die Effects
 You can use Surge Dice for the following effects:
 
-**_Power_**: Add the roll to an attack roll, an ability check, or the damage you deal to one creature. If the Surge Die is added to the damage of a critical hit, it is not doubled.
+**_Power_**: Add the roll to an attack roll or the damage you deal to one creature. If the Surge Die is added to the damage of a critical hit, it is not doubled.
 
 **_Force_**: Subtract the roll from one saving throw you require one creature to make. This can be part of an effect that requires multiple creatures to roll a saving throw, but it only applies to the one creature you choose.
 

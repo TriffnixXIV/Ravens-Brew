@@ -5,6 +5,5 @@ This chapter focuses on the fundamental changes to the combat rules. The followi
 - [[Dodging]], [[Blocking]] and [[Parrying]].
 - [[Surge Dice]] bring the heat.
 - New and reworked defensive [[Actions]] allow cooling things down again.
-- [[Vision & Focus]] describe a way to both bypass and keep up the previously described defenses.
 - [[Aimed Strikes]] provide a more risky and rewarding attack option.
 - [[Martial Training]] offers a bunch of feature options for martials to make them more distinct from level 1 onwards.

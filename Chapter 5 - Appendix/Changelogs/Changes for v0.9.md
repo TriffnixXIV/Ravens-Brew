@@ -32,7 +32,7 @@ This version introduces the Spellcasting Rework.
 - Added a Free Reaction to allow the use of Surge Dice in response to any trigger without having to rely on another feature.
 - The Speed option now properly gives movement instead of movement speed.
 
-[[Vision & Focus]]
+[[Perception & Focus]]
 - Added descriptions for different fields of view.
 - Changed the indefinite articles in Switch Focus to prevent confusion.
 
@@ -233,7 +233,7 @@ General
 - Added _C-C-Combo_, increasing damage output the more you've hit this round.
 - Added _Untraceable_, giving the next incoming attack Disadvantage after successfully dodging.
 
-[[Vision & Focus]]
+[[Perception & Focus]]
 - Being Unseen no longer gives Advantage on attack rolls. This feels narratively intuitive, as the advantage from being unseen lies in the target not being able to react to the attack, which is already implemented.
 - Removed Backstab Advantage accordingly.
 - Changed the [[Conditions#Invisible|Invisible]] and [[Conditions#Blinded|Blinded]] conditions to not give Advantage on attacks accordingly.
@@ -300,5 +300,5 @@ General
 [[Surge Dice]]
 - Removed _Overtake_. It was too complicated, too strong and too disruptive to keep.
 
-[[Vision & Focus]]
+[[Perception & Focus]]
 - Removed the passage about treating creatures that can't see you as Blinded because that was practically irrelevant.

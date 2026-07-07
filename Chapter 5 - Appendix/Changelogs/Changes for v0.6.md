@@ -4,7 +4,7 @@ General
 	- Buffed the Hunter's Multiattack Defence.
 	- Changed Dual Wielder, Savage Attacker and Shield Master.
 	- Added spell changes for Shield, Mage Armour, and Barkskin.
-- Renamed the Backstab Advantage & Focus chapter to [[Vision & Focus]]. Added two paragraphs about Vision and rephrased a few things.
+- Renamed the Backstab Advantage & Focus chapter to [[Perception & Focus]]. Added two paragraphs about Vision and rephrased a few things.
 
 [[Action Economy]]
 -  Added a paragraph on general reaction timing and cleaned up other descriptions throughout the rules accordingly.

@@ -7,7 +7,7 @@ Spellcasting is fundamentally reworked:
 - [[Sunken Spells & Depthcasting]] are introduced for cheapened spells.
 - [[Caster Training]] offers a bunch of feature options for casters to make them more distinct from level 1 onwards.
 - [[Spells]] are here, some new, some changed to fit with the changes above.
-### Overview
+#### Overview
 Firstly, casting a spell now uses [[Spell Points]] and [[Spell Limits]] instead of Spell Slots, secondly, spells now always require the caster to roll a [[Spell Check|Spell check]] that influences Spell attack rolls and replaces the Spell Save DC to turn it into a contest, and thirdly, it is now possible to cast multiple spells a round and even [[Upcasting|upcast]] spells further than before through [[Overcasting]], though the spellcaster takes damage and risks [[Conditions#Weavestrain|Weavestrain]] by doing so.
 
 Additionally, Spellcasting has been supplemented with [[Caster Training]] to offer novel ways of interacting with spells and customize the character. The inner workings of [[Spellcasting Focus|Spellcasting Foci]] have been changed as well to give a bonus when casting spells of specific schools. Cantrips have been reworked to not scale automatically, instead, they can now be upcast. Also, [[Sunken Spells & Depthcasting]] have been introduced for automatic upcasting on negative Spell Point costs, which are achievable through Caster Training.
