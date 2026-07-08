@@ -7,7 +7,7 @@ General
 - Creatures now have an attack modifier based on their size to make hitting targets of their size easy, smaller targets appropriately difficult and larger targets appropriately easy.
 
 [[Surge Dice]]
-- Removed the option to increase ability checks with Surge Dice as a turn of preparation does not help with most of them, narratively speaking.
+- Removed the option to increase ability checks with Surge Dice as a turn of preparation does not help with most of them, narratively speaking. This applies especially to Intelligence and Wisdom checks.
 
 [[Perception & Focus]]
 - Merged Vision & Focus and Aspects of Stealth into this new chapter.
@@ -27,9 +27,14 @@ General
 [[Species]]
 - Small characters have seen a few changes.
 
+[[Variant Rules]]
+- Changed the formatting a bit.
+- Added a variant rule to make [[Variant Rules#Wider Cones|cones wider]].
+
 [[Monsters]]
 - Added more guidance on the different types of monsters.
 - Added more guidance on monsters with spellcasting.
+- Added a paragraph on unarmed parrying and blocking for monsters.
 ### v0.9.1
 General
 - Restructured the entire thing again.

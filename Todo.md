@@ -1,6 +1,7 @@
 ### towards v1
 - ?: turn Death Saves into [[Scene Checks]].
-- change cones to be a tad bit wider.
+- ?: add another feature list for "General Training" (?) parallel to Martial Training and Caster Training that contains all remaining Feats.
+	- "General Adept" (?): +1 to any ability score. Choose one feature from the "General Training" list and one from any of the three Training lists.
 #### Perception
 - redescribe Blindsight, Truesight and Tremorsense as necessary
 - explicate how vision manifests on grids
