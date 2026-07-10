@@ -24,6 +24,9 @@ General
 [[Spellcasting Focus]]
 - Turned the associated spell school table into a few lists.
 
+[[Classes]]
+- Added a level 5 Surge Die feature each to the Bard, Cleric, Druid, Fighter, Paladin, Ranger, Sorcerer, Warlock and Wizard.
+
 [[Species]]
 - Small characters have seen a few changes.
 

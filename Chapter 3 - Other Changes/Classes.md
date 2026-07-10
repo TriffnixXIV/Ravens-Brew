@@ -6,14 +6,22 @@ In light of the changes to [[Combat]] and [[Spellcasting]], many Classes had the
 ### Bard
 **_Updated Spellcasting Table_**: The Bard uses the [[Fullcaster Table]].
 
+**_Level 5 - Shared Inspiration (new)_**: When you use your Bonus Action to give another creature Bardic Inspiration, you receive one Surge Die.
+
 **_College of Dance - Dazzling Footwork - Unarmoured Defence_**: When you aren't wearing armour or wielding a shield, you can roll Charisma (Performance) instead of Dexterity (Acrobatics) when [[Dodging]], and you add both your Charisma modifier and your Dexterity modifier to the roll.
 
 **_College of Valor - Combat Inspiration - Defence_**: When the creature is hit by an attack roll, that creature can use the Bardic Inspiration die instead of a Reaction to attempt to [[Blocking|block]], [[Parrying|parry]] or [[Dodging|dodge]] the attack. When doing so, the creature rolls the Bardic Inspiration die and adds the number rolled to the corresponding check, potentially causing the attack to miss or deal reduced damage.
 ### Cleric
 **_Updated Spellcasting Table_**: The Cleric uses the [[Fullcaster Table]].
+
+**_Level 5 - Prayer (new)_**: You can use 3 Surge Dice to restore a use of your Channel Divinity.
 ### Druid
 **_Updated Spellcasting Table_**: The Druid uses the [[Fullcaster Table]].
+
+**_Level 5 - Wild Surge (new)_**: While in a Wild Shape form, you receive one Surge Die at the start of each of your turns during combat.
 ### Fighter
+**_Level 5 - Superiority (new)_**: You can use 2 Surge Dice to restore a use of your Second Wind, and you can use 3 Surge Dice to restore a use of your Action Surge. 
+
 **_Tactical Master_**: When you attack with a weapon you are trained with, you can use one additional [[Martial Training]] feature on the attack that the weapon does not fulfill the requirements of.
 
 **_Battle Master - Know Your Enemy_**: Additionally, you find out whether there are particular weak spots that are worth targeting and what to expect when making an [[Aimed Strikes|Aimed Strike]] against that weak spot.
@@ -40,15 +48,19 @@ For example, when spending 3 Focus Points, you may instead spend either 3 Surge 
 ### Paladin
 **_Updated Spellcasting Table_**: The Paladin uses the [[Halfcaster Table]].
 
+**_Level 5 - Sacred Protection (new)_**: You can spend Surge Dice to improve your own saving throws by the roll of the dice.
+
 **_Oath of Glory - Glorious Defence_**: Instead of increasing the targets AC, your Charisma modifier (minimum of 1) is subtracted from the attack roll, potentially causing the attack to miss.
 ### Ranger
 **_Updated Spellcasting Table_**: The Ranger uses the [[Halfcaster Table]].
+
+**_Level 5 - Takedown (new)_**: When attacking a creature that is marked by your _Hunter's Mark_, you receive one Surge Die afterwards.
 
 **_Beast Master_**: Instead of their AC value, the Beast Masters beast will have a Damage Reduction equal to 3 + the Rangers Wisdom modifier.
 
 **_Gloomstalker - Shadowy Dodge_**: You roll [[Dodging]] checks with Advantage. After a dodge, you can teleport up to 30 feet to an unoccupied space you can see, regardless of whether the [[Dodging|dodge]] was successful or not.
 
-**_Hunter - Multiattack Defence_**: When you [[Blocking|block]], [[Dodging|dodge]], or [[Parrying|parry]] a creatures attack, you may [[Blocking|block]], [[Dodging|dodge]], or [[Parrying|parry]] all following attacks made by the same creature against you this turn without using another Reaction.
+**_Hunter - Multiattack Defence_**: When you successfully [[Blocking|block]], [[Dodging|dodge]], or [[Parrying|parry]] a creatures attack, you can try to [[Blocking|block]], [[Dodging|dodge]], or [[Parrying|parry]] all following attacks made by the same creature against you this turn without using another Reaction.
 ### Rogue
 **_Sneak Attack_**: Additionally, you don't need Advantage on the attack roll if your target cannot see you and you don't have Disadvantage on the attack roll.
 
@@ -67,6 +79,8 @@ For example, when spending 3 Focus Points, you may instead spend either 3 Surge 
 **_Sorcery Points - Converting Sorcery Points to Spell Points_**: As a Bonus Action, you can transform any number of unspent Sorcery Points into Spell Points. When doing so, 1 Sorcery Point becomes 1 Spell Point.
 
 **_Metamagic - Quickened Spell_**: You can now use this feature even if you have already spent Spell Points this round, and you can spend more Spell Points afterwards.
+
+**_Level 5 - Unleashed Potential (new)_**: While your Innate Sorcery feature is active, your Surge Dice are d8 instead of d6, and you can use Surge Dice to increase your Casting Limit by the roll until the start of your next turn.
 
 **_Draconic Sorcery - Draconic Resilience_**: Instead of adding your Charisma modifier to your AC when you are not wearing armour, your Charisma modifier is added to your [[AC-less Defence#Damage Reduction|Damage Reduction]].
 
@@ -105,6 +119,8 @@ This may, for example, express your patrons limited willingness to offer their p
 
 **_Free Eldritch Invocations_**: When an Eldritch Invocation Option allows you to cast a spell without expending a spell slot, you instead cast that spell without spending Spell Points through that Eldritch Invocation. You cast the spell as if you've spent a number of Spell Points equal to your Warlock Preparation Limit on it.
 
+**_Level 5 - Patron's Blessing (new)_**: After expending a Patronage use during combat, you receive one Surge Die, and one additional Surge Die at the start of each of your turns until the combat ends.
+
 **_Patronage - Variant_**: You and your DM may find your own consensus about how your patron supplies you with Spell Points. For example, you may decide that your patron offers more of their supply when you fulfill their tasks or act following their ideals, and that they cut it off only when you break a promise or act in opposition to their ideals.
 
 When finding and playing with a consensus like this, always consider how your power compares to that of your party members, so that you have neither too many Spell Points at your disposal nor too few. The narrative, however, may on occasion lead to one extreme or the other, and it can be fun and interesting to follow the narrative there from time to time. It is about the pact and relationship between you and your patron, after all. Whether you two are buddies, business partners, or one exploits or extorts the other, that is up to discussion and design.
@@ -113,8 +129,12 @@ When finding and playing with a consensus like this, always consider how your po
 
 **_Arcane Recovery_**: Once per Long Rest, when you finish a Short Rest, you can recover a number of Spell Points equal to your Wizard Preparation Limit.
 
+**_Level 5 - Weavebond (new)_**: When casting a spell that costs at least 9 Spell Points, you can spend one Surge Die to draw upon remnant strands of the weave and reduce the Spell Point cost by the roll.
+
 **_Abjurer - Arcane Ward_**: Instead of depending on the use of a spell slot, the Arcane Ward now depends on the use of Spell Points. Whenever you cast an Abjuration spell with Spell Points, the ward regains a number of Hit Points equal to the number of Spell Points spent.
 
 Alternatively, as a Bonus Action, you can spend any number of Spell Points, and the ward regains a number Hit Points equal to the number of Spell Points spent.
 
 When casting an Abjuration spell with reduced Spell Point cost, the ward gains a number of Temporary Hit Points equal to the Spell Point cost reduction.
+
+**_Diviner - Expert Divination_**: Casting Divination spells comes so easily to you that it expends only a fraction of your spellcasting efforts. After spending at least 6 Spell Points to cast a Divination spell, you recover 2 Spell Points for every 3 Spell Points you've spent.

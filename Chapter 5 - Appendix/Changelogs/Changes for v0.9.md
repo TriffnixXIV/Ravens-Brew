@@ -164,7 +164,7 @@ General
 - Changed .md italics to use \_ instead of \*.
 ### v0.9.a5
 General
-- Renamed Other Combat Changes to [[Grappling & Shoving]], as nothing else is in there.
+- Renamed Other Combat Changes to [[Actions#Grappling & Shoving|Grappling & Shoving]], as nothing else is in there.
 - Mentions the Spellcasting changes in the [[Content Overview]] now.
 
 [[Spellcasting]]
@@ -288,7 +288,7 @@ General
 [[Feats]]
 - Renamed _Combat Adept_ to _Martial Adept_.
 
-[[Grappling & Shoving]]
+[[Actions#Grappling & Shoving|Grappling & Shoving]]
 - Adjusted Grappling to account for the entries on Grappling and the Grappled condition in the 2024 PHB.
 
 [[Martial Training]]

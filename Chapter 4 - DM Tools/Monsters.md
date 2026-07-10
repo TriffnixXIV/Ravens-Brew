@@ -171,18 +171,18 @@ Alternatively, you can use multiple d6 and two regions for each monster to track
 ### Spellcasting
 **_Spell Points_**: Monsters with spellcasting also use [[Spell Points]] and a [[Spell Limits]] and can [[Overcasting|Overcast]] and [[Upcasting|Upcast]] similar to player characters. The following table shows the suggested Spell Point amounts and Spell Limits depending on the CR of the monster, assuming they focus on spellcasting in combat:
 
-| CR  | Spell Points | Spell Limits |
-| --- | ------------ | ------------ |
-| 1   | 12           | 6            |
-| 3   | 18           | 9            |
-| 5   | 24           | 12           |
-| 7   | 30           | 15           |
-| 9   | 36           | 18           |
-| 11  | 42           | 21           |
-| 13  | 48           | 24           |
-| 15  | 54           | 27           |
-| 17  | 60           | 30           |
-| x   | 3(x+3)       | 3(x+3)/2     |
+| Challenge Rating | Spell Points | Spell Limits |
+| ---------------- | ------------ | ------------ |
+| 1                | 12           | 6            |
+| 3                | 18           | 9            |
+| 5                | 24           | 12           |
+| 7                | 30           | 15           |
+| 9                | 36           | 18           |
+| 11               | 42           | 21           |
+| 13               | 48           | 24           |
+| 15               | 54           | 27           |
+| 17               | 60           | 30           |
+| x                | 3(x+3)       | 3(x+3)/2     |
 **_Lessened Spell Point Amount_**: As you may notice, monsters have less Spell Points at their disposal than player characters. This is meant to make it easier for a monster to run out of Spell Points during a singular combat, and it is also meant to limit the amount of powerful spells the monster can cast during that combat. The monster should have access to a spell that does not cost Spell Points, such as a cantrip or a signature spell, to fall back to when the Spell Points run out.
 
 **_Spell Checks_**: Monsters generally use their spell attack modifier for their Spell checks.
