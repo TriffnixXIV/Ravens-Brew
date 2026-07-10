@@ -7,3 +7,5 @@ This is done by introducing opportunities for attacked creatures to defend thems
 The rules are made to be used together, and many class features and spells were adjusted to fit the new rules.
 ### Obsidian
 This repository can be opened as an Obsidian Vault. This makes both browsing and editing the content significantly easier.
+### NeoCities
+This ruleset can be viewed in a more readable format on my NeoCities page: https://nixxiv.neocities.org/Raven's%20Brew/
