@@ -16,7 +16,6 @@ Armours that allowed the wearer to add their whole or parts of their Dexterity m
 | Chain Mail             | Heavy  | 6                | Disadvantage     |
 | Splint Armour          | Heavy  | 7                | Disadvantage     |
 | Plate Armour           | Heavy  | 8                | Disadvantage     |
-
 ### Armour Pieces
 The Damage Reduction of an armour will usually only work against attacks that aren't [[Aimed Strikes]]. This depends primarily on whether the armour covers the body part the Aimed Strike targets or not. As a default, wearing an armour means that at least the torso and hips are covered by that armour, and attacks that aren't Aimed Strikes are assumed to hit that armour. Every armour set will include coverage for all other body parts, and you may choose whether you wear these other armour pierces or not.
 

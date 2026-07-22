@@ -1,1 +1,0 @@
-With the introduction of [[AC-less Defence]], DMs have more options in monster design than before. Here, you'll find tips on how to adapt existing [[Monsters]] and how to create new ones to these new rules, making them both interesting to fight and challenging.

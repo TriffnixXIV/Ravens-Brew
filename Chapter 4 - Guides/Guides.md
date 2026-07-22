@@ -1,0 +1,1 @@
+These rules bring many changes that merit guides on how to create characters, how to [[Character Conversion|convert characters]] from the base game to these rules, and how to convert and run [[Monsters|monsters]].

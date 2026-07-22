@@ -1,3 +1,3 @@
-Here, you'll find miscellaneous stuff that was created in relation to the main body in some way. Some of the stuff may be more useful than others. This is not meant to be a place worth visiting in case you are looking for new content.
+Here, you'll find miscellaneous stuff that was created in relation to the ruleset in some way. Some of the stuff may be more useful than others. This is not meant to be a place worth visiting in case you are looking for new content.
 
-The appendix features a history of the changes made with the previous versions, starting with the [[Changes towards v1|latest update]] and going backwards in time, and a section containing the [[Tables|tables]] spread throughout this book.
+The appendix features a [[Character Conversion|guide]] to converting 5.5e characters to this homebrew, a history of the changes made with the previous versions, starting with the [[Changes towards v1|latest update]] and going backwards in time, and a section containing the [[Tables|tables]] spread throughout this book.

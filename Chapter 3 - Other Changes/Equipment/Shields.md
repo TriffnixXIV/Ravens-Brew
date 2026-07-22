@@ -2,16 +2,16 @@
 
 **_New Shields_**: There are now two additional types of shield and dedicated shield properties that are described below.
 
-| Type          | Size  | Blocking Bonus | Properties       | Weight | Cost  |
-| ------------- | ----- | -------------- | ---------------- | ------ | ----- |
-| Buckler       | Tiny  | +6             | Free Hand, Light | 3 lb.  | 8 GP  |
-| Wooden Shield | Tiny  | +4             |                  | 6 lb.  | 10 GP |
-| Tower Shield  | Small | +2             | Clunky, Heavy    | 12 lb. | 20 GP |
+| Type          | Size  | Blocking Modifier | Properties       | Weight | Cost  |
+| ------------- | ----- | ----------------- | ---------------- | ------ | ----- |
+| Buckler       | Tiny  | +6                | Free Hand, Light | 3 lb.  | 8 GP  |
+| Wooden Shield | Tiny  | +4                |                  | 6 lb.  | 10 GP |
+| Tower Shield  | Small | +2                | Clunky, Heavy    | 12 lb. | 20 GP |
 ### Shield Properties
 **_Clunky_**: When wielding a shield with the Clunky property, you roll Dexterity (Acrobatics) checks with Disadvantage.
 
 **_Free Hand_**: When wielding a shield with the Free Hand property, you can still use the hand of the arm you are wielding the shield with to grab and hold objects, for somatic components, and for sign language. D20 Tests to use an object or attack with a weapon held with this hand are rolled with Disadvantage.
 
-**_Heavy_**: When wielding a shield with the Heavy property and your Strength score not being at least 13, you have Disadvantage on [[Blocking]] and your movement reduced by 5 ft. Additionally, Blocking checks with Heavy shields can only be rolled with Strength.
+**_Heavy_**: When wielding a shield with the Heavy property and your Strength score not being at least 13, you have Disadvantage on [[Blocking]] checks and your movement reduced by 5 ft. Additionally, Blocking checks with Heavy shields can only be rolled with Strength.
 
 **_Light_**: When [[Blocking]] with a shield with the Light property, the damage of the attack is not negated completely, but only reduced by your Dexterity score. Additionally, Blocking checks with Light shields can only be rolled with Dexterity.

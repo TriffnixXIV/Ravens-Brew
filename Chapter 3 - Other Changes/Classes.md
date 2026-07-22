@@ -20,7 +20,7 @@ In light of the changes to [[Combat]] and [[Spellcasting]], many Classes had the
 
 **_Level 5 - Wild Surge (new)_**: While in a Wild Shape form, you receive one Surge Die at the start of each of your turns during combat.
 ### Fighter
-**_Level 5 - Superiority (new)_**: You can use 2 Surge Dice to restore a use of your Second Wind, and you can use 3 Surge Dice to restore a use of your Action Surge. 
+**_Level 5 - Superior Surge (new)_**: You can use 2 Surge Dice instead of a Second Wind charge, and you can use 3 Surge Dice instead of an Action Surge charge. 
 
 **_Tactical Master_**: When you attack with a weapon you are trained with, you can use one additional [[Martial Training]] feature on the attack that the weapon does not fulfill the requirements of.
 
@@ -74,11 +74,13 @@ For example, when spending 3 Focus Points, you may instead spend either 3 Surge 
 
 **_Sorcery Points_**: You now have Sorcery Points equal to twice your Sorcerer level instead, starting with 4 Sorcery Points at level 2. The cost of Metamagic Options is doubled accordingly.
 
-**_Sorcery Points - Converting Spell Points to Sorcery Points_**: You can spend any number of Spell Points to convert them into Sorcery Points, no action required. When doing so, 3 Spell Points become 2 Sorcery Points.
+**_Sorcery Points - Converting Spell Points to Sorcery Points_**: You can spend any number of unspent Spell Points to convert them into Sorcery Points, no action required. When doing so, you gain 2 Sorcery Points for every 3 Spell Points spent.
 
-**_Sorcery Points - Converting Sorcery Points to Spell Points_**: As a Bonus Action, you can transform any number of unspent Sorcery Points into Spell Points. When doing so, 1 Sorcery Point becomes 1 Spell Point.
+**_Sorcery Points - Converting Sorcery Points to Spell Points_**: As a Bonus Action, you can spend any number of unspent Sorcery Points to convert them into Spell Points. When doing so, you gain one Spell Point for every spent Sorcery Point.
 
 **_Metamagic - Quickened Spell_**: You can now use this feature even if you have already spent Spell Points this round, and you can spend more Spell Points afterwards.
+
+**_Sorcerous Restoration_**: When you finish a Short Rest, you can regain expended Sorcery Points, but no more than a number equal to your Sorcerer level. Once you use this feature, you can't do so again until you finish a Long Rest.
 
 **_Level 5 - Unleashed Potential (new)_**: While your Innate Sorcery feature is active, your Surge Dice are d8 instead of d6, and you can use Surge Dice to increase your Casting Limit by the roll until the start of your next turn.
 
@@ -86,44 +88,22 @@ For example, when spending 3 Focus Points, you may instead spend either 3 Surge 
 
 **_Wild Magic Sorcery - Wild Magic Surge - 49-52_**: Instead of increasing your AC by 2, the floating shield is small and thus gives a +2 Hit DC to covered medium targets.
 ### Warlock
-**_Pact Magic - Spell Slots_**: Similar to all other classes, you now also use [[Spellcasting#Spell Points|Spell Points]]. However, as your patron is the source of your power, you do not have these Spell Points yourself. Instead, you have the potentially enormous supply of your patron at your disposal, only limited by your ability to be your patrons conduit and your patrons willingness or pact-bound duty to provide for you. As such, you are only limited by your [[Spell Limits]] and their Patronage, as shown below.
+**_Updated Pact Magic Table_**: The Warlock uses the [[Pact Magic Table]].
 
-| Level | Caster Proficiency & Training | Spell Limits | Patronage |
-| ----- | ----------------------------- | ------------ | --------- |
-| 1     | 2                             | 3            | 1         |
-| 2     |                               | 4            | 2         |
-| 3     |                               | 6            |           |
-| 4     |                               | 7            |           |
-| 5     | 3                             | 9            |           |
-| 6     |                               | 10           |           |
-| 7     |                               | 12           |           |
-| 8     |                               | 13           |           |
-| 9     | 4                             | 15           |           |
-| 10    |                               | 16           |           |
-| 11    |                               | 18           | 3         |
-| 12    |                               | 19           |           |
-| 13    | 5                             | 21           |           |
-| 14    |                               | 22           |           |
-| 15    |                               | 24           |           |
-| 16    |                               | 25           |           |
-| 17    | 6                             | 27           | 4         |
-| 18    |                               | 28           |           |
-| 19    |                               | 30           |           |
-| 20    |                               | 31           |           |
-| x     | (x+7)/4                       | 3(x+1)/2     |           |
+**_Pact Magic - Spell Slots_**: Similar to all other classes, you now also use [[Spellcasting#Spell Points|Spell Points]]. However, as your patron is the source of your power, you do not have these Spell Points yourself. Instead, you have the potentially enormous supply of your patron at your disposal, only limited by your ability to be your patrons conduit and your patrons willingness or pact-bound duty to provide for you. As such, you are only limited by your [[Spell Limits]] and their Patronage, as shown in the [[Pact Magic Table]].
+
 **_Patronage_**: The Patronage determines how often you can spend your patrons Spell Points before they temporarily cut off your supply. This is the case after you've spent their Spell Points a number of times equal to the number noted in the table above, with the count resetting after you finish a Short or Long Rest.
 
 This may, for example, express your patrons limited willingness to offer their power to a weaker being, a lack of established trust between you and your patron, or terms of the pact agreed upon as such, with the Patronage resetting when you appeal to your patron or ask for more during a Rest, or, again, because the pact says so.
 
 **_Patronage with other Spell Point Features_**: When one of your features uses Spell Points, you can decide to use your patrons Spell Points instead, at the cost of a Patronage use. For example, you can use your Patronage to spend any number of Spell Points to get Sorcery Points through the Sorcerers conversion feature. This is constrained by the [[Spell Limits]] as usual.
 
-**_Free Eldritch Invocations_**: When an Eldritch Invocation Option allows you to cast a spell without expending a spell slot, you instead cast that spell without spending Spell Points through that Eldritch Invocation. You cast the spell as if you've spent a number of Spell Points equal to your Warlock Preparation Limit on it.
+**_Free Eldritch Invocations_**: When an Eldritch Invocation Option allows you to cast a spell without expending a spell slot, the following rules apply:
+- You instead cast that spell without spending Spell Points through that Eldritch Invocation.
+- You cast the spell as if you've spent its original Spell Point cost on it.
+- When casting the spell outside of combat, a roll on the Spell checks d20 of 11 or lower automatically becomes a 12. You cannot increase the total by casting the spell again before it runs out.
 
-**_Level 5 - Patron's Blessing (new)_**: After expending a Patronage use during combat, you receive one Surge Die, and one additional Surge Die at the start of each of your turns until the combat ends.
-
-**_Patronage - Variant_**: You and your DM may find your own consensus about how your patron supplies you with Spell Points. For example, you may decide that your patron offers more of their supply when you fulfill their tasks or act following their ideals, and that they cut it off only when you break a promise or act in opposition to their ideals.
-
-When finding and playing with a consensus like this, always consider how your power compares to that of your party members, so that you have neither too many Spell Points at your disposal nor too few. The narrative, however, may on occasion lead to one extreme or the other, and it can be fun and interesting to follow the narrative there from time to time. It is about the pact and relationship between you and your patron, after all. Whether you two are buddies, business partners, or one exploits or extorts the other, that is up to discussion and design.
+**_Level 5 - Patron's Blessing (new)_**: While not having all uses of Patronage left, your Surge Dice are d8 instead of d6. While having no uses of Patronage left, you gain one Surge Die at the start of each of your turns.
 ### Wizard
 **_Updated Spellcasting Table_**: The Wizard uses the [[Fullcaster Table]].
 

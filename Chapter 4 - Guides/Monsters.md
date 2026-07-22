@@ -1,4 +1,4 @@
-These rules bring many changes to how combat works that also affect all monsters. The rules here describe how to adjust monsters to make them fit into the new rules, and new ways to customize monsters.
+These rules bring many changes to how combat works that also affect all monsters. The rules here describe how to adjust monsters to make them fit into the new rules, and new ways to customize monsters. You can find more information in the linked chapters.
 
 These rules add complexity to monsters without offering much relief from that added complexity. Consider outsourcing the tracking of stats and conditions to other players.
 ### Defence
@@ -10,7 +10,7 @@ These rules add complexity to monsters without offering much relief from that ad
 
 If their skin, fur, feathers, hide, scales or other outer features resemble an [[Armour]], taking the Damage Reduction value of the Armour listed for player characters can also be appropriate. Some monsters will be even more resilient than that, but take the damage capabilities of your party into consideration before going for higher Damage Reduction values. Other tricks may also work, as described in a [[Monsters#Customizing a Monster|section below]].
 ### Offence
-**_Attack Rolls_**: All monsters are trained with the weapons they wield and with their Unarmed Strikes. However, only monsters that rely on their precision or are somewhat experienced add their Proficiency Bonus to their attacks.
+**_Attack Rolls_**: All monsters are trained with the weapons they wield and their Unarmed Strikes. However, only monsters that rely on their precision or are somewhat experienced add their Proficiency Bonus to their attacks.
 
 **_Size Modifies Attacks_**: All monsters have their attack rolls modified by their size as described in [[AC-less Defence#Hit DC|AC-less Defence]]. This modifier should generally be balanced out by larger monsters dealing more damage and having more Hit Points, and smaller monsters dealing less damage and having fewer Hit Points, as is usual for DnD monster design.
 

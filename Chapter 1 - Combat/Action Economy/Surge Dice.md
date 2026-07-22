@@ -1,8 +1,8 @@
-A Surge Die is 1d6 that can be used for various effects that are described below. You can use one or more Surge Dice as part of any of your Actions, Bonus Actions, Free Actions, Reactions, or Free Reactions. You can use more than one Surge Die at once for the same effect. All unspent Surge Dice expire at the start of your next turn and at the end of combat.
+A Surge Die is a d6 that can be used for various effects that are described below. You can use one or more Surge Dice as part of any of your Actions, Bonus Actions, Free Actions, Reactions, or Free Reactions. You can use more than one Surge Die at once for the same effect. All unspent Surge Dice expire at the start of your next turn and at the end of combat.
 
 When Surge Dice are to be used in a contest, each participating party must announce the number of Surge Dice they use before knowing the roll of another party.
 
-**_Obtaining Surge Dice_**: You can obtain Surge Dice through reserving Reactions as described in the [[Action Economy|Reaction]] rules. Some classes may also give features that relate to Surge Dice.
+**_Obtaining Surge Dice_**: You can obtain Surge Dice through reserving Reactions as described in the [[Action Economy|Reaction]] rules. Every [[Classes|class]] also has a new feature at level 5 that relates to Surge Dice, some providing other ways to obtain Surge Dice.
 
 **_Surge Reaction_**: Instead of using Surge Dice as part of other actions, you can also use them by themselves. When you notice something happening, you can take a Free Reaction to use any number of your Surge Dice.
 #### Surge Die Effects
@@ -12,6 +12,8 @@ You can use Surge Dice for the following effects:
 
 **_Force_**: Subtract the roll from one saving throw you require one creature to make. This can be part of an effect that requires multiple creatures to roll a saving throw, but it only applies to the one creature you choose.
 
-**_Speed_**: You gain 10ft. of movement that you can immediately use.
+**_Utility_**: You can use 2 Surge Dice to use the Influence, Search or Study Action. Alternatively, you can use 1 Surge Die and a Bonus Action to do so.
+
+**_Speed_**: You gain 10 feet of movement that you can immediately use.
 
 **_Tenacity_**: You gain temporary hit points equal to the roll until the start of your next turn.

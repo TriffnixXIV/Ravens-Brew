@@ -17,9 +17,9 @@ Make a Dodging check contesting the attack roll. If the result is at least as hi
 
 When trying to dodge a critical hit, you roll with Disadvantage.
 
-**_Dodge & Roll_**: You can use your Reaction to try to dodge an attack that you can see and that targets you. Make a Dodging check and move to an unoccupied spot within 10 feet of you.
+**_Dodge & Roll_**: You can use your Reaction to try to dodge and move away from an attack that you can see and that targets you.
 
-If you're trying to dodge an attack and the result is at least as high as the attack roll, you dodge successfully and the attack misses.
+Make a Dodging check and move to an unoccupied spot within 10 feet of you. If the result is at least as high as the attack roll, you successfully dodge the attack. It misses.
 
 If the Dodging check succeeds, your movement does not provoke opportunity attacks.
 

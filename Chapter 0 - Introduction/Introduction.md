@@ -21,6 +21,6 @@ Rules should be simple. However, the core interests explained above do not yield
 
 Characters and challenges should be balanced. However, the complexity added through the rules and features in this book makes it more difficult to playtest and evaluate the balance properly. There is no guarantee that the contents of this book are well balanced. Still, the rules and features should be balanced enough to not establish playstyles that render too many challenges trivial and are themselves too hard to challenge. Every character should have a chance to shine.
 #### Notable Influences
-These reworks have taken inspiration from Warhammer: Vermintide 2, Divinity: Original Sin 2, Das schwarze Auge (The Dark Eye), D&D 3.5, the D&D 5e 2014 books, Pendragon, Splittermond and other games, both video games and tabletop games.
+These reworks take inspiration from Warhammer: Vermintide 2, Divinity: Original Sin 2, Das schwarze Auge (The Dark Eye), D&D 3.5, the D&D 5e 2014 books, Pendragon, Splittermond and other games, both video games and tabletop games.
 
-This homebrew ruleset has been playtested and reviewed by some of my friends, and some features have been their suggestion. Special thanks to Magnus, Noah, Lia, Chad, David, Meta, Merlin, Johannes, Paul and Lee.
+This ruleset has been playtested and reviewed by some of my friends, and some features have been their suggestion. Special thanks to Magnus, Noah, Lia, Chad, David, Meta, Merlin, Johannes, Paul and Lee.

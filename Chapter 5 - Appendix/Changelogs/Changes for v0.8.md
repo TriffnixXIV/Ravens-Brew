@@ -1,3 +1,85 @@
+### v0.8.3
+General
+- added new chapter introductions.
+- renamed the Combat section to [[Actions#Grappling & Shoving|Grappling & Shoving]].
+- renamed the Magic chapter to [[Spellcasting]].
+- added [[Miscellaneous Notes]] to the Appendix.
+- moved changelogs into their own folder.
+- fixed some spelling mistakes and changed some wordings.
+
+[[Contests]]
+- slightly reformulated [[Dodging]], [[Blocking]] and [[Parrying]] to mention in passing that they resemble contests.
+### v0.8.2
+General
+- rearranged the chapters to roughly align with the structure of the PHB.
+
+[[Introduction]]
+- merged the section on values into the introduction.
+- reworded the introduction accordingly.
+- merged the previous chapter introductions into a [[Content Overview]].
+
+[[Surge Dice]]
+- renamed Speed to Overtake, because it does not give movement speed, but it does make you overtake others in the Initiative order.
+- renamed Swiftness to Speed, because it gives movement speed.
+- changed Overtake to make it weaker in encounters with fewer creatures and to make it a bit more legible.
+
+[[Species]]
+- renamed from Character Creation.
+- Small creatures now only get -1 to their Constitution score instead of -2 to their Strength score.
+
+[[Martial Training]]
+- changed Archery to depend on the Wisdom modifier.
+- changed Duelling to depend on the Dexterity modifier.
+- changed Heavy Weapon Master to depend on the Strength modifier.
+- changed Knowing the Spot to depend on the Intelligence modifier.
+- added Wounding Critical.
+- moved some Aimed Strike features to general features due to their lack of weapon dependence.
+- turned the [[Aimed Strikes]] option for Reliable Hits into a Martial Training feature.
+- some minor linking and wording changes.
+
+[[Shields]]
+- the Buckler is now Diminutive.
+### v0.8.1
+General
+- Fixed some spelling mistakes.
+
+[[Rite of Regeneration]]
+- gave more options to assist with the Rite.
+- clarified when the Rite is interrupted and what happens in that case.
+- added an example.
+
+[[Surgery]]
+- changed the primary attribute to Intelligence.
+- added two skills, Sleight of Hand and Medicine, to Surgery.
+- explicated that when Proficiency in both the tools and one of the associated skills are present, the surgeon rolls with Advantage, in line with existing tool rules.
+- explicated how to assist and interrupt Surgery.
+- clarified what happens when Surgery is interrupted.
+
+[[Species]]
+- added two drawbacks to being Small.
+
+[[Classes]]
+- the Monks Patient Defence now references the Defence Action.
+
+[[Blocking]] & [[Parrying]]
+- added a short introductory paragraph.
+
+[[AC-less Defence]]
+- made cover its own subsection.
+- added a paragraph about crouching behind cover.
+- moved the Defence Action here and reworked it to be more like before.
+
+[[Martial Training]]
+- moved the paragraph about starting weapon Proficiencies and starting weapon Training into the subsection on weapon Training to remove some confusion.
+- reworded Accuracy to make it clear that it cannot stack with itself.
+- added Immaculate Aim, Knowing the Spot, Overpower, and My Body is a Weapon.
+- reworded Heavy Armour Master, so that it now mentions its Blocking Modifier and is further improved by Blocking Expertise.
+- reworded Free Hand Enhancement so that it is more concise and clear about only negating Disadvantage imposed through the Free Hand property.
+
+[[Action Economy]]
+- moved the Defence Action to AC-less Defence.
+- removed the paragraph about Reaction timing, as it was functionally equivalent to the existing base rule.
+### v0.8
 [[Introduction]] was rewritten.
 
 [[AC-less Defence]]
@@ -58,84 +140,3 @@
 - added Shield of Faith changes.
 - made Cure Wounds and Inflict Wounds work with wounds.
 - Blur now no longer affects attackers that are blinded.
-### v0.8.1
-General
-- Fixed some spelling mistakes.
-
-[[Rite of Regeneration]]
-- gave more options to assist with the Rite.
-- clarified when the Rite is interrupted and what happens in that case.
-- added an example.
-
-[[Surgery]]
-- changed the primary attribute to Intelligence.
-- added two skills, Sleight of Hand and Medicine, to Surgery.
-- explicated that when Proficiency in both the tools and one of the associated skills are present, the surgeon rolls with Advantage, in line with existing tool rules.
-- explicated how to assist and interrupt Surgery.
-- clarified what happens when Surgery is interrupted.
-
-[[Species]]
-- added two drawbacks to being Small.
-
-[[Classes]]
-- the Monks Patient Defence now references the Defence Action.
-
-[[Blocking]] & [[Parrying]]
-- added a short introductory paragraph.
-
-[[AC-less Defence]]
-- made cover its own subsection.
-- added a paragraph about crouching behind cover.
-- moved the Defence Action here and reworked it to be more like before.
-
-[[Martial Training]]
-- moved the paragraph about starting weapon Proficiencies and starting weapon Training into the subsection on weapon Training to remove some confusion.
-- reworded Accuracy to make it clear that it cannot stack with itself.
-- added Immaculate Aim, Knowing the Spot, Overpower, and My Body is a Weapon.
-- reworded Heavy Armour Master, so that it now mentions its Blocking Modifier and is further improved by Blocking Expertise.
-- reworded Free Hand Enhancement so that it is more concise and clear about only negating Disadvantage imposed through the Free Hand property.
-
-[[Action Economy]]
-- moved the Defence Action to AC-less Defence.
-- removed the paragraph about Reaction timing, as it was functionally equivalent to the existing base rule.
-### v0.8.2
-General
-- rearranged the chapters to roughly align with the structure of the PHB.
-
-[[Introduction]]
-- merged the section on values into the introduction.
-- reworded the introduction accordingly.
-- merged the previous chapter introductions into a [[Content Overview]].
-
-[[Surge Dice]]
-- renamed Speed to Overtake, because it does not give movement speed, but it does make you overtake others in the Initiative order.
-- renamed Swiftness to Speed, because it gives movement speed.
-- changed Overtake to make it weaker in encounters with fewer creatures and to make it a bit more legible.
-
-[[Species]]
-- renamed from Character Creation.
-- Small creatures now only get -1 to their Constitution score instead of -2 to their Strength score.
-
-[[Martial Training]]
-- changed Archery to depend on the Wisdom modifier.
-- changed Duelling to depend on the Dexterity modifier.
-- changed Heavy Weapon Master to depend on the Strength modifier.
-- changed Knowing the Spot to depend on the Intelligence modifier.
-- added Wounding Critical.
-- moved some Aimed Strike features to general features due to their lack of weapon dependence.
-- turned the [[Aimed Strikes]] option for Reliable Hits into a Martial Training feature.
-- some minor linking and wording changes.
-
-[[Shields]]
-- the Buckler is now Diminutive.
-### v0.8.3
-General
-- added new chapter introductions.
-- renamed the Combat section to [[Actions#Grappling & Shoving|Grappling & Shoving]].
-- renamed the Magic chapter to [[Spellcasting]].
-- added [[Miscellaneous Notes]] to the Appendix.
-- moved changelogs into their own folder.
-- fixed some spelling mistakes and changed some wordings.
-
-[[Contests]]
-- slightly reformulated [[Dodging]], [[Blocking]] and [[Parrying]] to mention in passing that they resemble contests.
