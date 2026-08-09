@@ -1,4 +1,4 @@
-**_Object Statistics_**: Objects have Hit Points, a [[AC-less Defence#Hit DC|Hit DC]] and [[AC-less Defence#Damage Reduction|Damage Reduction]], similar to creatures. The Hit DC depends on the size of the object, the Damage Reduction on the density and hardness of the material, and the Hit Points on the overall sturdiness and resilience. The previous AC of an object is converted to a Damage Reduction of 11 less than that AC, leading to the following Damage Reduction values:
+**_Object Statistics_**: Objects have Hit Points, a [[AC-less Defence#Hit DC|Hit DC]] and [[AC-less Defence#Damage Reduction|Damage Reduction]], similar to creatures. The Hit DC depends on the size of the object, the Damage Reduction on the density and hardness of the material, and the Hit Points on the overall sturdiness and resilience. The previous AC of an object is converted to a Damage Reduction of 10 less than that AC, leading to the following Damage Reduction values:
 
 | Damage Reduction | Substance           |
 | ---------------- | ------------------- |

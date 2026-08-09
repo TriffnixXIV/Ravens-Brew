@@ -54,6 +54,10 @@
 - now uses damaged and broken as parallels to wounded and disabled.
 - added a short paragraph on repairing objects.
 
+[[Magic Items]]
+- added a bit of explanatory text.
+- added the Bongo of Mist.
+
 [[Tools]]
 - reworded it to bring it in line with the new section on weapons and the base rules.
 - added a short paragraph on flexible DCs.

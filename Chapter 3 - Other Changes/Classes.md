@@ -92,7 +92,7 @@ For example, when spending 3 Focus Points, you may instead spend either 3 Surge 
 
 **_Pact Magic - Spell Slots_**: Similar to all other classes, you now also use [[Spellcasting#Spell Points|Spell Points]]. However, as your patron is the source of your power, you do not have these Spell Points yourself. Instead, you have the potentially enormous supply of your patron at your disposal, only limited by your ability to be your patrons conduit and your patrons willingness or pact-bound duty to provide for you. As such, you are only limited by your [[Spell Limits]] and their Patronage, as shown in the [[Pact Magic Table]].
 
-**_Patronage_**: The Patronage determines how often you can spend your patrons Spell Points before they temporarily cut off your supply. This is the case after you've spent their Spell Points a number of times equal to the number noted in the table above, with the count resetting after you finish a Short or Long Rest.
+**_Patronage_**: Your Patronage determines how often you can spend your patrons Spell Points before they temporarily cut off your supply. This is the case after you've spent their Spell Points a number of times equal to the number noted in the table above, with the count resetting after you finish a Short or Long Rest.
 
 This may, for example, express your patrons limited willingness to offer their power to a weaker being, a lack of established trust between you and your patron, or terms of the pact agreed upon as such, with the Patronage resetting when you appeal to your patron or ask for more during a Rest, or, again, because the pact says so.
 
@@ -103,7 +103,7 @@ This may, for example, express your patrons limited willingness to offer their p
 - You cast the spell as if you've spent its original Spell Point cost on it.
 - When casting the spell outside of combat, a roll on the Spell checks d20 of 11 or lower automatically becomes a 12. You cannot increase the total by casting the spell again before it runs out.
 
-**_Level 5 - Patron's Blessing (new)_**: While not having all uses of Patronage left, your Surge Dice are d8 instead of d6. While having no uses of Patronage left, you gain one Surge Die at the start of each of your turns.
+**_Level 5 - Otherworldly Force (new)_**: When you cast a spell through your Patronage, any Surge Dice you spend to modify related rolls are d12 instead of d6. Additionally, when you have no Patronage left, your Patron bestows one Surge Die upon you at the start of each of your turns.
 ### Wizard
 **_Updated Spellcasting Table_**: The Wizard uses the [[Fullcaster Table]].
 

@@ -43,7 +43,7 @@ Thirdly, the 2024 rules saw the introduction of weapon mastery properties. These
 **_Enhanced Critical_**: Choose either Bludgeoning, Piercing, or Slashing damage. When you score a Critical Hit that deals damage of that damage type, you ignore the targets Damage Reduction and gain the benefit associated with that damage type:
 - _Bludgeoning_: Attack rolls against the target have Advantage until the start of your next turn.
 - _Slashing_: The target has Disadvantage on attack rolls until the start of your next turn.
-- _Piercing_: You can roll one additional damage die when determining the extra Piercing damage the target takes.
+- _Piercing_: You can roll one additional damage die when determining the additional Piercing damage the target takes.
 You can pick this feature multiple times, but only for different damage types.
 
 **_Enhanced Dual Wielding_**: When you take the Attack action on your turn and attack with a weapon that has the Light property, you can make one extra attack as a Bonus Action later on the same turn with a different weapon, which must be a Melee weapon that lacks the Two-Handed property. You don't add your ability modifier to the extra attack's damage unless that modifier is negative.

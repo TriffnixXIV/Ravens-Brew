@@ -17,7 +17,7 @@ Secondly, through this system, another layer of difference is established that a
 **_Enhanced Critical_**: Choose one of the damage types listed below. When you score a Critical Hit that deals damage of that damage type, you ignore the targets Damage Reduction and inflict the drawback associated with that damage type:
 - _Acid_: The targets Damage Reduction is reduced by your Proficiency Bonus (not below 0) until the start of your next turn.
 - _Cold_: The targets Speed is reduced to 0 until the start of your next turn and can't increase until then.
-- _Fire_: You can roll one additional damage die when determining the extra Fire damage the target takes.
+- _Fire_: You can roll one additional damage die when determining the additional Fire damage the target takes.
 - _Force_: The target takes an additional 1d4 Force damage every time it takes damage until the start of your next turn.
 - _Lightning_: The target can't use Reactions until the start of your next turn.
 - _Necrotic_: The target can't regain Hit Points until the start of your next turn.
