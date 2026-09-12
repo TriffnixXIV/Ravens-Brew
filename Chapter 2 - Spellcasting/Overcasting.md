@@ -1,14 +1,14 @@
 When you spend more [[Spell Points]] than your [[Spell Limits#Casting Limit|Casting Limit]] accounts for, you are Overcasting. This happens when a spell is [[Upcasting|upcast]] to cost more than your Casting Limit allows for, or when you use multiple spells or features that use Spell Points in one round and their combined cost exceeds your Casting Limit.
 
-When Overcasting, you have to roll an Overcast Save and take Overcast Damage.
+When Overcasting, you take Overcast Damage and have to roll an Overcast Save.
 
 **_Excess_**: Your Excess is the number of Spell Points you've exceeded your Casting Limit by.
 
-**_Overcast Damage_**: When Overcasting, you take a number of d6 of Necrotic damage equal to half your Excess, rounded up. This damage occurs while you cast the spell or use the feature.
+**_Overcast Damage_**: When Overcasting, you take a number of d6 of Necrotic damage equal to half your Excess, rounded up. This damage ignores Resistance and Immunity and occurs while you cast the spell or use the feature.
 
 If the spell has a casting time of 1 minute or more, this also triggers a Concentration check that you have to succeed on to be able to continue the casting, in accordance with usual spell rules.
 
-**_Overcast Save_**: An Overcast Save is a saving throw using your spellcasting ability. The Save DC equals 10 + your Excess. On a successful save, nothing happens. On a failed save, the spell or feature dissipates and you receive one stack of [[Conditions#Weavestrain|Weavestrain]] for every 3 you've failed the saving throw by.
+**_Overcast Save_**: An Overcast Save is a saving throw using your spellcasting ability. The Save DC equals 10 + your Excess. On a successful save, nothing happens. On a failed save, the spell or feature dissipates and you receive one stack of [[Conditions#Weavestrain|Weavestrain]] for every 5 you've failed the saving throw by.
 
 When your spell or feature dissipates like this, it has no effect, and the Action, Bonus Action, or Reaction you've used to cast it is wasted. Spent Spell Points are restored.
 ### Examples

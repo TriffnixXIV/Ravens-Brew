@@ -1,3 +1,53 @@
+### v0.9.4
+[[Martial Training]]
+- changed _C-C-Combo_ to be named _Combo_ and be less potent.
+- added _Dual Wielder_ to merge _Enhanced Dual Wielding_ and _Quick Draw_.
+- changed _Overpower_ to be more direct.
+- turned _Hamstring_ and _Topple_ into Aimed Strike features.
+- changed _Weapon Locking_.
+- moved _Happy Feet_ to Dodging features and made it also work with armour.
+- added _Second Skin_ to increase the Dexterity modifier limit of Medium and Heavy armour.
+- turned _Blind Fighting_ into _Spider Sense_ and changed it to be specifically against attacks.
+
+[[Spell Check]]
+- Spell checks no longer have the Proficiency Bonus added through a Spellcasting Focus.
+- Spell checks are now rolled with Disadvantage when not used with a Spellcasting Focus.
+- Spell checks now replace all spell attack rolls.
+- removed the Spell Save DC malus.
+
+[[Overcasting]]
+- made Overcast damage ignore Resistance and Immunity.
+- failing an Overcast save now gives less stacks of Weavestrain.
+
+[[Spellcasting Focus]]
+- now work in parallel to Training instead of through Proficiency, similar to other Equipment.
+
+[[Caster Training]]
+- added _Acuity_ to add the Caster Proficiency Bonus to some Spell checks.
+- changed _Arsenal of Tricks_, _Penetrating Element_ and _Ritualist_ to use the Caster Proficiency Bonus instead of the Proficiency Bonus.
+- changed _Gambler_ to be a bit more limited in application.
+- changed _Jack Up_ to ramp up faster.
+- added _Keen Gestures_ to improve some Spell checks through the Dexterity modifier.
+- added _Twofold Touch_ to improve melee spell attacks.
+- added _Wounding Effect_ to intersect some save spells with wounds.
+- changed _Defiance_ to also make Overcast Damage respect Resistance and Immunity again.
+- renamed _Double Up_ to _Hyperfocus_ and removed the option to add the Proficiency Bonus to Spell checks twice.
+- added _Improvised Focus_.
+
+[[Spells]]
+- aligned _Enlarge / Reduce_ with the new size rules.
+- made _Counterspell_ also be triggered by spell attacks.
+
+[[Armour]]
+- now limits the Dexterity modifier for Dodging checks in parallel to the AC Dexterity modifier limit from the base rules.
+- armour pieces now extend this limit to other body parts as well, for Dexterity checks in general.
+
+[[Classes]]
+- changed multiple Surge Die features and offered new options.
+- gave the Monk new features and options.
+
+[[Feats]]
+- added _Training Master_ to give both Martial and Caster Training at once.
 ### v0.9.3
 [[Surge Dice]]
 - added _Utility_ to establish a use of Surge Dice for ability checks again.

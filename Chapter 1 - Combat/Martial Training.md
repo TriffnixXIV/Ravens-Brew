@@ -34,19 +34,21 @@ Thirdly, the 2024 rules saw the introduction of weapon mastery properties. These
 
 **_Archery_**: You gain a bonus to attack rolls with Ranged weapons equal to your Wisdom modifier (at least 1).
 
-**_C-C-Combo_**: Your weapon attacks deal additional damage equal to your Proficiency Bonus for every time you've hit with a weapon attack since the start of your turn.
+**_Combo_**: When you hit a target with a Melee weapon attack, your next weapon attack against the same target before the end of your next turn deals additional damage equal your Proficiency Bonus.
 
 **_Cleave_**: Once per turn, when you hit a creature with a melee attack using a weapon that has the Heavy property and deals Slashing damage, you can make a melee attack roll with the weapon against a second creature within 5 feet of the first that is also within your reach. On a hit, the second creature takes the weapons damage, but you don't add your ability modifier to that damage unless that modifier is negative.
 
-**_Dueling_**: When you are holding a Melee weapon in one hand and no other weapons, you gain a bonus to damage rolls with that weapon equal to your Dexterity modifier (at least 1).
+**_Dual Wielder_**: You gain the following benefits:
+- When you take the Attack action on your turn and attack with a weapon that has the Light property, you can make one extra attack as a Bonus Action later on the same turn with a different weapon, which must be a Melee weapon that lacks the Two-Handed property. You don't add your ability modifier to the extra attack's damage unless that modifier is negative.
+- You can draw or stow two weapons that lack the Two-Handed property when you would normally be able to draw or stow only one.
+
+**_Dueling_**: When you hit with a melee attack using a Melee weapon that you are holding in one hand while holding no other weapons, you deal additional damage equal to your Dexterity modifier (at least 1).
 
 **_Enhanced Critical_**: Choose either Bludgeoning, Piercing, or Slashing damage. When you score a Critical Hit that deals damage of that damage type, you ignore the targets Damage Reduction and gain the benefit associated with that damage type:
 - _Bludgeoning_: Attack rolls against the target have Advantage until the start of your next turn.
 - _Slashing_: The target has Disadvantage on attack rolls until the start of your next turn.
 - _Piercing_: You can roll one additional damage die when determining the additional Piercing damage the target takes.
 You can pick this feature multiple times, but only for different damage types.
-
-**_Enhanced Dual Wielding_**: When you take the Attack action on your turn and attack with a weapon that has the Light property, you can make one extra attack as a Bonus Action later on the same turn with a different weapon, which must be a Melee weapon that lacks the Two-Handed property. You don't add your ability modifier to the extra attack's damage unless that modifier is negative.
 
 **_Firing in Melee_**: Being within 5 feet of an enemy doesn't impose Disadvantage on your attack rolls with Ranged weapons.
 
@@ -60,9 +62,7 @@ You can pick this feature multiple times, but only for different damage types.
 
 **_Halt_**: Requires _Opportunist_. When you hit a creature with an Opportunity Attack, the creature's Speed becomes 0 for the rest of the current turn.
 
-**_Hamstring_**: Once per turn when you hit a creature with an attack using a Melee weapon that deals Slashing damage or using a Ranged weapon, you can reduce the Speed of that creature by 10 feet until the start of your next turn.
-
-**_Heavy Weapon Master_**: When you hit a target with a weapon that has the Heavy property, you deal additional damage equal to your Strength modifier (at least 1).
+**_Heavy Weapon Master_**: When you hit with a weapon that has the Heavy property, you deal additional damage equal to your Strength modifier (at least 1).
 
 **_Hew_**: Immediately after you score a Critical Hit with a Melee weapon with the Heavy property or reduce a creature to 0 Hit Points with one, you can make one attack with the same weapon as a Bonus Action.
 
@@ -77,7 +77,7 @@ You can pick this feature multiple times, but only for different damage types.
 - _Ranged_: You can make a Ranged Opportunity Attack when a creature that you can see moves 15ft. in a straight line towards you or away from you. The creature has to be within your ranged or thrown weapons normal range for that movement and has to use its action, Bonus Action, Reaction, or one of its speeds. To make the Opportunity Attack, take a Reaction to make one ranged weapon attack with your ranged or thrown weapon against the provoking creature.
 You can pick this feature again to pick the other option.
 
-**_Overpower_**: When you hit a target with a weapon that deals Bludgeoning damage, you deal 1 additional damage for every size category the target is smaller than you.
+**_Overpower_**: When you hit a target that is smaller than you with an attack that deals Bludgeoning damage, you deal additional damage equal to your Proficiency Bonus.
 
 **_Penetration_**: Choose a damage type. Your damage with weapons that deal that type of damage ignores an amount of Damage Reduction equal to your Proficiency Bonus. You can pick this feature multiple times, but only for different damage types.
 
@@ -87,15 +87,11 @@ You can pick this feature again to pick the other option.
 
 **_Puncture_**: When you hit a creature with a weapon attack that deals Piercing damage, you add one of the dice to the dice pool an additional time and ignore the lowest die result.
 
-**_Push_**: When you hit a target with an attack using a weapon without the Light property that deals Bludgeoning damage, you can push the target up to 10 feet straight away from you to an unoccupied space if it is no more than one size larger than you.
-
-**_Quick Draw_**: You can draw or stow two weapons that lack the Two-Handed property when you would normally be able to draw or stow only one.
+**_Push_**: When you hit with an attack using a weapon without the Light property that deals Bludgeoning damage, you can push the target up to 10 feet straight away from you to an unoccupied space if it is no more than one size larger than you.
 
 **_Sap_**: When you hit a creature with a melee attack using a weapon without the Heavy property that deals Bludgeoning or Piercing damage, that creature has Disadvantage on its next attack roll before the start of your next turn.
 
 **_Thrown Weapon Fighting_**: When you hit with a ranged attack using a weapon that has the Thrown property, you deal additional damage equal to your Strength modifier (at least 1).
-
-**_Topple_**: When you hit a creature with a melee attack using a weapon with the Versatile or Two-Handed property, you can force the creature to make a Constitution saving throw (DC 8 plus the ability modifier used to make the attack roll and your Proficiency Bonus). On a failed save, the creature has the Prone condition.
 
 **_Two Weapon Fighting_**: When you make an extra attack as a result of using a weapon that has the Light property, you add your ability modifier to the damage of that attack.
 
@@ -112,16 +108,22 @@ You can pick this feature again to pick the other option.
 **_Wrestler_**: You gain the following benefits:
 - At the start of each of your turns, you can deal 1d4 Bludgeoning damage to one creature Grappled by you.
 - You have Advantage on attack rolls against a creature Grappled by you.
-### Aimed Strike Features
+### [[Aimed Strikes|Aimed Strike]] Features
+**_Hamstring_**: When you hit a creatures legs with an Aimed Strike that deals Slashing or Piercing damage, its Speed is reduced by 10 feet until the start of your next turn.
+
 **_Immaculate Aim_**: When making an Aimed Strike, you gain an additional bonus to the attack roll equal to either half the amount the Hit DC increased by or your Proficiency Bonus, whichever is lower.
 
 **_Knowing the Spot_**: When you hit a target with an Aimed Strike, you deal additional damage equal to your Intelligence modifier (at least 1).
 
 **_Reliable Aim_**: When making an Aimed Strike with Advantage and missing the target part, you can still hit the larger target with a normal attack, if using the lower die roll for the attack roll instead of the higher one results in a hit against the larger target. This hit does not count as an Aimed Strike and thus will not trigger a Wound save.
 
-**_Wounding Critical_**: When you score a Critical Hit on an attack that is not an Aimed Strike, you may choose a body part to wound regardless, forcing the target to roll a Wound save as if the attack had been an Aimed Strike.
+**_Topple_**: When you hit a creatures legs or head with a melee Aimed Strike using a weapon with the Versatile or Two-Handed property, the creature receives the Prone condition. If the creature is larger than you, it only receives the Prone condition when it fails its Wound save.
+
+**_Wounding Critical_**: When you score a Critical Hit on an attack that is not an Aimed Strike, you may choose a body part to target regardless, forcing the target to roll a Wound save as if the attack had been an Aimed Strike against that body part.
 ### Reaction Features
 **_Pattern Recognition_**: Requires Proficiency in Perception. When you successfully block, dodge or parry the attack of a creature, you gain Advantage on your next Blocking, Dodging or Parrying check against that same creature this combat.
+
+**_Spider Sense_**: Requires Proficiency in Perception. You can treat attacks within 10 feet of you that you can't see as if you did see them, allowing you to react to them.
 #### [[Dodging]] Features
 **_Areal Awareness_**: You can now also use Dodge & Roll against areas of effect that target you, potentially moving you out of their area to avoid a required saving throw. If your Dodging check is at least as high as the DC of the effect, it succeeds.
 
@@ -134,6 +136,8 @@ If you remain inside an area of effect that required another saving throw, make 
 **_Dodging Adept_**: You gain Proficiency in Acrobatics.
 
 **_Dodging Expert_**: Requires Proficiency in Acrobatics. You gain Expertise in Acrobatics.
+
+**_Happy Feet_**: You add your Dexterity modifier to your Dodging checks twice. When wearing Medium or Heavy Armour, their limits apply to the Dexterity modifier before it is being doubled.
 
 **_Nimble Attack_**: Whenever you successfully dodge an attack with a Dodge & Roll, you can take a Free Reaction or Reaction mid-roll to make a ranged attack with one of your weapons with the Finesse and Thrown properties against a creature of your choice within range that you can see.
 
@@ -176,7 +180,7 @@ If you remain inside an area of effect that required another saving throw, make 
 
 **_Tit for Tat_**: When you successfully parry an attack, you can take a Free Reaction or Reaction to make an attack against the attacker with one weapon you are wielding that was not part of your parry.
 
-**_Weapon Locking_**: Requires Proficiency in Parrying. If you reduce a parried melee weapon attacks damage to 0, your parry weapon locks with the attackers weapon, giving the attacker Disadvantage on their attack rolls until either of you make an attack with their locked weapon or either of you moves out of the others reach.
+**_Weapon Locking_**: Requires Proficiency in Parrying. When you parry a melee weapon attack and reduce the damage to 0, your parry weapon locks with the attackers weapon until either of you leave the others reach or the attacker pulls away the weapon. Before that, neither of you can make melee attacks with the locked weapon. When the attacker pulls away their weapon without leaving your reach, you can take a Free Reaction or Reaction to make an attack against the attacker with your now unlocked weapon.
 ### [[Armour]] Features
 **_Armour Master_**: You can use your Reaction to [[Blocking|block]] an attack you can perceive and that targets you with one of the Armour pieces you wear that you have Training with, using a Blocking Modifier of +6. When blocking this way successfully, the damage of the attack is not negated completely, but the Damage Reduction of the used armour piece is doubled against it.
 
@@ -184,12 +188,10 @@ If you have Proficiency in Blocking, you also add your Proficiency Bonus to your
 
 **_Defence_**: You gain an additional +1 bonus to Damage Reduction on all body parts covered in armour you are trained with.
 
-**_Happy Feet_**: While wearing Light Armour or no Armour, your armour-based Dodging modifier is equal to your Dexterity modifier (at least +2) instead.
-
 **_Heavy Armour Training_**: Requires Training with Medium Armour. You gain Training with Heavy Armour.
 
 **_Light Armour Training_**: You gain Training with Light Armour.
 
 **_Medium Armour Training_**: Requires Training with Light Armour. You gain Training with Medium Armour.
-### Other Features
-**_Blind Fighting_**: You have Blindsight with a range of 10 feet.
+
+**_Second Skin_**: When you wear Medium or Heavy Armour, your Dexterity modifier limit is increased by 1.

@@ -23,5 +23,9 @@ Outside of that, other changes to feats can be found here, with the full descrip
 - _Ability Score Increase_: Increase your Intelligence, Wisdom or Charisma score by 1, to a maximum of 20.
 - _Training_: You gain two [[Caster Training]] features of your choice.
 - _Repeatable_: You can take this feat more than once.
+
+**_Training Master_**: You gain the following benefits:
+- _Training_: You gain two [[Caster Training]] features and one [[Martial Training]] feature or two [[Martial Training]] features and one [[Caster Training]] feature.
+- _Repeatable_: You can take this feat more than once.
 ### Fighting Style Feats
 These feats are all now part of [[Martial Training]] and can be accessed through the Martial Adept feat and through class features, as described in the chapter on [[Martial Training]].

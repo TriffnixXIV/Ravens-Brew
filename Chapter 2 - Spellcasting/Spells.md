@@ -95,10 +95,32 @@ Abjuration (Bard, Cleric, Druid, Paladin, Ranger). Cost: 3 Spell Points. Casting
 A creature you touch regains a number of Hit Points equal to 2d8 plus your spellcasting ability modifier and has all their [[Conditions#Wounded|wounds]] removed.
 
 _Upcasting_: For every additional 3 Spell Points spent, the healing increases by 2d8.
+#### Enlarge / Reduce
+Level 2 Transmutation (Bard, Druid, Sorcerer, Wizard)
+Casting Time: Action
+Range: 30 feet
+Components: V, S, M (a pinch of powdered iron)
+Duration: Concentration, up to l minute
+
+For the duration, the spell enlarges or reduces a creature or an object you can see within range (see the chosen effect below). A targeted object must be neither worn nor carried. If the target is an unwilling creature, it can make a Constitution saving throw. On a successful save, the spell has no effect.
+
+Everything that a targeted creature is wearing and carrying changes size with it. Any item it drops returns to normal size at once. A thrown weapon or piece of ammunition returns to normal size immediately after it hits or misses a target.
+
+_Enlarge_: The target changes as follows:
+- Its size increases by one category - from Medium to Large, for example - decreasing its Hit DC by 2.
+- It has Advantage on Strength checks and Strength saving throws.
+- Its attacks with its enlarged weapons or Unarmed Strikes deal an extra 1d4 damage on a hit, but have -2 to hit.
+- Its Hit Point maximum and current Hit Points increase by its maximum number of Hit Dice.
+
+_Reduce_: The target changes as follows:
+- Its size decreases by one category - from Medium to Small, for example - increasing its Hit DC by 2.
+- It has Disadvantage on Strength checks and Strength saving throws.
+- Its attacks with its reduced weapons or Unarmed Strikes deal 1d4 less damage on a hit (this can't reduce the damage below 1), but have +2 to hit.
+- Its Hit Point maximum and current Hit Points decrease by its maximum number of Hit Dice (this can't reduce the maximum or current Hit Points below 1).
 #### Haste
 Transmutation (Sorcerer, Wizard). Cost: 9 Spell Points. Casting Time: Action. Range: 30 feet. Components: V, S, M (a shaving of licorice root). Duration: Concentration, up to 1 minute.
 
-Choose a willing creature that you can see within range. Until the spell ends, the target's Speed is doubled, it gains Advantage on Reactions and Dexterity saving throws, and it gains an additional action on each of its turns. That action can be used take only the Attack (one attack only), Dash, Disengage, Hide, or Utilize action.
+Choose a willing creature that you can see within range. Until the spell ends, the target's Speed is doubled, it gains Advantage on Reactions and Dexterity saving throws, and it gains an additional action on each of its turns. That action can only be used to take the Attack (one attack only), Dash, Disengage, Hide, or Utilize action.
 
 When the spell ends, the target is Incapacitated and has a Speed of 0 until the end of its next turn, as a wave of lethargy washes over it.
 #### Inflict Wounds

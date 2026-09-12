@@ -1,12 +1,16 @@
 In light of the changes to [[Combat]] and [[Spellcasting]], many Classes had their features reviewed and, in some cases, adjusted to make sure they are translated to the new system properly.
 ### Barbarian
-**_Unarmoured Defence_**: Instead of adding your Constitution modifier to your AC when you are not wearing armour, your Constitution modifier is added to your [[AC-less Defence#Damage Reduction|Damage Reduction]].
+**_Unarmoured Defence_**: Instead of adding your Constitution modifier to your AC when you are not wearing armour, your Constitution modifier (at least 1) is added to your [[AC-less Defence#Damage Reduction|Damage Reduction]].
 
-**_Level 5 - Sudden Momentum (new)_**: When you spend Surge Dice to deal more damage with a Reckless Attack, you receive one Surge Die afterwards.
+**_Level 5 - Brutal Surge (new)_**: Choose one of the following Surge Die features:
+- _Sudden Momentum_: When you spend Surge Dice to deal more damage with a Reckless Attack, you receive one Surge Die afterwards.
+- _Ferocity_: While your Rage is active, you receive one Surge Die at the start of each of your turns.
 ### Bard
 **_Updated Spellcasting Table_**: The Bard uses the [[Fullcaster Table]].
 
-**_Level 5 - Shared Inspiration (new)_**: When you use your Bonus Action to give another creature Bardic Inspiration, you receive one Surge Die.
+**_Level 5 - Bardic Surge (new)_**: Choose one of the following Surge Die features:
+- _Infectious Inspiration_: When you use your Bonus Action to give another creature Bardic Inspiration, you receive one Surge Die.
+- _In Tune_: When you use your Bonus Action to give another creature Bardic Inspiration, you can spend one of your Surge Dice instead of one of your Bardic Inspiration dice.
 
 **_College of Dance - Dazzling Footwork - Unarmoured Defence_**: When you aren't wearing armour or wielding a shield, you can roll Charisma (Performance) instead of Dexterity (Acrobatics) when [[Dodging]], and you add both your Charisma modifier and your Dexterity modifier to the roll.
 
@@ -14,13 +18,19 @@ In light of the changes to [[Combat]] and [[Spellcasting]], many Classes had the
 ### Cleric
 **_Updated Spellcasting Table_**: The Cleric uses the [[Fullcaster Table]].
 
-**_Level 5 - Prayer (new)_**: You can use 3 Surge Dice to restore a use of your Channel Divinity.
+**_Level 5 - Divine Surge (new)_**: Choose one of the following Surge Die features:
+- _Prayer_: You can use 3 Surge Dice to restore a use of your Channel Divinity.
+- _Sacred Routine_: When you use your Channel Divinity, you gain 3 Surge Dice.
 ### Druid
 **_Updated Spellcasting Table_**: The Druid uses the [[Fullcaster Table]].
 
-**_Level 5 - Wild Surge (new)_**: While in a Wild Shape form, you receive one Surge Die at the start of each of your turns during combat.
+**_Level 5 - Wild Surge (new)_**: Choose one of the following Surge Die features:
+- _Ferocity_: While in a Wild Shape form, you receive one Surge Die at the start of each of your turns during combat.
+- _Nature's Embrace_: You can use 3 Surge Dice instead of a Wild Shape charge.
 ### Fighter
-**_Level 5 - Superior Surge (new)_**: You can use 2 Surge Dice instead of a Second Wind charge, and you can use 3 Surge Dice instead of an Action Surge charge. 
+**_Level 5 - Tactical Surge (new)_**: Choose one of the following Surge Die features:
+- _All Out_: You can use 3 Surge Dice instead of an Action Surge charge.
+- _Recenter_: You can use 2 Surge Dice instead of a Second Wind charge.
 
 **_Tactical Master_**: When you attack with a weapon you are trained with, you can use one additional [[Martial Training]] feature on the attack that the weapon does not fulfill the requirements of.
 
@@ -36,25 +46,33 @@ In light of the changes to [[Combat]] and [[Spellcasting]], many Classes had the
 ### Monk
 **_Martial Arts - Dexterous Attacks_**: Instead of using the Dexterity modifier to determine the save DC when using the Grapple or Shove option of your Unarmed Strike, you can make a Dexterity (Athletics) check instead of a Strength (Athletics) check when attempting to Grapple or Shove, using the [[Contests|Contest]] rules.
 
-**_Unarmoured Defence_**: Instead of being converted to [[AC-less Defence#Damage Reduction|Damage Reduction]], your Wisdom modifier is added to your [[Dodging]] checks.
+**_Unarmoured Defence_**: Choose one of the following features to gain while you aren't wearing armour or wielding a Shield:
+- _Feel the Air_: You add your Wisdom modifier (at least 1) to your [[Dodging]] and [[Parrying]] checks.
+- _Breathe Through Pain_: You add your Wisdom modifier (at least 1) to your [[AC-less Defence#Damage Reduction|Damage Reduction]]. 
 
 **_Patient Defence_**: When spending 1 Focus Point to take the Disengage and Dodge actions as a Bonus Action, you may take the Disengage and [[AC-less Defence#Other changes|Defence]] actions as a Bonus Action instead.
 
-**_Deflect Missiles_**: May be used as part of the [[AC-less Defence#Other changes|Defence Action]].
+**_Level 2 - Omnipresence (new)_**: You can spend a Focus Point instead of a Reaction to take a Reaction.
 
-**_Level 5 - Serenity (new)_**: When spending one or more Focus Points, you can instead spend the same amount of [[Surge Dice]]. You can also replace a part of the Focus Point cost with the same amount of [[Surge Dice]].
+**_Deflect Attacks_**: May be used as part of the [[AC-less Defence#Other changes|Defence Action]].
 
-For example, when spending 3 Focus Points, you may instead spend either 3 Surge Dice, 2 Surge Dice + 1 Focus Point, or 1 Surge Die + 2 Focus Points.
+**_Level 5 - Monk's Surge (new)_**: Choose one of the following Surge Die features:
+- _Serenity_: When spending one or more Focus Points, you can instead spend the same amount of [[Surge Dice]]. You can also replace a part of the Focus Point cost with the same amount of [[Surge Dice]].
+- _Unarmoured Offence_: While you aren't wearing armour or wielding a Shield, you gain one additional Surge Die at the start of each of your turns.
 ### Paladin
 **_Updated Spellcasting Table_**: The Paladin uses the [[Halfcaster Table]].
 
-**_Level 5 - Sacred Protection (new)_**: You can spend Surge Dice to improve your own saving throws by the roll of the dice.
+**_Level 5 - Divine Surge (new)_**: Choose one of the following Surge Die features:
+- _Prayer_: You can use 3 Surge Dice to restore a use of your Channel Divinity.
+- _Sacred Protection_: You can spend Surge Dice to add the roll to one of your saving throws.
 
 **_Oath of Glory - Glorious Defence_**: Instead of increasing the targets AC, your Charisma modifier (minimum of 1) is subtracted from the attack roll, potentially causing the attack to miss.
 ### Ranger
 **_Updated Spellcasting Table_**: The Ranger uses the [[Halfcaster Table]].
 
-**_Level 5 - Takedown (new)_**: When attacking a creature that is marked by your _Hunter's Mark_, you receive one Surge Die afterwards.
+**_Level 5 - Ranger's Surge (new)_**: Choose one of the following Surge Die features:
+- _Takedown_: While you are concentrating on your _Hunter's Mark_, your Surge Dice are d8 instead of d6.
+- _Hunter's Routine_: When marking a creature with your _Hunter's Mark_, you gain two Surge Dice.
 
 **_Beast Master_**: Instead of their AC value, the Beast Masters beast will have a Damage Reduction equal to 3 + the Rangers Wisdom modifier.
 
@@ -66,7 +84,9 @@ For example, when spending 3 Focus Points, you may instead spend either 3 Surge 
 
 **_Uncanny Dodge_**: When your [[Dodging]] checks fail, you only take half damage instead of full damage. If you fail a Dodge & Roll or all spots within 10 feet of you are occupied when making a Dodge & Roll, you do not fall Prone.
 
-**_Level 5 - Prepared Strike (new)_**: When using Surge Dice to increase the damage of a Sneak Attack, the Surge Dice are d12 instead of d6.
+**_Level 5 - Rogue's Surge (new)_**: Choose one of the following Surge Die features:
+- _Lethal Strike_: When using Surge Dice to increase the damage of a Sneak Attack, the Surge Dice are d12 instead of d6.
+- _Preparation_: When using Steady Aim or taking the Cunning Action to Disengage or Hide, you gain one Surge Die.
 
 **_Arcane Trickster - Updated Spellcasting Table_**: The Arcane Trickster uses the [[Thirdcaster Table]].
 ### Sorcerer
@@ -82,7 +102,9 @@ For example, when spending 3 Focus Points, you may instead spend either 3 Surge 
 
 **_Sorcerous Restoration_**: When you finish a Short Rest, you can regain expended Sorcery Points, but no more than a number equal to your Sorcerer level. Once you use this feature, you can't do so again until you finish a Long Rest.
 
-**_Level 5 - Unleashed Potential (new)_**: While your Innate Sorcery feature is active, your Surge Dice are d8 instead of d6, and you can use Surge Dice to increase your Casting Limit by the roll until the start of your next turn.
+**_Level 5 - Sorcerous Surge (new)_**: Choose one of the following Surge Die features:
+- _Heightened Presence_: While your Innate Sorcery feature is active, your Surge Dice are d8 instead of d6.
+- _Anticipated Flow_: You can spend Surge Dice to add the roll to all of your Overcast Saves until the start of your next turn.
 
 **_Draconic Sorcery - Draconic Resilience_**: Instead of adding your Charisma modifier to your AC when you are not wearing armour, your Charisma modifier is added to your [[AC-less Defence#Damage Reduction|Damage Reduction]].
 
@@ -103,13 +125,17 @@ This may, for example, express your patrons limited willingness to offer their p
 - You cast the spell as if you've spent its original Spell Point cost on it.
 - When casting the spell outside of combat, a roll on the Spell checks d20 of 11 or lower automatically becomes a 12. You cannot increase the total by casting the spell again before it runs out.
 
-**_Level 5 - Otherworldly Force (new)_**: When you cast a spell through your Patronage, any Surge Dice you spend to modify related rolls are d12 instead of d6. Additionally, when you have no Patronage left, your Patron bestows one Surge Die upon you at the start of each of your turns.
+**_Level 5 - Eldritch Surge (new)_**: Choose one of the following Surge Die features:
+- _Incantation_: When you cast a spell through your Patronage, any Surge Dice you spend to modify related rolls are d12 instead of d6.
+- _Patron's Blessing_: When you have no Patronage left, your Patron bestows one Surge Die upon you at the start of each of your turns.
 ### Wizard
 **_Updated Spellcasting Table_**: The Wizard uses the [[Fullcaster Table]].
 
 **_Arcane Recovery_**: Once per Long Rest, when you finish a Short Rest, you can recover a number of Spell Points equal to your Wizard Preparation Limit.
 
-**_Level 5 - Weavebond (new)_**: When casting a spell that costs at least 9 Spell Points, you can spend one Surge Die to draw upon remnant strands of the weave and reduce the Spell Point cost by the roll.
+**_Level 5 - Arcane Surge (new)_**: Choose one of the following Surge Die features:
+- _Weavebond_: When casting a spell that costs at least 9 Spell Points, you can spend one Surge Die to draw upon remnant strands of the weave and reduce the Spell Point cost by the roll.
+- _Attention_: You can spend Surge Dice to add the roll to your Concentration checks.
 
 **_Abjurer - Arcane Ward_**: Instead of depending on the use of a spell slot, the Arcane Ward now depends on the use of Spell Points. Whenever you cast an Abjuration spell with Spell Points, the ward regains a number of Hit Points equal to the number of Spell Points spent.
 
