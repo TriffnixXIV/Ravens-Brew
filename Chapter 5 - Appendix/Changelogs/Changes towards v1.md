@@ -11,9 +11,11 @@
 
 [[Spell Check]]
 - Spell checks no longer have the Proficiency Bonus added through a Spellcasting Focus.
-- Spell checks are now rolled with Disadvantage when not used with a Spellcasting Focus.
+- Spell checks are now rolled with Disadvantage when a spell is not used with a Spellcasting Focus associated with its school.
 - Spell checks now replace all spell attack rolls.
+- _Counterspell_ can now counter singular spell attacks, but can no longer counter a spell with multiple spell attacks entirely through one cast.
 - removed the Spell Save DC malus.
+- added examples.
 
 [[Overcasting]]
 - made Overcast damage ignore Resistance and Immunity.
@@ -36,7 +38,6 @@
 
 [[Spells]]
 - aligned _Enlarge / Reduce_ with the new size rules.
-- made _Counterspell_ also be triggered by spell attacks.
 
 [[Armour]]
 - now limits the Dexterity modifier for Dodging checks in parallel to the AC Dexterity modifier limit from the base rules.
