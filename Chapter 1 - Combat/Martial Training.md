@@ -10,9 +10,7 @@ Thirdly, the 2024 rules saw the introduction of weapon mastery properties. These
 
 **_Martial Training_**: When you receive Martial Training, choose one of the features listed below that you qualify for. Martial Training features are divided into the following sections to make them easier to browse: [[#Weapon Training]], [[#Weapon Features]], [[#Unarmed Strike Features]], [[#Aimed Strike Features]], [[#Reaction Features]], [[#Dodging Features]], [[#Shield & Blocking Features]], [[#Parrying Features]], [[#Armour Features]] and [[#Other Features]].
 
-**_Fighting Styles_**: Fighting Style feats are now Martial Training features. Whenever you would gain a Fighting Style feat, you receive Martial Training instead.
-
-**_Weapon Mastery Properties_**: Weapon Mastery Properties are now Martial Training features. [[Classes]] that previously had access to Weapon Mastery Properties receive additional Martial Training.
+**_Fighting Styles and Weapon Mastery Properties_**: Fighting Style feats and Weapon Mastery Properties have been converted into Martial Training features, and features that give access to either have been removed or replaced by features giving additional Martial Training, as described in the section on [[Classes|classes]].
 
 **_Feats_**: The benefits of a selection of general feats are now Martial Training features. There's now a new general [[Feats|feat]] that allows the player to receive Martial Training twice.
 

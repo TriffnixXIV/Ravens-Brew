@@ -38,7 +38,7 @@ Additionally, all classes receive a new feature on level 5 that revolves around 
 - _Ferocity_: While in a Wild Shape form, you receive one Surge Die at the start of each of your turns during combat.
 - _Nature's Embrace_: You can use 3 Surge Dice instead of a Wild Shape charge.
 ### Fighter
-**_Level 1 - Additional Martial Training (new)_**: You receive one additional [[Martial Training]] feature, and another one at Fighter level 3.
+**_Level 1 - Additional Martial Training (new)_**: You receive two additional [[Martial Training]] features, and another one at Fighter level 3.
 
 **_Level 5 - Tactical Surge (new)_**: Choose one of the following Surge Die features:
 - _All Out_: You can use 3 Surge Dice instead of an Action Surge charge.

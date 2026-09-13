@@ -191,7 +191,8 @@ General
 
 [[Spells]]
 - Clarified that Weavestrike can't make a target lose more Spell Points than it has.
-#### [[Equipment]]
+
+[[Equipment]]
 - Committed to having equipment only correlate with Training and not with Proficiency or Expertise.
 
 [[Objects]]
@@ -215,7 +216,7 @@ General
 [[Spell Scrolls]]
 - Added universal scrolls that can be used by all characters.
 - Rephrased spell scrolls a bit to fit the Spell Point system.
-#### Feats
+
 [[Caster Training]]
 - Changed _Iron Will_ to give a bonus equal to your spellcasting ability modifier instead of Advantage.
 - Renamed _Expectation_ to _Hardened Conduits_. Changed it to give a bonus equal to your Constitution modifier instead of Advantage.
@@ -225,7 +226,8 @@ General
 [[Martial Training]]
 - Changed some Blocking and Parrying features to no longer mention requirements that were already checked in the sections on the reactions.
 - Changed _Elegant Parry_ to give a bonus equal to your Wisdom modifier instead of Advantage.
-#### [[Monsters]]
+
+[[Monsters]]
 - Added an introduction of the roughly three kinds of monsters.
 - Added a few paragraphs about body parts.
 - Restructured the section into multiple subsections.

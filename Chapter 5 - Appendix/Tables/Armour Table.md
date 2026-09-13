@@ -1,17 +1,17 @@
 
-| Name                   | Type   | Damage Reduction | Dodging Modifier |
-| ---------------------- | ------ | ---------------- | ---------------- |
-| Padded Armour          | Light  | 1                | +2               |
-| Leather Armour         | Light  | 1                | +2               |
-| Studded Leather Armour | Light  | 2                | +2               |
-| Hide Armour            | Medium | 2                | 0                |
-| Chain Shirt            | Medium | 3                | 0                |
-| Scale Mail             | Medium | 4                | 0                |
-| Breastplate            | Medium | 4                | 0                |
-| Half Plate Armour      | Medium | 5                | 0                |
-| Ring Mail              | Heavy  | 4                | Disadvantage     |
-| Chain Mail             | Heavy  | 6                | Disadvantage     |
-| Splint Armour          | Heavy  | 7                | Disadvantage     |
-| Plate Armour           | Heavy  | 8                | Disadvantage     |
+| Name                   | Type   | Damage Reduction | Dexterity Modifier Limit |
+| ---------------------- | ------ | ---------------- | ------------------------ |
+| Padded Armour          | Light  | 1                | none                     |
+| Leather Armour         | Light  | 1                | none                     |
+| Studded Leather Armour | Light  | 2                | none                     |
+| Hide Armour            | Medium | 2                | max +2                   |
+| Chain Shirt            | Medium | 3                | max +2                   |
+| Scale Mail             | Medium | 4                | max +2                   |
+| Breastplate            | Medium | 4                | max +2                   |
+| Half Plate Armour      | Medium | 5                | max +2                   |
+| Ring Mail              | Heavy  | 4                | max +0                   |
+| Chain Mail             | Heavy  | 6                | max +0                   |
+| Splint Armour          | Heavy  | 7                | max +0                   |
+| Plate Armour           | Heavy  | 8                | max +0                   |
 
 Related to [[AC-less Defence]].
