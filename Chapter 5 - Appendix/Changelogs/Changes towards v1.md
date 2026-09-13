@@ -1,4 +1,10 @@
 ### v0.9.4
+Training
+- all Training features are now acquired in parallel to the Proficiency Bonus.
+- [[Classes]] may now give additional access to Training features depending on previous access.
+- Weapon Mastery Properties and Fighting Styles are no longer converted into Training features 1-to-1.
+- changed the guides on [[Character Creation]] and [[Character Conversion]] accordingly.
+
 [[Martial Training]]
 - changed _C-C-Combo_ to be named _Combo_ and be less potent.
 - added _Dual Wielder_ to merge _Enhanced Dual Wielding_ and _Quick Draw_.
@@ -44,6 +50,8 @@
 - armour pieces now extend this limit to other body parts as well, for Dexterity checks in general.
 
 [[Classes]]
+- added more introductory text.
+- added level numbers to changed class features to ease referencing.
 - changed multiple Surge Die features and offered new options.
 - gave the Monk new features and options.
 

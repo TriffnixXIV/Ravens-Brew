@@ -5,12 +5,14 @@ This rework is motivated by three reasons. Firstly, with the Hit DC being largel
 Secondly, the new defensive reactions introduced in this ruleset should be something a character can specialize in. In previous versions of this ruleset, this was enabled through changes to general feats and through connections with Expertise class features. Both of those are limited in their accessibility, and especially fighters should be able to access special defensive features more than other classes, while not themselves having access to Expertise. Thus, by introducing these features here, martial classes actually have prioritized access to the new martial features.
 
 Thirdly, the 2024 rules saw the introduction of weapon mastery properties. These were introduced as weapon-specific features that can be chosen by martials to increase their battlefield prowess, which can be assumed to be intended to lessen the infamous martial caster divide. Structurally, these mastery properties do not separate themselves from benefits that are obtainable through feats, while introducing a whole new feature list a martial can choose from. Next to Fighting Style feats and general feats, this is now the third feature list for martials. Through the rearrangement of those lists into one singular list, the flexibility and potential power of martials is further accentuated. Additionally, adding new features to this list is a new straightforward way to give feature options to martials specifically without having to restrict the features to Fighting Style feats, general feats or weapon mastery properties.
-### Core Changes
+### Core Rules
+**_Training Features_**: During [[Character Creation]], you choose a number of Training features equal to your Proficiency Bonus. Whenever your Proficiency Bonus increases later, you can choose an additional Training feature. These features can be either Martial Training features, as can be found here, or [[Caster Training]] features.
+
 **_Martial Training_**: When you receive Martial Training, choose one of the features listed below that you qualify for. Martial Training features are divided into the following sections to make them easier to browse: [[#Weapon Training]], [[#Weapon Features]], [[#Unarmed Strike Features]], [[#Aimed Strike Features]], [[#Reaction Features]], [[#Dodging Features]], [[#Shield & Blocking Features]], [[#Parrying Features]], [[#Armour Features]] and [[#Other Features]].
 
 **_Fighting Styles_**: Fighting Style feats are now Martial Training features. Whenever you would gain a Fighting Style feat, you receive Martial Training instead.
 
-**_Weapon Mastery Properties_**: Weapon Mastery Properties are now Martial Training features. Whenever you would gain access to a Weapon Mastery Property, you receive Martial Training instead.
+**_Weapon Mastery Properties_**: Weapon Mastery Properties are now Martial Training features. [[Classes]] that previously had access to Weapon Mastery Properties receive additional Martial Training.
 
 **_Feats_**: The benefits of a selection of general feats are now Martial Training features. There's now a new general [[Feats|feat]] that allows the player to receive Martial Training twice.
 

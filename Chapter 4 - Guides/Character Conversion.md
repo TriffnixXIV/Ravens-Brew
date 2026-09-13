@@ -1,4 +1,10 @@
 To convert an already built character from the DnD 5e2024 rules to this homebrew ruleset, follow the steps listed here. You can find more information in the linked chapters.
+### General Changes
+**_Training Features_**: You have access to a number of Training features equal to your Proficiency Bonus, shared between [[Martial Training]] features and [[Caster Training]] features, and you might receive additional Training from your [[Classes|class]].
+
+Check the [[Feats|General Feats]] you have and whether they've been converted into Training features. If they were converted, replace it with the corresponding new Adept Feat and pick Training features accordingly. There should be Training features equivalent to the Feats benefits.
+
+**_[[Classes|Class Feature Changes]]_**: Check whether your class features were changed and note the new versions if applicable.
 ### Martial Stuff
 **_[[AC-less Defence]]_**: You will not need your AC anymore. You can keep it for now to remind yourself which features might give you Damage Reduction instead.
 
@@ -14,11 +20,9 @@ Note your [[Parrying]] Bonus and Parrying Power for each weapon. The Parrying Bo
 
 **_[[Shields]]_**: If you have a shield, note a [[Blocking]] Modifier of +4 for it.
 
-**_[[Martial Training]]_**: Check how many Weapon Mastery Properties you have access to. Convert each of them into a Martial Training feature. Similarly, check your Fighting Style feats and convert each into a Martial Training feature. There should be an equivalent to each Weapon Mastery Property and each Fighting Style feat, but you can pick any Martial Training feature you want. Some features give bonuses to the new [[Blocking|block]], [[Dodging|dodge]] and [[Parrying|parry]] reactions.
+**_[[Martial Training]]_**: Weapon Mastery Properties and Fighting Style feats no longer exist in their previous form, as all of those have been converted into Martial Training features. As noted in the paragraph on Training features above, you have access to a number of Training features equal to your Proficiency Bonus, shared between [[Martial Training]] features and [[Caster Training]] features, and you might receive additional Training from your [[Classes|class]].
 
-Lastly, check the [[Feats]] you have and whether they've been converted into Martial Training features. If they were converted, replace it with the Martial Adept Feat and pick two Martial Training features accordingly. There should be Martial Training features equivalent to the Feats benefits.
-
-**_[[Classes|Class Feature Changes]]_**: Check whether your class features were changed and note the new versions if applicable.
+There should be an equivalent to each Weapon Mastery Property and each Fighting Style feat, but you can pick other Training features as well. Some features give bonuses to the new [[Blocking|block]], [[Dodging|dodge]] and [[Parrying|parry]] reactions.
 ### Caster Stuff
 If you are a spellcaster, also follow these steps. Note your total spellcaster level.
 
@@ -26,7 +30,7 @@ If you are a spellcaster, also follow these steps. Note your total spellcaster l
 
 **_[[Spellcasting Focus]]_**: Check each Spellcasting Focus you own. Each one is now associated with a number of spell schools, as described in their chapter. Note these schools.
 
-**_[[Caster Training]]_**: Choose a number of [[Caster Training]] features equal to the Proficiency Bonus you'd have if it was derived from your caster level.
+**_[[Caster Training]]_**: As noted in the paragraph on Training features above, you have access to a number of Training features equal to your Proficiency Bonus, shared between [[Martial Training]] features and [[Caster Training]] features, and you might receive additional Training from your [[Classes|class]].
 #### Spells
 Go through your spells. Do the following for each:
 

@@ -4,15 +4,15 @@ This new system is motivated by two reasons. Firstly, the translation of spell s
 
 Secondly, through this system, another layer of difference is established that aims to increase spellcaster diversity through increasing the amount of feature options available to them.
 ### Core Rules
-**_Number of Caster Training Features_**: You have a number of Caster Training features equal to your Caster Proficiency Bonus. This means that when you get your first spellcaster level, you choose two Caster Training features, and every four spellcaster levels afterwards, you receive one additional Caster Training feature.
+**_Training Features_**: During [[Character Creation]], you choose a number of Training features equal to your Proficiency Bonus. Whenever your Proficiency Bonus increases later, you can choose an additional Training feature. These features can be either Caster Training features, as can be found here, or [[Martial Training]] features.
 
 **_Caster Training_**: When you receive Caster Training, choose one of the features listed in the following sections that you qualify for. Caster Training features are divided into the following sections to make them easier to browse: [[#Spell Features]], [[#Spell Point Features]] and [[#Spellcasting Focus Features]].
 
 **_Feats_**: The benefits of a selection of general feats are now Caster Training features. There's now a new general [[Feats|feat]] that allows the player to receive Caster Training twice.
 ### Spell Features
 **_Acuity_**: Choose one of the following:
-- _Attacks_: You add your Caster Proficiency Bonus to Spell checks made for spell attacks.
-- _Saves_: Choose one ability. When a spell you cast requires its targets to roll a saving throw of that ability, add your Caster Proficiency Bonus to the Spell check.
+- _Attacks_: You add your Caster Proficiency Bonus to Spell checks you make for spell attacks.
+- _Saves_: Choose one ability. You add your Caster Proficiency Bonus to Spell checks you make to determine the DC of saving throws of that ability.
 You can pick this feature multiple times, but only with different choices.
 
 **_Arsenal of Tricks_**: Choose a number of spells equal to your Caster Proficiency Bonus with a Spell Point cost of 0. You always have those spells prepared, and they count as spells of a class of your choice. Whenever your Caster Proficiency Bonus increases later, you can choose an additional spell to add to this feature.
