@@ -96,11 +96,7 @@ A creature you touch regains a number of Hit Points equal to 2d8 plus your spell
 
 _Upcasting_: For every additional 3 Spell Points spent, the healing increases by 2d8.
 #### Enlarge / Reduce
-Level 2 Transmutation (Bard, Druid, Sorcerer, Wizard)
-Casting Time: Action
-Range: 30 feet
-Components: V, S, M (a pinch of powdered iron)
-Duration: Concentration, up to l minute
+Transmutation (Bard, Druid, Sorcerer, Wizard), Cost: 6 Spell Points. Casting Time: Action. Range: 30 feet. Components: V, S, M (a pinch of powdered iron). Duration: Concentration, up to 1 minute.
 
 For the duration, the spell enlarges or reduces a creature or an object you can see within range (see the chosen effect below). A targeted object must be neither worn nor carried. If the target is an unwilling creature, it can make a Constitution saving throw. On a successful save, the spell has no effect.
 

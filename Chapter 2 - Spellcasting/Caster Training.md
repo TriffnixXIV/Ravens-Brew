@@ -45,7 +45,11 @@ You can pick this feature multiple times, but only for different damage types.
 
 **_Irresistible Element_**: Choose one of the following damage types: Acid, Cold, Fire, Lightning, or Thunder. Spells you cast ignore Resistance to damage of the chosen type. You can pick this feature multiple times, but only for different damage types.
 
-**_Keen Gestures_**: You gain a bonus to your Spell checks equal to your Dexterity modifier (at least 1) for spells that require somatic components.
+**_Keen Gestures_**: When you cast a spell that requires somatic components and each of your hands is either free or holds nothing except a Spellcasting Focus or the spells material components, you gain a bonus to your Spell check equal to your Dexterity modifier (at least 1).
+
+**_Letting Go_**: You gain the following benefits:
+- You roll Spell checks for spells that consume a material component with a specified cost with Advantage.
+- After rolling a Spell check for a spell that requires but doesn't consume a material component with a specified cost, you can make the spell consume the material component to reroll the Spell check with Advantage.
 
 **_Opportunistic Caster_**: You can cast an Opportunity Spell when a creature that you can see leaves your touch range using its action, its Bonus Action, its Reaction, or one of its speeds. To cast the Opportunity Spell, take a Reaction to cast a spell with a casting time of one action that targets only the provoking creature. The spellcast occurs right before the creature leaves your touch range.
 
@@ -119,6 +123,8 @@ For example, if you apply this feature to Cure Wounds with a Proficiency Bonus o
 
 **_Hyperfocus_**: When you cast a spell while using two Spellcasting Foci that are associated with its school, you roll the Spell check with Advantage.
 
-**_Improvised Focus_**: Choose one kind of object (such as rocks, chairs or torches) and two spell schools. Every object of that kind is now a Spellcasting Focus for you, associated with the chosen spell schools. You can pick this feature multiple times, but not with the same combination of object kind and spell schools.
+**_Improvised Focus_**: As an action, you can touch any object that isn't a Spellcasting Focus for you to turn it into a Spellcasting Focus for you. When you use this Spellcasting Focus, it is now associated with one spell school of your choice. This association remains until you use this action again.
+
+**_Pouchcasting_**: When you use a Component Pouch to provide material components for a spell, the Component Pouch is a Spellcasting Focus associated with the school of the spell.
 
 **_Universal Focus_**: Choose a kind of Spellcasting Focus (such as Wands or Staffs) that you have the _Flexible Focus_ feature with. When you use this Spellcasting Focus, it is now associated with all spell schools. You can pick this feature multiple times, but only for different kinds of Spellcasting Focus.

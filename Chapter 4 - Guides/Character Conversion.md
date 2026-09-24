@@ -16,7 +16,7 @@ Check the [[Feats|General Feats]] you have and whether they've been converted in
 
 **_[[Weapons]]_**: Check the weapons you own. Remove the Proficiency Bonus from your attack rolls, as weapons now work through Training. You can get the Proficiency Bonus back later through Martial Training.
 
-Note your [[Parrying]] Bonus and Parrying Power for each weapon. The Parrying Bonus is equal to the ability modifier used for attacks, the Parrying Power is equal to the maximum damage you deal with a regular attack.
+Note your [[Parrying]] Bonus and Parrying Power for each weapon. The Parrying Bonus is equal to the ability modifier used for attacks, the Parrying Power is equal to the maximum damage you deal with a regular hit.
 
 **_[[Shields]]_**: If you have a shield, note a [[Blocking]] Modifier of +4 for it.
 
@@ -34,9 +34,9 @@ If you are a spellcaster, also follow these steps. Note your total spellcaster l
 #### Spells
 Go through your spells. Do the following for each:
 
-**_[[Spell Check|Spell checks]]_**: Note the bonus you have on the Spell check you now roll when casting it. The bonus is equal to the relevant spellcasting ability modifier, and if you have a Spellcasting Focus that is associated with the school of the spell, you add your Proficiency Bonus as well.
+**_[[Spell Check|Spell checks]]_**: Note the bonus you have on the Spell check you now roll when casting it. The bonus is equal to the relevant spellcasting ability modifier.
 
-**_DC modifier_**: If the spell requires a saving throw, note a DC modifier of minus 2 if it targets one creature, and minus 4 if it targets multiple. This is the number you modify the Spell check by to find out the DC that the targets have to roll their saving throws against.
+**_[[Spellcasting Focus]]_**: Note whether you have a Spellcasting Focus that is associated with the school of the spell. If you do not use one such Spellcasting Focus to cast the spell, you roll the Spell checks with Disadvantage.
 
 **_Spell Point Cost_**: Note how many Spell Points it costs. The Spell Point cost is equal to three times the spells level.
 

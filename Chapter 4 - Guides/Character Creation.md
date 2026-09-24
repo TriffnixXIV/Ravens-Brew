@@ -14,7 +14,7 @@ Choose your class as usual, but adapt the following details:
 
 **_Spellcasting Changes_**: [[Spellcasting]] has been fundamentally changed, so you no longer track spell slots, but how many [[Spell Points]] you have at your disposal and your [[Spell Limits]]. At level 1, you have 6 Spell Points and Spell Limits of 3.
 
-**_Spell Changes_**: When choosing spells, note their spell school and their Spell Point cost. The Spell Point cost is equal to three times a spells level. The spell school is important to determine to which [[Spell Check|Spell checks]] you add your Proficiency Bonus, depending on the [[Spellcasting Focus]] you use. Consider which spell schools you want to emphasize and choose your Spellcasting Focus accordingly.
+**_Spell Changes_**: When choosing spells, note their spell school and their Spell Point cost. The Spell Point cost is equal to three times a spells level. The spell school is important to determine to which [[Spell Check|Spell checks]] you roll without Disadvantage, depending on the [[Spellcasting Focus]] you use. Consider which spell schools you want to emphasize and choose your Spellcasting Focus accordingly.
 
 **_Caster Training_**: If you play a spellcaster, you might receive additional [[Caster Training]]. Check the section on your [[Classes|class]] to find out how many features you receive.
 
@@ -26,7 +26,7 @@ Choose your Species, Origin and languages as usual, but adapt the following deta
 ### Equipment
 Choose your Equipment as usual, but adapt the following details:
 
-**_Parrying_**: Note your [[Parrying]] Bonus and Parrying Power for each weapon. The Parrying Bonus is equal to the ability modifier used for attacks, the Parrying Power is equal to the maximum damage you deal with a regular attack.
+**_Parrying_**: Note your [[Parrying]] Bonus and Parrying Power for each weapon. The Parrying Bonus is equal to the ability modifier used for attacks, the Parrying Power is equal to the maximum damage you deal with a regular hit.
 
 **_New Equipment_**: Take note of the new options for [[Shields]] and the possibility of buying [[Armour#Armour Pieces|Armour Pieces]] instead of full sets of armour.
 
@@ -34,7 +34,7 @@ Choose your Equipment as usual, but adapt the following details:
 
 **_Blocking_**: Note your [[Blocking]] Bonus for the shield you use.
 
-**_Spellcasting Focus_**: Your [[Spellcasting Focus]] determines to which Spell checks you add your Proficiency Bonus, as noted above and described there.
+**_Spellcasting Focus_**: Your [[Spellcasting Focus]] determines to which Spell checks you roll without Disadvantage, as noted above and described there.
 ### Other Steps
 **_Unchanged_**: Determine your ability scores, choose your alignment, and fill in the details as usual.
 

@@ -8,7 +8,7 @@ Thirdly, the 2024 rules saw the introduction of weapon mastery properties. These
 ### Core Rules
 **_Training Features_**: During [[Character Creation]], you choose a number of Training features equal to your Proficiency Bonus. Whenever your Proficiency Bonus increases later, you can choose an additional Training feature. These features can be either Martial Training features, as can be found here, or [[Caster Training]] features.
 
-**_Martial Training_**: When you receive Martial Training, choose one of the features listed below that you qualify for. Martial Training features are divided into the following sections to make them easier to browse: [[#Weapon Training]], [[#Weapon Features]], [[#Unarmed Strike Features]], [[#Aimed Strike Features]], [[#Reaction Features]], [[#Dodging Features]], [[#Shield & Blocking Features]], [[#Parrying Features]], [[#Armour Features]] and [[#Other Features]].
+**_Martial Training_**: When you receive Martial Training, choose one of the features listed below that you qualify for. Martial Training features are divided into the following sections to make them easier to browse: [[#Weapon Training]], [[#Weapon Features]], [[#Unarmed Strike Features]], [[#Aimed Strike Features]], [[#Reaction Features]], [[#Dodging Features]], [[#Shield & Blocking Features]], [[#Parrying Features]], and [[#Armour Features]].
 
 **_Fighting Styles and Weapon Mastery Properties_**: Fighting Style feats and Weapon Mastery Properties have been converted into Martial Training features, and features that give access to either have been removed or replaced by features giving additional Martial Training, as described in the section on [[Classes|classes]] and [[Character Creation|character creation]].
 

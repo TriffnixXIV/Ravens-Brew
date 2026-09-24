@@ -10,6 +10,6 @@ When trying to parry a critical hit, you roll with Disadvantage.
 
 When rolling a natural 20 on your Parrying Check, the Parrying Power is doubled.
 
-**_Parrying Power_**: A weapons Parrying Power is equal to the maximum damage it can deal on a normal hit. This includes all temporary damage bonuses as well.
+**_Parrying Power_**: A weapons Parrying Power is equal to the maximum damage it deals on a regular hit. This includes all temporary damage bonuses as well.
 
-For example, a normal rapier deals damage equal to 1d8 + your Strength or Dexterity modifier, so its Parrying Power is equal to 8 + your Strength or Dexterity modifier. If it is also transmuted by the spell Elemental Weapon, which increases its damage by 1d4, its Parrying Power is further increased by 4.
+For example, a regular rapier deals damage equal to 1d8 + your Strength or Dexterity modifier, so its Parrying Power is equal to 8 + your Strength or Dexterity modifier. If it is also transmuted by the spell Elemental Weapon, which increases its damage by 1d4, its Parrying Power is further increased by 4.

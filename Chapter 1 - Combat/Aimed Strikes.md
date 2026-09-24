@@ -18,7 +18,7 @@ Some weakspots may not be apparent at first glance. In this case, a Study action
 
 **_Covering Body Parts_**: Similar to how a creature can receive cover, body parts can also become harder to hit when covered, as described in the chapter about [[AC-less Defence#Cover|AC-less Defence]].
 
-For example, when a Tiny shield is held accordingly, it can give total cover to a Diminutive body part, turn a Tiny body part into a Fine target, and a Small body part into a Diminutive target.
+For example, when a Tiny shield is held accordingly, it can give total cover to a Diminutive body part, turn a Tiny body part into a Fine target, and a Small body part into a Tiny target.
 
 **_Body part sizes for Medium Humanoids_**: The table below shows the rough sizes of the body parts of a Medium Humanoid. This table is not definitive, as the size of a body part can vary from person to person and effectively also depends on the angle it is viewed at. A buff humans arms may be easier to hit than those of a lanky one, and a torso viewed from the side is effectively smaller than one viewed from the front.
 

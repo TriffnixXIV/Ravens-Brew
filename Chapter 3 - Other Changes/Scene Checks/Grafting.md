@@ -22,7 +22,7 @@ _Rolling a 1_: When a 1 is rolled on the d20, the Grafting check automatically f
 - The graftee can't be their own grafter or assist on the graft.
 - The graftee wakes up 1d4 hours after the graft is completed.
 
-**_Assisting a Grafting_**: Creatures that are proficient with Surgery Tools or with one of the associated skills may take the Help Action on all of their turns during the Graft to give Advantage on the Grafting checks.
+**_Assisting a Grafting_**: Creatures that are trained with Surgery Tools or with one of the associated skills may take the Help Action on all of their turns during the Graft to give Advantage on the Grafting checks.
 
 **_Interrupting a Grafting_**: When a Grafting is interrupted, the graftee and the body part remain fully unaffected and the Grafting must be started anew. When a Grafting is interrupted after the first two successes, the graftee is [[Conditions#Wounded|wounded]] on the body part where the Grafting takes place.
 

@@ -36,11 +36,13 @@ Training
 - changed _Gambler_ to be a bit more limited in application.
 - changed _Jack Up_ to ramp up faster.
 - added _Keen Gestures_ to improve some Spell checks through the Dexterity modifier.
+- added _Letting Go_ to interact with costly material components.
 - added _Twofold Touch_ to improve melee spell attacks.
 - added _Wounding Effect_ to intersect some save spells with wounds.
 - changed _Defiance_ to also make Overcast Damage respect Resistance and Immunity again.
 - renamed _Double Up_ to _Hyperfocus_ and removed the option to add the Proficiency Bonus to Spell checks twice.
-- added _Improvised Focus_.
+- added _Improvised Focus_ to make random stuff magic.
+- added _Pouchcasting_ to interact with Component Pouches.
 
 [[Spells]]
 - aligned _Enlarge / Reduce_ with the new size rules.

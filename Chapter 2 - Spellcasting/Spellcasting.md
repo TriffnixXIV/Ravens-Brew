@@ -14,7 +14,7 @@ Additionally, Spellcasting has been supplemented with [[Caster Training]] to off
 
 Some [[Spells]] have seen changes to fit with [[AC-less Defence]], and some spells have been changed to interact with [[Conditions#Wounded|Wounds]], as caused by [[Aimed Strikes]]. Similarly, the [[Rite of Regeneration]] has been added as a method of removing [[Conditions#Disabled|Disabilities]]. Some Spells have been changed to upcast better.
 
-**_Spellcaster Level_**: There are five traits that scale with Spellcaster level now. These include the number of [[Spell Points]] the caster has access to, their number of [[Caster Training]] features and Caster Proficiency Bonus (both are equal) as described below, and their [[Spell Limits]], as shown in the table below.
+**_Spellcaster Level_**: There are four traits that scale with Spellcaster level now. These include the number of [[Spell Points]] the caster has access to, their Caster Proficiency Bonus as described below, and their [[Spell Limits]], as shown in the table below.
 
 | Caster Level | Caster Proficiency | Spell Limits | Spell Points | +1/3 | +1/2 | +2/3 |
 | ------------ | ------------------ | ------------ | ------------ | ---- | ---- | ---- |

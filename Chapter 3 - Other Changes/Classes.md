@@ -4,7 +4,7 @@ Additionally, all classes receive a new feature on level 5 that revolves around 
 ### Barbarian
 **_Level 1 - Unarmoured Defence_**: While you aren't wearing any armour, you add your Constitution modifier (at least 1) to your [[AC-less Defence#Damage Reduction|Damage Reduction]]. You can use a Shield and still gain this benefit.
 
-**_Level 3 - Additional Martial Training (new)_**: You receive one additional [[Martial Training]] feature.
+**_Level 3 - Barbarian Training (new)_**: You receive one additional [[Martial Training]] feature.
 
 **_Level 5 - Brutal Surge (new)_**: Choose one of the following Surge Die features:
 - _Sudden Momentum_: When you spend Surge Dice to deal more damage with a Reckless Attack, you receive one Surge Die afterwards.
@@ -12,7 +12,7 @@ Additionally, all classes receive a new feature on level 5 that revolves around 
 ### Bard
 **_Updated Spellcasting Table_**: The Bard uses the [[Fullcaster Table]].
 
-**_Level 3 - Additional Caster Training (new)_**: You receive one additional [[Caster Training]] feature.
+**_Level 3 - Bard Training (new)_**: You receive one additional [[Caster Training]] feature.
 
 **_Level 5 - Bardic Surge (new)_**: Choose one of the following Surge Die features:
 - _Infectious Inspiration_: When you use your Bonus Action to give another creature Bardic Inspiration, you receive one Surge Die.
@@ -24,7 +24,7 @@ Additionally, all classes receive a new feature on level 5 that revolves around 
 ### Cleric
 **_Updated Spellcasting Table_**: The Cleric uses the [[Fullcaster Table]].
 
-**_Level 3 - Additional Caster Training (new)_**: You receive one additional [[Caster Training]] feature.
+**_Level 3 - Cleric Training (new)_**: You receive one additional [[Caster Training]] feature.
 
 **_Level 5 - Divine Surge (new)_**: Choose one of the following Surge Die features:
 - _Prayer_: You can use 3 Surge Dice to restore a use of your Channel Divinity.
@@ -32,13 +32,13 @@ Additionally, all classes receive a new feature on level 5 that revolves around 
 ### Druid
 **_Updated Spellcasting Table_**: The Druid uses the [[Fullcaster Table]].
 
-**_Level 3 - Additional Caster Training (new)_**: You receive one additional [[Caster Training]] feature.
+**_Level 3 - Druid Training (new)_**: You receive one additional [[Caster Training]] feature.
 
 **_Level 5 - Wild Surge (new)_**: Choose one of the following Surge Die features:
 - _Ferocity_: While in a Wild Shape form, you receive one Surge Die at the start of each of your turns during combat.
 - _Nature's Embrace_: You can use 3 Surge Dice instead of a Wild Shape charge.
 ### Fighter
-**_Level 1 - Additional Martial Training (new)_**: You receive two additional [[Martial Training]] features, and another one at Fighter level 3.
+**_Level 1 - Fighter Training (new)_**: You receive two additional [[Martial Training]] features, and another one at Fighter level 3.
 
 **_Level 5 - Tactical Surge (new)_**: Choose one of the following Surge Die features:
 - _All Out_: You can use 3 Surge Dice instead of an Action Surge charge.
@@ -116,7 +116,7 @@ Additionally, all classes receive a new feature on level 5 that revolves around 
 
 **_Level 2 - Metamagic - Quickened Spell_**: You can now use this feature even if you have already spent Spell Points this round, and you can spend more Spell Points afterwards.
 
-**_Level 3 - Additional Caster Training (new)_**: You receive one additional [[Caster Training]] feature.
+**_Level 3 - Sorcerer Training (new)_**: You receive one additional [[Caster Training]] feature.
 
 **_Level 5 - Sorcerous Restoration_**: When you finish a Short Rest, you can regain expended Sorcery Points, but no more than a number equal to your Sorcerer level. Once you use this feature, you can't do so again until you finish a Long Rest.
 
@@ -143,7 +143,7 @@ This may, for example, express your patrons limited willingness to offer their p
 - You cast the spell as if you've spent its original Spell Point cost on it.
 - When casting the spell outside of combat, a roll on the Spell checks d20 of 11 or lower automatically becomes a 12. You cannot increase the total by casting the spell again before it runs out.
 
-**_Level 3 - Additional Caster Training (new)_**: You receive one additional [[Caster Training]] feature.
+**_Level 3 - Warlock Training (new)_**: You receive one additional [[Caster Training]] feature.
 
 **_Level 5 - Eldritch Surge (new)_**: Choose one of the following Surge Die features:
 - _Incantation_: When you cast a spell through your Patronage, any Surge Dice you spend to modify related rolls are d12 instead of d6.
@@ -153,7 +153,7 @@ This may, for example, express your patrons limited willingness to offer their p
 
 **_Level 1 - Arcane Recovery_**: Once per Long Rest, when you finish a Short Rest, you can recover a number of Spell Points equal to your Wizard Preparation Limit.
 
-**_Level 1 - Additional Caster Training (new)_**: You receive one additional [[Caster Training]] feature, and another one at Wizard level 3.
+**_Level 1 - Wizard Training (new)_**: You receive one additional [[Caster Training]] feature, and another one at Wizard level 3.
 
 **_Level 5 - Arcane Surge (new)_**: Choose one of the following Surge Die features:
 - _Weavebond_: When casting a spell that costs at least 9 Spell Points, you can spend one Surge Die to draw upon remnant strands of the weave and reduce the Spell Point cost by the roll.
