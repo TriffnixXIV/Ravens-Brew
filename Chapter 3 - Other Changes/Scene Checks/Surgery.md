@@ -24,7 +24,7 @@ _Rolling a 1_: When a 1 is rolled on the d20, the Surgery check automatically fa
 - The target can't be their own surgeon or assist on the surgery.
 - The target wakes up 1d4 hours after the surgery is completed.
 
-**_Assisting a Surgery_**: Creatures that are trained with Surgery Tools or with one of the associated skills may take the Help Action on all of their turns during the Surgery to give Advantage on the Surgery checks.
+**_Assisting a Surgery_**: Creatures that are trained with Surgery Tools or proficient with one of the associated skills may take the Help Action on all of their turns during the Surgery to give Advantage on the Surgery checks.
 
 **_Interrupting a Surgery_**: When a Surgery is interrupted, the disability remains fully untreated.
 
