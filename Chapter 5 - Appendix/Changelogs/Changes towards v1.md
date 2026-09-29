@@ -1,3 +1,15 @@
+### v0.9.5
+General
+- added more crosslinks.
+- fixed some inconsistencies.
+
+[[Martial Training]]
+- made opportunity attacks a default feature again.
+- changed _Opportunist_ to _Ranged Opportunist_ and removed the melee option accordingly.
+- removed the _Opportunist_ prerequisite from relevant features.
+
+[[Magic Items]]
+- added two magical shields.
 ### v0.9.4
 Training
 - all Training features are now acquired in parallel to the Proficiency Bonus.

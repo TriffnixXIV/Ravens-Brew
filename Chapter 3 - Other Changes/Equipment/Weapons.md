@@ -8,4 +8,4 @@ For example, you no longer start with Proficiency with the weapons listed in you
 
 When you receive [[Martial Training]], you can choose the Accuracy feature to add your Proficiency Bonus to certain attack rolls again.
 
-**_Weapon Mastery Properties_**: Weapons no longer have Weapon Mastery Properties, as those have been turned into [[Martial Training]] features. When you previously gained access to a Weapon Mastery Property, you now receive Martial Training instead.
+**_Weapon Mastery Properties_**: Weapons no longer have Weapon Mastery Properties, as those have been turned into [[Martial Training]] features. When your class previously gave access to a Weapon Mastery Property, you may now receive additional Martial Training features instead, as described in the chapter on [[Classes|classes]].

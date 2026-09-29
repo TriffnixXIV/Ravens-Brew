@@ -1,6 +1,6 @@
 Parrying has long played a relevant role in combat fiction, and these rules explicate how it can be done in this game.
 
-**_Parrying_**: Parrying is a new skill that uses the ability that you use your weapon with.
+**_Parrying_**: Parrying is a new skill that uses the ability that you use your [[Weapons|weapon]] with.
 
 **_Prerequisites_**: To use the features below, you need to wield a melee weapon that you are trained with.
 

@@ -6,7 +6,7 @@ Additionally, all classes receive a new feature on level 5 that revolves around 
 
 **_Level 3 - Barbarian Training (new)_**: You receive one additional [[Martial Training]] feature.
 
-**_Level 5 - Brutal Surge (new)_**: Choose one of the following Surge Die features:
+**_Level 5 - Brutal Surge (new)_**: Choose one of the following [[Surge Dice|Surge Die]] features:
 - _Sudden Momentum_: When you spend Surge Dice to deal more damage with a Reckless Attack, you receive one Surge Die afterwards.
 - _Ferocity_: While your Rage is active, you receive one Surge Die at the start of each of your turns.
 ### Bard
@@ -26,7 +26,7 @@ Additionally, all classes receive a new feature on level 5 that revolves around 
 
 **_Level 3 - Cleric Training (new)_**: You receive one additional [[Caster Training]] feature.
 
-**_Level 5 - Divine Surge (new)_**: Choose one of the following Surge Die features:
+**_Level 5 - Divine Surge (new)_**: Choose one of the following [[Surge Dice|Surge Die]] features:
 - _Prayer_: You can use 3 Surge Dice to restore a use of your Channel Divinity.
 - _Sacred Routine_: When you use your Channel Divinity, you gain 3 Surge Dice.
 ### Druid
@@ -34,13 +34,13 @@ Additionally, all classes receive a new feature on level 5 that revolves around 
 
 **_Level 3 - Druid Training (new)_**: You receive one additional [[Caster Training]] feature.
 
-**_Level 5 - Wild Surge (new)_**: Choose one of the following Surge Die features:
+**_Level 5 - Wild Surge (new)_**: Choose one of the following [[Surge Dice|Surge Die]] features:
 - _Ferocity_: While in a Wild Shape form, you receive one Surge Die at the start of each of your turns during combat.
 - _Nature's Embrace_: You can use 3 Surge Dice instead of a Wild Shape charge.
 ### Fighter
 **_Level 1 - Fighter Training (new)_**: You receive two additional [[Martial Training]] features, and another one at Fighter level 3.
 
-**_Level 5 - Tactical Surge (new)_**: Choose one of the following Surge Die features:
+**_Level 5 - Tactical Surge (new)_**: Choose one of the following [[Surge Dice|Surge Die]] features:
 - _All Out_: You can use 3 Surge Dice instead of an Action Surge charge.
 - _Recenter_: You can use 2 Surge Dice instead of a Second Wind charge.
 
@@ -68,15 +68,15 @@ Additionally, all classes receive a new feature on level 5 that revolves around 
 
 **_Level 3 - Deflect Attacks_**: May be used as part of the [[AC-less Defence#Other changes|Defence Action]].
 
-**_Level 5 - Monk's Surge (new)_**: Choose one of the following Surge Die features:
-- _Serenity_: When spending one or more Focus Points, you can instead spend the same amount of [[Surge Dice]]. You can also replace a part of the Focus Point cost with the same amount of [[Surge Dice]].
+**_Level 5 - Monk's Surge (new)_**: Choose one of the following [[Surge Dice|Surge Die]] features:
+- _Serenity_: When spending one or more Focus Points, you can instead spend the same amount of Surge Dice. You can also replace a part of the Focus Point cost with the same amount of Surge Dice.
 - _Unarmoured Offence_: While you aren't wearing armour or wielding a Shield, you gain one additional Surge Die at the start of each of your turns.
 ### Paladin
 **_Updated Spellcasting Table_**: The Paladin uses the [[Halfcaster Table]].
 
 **_Level 2 - Fighting Style_**: You receive [[Martial Training]] or the _Blessed Warrior_ feature instead.
 
-**_Level 5 - Divine Surge (new)_**: Choose one of the following Surge Die features:
+**_Level 5 - Divine Surge (new)_**: Choose one of the following [[Surge Dice|Surge Die]] features:
 - _Prayer_: You can use 3 Surge Dice to restore a use of your Channel Divinity.
 - _Sacred Protection_: You can spend Surge Dice to add the roll to one of your saving throws.
 #### Oath of Glory
@@ -86,7 +86,7 @@ Additionally, all classes receive a new feature on level 5 that revolves around 
 
 **_Level 2 - Fighting Style_**: You receive [[Martial Training]] or the _Druidic Warrior_ feature instead.
 
-**_Level 5 - Ranger's Surge (new)_**: Choose one of the following Surge Die features:
+**_Level 5 - Ranger's Surge (new)_**: Choose one of the following [[Surge Dice|Surge Die]] features:
 - _Takedown_: While you are concentrating on your _Hunter's Mark_, your Surge Dice are d8 instead of d6.
 - _Hunter's Routine_: When marking a creature with your _Hunter's Mark_, you gain two Surge Dice.
 #### Beast Master
@@ -100,11 +100,11 @@ Additionally, all classes receive a new feature on level 5 that revolves around 
 
 **_Level 5 - Uncanny Dodge_**: When your [[Dodging]] checks fail, you only take half damage instead of full damage. If you fail a Dodge & Roll or all spots within 10 feet of you are occupied when making a Dodge & Roll, you do not fall Prone.
 
-**_Level 5 - Rogue's Surge (new)_**: Choose one of the following Surge Die features:
+**_Level 5 - Rogue's Surge (new)_**: Choose one of the following [[Surge Dice|Surge Die]] features:
 - _Lethal Strike_: When using Surge Dice to increase the damage of a Sneak Attack, the Surge Dice are d12 instead of d6.
 - _Preparation_: When using Steady Aim or taking the Cunning Action to Disengage or Hide, you gain one Surge Die.
-
-**_Arcane Trickster - Updated Spellcasting Table_**: The Arcane Trickster uses the [[Thirdcaster Table]].
+#### Arcane Trickster
+**_Updated Spellcasting Table_**: The Arcane Trickster uses the [[Thirdcaster Table]].
 ### Sorcerer
 **_Updated Spellcasting Table_**: The Sorcerer uses the [[Fullcaster Table]].
 
@@ -120,7 +120,7 @@ Additionally, all classes receive a new feature on level 5 that revolves around 
 
 **_Level 5 - Sorcerous Restoration_**: When you finish a Short Rest, you can regain expended Sorcery Points, but no more than a number equal to your Sorcerer level. Once you use this feature, you can't do so again until you finish a Long Rest.
 
-**_Level 5 - Sorcerous Surge (new)_**: Choose one of the following Surge Die features:
+**_Level 5 - Sorcerous Surge (new)_**: Choose one of the following [[Surge Dice|Surge Die]] features:
 - _Heightened Presence_: While your Innate Sorcery feature is active, your Surge Dice are d8 instead of d6.
 - _Anticipated Flow_: You can spend Surge Dice to add the roll to all of your Overcast Saves until the start of your next turn.
 #### Draconic Sorcery
@@ -145,7 +145,7 @@ This may, for example, express your patrons limited willingness to offer their p
 
 **_Level 3 - Warlock Training (new)_**: You receive one additional [[Caster Training]] feature.
 
-**_Level 5 - Eldritch Surge (new)_**: Choose one of the following Surge Die features:
+**_Level 5 - Eldritch Surge (new)_**: Choose one of the following [[Surge Dice|Surge Die]] features:
 - _Incantation_: When you cast a spell through your Patronage, any Surge Dice you spend to modify related rolls are d12 instead of d6.
 - _Patron's Blessing_: When you have no Patronage left, your Patron bestows one Surge Die upon you at the start of each of your turns.
 ### Wizard
@@ -155,7 +155,7 @@ This may, for example, express your patrons limited willingness to offer their p
 
 **_Level 1 - Wizard Training (new)_**: You receive one additional [[Caster Training]] feature, and another one at Wizard level 3.
 
-**_Level 5 - Arcane Surge (new)_**: Choose one of the following Surge Die features:
+**_Level 5 - Arcane Surge (new)_**: Choose one of the following [[Surge Dice|Surge Die]] features:
 - _Weavebond_: When casting a spell that costs at least 9 Spell Points, you can spend one Surge Die to draw upon remnant strands of the weave and reduce the Spell Point cost by the roll.
 - _Attention_: You can spend Surge Dice to add the roll to your Concentration checks.
 #### Abjurer

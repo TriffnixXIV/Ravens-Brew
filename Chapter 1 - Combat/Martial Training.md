@@ -15,8 +15,6 @@ Thirdly, the 2024 rules saw the introduction of weapon mastery properties. These
 **_Feats_**: The benefits of a selection of general feats are now Martial Training features. There's now a new general [[Feats|feat]] that allows the player to receive Martial Training twice.
 
 **_Weapon Training_**: [[Weapons]] work through Training now instead of Proficiency. To add your Proficiency Bonus to certain attack rolls again, you can take the _Accuracy_ feature.
-
-**_Opportunity Attacks_**: You now need the _Opportunist_ feature to be able to make Opportunity Attacks.
 ### Weapon Training Features
 **_Simple Melee Weapon Training_**: You gain Training with Simple Melee weapons.
 
@@ -58,9 +56,9 @@ You can pick this feature multiple times, but only for different damage types.
 
 **_Great Weapon Fighting_**: When you roll damage for an attack you make with a Melee weapon that you are holding with two hands, you can treat any 1 or 2 on a damage die as a 3. The weapon must have the Two-Handed or Versatile property to gain this benefit.
 
-**_Guardian_**: Requires _Opportunist - Melee_. Immediately after a creature within 5 feet of you takes the Disengage action or hits a target other than you with an attack, you can make a melee Opportunity Attack against that creature.
+**_Guardian_**: Immediately after a creature within 5 feet of you takes the Disengage action or hits a target other than you with an attack, you can make a melee Opportunity Attack against that creature.
 
-**_Halt_**: Requires _Opportunist_. When you hit a creature with an Opportunity Attack, the creature's Speed becomes 0 for the rest of the current turn.
+**_Halt_**: When you hit a creature with an Opportunity Attack, the creature's Speed becomes 0 for the rest of the current turn.
 
 **_Heavy Weapon Master_**: When you hit with a weapon that has the Heavy property, you deal additional damage equal to your Strength modifier (at least 1).
 
@@ -71,11 +69,6 @@ You can pick this feature multiple times, but only for different damage types.
 **_Long Shots_**: Attacking at long range doesn't impose Disadvantage on your attack rolls with Ranged weapons.
 
 **_Nick_**: When you make the extra attack of the Light property, you can make it as part of the Attack action instead of as a Bonus Action. You can make this extra attack only once per turn.
-
-**_Opportunist_**: Pick one option:
-- _Melee_: You can make Opportunity Attacks as described in the 2024 PHB Rules Glossary.
-- _Ranged_: You can make a Ranged Opportunity Attack when a creature that you can see moves 15ft. in a straight line towards you or away from you. The creature has to be within your ranged or thrown weapons normal range for that movement and has to use its action, Bonus Action, Reaction, or one of its speeds. To make the Opportunity Attack, take a Reaction to make one ranged weapon attack with your ranged or thrown weapon against the provoking creature.
-You can pick this feature again to pick the other option.
 
 **_Overpower_**: When you hit a target that is smaller than you with an attack that deals Bludgeoning damage, you deal additional damage equal to your Proficiency Bonus.
 
@@ -88,6 +81,8 @@ You can pick this feature again to pick the other option.
 **_Puncture_**: When you hit a creature with a weapon attack that deals Piercing damage, you add one of the dice to the dice pool an additional time and ignore the lowest die result.
 
 **_Push_**: When you hit with an attack using a weapon without the Light property that deals Bludgeoning damage, you can push the target up to 10 feet straight away from you to an unoccupied space if it is no more than one size larger than you.
+
+**_Ranged Opportunist_**: You can make a Ranged Opportunity Attack when a creature that you can see moves 15ft. in a straight line towards you or away from you. The creature has to be within your ranged or thrown weapons normal range for the entirety of that movement and has to use its action, Bonus Action, Reaction, or one of its speeds. To make the Opportunity Attack, take a Reaction to make one ranged weapon attack with your ranged or thrown weapon against the provoking creature.
 
 **_Sap_**: When you hit a creature with a melee attack using a weapon without the Heavy property that deals Bludgeoning or Piercing damage, that creature has Disadvantage on its next attack roll before the start of your next turn.
 

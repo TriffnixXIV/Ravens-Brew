@@ -23,14 +23,14 @@ Some magical effects can be found combined with other effects. For example, +1 w
 When a magical item has one of the following prefixes, this prefix is put in front of the usual name of the item and the effect is added to the item accordingly. For example, an Arrow of Slaying with the _Silent_ prefix thus becomes the Silent Arrow of Slaying, combining the effects.
 
 Consider replacing usual +X weapons and ammunition with weapons or ammunition with added prefixes to increase magical item variety and support specialization across characters. Also, feel free to create more prefixes.
-#### Infused ...
-_Uncommon Weapon_
-
-This weapon deals an additional 1d4 damage of a given type with attacks made with it.
 #### Guiding ...
 _Uncommon Weapon_
 
 This weapon grants an additional +2 to attack rolls made with it.
+#### Infused ...
+_Uncommon Weapon_
+
+This weapon deals an additional 1d4 damage of a given type with attacks made with it.
 #### Silent ...
 _Uncommon Melee Weapon or Piece of Ammunition_
 
@@ -39,11 +39,21 @@ Attacks made with this weapon or piece of ammunition can't be perceived through 
 _Rare Melee Weapon or Piece of Ammunitition_
 
 When this weapon or piece of ammunition is used as part of an Aimed Strike and deals damage, the Wound Save DC equals the whole damage or 15, whichever is higher, instead.
+### Shields
+Given the changes to [[Shields]] in this ruleset, they are in dire need of new magical variants. For example, the classic +X Shields no longer work as usual. Consider replacing +X Shields with their new variant described below.
+#### Shield, +2, +4 or +6
+_Uncommon (+2), Rare (+4) or Very Rare (+6) Shield (any)_
+
+While holding this Shield you have an additional bonus to Blocking checks as determined by this Shield's rarity.
+#### Sturdy Buckler
+_Uncommon (+2), Rare (+5) or Very Rare (+10) Buckler_
+
+When successfully blocking an attack with this Buckler, the damage of the attack is reduced by an additional amount as determined by this Buckler's rarity.
 ### Other Magic Items
 #### Bongo of Mist
 _Rare Bardic Focus (Drum)_
 
-When you play this bongo, a thin silvery mist surrounds you. Additionally, this bongo has five charges, which you can spend on the following by playing it:
+When you play this bongo, a thin silvery mist surrounds you. Additionally, this bongo has five charges, which you can spend on the following by playing it as a Bonus Action:
 - For two charges, you can cast _Misty Step_.
 - For one charge, you can spend any number of Surge Dice to teleport a number of feet equal to five times the result.
 
