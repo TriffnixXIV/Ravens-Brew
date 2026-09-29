@@ -2,9 +2,9 @@
 
 **_Blocking_**: Blocking is a new skill that uses Strength or Dexterity, depending on the Shield, modified by the Blocking Modifier of the wielded Shield.
 
-**_Blocking Modifier_**: A usual shield has a Blocking Modifier of +4, with other variants being described in the chapter on [[Shields]]. To use the Blocking Modifier of a Shield, you have to have Training with Shields.
+**_Blocking Modifier_**: A usual Shield has a Blocking Modifier of +4, with other variants being described in the chapter on [[Shields]]. To use the Blocking Modifier of a Shield, you have to have Training with Shields.
 
-**_Prerequisites_**: To use the block Reaction described below, you need to be trained with Shields and wield a Shield.
+**_Prerequisites_**: To use the Block Reaction described below, you need to be trained with Shields and wield a Shield.
 
 **_Block_**: You can use a Reaction to try to block an attack that you can see and that targets you.
 

@@ -2,7 +2,7 @@ Parrying has long played a relevant role in combat fiction, and these rules expl
 
 **_Parrying_**: Parrying is a new skill that uses the ability that you use your [[Weapons|weapon]] with.
 
-**_Prerequisites_**: To use the features below, you need to wield a melee weapon that you are trained with.
+**_Prerequisites_**: To use the Parry Reaction described below, you need to wield a melee weapon that you are trained with.
 
 **_Parry_**: You can use your Reaction to try to parry a melee attack that you can see and that targets you. Make a Parrying check contesting the attack roll. If the result is at least as high as the attack roll, you successfully parry, reducing the attacks damage by your weapons Parrying Power.
 
