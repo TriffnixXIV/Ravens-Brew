@@ -107,9 +107,9 @@ For example, if you apply this feature to Cure Wounds with a Proficiency Bonus o
 
 **_Money Shot_**: When you spend your Spell Points to cast a spell and have no Spell Points left afterwards, the roll on the d20 of the Spell check is automatically a 20. You can use this feature a number of times equal to your Caster Proficiency Bonus per Long Rest.
 
-**_Recast_**: When casting a spell that you've already cast last round, the casting cost is halved.
+**_Recast_**: When you cast a spell that you've already cast last round, the casting cost is halved.
 
-**_Snowball_**: When casting a spell that you've already cast last round and the roll of the Spell check is lower than the previous one, the previous roll replaces it.
+**_Snowball_**: When you cast a spell that you've already cast last round and the result of your current Spell check is lower than the first Spell check result of the previous cast, the previous result replaces the current one.
 
 **_Trash Becomes Treasure_**: Choose a spell school. Your spells from that school with a Spell Point cost of 0 or less have their cost reduced by your Caster Proficiency Bonus. The rules for [[Spellcasting#Sunken Spells & Depthcasting|Sunken Spells & Depthcasting]] apply. You can pick this feature multiple times, but only for different spell schools.
 
