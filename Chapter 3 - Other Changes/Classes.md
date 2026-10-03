@@ -7,8 +7,9 @@ Additionally, all classes receive a new feature on level 5 that revolves around 
 **_Level 3 - Barbarian Training (new)_**: You receive one additional [[Martial Training]] feature.
 
 **_Level 5 - Brutal Surge (new)_**: Choose one of the following [[Surge Dice|Surge Die]] features:
-- _Sudden Momentum_: When you spend Surge Dice to deal more damage with a Reckless Attack, you receive one Surge Die afterwards.
+- _Dying Struggle_: While you are Bloodied, your Surge Dice are d8 instead of d6.
 - _Ferocity_: While your Rage is active, you receive one Surge Die at the start of each of your turns.
+- _Sudden Momentum_: When you spend Surge Dice to deal more damage with a Reckless Attack, you receive one Surge Die afterwards.
 ### Bard
 **_Updated Spellcasting Table_**: The Bard uses the [[Fullcaster Table]].
 
@@ -42,6 +43,7 @@ Additionally, all classes receive a new feature on level 5 that revolves around 
 
 **_Level 5 - Tactical Surge (new)_**: Choose one of the following [[Surge Dice|Surge Die]] features:
 - _All Out_: You can use 3 Surge Dice instead of an Action Surge charge.
+- _Elation_: After dealing damage with a Critical Hit, you gain 3 Surge Dice.
 - _Recenter_: You can use 2 Surge Dice instead of a Second Wind charge.
 
 **_Level 9 - Tactical Master_**: When you attack with a weapon you are trained with, you can use one additional [[Martial Training]] feature on the attack that the weapon does not fulfill the requirements of.
