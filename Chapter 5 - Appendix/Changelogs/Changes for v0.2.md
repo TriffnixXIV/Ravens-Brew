@@ -10,7 +10,7 @@
 - Damage Reduction now only reduces non-spell damage.
 - cleaned up wording for Damage Reduction and Shields.
 #### [[Blocking]]
-- added a _Blocking Bonus_ to add to a blocking ability check equal to 8 + either Strength mod or Dexmod + Proficiency (if proficient with shields).
+- added a _Blocking Bonus_ to add to a blocking ability check equal to 8 + either Strength mod or Dexterity mod + Proficiency (if proficient with shields).
 - limited the uses of the _Defensive Stance_ & _Protective Stance_ to the Proficiency Bonus.
 #### [[Dodging]]
 - limited the uses of the _Evasive Stance_ to the Proficiency Bonus.
