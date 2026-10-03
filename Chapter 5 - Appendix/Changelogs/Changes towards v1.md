@@ -7,6 +7,8 @@
 - made opportunity attacks a default feature again.
 - changed _Opportunist_ to _Ranged Opportunist_ and removed the melee option accordingly.
 - removed the _Opportunist_ prerequisite from relevant features.
+#### [[Spell Check]]
+- added a paragraph about recasting spells without cost outside of combat.
 #### [[Spells]]
 - changed _Rewind_ to cost a bit more and to make some infinite combos impossible.
 #### [[Magic Items]]
