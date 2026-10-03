@@ -31,6 +31,10 @@ This weapon grants an additional +2 to attack rolls made with it.
 _Uncommon Weapon_
 
 This weapon deals an additional 1d4 damage of a given type with attacks made with it.
+#### Parrying ...
+_Uncommon Weapon_
+
+This weapon has an additional bonus to its Parrying Power of +10.
 #### Silent ...
 _Uncommon Melee Weapon or Piece of Ammunition_
 
@@ -44,11 +48,16 @@ Given the changes to [[Shields]] in this ruleset, they are in dire need of new m
 #### Shield, +2, +4 or +6
 _Uncommon (+2), Rare (+4) or Very Rare (+6) Shield (any)_
 
-While holding this Shield you have an additional bonus to Blocking checks as determined by this Shield's rarity.
+While holding this Shield you have an additional bonus to Blocking checks with it as determined by this Shield's rarity.
 #### Sturdy Buckler
 _Uncommon (+2), Rare (+5) or Very Rare (+10) Buckler_
 
 When successfully blocking an attack with this Buckler, the damage of the attack is reduced by an additional amount as determined by this Buckler's rarity.
+### Weapons
+#### Ritual Dagger
+_Rare Dagger (Requires Attunement)_
+
+When you cast a spell as a ritual and hold this Dagger during the casting time, you gain an additional bonus of +5 to that spells Spell check. 
 ### Other Magic Items
 #### Bongo of Mist
 _Rare Bardic Focus (Drum)_
