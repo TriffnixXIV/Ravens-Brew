@@ -1,104 +1,88 @@
+This version introduced [[Martial Training]], starting with [[#v0.8]].
 ### v0.8.3
-General
+#### General
 - added new chapter introductions.
 - renamed the Combat section to [[Actions#Grappling & Shoving|Grappling & Shoving]].
 - renamed the Magic chapter to [[Spellcasting]].
 - added [[Miscellaneous Notes]] to the Appendix.
 - moved changelogs into their own folder.
 - fixed some spelling mistakes and changed some wordings.
-
-[[Contests]]
+#### [[Contests]]
 - slightly reformulated [[Dodging]], [[Blocking]] and [[Parrying]] to mention in passing that they resemble contests.
 ### v0.8.2
-General
+#### General
 - rearranged the chapters to roughly align with the structure of the PHB.
-
-[[Introduction]]
+#### [[Introduction]]
 - merged the section on values into the introduction.
 - reworded the introduction accordingly.
 - merged the previous chapter introductions into a [[Content Overview]].
-
-[[Surge Dice]]
-- renamed Speed to Overtake, because it does not give movement speed, but it does make you overtake others in the Initiative order.
-- renamed Swiftness to Speed, because it gives movement speed.
-- changed Overtake to make it weaker in encounters with fewer creatures and to make it a bit more legible.
-
-[[Species]]
+#### [[Surge Dice]]
+- renamed _Speed_ to _Overtake_, because it does not give movement speed, but it does make you overtake others in the Initiative order.
+- renamed _Swiftness_ to _Speed_, because it gives movement speed.
+- changed _Overtake_ to make it weaker in encounters with fewer creatures and to make it a bit more legible.
+#### [[Species]]
 - renamed from Character Creation.
 - Small creatures now only get -1 to their Constitution score instead of -2 to their Strength score.
-
-[[Martial Training]]
-- changed Archery to depend on the Wisdom modifier.
-- changed Duelling to depend on the Dexterity modifier.
-- changed Heavy Weapon Master to depend on the Strength modifier.
-- changed Knowing the Spot to depend on the Intelligence modifier.
-- added Wounding Critical.
+#### [[Martial Training]]
+- changed _Archery_ to depend on the Wisdom modifier.
+- changed _Duelling_ to depend on the Dexterity modifier.
+- changed _Heavy Weapon Master_ to depend on the Strength modifier.
+- changed _Knowing the Spot_ to depend on the Intelligence modifier.
+- added _Wounding Critical_.
 - moved some Aimed Strike features to general features due to their lack of weapon dependence.
-- turned the [[Aimed Strikes]] option for Reliable Hits into a Martial Training feature.
+- turned the [[Aimed Strikes]] option for _Reliable Hits_ into a Martial Training feature.
 - some minor linking and wording changes.
-
-[[Shields]]
+#### [[Shields]]
 - the Buckler is now Diminutive.
 ### v0.8.1
-General
+#### General
 - Fixed some spelling mistakes.
-
-[[Rite of Regeneration]]
+#### [[Rite of Regeneration]]
 - gave more options to assist with the Rite.
 - clarified when the Rite is interrupted and what happens in that case.
 - added an example.
-
-[[Surgery]]
+#### [[Surgery]]
 - changed the primary attribute to Intelligence.
 - added two skills, Sleight of Hand and Medicine, to Surgery.
 - explicated that when Proficiency in both the tools and one of the associated skills are present, the surgeon rolls with Advantage, in line with existing tool rules.
 - explicated how to assist and interrupt Surgery.
 - clarified what happens when Surgery is interrupted.
-
-[[Species]]
+#### [[Species]]
 - added two drawbacks to being Small.
-
-[[Classes]]
+#### [[Classes]]
 - the Monks Patient Defence now references the Defence Action.
-
-[[Blocking]] & [[Parrying]]
-- added a short introductory paragraph.
-
-[[AC-less Defence]]
+#### [[Blocking]] & [[Parrying]]
+- added a short introductory paragraph each.
+#### [[AC-less Defence]]
 - made cover its own subsection.
 - added a paragraph about crouching behind cover.
 - moved the Defence Action here and reworked it to be more like before.
-
-[[Martial Training]]
+#### [[Martial Training]]
 - moved the paragraph about starting weapon Proficiencies and starting weapon Training into the subsection on weapon Training to remove some confusion.
-- reworded Accuracy to make it clear that it cannot stack with itself.
-- added Immaculate Aim, Knowing the Spot, Overpower, and My Body is a Weapon.
-- reworded Heavy Armour Master, so that it now mentions its Blocking Modifier and is further improved by Blocking Expertise.
-- reworded Free Hand Enhancement so that it is more concise and clear about only negating Disadvantage imposed through the Free Hand property.
-
-[[Action Economy]]
+- reworded _Accuracy_ to make it clear that it cannot stack with itself.
+- added _Immaculate Aim_, _Knowing the Spot_, _Overpower_, and _My Body is a Weapon_.
+- reworded _Heavy Armour Master_, so that it now mentions its Blocking Modifier and is further improved by Blocking Expertise.
+- reworded _Free Hand Enhancement_ so that it is more concise and clear about only negating Disadvantage imposed through the Free Hand property.
+#### [[Action Economy]]
 - moved the Defence Action to AC-less Defence.
 - removed the paragraph about Reaction timing, as it was functionally equivalent to the existing base rule.
 ### v0.8
-[[Introduction]] was rewritten.
-
-[[AC-less Defence]]
+#### General 
+- [[Introduction]] was rewritten.
+#### [[AC-less Defence]]
 - renamed Missing Threshold to Hit DC.
 - explicated that Damage Reduction applies before resistance and vulnerabilities.
 - added a passage explicating the relation between sizes and cover.
-
-[[Aimed Strikes]]
+#### [[Aimed Strikes]]
 - added a paragraph describing how Aimed Strikes interact with cover.
 - added [[Surgery]] and the [[Rite of Regeneration]] to get rid of body part disabilities.
 - moved Wounded and Disabled to a new chapter on [[Conditions]].
 - added a table offering example body part sizes for a Medium Humanoid.
-
-[[Armour]]
+#### [[Armour]]
 - added two new shields and rephrased how they work in terms of size. Moved them to the [[Shields]] chapter.
 - explicated that Damage Reduction from armour usually only works against attacks that aren't Aimed Strikes, unless the armour includes coverage of the targeted body part.
 - added some rudimentary rules for armour pieces to cover other body parts.
-
-[[Classes]]
+#### [[Classes]]
 - added some Bard subclass changes. The College of Dance Bard can now [[Dodging|dodge]] with Performance, and the College of Valor Bard can allows the use of a Bardic Inspiration die instead of a Reaction to react to an attack.
 - revisited Battle Master changes.
 - rephrased the Monks Dexterous Attacks to use Grapple and Shove contests again.
@@ -106,37 +90,30 @@ General
 - explicated how the Beast Masters beast AC is converted into Damage Reduction.
 - the Gloomstalker Rangers Shadowy Dodge now utilizes [[Dodging]].
 - removed the paragraph about the Hunters Uncanny Dodge, as the Hunter no longer has that feature.
-- the Hunters Multiattack Defence is now cheaper.
+- the Hunter's Multiattack Defence is now cheaper.
 - the Rogue no longer gains Advantage on [[Dodging]] checks.
 - explicated how the Draconic Sorcerers AC is converted into Damage Reduction.
-
-[[Blocking]]
+#### [[Blocking]]
 - moved acquisition of Blocking Proficiency and Expertise to [[Martial Training]].
-- updated wording to require shield Training instead of shield Proficiency, as the latter no longer exists as such.
-
-[[Actions#Grappling & Shoving|Grappling & Shoving]]
+- updated wording to require Shield Training instead of Shield Proficiency, as the latter no longer exists as such.
+#### [[Actions#Grappling & Shoving|Grappling & Shoving]]
 - updated the Grapple and Shove attacks to appropriately relate to Unarmed Strikes.
-
-[[Martial Training]]
+#### [[Martial Training]]
 - is new.
 - reworks how Proficiency and Training with weapons, shields and armour works.
 - moved Fighting Styles here.
 - moved combat-oriented Feats here.
 - moved weapon mastery properties here.
-
-[[Monsters]]
+#### [[Monsters]]
 - added some more guidance on how monsters are affected by the changes in these rules.
-
-[[Parrying]]
-- moved acquisition of parrying Proficiency and Expertise to [[Martial Training]].
-- updated wording to requite weapon Training instead of Proficiency.
-
-[[Action Economy]]
-- merged Evasive Stance, Defensive Stance, Protective Stance, and Parrying Stance into one singular Defence Action.
-- moved Prey on the Vulnerable to [[Martial Training]].
-- removed Trip, as it is already possible through an Opportunity Attack with an Unarmed Strike.
-
-[[Spells]]
-- added Shield of Faith changes.
-- made Cure Wounds and Inflict Wounds work with wounds.
-- Blur now no longer affects attackers that are blinded.
+#### [[Parrying]]
+- moved acquisition of Parrying Proficiency and Expertise to [[Martial Training]].
+- updated wording to require Weapon Training instead of Proficiency.
+#### [[Action Economy]]
+- merged _Evasive Stance_, _Defensive Stance_, _Protective Stance_, and _Parrying Stance_ into one singular _Defence Action_.
+- moved _Prey on the Vulnerable_ to [[Martial Training]].
+- removed _Trip_, as it is already possible through an Opportunity Attack with an Unarmed Strike.
+#### [[Spells]]
+- added _Shield of Faith_ changes.
+- made _Cure Wounds_ and _Inflict Wounds_ work with wounds.
+- _Blur_ now no longer affects attackers that are blinded.

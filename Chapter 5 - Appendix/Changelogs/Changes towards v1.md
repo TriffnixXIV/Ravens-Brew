@@ -1,23 +1,28 @@
 ### v0.9.5
-General
+#### General
 - added more crosslinks.
 - fixed some inconsistencies.
-
-[[Martial Training]]
+- reformatted and reworded the changelogs.
+#### [[Martial Training]]
 - made opportunity attacks a default feature again.
 - changed _Opportunist_ to _Ranged Opportunist_ and removed the melee option accordingly.
 - removed the _Opportunist_ prerequisite from relevant features.
-
-[[Magic Items]]
+#### [[Spells]]
+- changed _Rewind_ to cost a bit more and to make some infinite combos impossible.
+#### [[Magic Items]]
+- added the _Parrying_ prefix for weapons.
 - added two magical shields.
+- added the _Ritual Dagger_.
+#### [[Classes]]
+- added _Dying Struggle_ to the Barbarian's level 5 Surge Die feature pool.
+- added _Elation_ to the Fighter's level 5 Surge Die feature pool.
 ### v0.9.4
-Training
+#### Training
 - all Training features are now acquired in parallel to the Proficiency Bonus.
 - [[Classes]] may now give additional access to Training features depending on previous access.
 - Weapon Mastery Properties and Fighting Styles are no longer converted into Training features 1-to-1.
 - changed the guides on [[Character Creation]] and [[Character Conversion]] accordingly.
-
-[[Martial Training]]
+#### [[Martial Training]]
 - changed _C-C-Combo_ to be named _Combo_ and be less potent.
 - added _Dual Wielder_ to merge _Enhanced Dual Wielding_ and _Quick Draw_.
 - changed _Overpower_ to be more direct.
@@ -26,23 +31,19 @@ Training
 - moved _Happy Feet_ to Dodging features and made it also work with armour.
 - added _Second Skin_ to increase the Dexterity modifier limit of Medium and Heavy armour.
 - turned _Blind Fighting_ into _Spider Sense_ and changed it to be specifically against attacks.
-
-[[Spell Check]]
+#### [[Spell Check]]
 - Spell checks no longer have the Proficiency Bonus added through a Spellcasting Focus.
 - Spell checks are now rolled with Disadvantage when a spell is not used with a Spellcasting Focus associated with its school.
 - Spell checks now replace all spell attack rolls.
 - _Counterspell_ can now counter singular spell attacks, but can no longer counter a spell with multiple spell attacks entirely through one cast.
 - removed the Spell Save DC malus.
 - added examples.
-
-[[Overcasting]]
+#### [[Overcasting]]
 - made Overcast damage ignore Resistance and Immunity.
 - failing an Overcast save now gives less stacks of Weavestrain.
-
-[[Spellcasting Focus]]
+#### [[Spellcasting Focus]]
 - now work in parallel to Training instead of through Proficiency, similar to other Equipment.
-
-[[Caster Training]]
+#### [[Caster Training]]
 - added _Acuity_ to add the Caster Proficiency Bonus to some Spell checks.
 - changed _Arsenal of Tricks_, _Penetrating Element_ and _Ritualist_ to use the Caster Proficiency Bonus instead of the Proficiency Bonus.
 - changed _Gambler_ to be a bit more limited in application.
@@ -55,27 +56,22 @@ Training
 - renamed _Double Up_ to _Hyperfocus_ and removed the option to add the Proficiency Bonus to Spell checks twice.
 - added _Improvised Focus_ to make random stuff magic.
 - added _Pouchcasting_ to interact with Component Pouches.
-
-[[Spells]]
+#### [[Spells]]
 - aligned _Enlarge / Reduce_ with the new size rules.
-
-[[Armour]]
+#### [[Armour]]
 - now limits the Dexterity modifier for Dodging checks in parallel to the AC Dexterity modifier limit from the base rules.
 - armour pieces now extend this limit to other body parts as well, for Dexterity checks in general.
-
-[[Classes]]
+#### [[Classes]]
 - added more introductory text.
 - added level numbers to changed class features to ease referencing.
 - changed multiple Surge Die features and offered new options.
 - gave the Monk new features and options.
-
-[[Feats]]
+#### [[Feats]]
 - added _Training Master_ to give both Martial and Caster Training at once.
 ### v0.9.3
-[[Surge Dice]]
+#### [[Surge Dice]]
 - added _Utility_ to establish a use of Surge Dice for ability checks again.
-
-[[Martial Training]]
+#### [[Martial Training]]
 - rephrased a few parts and added a one-liner to the start of each feature section.
 - moved changes to weapons into its own chapter. Left a note to bring attention to those changes, as this chapter precedes that.
 - added a dedicated section for Unarmed Strike features, Aimed Strike features and Reaction features.
@@ -97,8 +93,7 @@ Training
 - removed _Medium Armour Master_.
 - reworked _Heavy Armour Master_ into _Armour Master_, which now works with all armour types, though still best with heavy armour.
 - Armour features are now sorted alphabetically.
-
-[[Caster Training]]
+#### [[Caster Training]]
 - changed _Arsenal of Tricks_ and _Ritualist_ to work similarly.
 - added a Force damage option to _Enhanced Critical_.
 - added _Savage Element_.
@@ -108,8 +103,7 @@ Training
 - changed _Reliable Casting_ to be restricted to one school and repeatable.
 - changed _Beyond Matter_ to no longer be restricted to one school.
 - changed _Double Up_ so you can choose between Advantage and doubled Proficiency Bonus.
-
-[[Classes]]
+#### [[Classes]]
 - renamed _Superiority_ to _Superior Surge_.
 - changed _Superior Surge_ to replace a charge instead of restoring it.
 - translated _Sorcerous Restoration_ to fit with the new rules.
@@ -117,131 +111,102 @@ Training
 - changed the inner workings of free eldritch invocation spells.
 - changed _Patron's Blessing_ to encourage spending Patronage early.
 - moved the Patronage Variant rule to [[Variant Rules]].
-
-[[Feats]]
+#### [[Feats]]
 - changed _Tavern Brawler_. Mechanically aligned parts of it with _Savage Attacker_.
 - turned _Grappler_ into [[Martial Training]] features.
-
-[[Objects]]
+#### [[Objects]]
 - added a table with the new Damage Reduction values.
 - now uses damaged and broken as parallels to wounded and disabled.
 - added a short paragraph on repairing objects.
-
-[[Magic Items]]
+#### [[Magic Items]]
 - added a bit of explanatory text.
 - added the Bongo of Mist.
-
-[[Tools]]
+#### [[Tools]]
 - reworded it to bring it in line with the new section on weapons and the base rules.
 - added a short paragraph on flexible DCs.
-
-[[Weapons]]
+#### [[Weapons]]
 - added a chapter to collect changes to weapons in one place.
 - changed the wording of the proficiency conversion to also apply to other features and thus also improvised weapons.
-
-[[Guides]]
+#### [[Guides]]
 - changed the fourth chapter to contain guides instead of being a chapter for DMs.
 - added a [[Character Conversion]] guide.
 - added a [[Character Creation]] guide.
 - the guide to [[Monsters]] is also here now.
-
-[[Appendix]]
+#### [[Appendix]]
 - changed the version order to be consistent.
 ### v0.9.2
-General
+#### General
 - All damage types are now capitalized.
 - Chapter introductions for [[Combat]], [[Spellcasting]] and [[Other Changes]] have been rewritten a bit.
-
-[[AC-less Defence]]
+#### [[AC-less Defence]]
 - Creatures now have an attack modifier based on their size to make hitting targets of their size easy, smaller targets appropriately difficult and larger targets appropriately easy.
-
-[[Surge Dice]]
+#### [[Surge Dice]]
 - Removed the option to increase ability checks with Surge Dice as a turn of preparation does not help with most of them, narratively speaking. This applies especially to Intelligence and Wisdom checks.
-
-[[Perception & Focus]]
+#### [[Perception & Focus]]
 - Merged Vision & Focus and Aspects of Stealth into this new chapter.
 - Added more mechanics for perception and tied them in with Stealth.
 - Now describes Vision, Hearing and Smell in similar terms.
 - Added a passage about optional additional spell components.
-
-[[Caster Training]]
+#### [[Caster Training]]
 - Changed _Cheapskate_ to allow choosing from your spells from the start, with no effect before reaching the required caster level.
 - Changed _Insistence_ to only give +1 for every 3 Spell Points spent.
 - Added _Jack Up_ to offer a synergy with high Spell check results.
 - Changed _Trash Becomes Treasure_ to require a choice of spell school. It is now also repeatable.
-
-[[Spellcasting Focus]]
+#### [[Spellcasting Focus]]
 - Turned the associated spell school table into a few lists.
-
-[[Classes]]
+#### [[Classes]]
 - Added a level 5 Surge Die feature each to the Bard, Cleric, Druid, Fighter, Paladin, Ranger, Sorcerer, Warlock and Wizard.
-
-[[Species]]
+#### [[Species]]
 - Small characters have seen a few changes.
-
-[[Variant Rules]]
+#### [[Variant Rules]]
 - Changed the formatting a bit.
 - Added a variant rule to make [[Variant Rules#Wider Cones|cones wider]].
-
-[[Monsters]]
+#### [[Monsters]]
 - Added more guidance on the different types of monsters.
 - Added more guidance on monsters with spellcasting.
 - Added a paragraph on unarmed parrying and blocking for monsters.
 ### v0.9.1
-General
+#### General
 - Restructured the entire thing again.
 - Added a chapter on [[Variant Rules|variant rules]].
 	- Added a Help Action variant that does not work through Advantage.
-
-[[Aimed Strikes]]
+#### [[Aimed Strikes]]
 - Added a passage about targeting organs.
-
-[[Classes]]
+#### [[Classes]]
 - Rephrased the Monks _Patient Defence_.
-
-[[Scene Checks]]
+#### [[Scene Checks]]
 - Introduced to encompass [[Surgery]] and the [[Rite of Regeneration]].
 - Added [[Domestication]] and [[Grafting]] as further examples.
-
-[[Spells]]
+#### [[Spells]]
 - Clarified that Weavestrike can't make a target lose more Spell Points than it has.
-
-[[Equipment]]
+#### [[Equipment]]
 - Committed to having equipment only correlate with Training and not with Proficiency or Expertise.
-
-[[Objects]]
+#### [[Objects]]
 - Added to give guidance on objects as targets.
 - Added a paragraph on disabling objects.
 - Introduced object parts similar to body parts.
-
-[[Tools]]
+#### [[Tools]]
 - Tools use Training instead of Proficiency now.
 	- Tool usage with dual Proficiency thus no longer gives Advantage.
 - Added Improvised Tools.
 - Said a few things about how using tools works.
-
-[[Magic Items]]
+#### [[Magic Items]]
 - Introduced new magical items interacting with the new rules.
-
-[[Shields]]
+#### [[Shields]]
 - [[Blocking]] checks with shields with the Light property can now only be rolled with Dexterity.
 - Blocking checks with shields with the Heavy property can now only be rolled with Strength.
-
-[[Spell Scrolls]]
+#### [[Spell Scrolls]]
 - Added universal scrolls that can be used by all characters.
 - Rephrased spell scrolls a bit to fit the Spell Point system.
-
-[[Caster Training]]
+#### [[Caster Training]]
 - Changed _Iron Will_ to give a bonus equal to your spellcasting ability modifier instead of Advantage.
 - Renamed _Expectation_ to _Hardened Conduits_. Changed it to give a bonus equal to your Constitution modifier instead of Advantage.
 - Changed _Hubris_ to explicitly reference copying from spell scrolls or other spellbooks.
 - Changed _Money Shot_ to be limited use per Long Rest.
-
-[[Martial Training]]
+#### [[Martial Training]]
 - Changed some Blocking and Parrying features to no longer mention requirements that were already checked in the sections on the reactions.
 - Changed _Elegant Parry_ to give a bonus equal to your Wisdom modifier instead of Advantage.
-
-[[Monsters]]
+#### [[Monsters]]
 - Added an introduction of the roughly three kinds of monsters.
 - Added a few paragraphs about body parts.
 - Restructured the section into multiple subsections.
