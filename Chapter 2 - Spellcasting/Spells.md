@@ -51,11 +51,13 @@ You decrease a spellcasters ability to cast powerful spells. One creature that y
 
 _Upcasting_: For every additional Spell Point spent, the Casting Limit reduction increases by 1.
 #### Rewind
-Transmutation (Sorcerer, Wizard). Cost: 3 Spell Points. Casting Time: Bonus Action. Range: Self. Components: V, S, M (an hourglass). Duration: Instantaneous.
+Transmutation (Sorcerer, Wizard). Cost: 4 Spell Points. Casting Time: Bonus Action. Range: Self. Components: V, S, M (an hourglass). Duration: Instantaneous.
 
 You seize the time you've left in the past to do something with it now. You can spend any number of Surge Dice to turn them back into actions. You can gain Bonus Actions or Reactions by spending one Surge Die each, and you can gain Actions by spending two Surge Dice each.
 
-_Upcasting_: You can invest more magical power to seize time you've never had. You can gain more Bonus Actions or Reactions by spending 3 additional Spell Points each, and you can gain more Actions by spending 6 additional Spell Points each.
+You can only cast this spell once per turn.
+
+_Upcasting_: You can invest more magical power to seize time you've never had. You can gain more Bonus Actions or Reactions by spending 4 additional Spell Points each, and you can gain more Actions by spending 8 additional Spell Points each.
 #### Thwart
 Abjuration (Bard, Sorcerer, Warlock, Wizard). Cost: 0 Spell Points. Casting Time: Reaction, which you take when you see a spell attack. Range: 30 feet. Components: V, S. Duration: Instantaneous.
 
