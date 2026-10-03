@@ -6,7 +6,7 @@ Secondly, through this system, another layer of difference is established that a
 ### Core Rules
 **_Training Features_**: During [[Character Creation]], you choose a number of Training features equal to your Proficiency Bonus. Whenever your Proficiency Bonus increases later, you can choose an additional Training feature. These features can be either Caster Training features, as can be found here, or [[Martial Training]] features.
 
-**_Caster Training_**: When you receive Caster Training, choose one of the features listed in the following sections that you qualify for. Caster Training features are divided into the following sections to make them easier to browse: [[#Spell Features]], [[#Spell Point Features]] and [[#Spellcasting Focus Features]].
+**_Caster Training_**: When you receive Caster Training, choose one of the features listed in the following sections that you qualify for. Caster Training features are divided into the following sections to make them easier to browse: [[#Spell Features]], [[#Spell Point & Overcasting Features]] and [[#Spellcasting Focus Features]].
 
 **_Feats_**: The benefits of a selection of general feats are now Caster Training features. There's now a new general [[Feats|feat]] that allows the player to receive Caster Training twice.
 ### Spell Features
