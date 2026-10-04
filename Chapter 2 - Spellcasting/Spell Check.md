@@ -4,11 +4,13 @@ When you cast a spell, you now always roll a Spell check that determines the for
 
 **_Spell Check Proficiency_**: If you have the _Acuity_ [[Caster Training#Spell Features|feature]], you can add your Caster Proficiency Bonus to some Spell checks, otherwise, they are rolled without adding any Proficiency Bonus.
 
-**_Replaces Spell Save DC_**: When you cast a spell that requires its targets to roll one or multiple saving throws, the DC of the saving throw is now equal to the Spell check instead.
+**_Replaces Spell Save DC_**: When you cast a spell that requires its targets to roll a saving throw, the DC of the saving throw is now equal to the Spell check instead.
+
+_Repeated Spell Saving Throws_: When your spell features a repeated saving throw, such as _Hold Person_, you roll another Spell check each time the saving throw is repeated, determining the DC anew as if it was an ongoing contest.
 
 **_Replaces Spell Attack Rolls_**: When you cast a spell that requires you to make one or more spell attack rolls, the initial Spell check replaces the first attack roll, and you roll an additional Spell check for each spell attack afterwards.
 
-_Spell Extra Attacks_: When a spell features multiple spell attacks, each rolled Spell check counts as a spell attack roll and as a spellcast that uses the same Verbal, Somatic and Material components as the spell itself. If the spell consumes a Material component, it does so only once when the spell ends.
+_Spell Extra Attacks_: When your spell features multiple spell attacks, each rolled Spell check counts as a spell attack roll and as a spellcast that uses the same Verbal, Somatic and Material components as the spell itself. If the spell consumes a Material component, it does so only once when the spell ends.
 
 **_Determines Forcefulness_**: When a caster tries to [[Spells#Counterspell|counterspell]] or [[Spells#Dispel Magic|dispel]] a spell you cast, their Spell check has to beat yours if your spell was more expensive.
 
@@ -16,9 +18,9 @@ _Counterspelling Spell Extra Attacks_: If a caster successfully counterspells a 
 
 **_Magic Items for Spellcasting_**: Where some magical items previously gave a +1 to spell attack rolls and/or a +1 to the Spell Save DC, they now give a +1 to Spell checks.
 
-**_Free Spells Outside Of Combat_**: When casting a spell outside of combat without spending Spell Points, a roll on the Spell checks d20 of 11 or lower automatically becomes a 12. You cannot increase the total by casting the spell again before it runs out.
+**_Free Spells Outside Of Combat_**: When casting a spell outside of combat without spending Spell Points, a roll on the Spell checks d20 of 11 or lower automatically becomes a 12. When you end the spell early and cast it outside of combat again, the same Spell check total applies.
 #### Example Spellcasts
-The great wizard Florb uses a Staff as a Spellcasting Focus to cast _Fireball_. For their Spell check, they roll a D20 Test without Disadvantage, because their Staff focuses Evocation spells such as Fireball, for a 13, and they add their Intelligence modifier of +4 for a total of 17. This 17 is now the DC of the Dexterity saving throw the targets have to succeed at.
+The great wizard Florb uses a Staff as a Spellcasting Focus to cast _Fireball_. For their Spell check, they roll a D20 Test without Disadvantage, because their Staff focuses Evocation spells such as Fireball. They roll a 13 and they add their Intelligence modifier of +4 for a total of 17. This 17 is now the DC of the Dexterity saving throw the targets have to succeed at.
 
 Next round, Florb casts _Fire Bolt_. They roll their Spell check, adding their Intelligence modifier as before, for a total of 14. Thus, they hit their target if it has a Hit DC of 14 or lower, and if the target wants to reactively defend against the attack, they have to beat this 14.
 

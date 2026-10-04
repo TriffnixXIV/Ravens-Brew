@@ -8,7 +8,8 @@
 - changed _Opportunist_ to _Ranged Opportunist_ and removed the melee option accordingly.
 - removed the _Opportunist_ prerequisite from relevant features.
 #### [[Spell Check]]
-- added a paragraph about recasting spells without cost outside of combat.
+- repeated spell saving throws now work similar to other ongoing contests, requiring the Spell check to be rolled again each time.
+- added a paragraph about recasting spells without cost outside of combat, similar to the Warlocks free Eldritch Invocation spells.
 #### [[Spells]]
 - changed _Rewind_ to cost a bit more and to make some infinite combos impossible.
 #### [[Magic Items]]

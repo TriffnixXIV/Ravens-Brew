@@ -143,7 +143,7 @@ This may, for example, express your patrons limited willingness to offer their p
 **_Level 1 - Free Eldritch Invocations_**: When an Eldritch Invocation Option allows you to cast a spell without expending a spell slot, the following rules apply:
 - You instead cast that spell without spending Spell Points through that Eldritch Invocation.
 - You cast the spell as if you've spent its original Spell Point cost on it.
-- When casting the spell outside of combat, a roll on the [[Spell Check|Spell checks]] d20 of 11 or lower automatically becomes a 12. You cannot increase the total by casting the spell again before it runs out.
+- When casting the spell outside of combat, a roll on the [[Spell Check|Spell checks]] d20 of 11 or lower automatically becomes a 12. When you end the spell early and cast it outside of combat again, the same Spell check total applies.
 
 **_Level 3 - Warlock Training (new)_**: You receive one additional [[Caster Training]] feature.
 
