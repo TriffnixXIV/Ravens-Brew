@@ -6,7 +6,7 @@ When you cast a spell, you now always roll a Spell check that determines the for
 
 **_Replaces Spell Save DC_**: When you cast a spell that requires its targets to roll a saving throw, the DC of the saving throw is now equal to the Spell check instead.
 
-_Repeated Spell Saving Throws_: When your spell features a repeated saving throw, such as _Hold Person_, you roll another Spell check each time the saving throw is repeated, determining the DC anew as if it was an ongoing contest.
+_Repeated Spell Saving Throws_: When your spell features a repeated saving throw, such as _Hold Person_, you roll another Spell check each time the saving throw is repeated, determining the DC anew as if it was an ongoing [[Contests|contest]].
 
 **_Replaces Spell Attack Rolls_**: When you cast a spell that requires you to make one or more spell attack rolls, the initial Spell check replaces the first attack roll, and you roll an additional Spell check for each spell attack afterwards.
 

@@ -132,7 +132,11 @@ _Upcasting_: For every additional 2 Spell Points spent, the damage increases by 
 #### Mage Armour
 Abjuration (Sorcerer, Wizard). Cost: 3 Spell Points. Casting Time: Action. Range: Touch. Components: V, S, M (a piece of cured leather). Duration: 8 hours.
 
-You touch a willing creature who isn’t wearing armor. Until the spell ends, the target's Damage Reduction is increased by 3. The spell ends early if the target dons armor.
+You touch a willing creature who isn’t wearing armor. Until the spell ends, the magical armour protects one of the target's body parts, increasing the Damage Reduction there by 3.
+
+You can use a Bonus Action on each of your turns or a Reaction when perceiving the target being attacked to make the armour protect a different body part. If it protects their torso, it protects them against all attacks that aren't [[Aimed Strikes]].
+
+The spell ends early if the target dons armor.
 
 _Upcasting_: For every additional 4 Spell Points spent, the bonus to Damage Reduction increases by 1.
 #### Shield
