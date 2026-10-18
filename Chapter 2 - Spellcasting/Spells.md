@@ -1,17 +1,32 @@
 Here, you'll find all new spells and spell changes. These spell changes are meant to bring spells in line with the new mechanics, such as [[Spell Check|Spell checks]], [[AC-less Defence]] and [[Conditions#Wounded|wounds]]. They also work as examples for how Spell levels and Spell Slots are converted to Spell Points. The new spells are introduced to interact with the new mechanics.
 ### New Spells
 #### Amplify
-Transmutation (Bard, Sorcerer, Warlock, Wizard). Cost: 0 Spell Points. Casting Time: Reaction, which you take when you see a spell being cast. Range: 30 feet. Components: V, S. Duration: Instantaneous.
+_Transmutation (Bard, Sorcerer, Warlock, Wizard)_
+- Cost: 0 Spell Points.
+- Casting Time: Reaction, which you take when you see a spell being cast.
+- Range: 30 feet.
+- Components: V, S.
+- Duration: Instantaneous.
 
 You amplify a spell with your own magical prowess. If the result of your Spell check exceeds 10 + the spells cost, the spell is upcast by 3 Spell Points without cost.
 
 _Upcasting_: Every additional Spell Point spent on this spell is used to upcast the target spell regardless of whether you succeed on the check above.
 #### Assist
-Enchantment (Bard, Cleric, Druid). Cost: 0 Spell Points. Casting Time: Reaction, which you take when you see a spell being cast. Range: 30 feet. Components: V, S. Duration: Instantaneous.
+_Enchantment (Bard, Cleric, Druid)_
+- Cost: 0 Spell Points.
+- Casting Time: Reaction, which you take when you see a spell being cast.
+- Range: 30 feet.
+- Components: V, S.
+- Duration: Instantaneous.
 
 You lend the caster your spellcasting ability for their spell. If the result of your Spell check exceeds the current result of the triggering spell, it replaces it.
 #### Aura of Amplification
-Transmutation (Bard, Sorcerer). Cost: 9 Spell Points. Casting Time: Action. Range: Self. Components: V, S. Duration: Concentration, up to 1 minute.
+_Transmutation (Bard, Sorcerer)_
+- Cost: 9 Spell Points.
+- Casting Time: Action.
+- Range: Self.
+- Components: V, S.
+- Duration: Concentration, up to 1 minute.
 
 An aura radiates from you in a 30-foot Emanation for the duration. While in the aura, spellcasters have their [[Spell Limits#Casting Limit|Casting Limit]] increased by a number of Spell Points equal to your Charisma modifier (at least 1).
 
@@ -21,7 +36,12 @@ When the spell ends, you receive 1 stack of [[Conditions#Weavestrain|Weavestrain
 
 _Upcasting_: For every additional 3 Spell Points spent, the Casting Limit increase and free upcast amount increases by 1.
 #### Chain
-Conjuration (Warlock, Wizard). Cost: 6 Spell Points. Casting Time: Action. Range: 30 feet. Components: V, S, M (one foot of iron chains). Duration: Until broken, dispelled, or escaped from.
+_Conjuration (Warlock, Wizard)_
+- Cost: 6 Spell Points.
+- Casting Time: Action.
+- Range: 30 feet.
+- Components: V, S, M (one foot of iron chains).
+- Duration: Until broken, dispelled, or escaped from.
 
 Choose two body parts, creatures or objects within range and within 10 feet of each other. They make a Constitution saving throw. Objects automatically fail this saving throw, body parts delegate it to their whole creature. When both targets fail, they are bound by a 10 foot iron chain that burrows itself into them, dealing 3d4 Piercing damage each. The targets cannot be separated by more than that length without having to break the chain first, and affected creatures or body parts cannot move or be moved away further from the other target than the chain allows for.
 
@@ -33,25 +53,45 @@ A creature can pull on the chain to try to pull one of the chained targets, maki
 
 _Upcasting_: For every additional Spell Point spent, the Hit Points of the chain increase by 2. For every 2 additional spell points spent, both damage instances are increased by 1d4.
 #### Gift
-Evocation (Bard, Cleric, Druid, Ranger, Sorcerer, Wizard). Cost: 3 Spell Points. Casting Time: Action. Range: Touch. Components: V, S. Duration: 10 minutes.
+_Evocation (Bard, Cleric, Druid, Ranger, Sorcerer, Wizard)_
+- Cost: 3 Spell Points.
+- Casting Time: Action.
+- Range: Touch.
+- Components: V, S.
+- Duration: 10 minutes.
 
 You transfer a part of your magical reserves to a willing creature. Spend any number of Spell Points. The target's Spell Point maximum increases by that number for the duration, and it gains a number of Spell Points equal to that number.
 
 _Upcasting_: For an additional 3 Spell Points spent, the duration increases to an hour. For another additional 3 Spell Points, the duration increases to 8 hours.
 #### Guard
-Abjuration (Bard, Cleric, Druid). Cost: 0 Spell Points. Casting Time: Reaction, which you take when a creature you see is affected by a spell that requires a saving throw. Range: 30 feet. Components: V, S. Duration: Instantaneous.
+_Abjuration (Bard, Cleric, Druid)_
+- Cost: 0 Spell Points.
+- Casting Time: Reaction, which you take when a creature you see is affected by a spell that requires a saving throw.
+- Range: 30 feet.
+- Components: V, S.
+- Duration: Instantaneous.
 
 You try to guard your target from the effects of an incoming spell. They add your Spellcasting ability modifier to their saving throw.
 
 _Upcasting_: Every additional Spell Point spent gives them an additional +1 to their saving throw.
 #### Inhibit
-Enchantment (Cleric, Wizard, Warlock). Cost: 3 Spell Points. Casting Time: Action. Range: 60 feet. Components: V, S. Duration: Concentration, up to 1 minute.
+_Enchantment (Cleric, Wizard, Warlock)_
+- Cost: 3 Spell Points.
+- Casting Time: Action.
+- Range: 60 feet.
+- Components: V, S.
+- Duration: Concentration, up to 1 minute.
 
 You decrease a spellcasters ability to cast powerful spells. One creature that you can see within range must succeed on a Charisma saving throw or have their Casting Limit reduced by 3 for the duration of this spell. At the end of each of its turns, the target repeats the save, ending the spell on itself on a success.
 
 _Upcasting_: For every additional Spell Point spent, the Casting Limit reduction increases by 1.
 #### Rewind
-Transmutation (Sorcerer, Wizard). Cost: 4 Spell Points. Casting Time: Bonus Action. Range: Self. Components: V, S, M (an hourglass). Duration: Instantaneous.
+_Transmutation (Sorcerer, Wizard)_
+- Cost: 4 Spell Points.
+- Casting Time: Bonus Action.
+- Range: Self.
+- Components: V, S, M (an hourglass).
+- Duration: Instantaneous.
 
 You seize the time you've left in the past to do something with it now. You can spend any number of Surge Dice to turn them back into actions. You can gain Bonus Actions or Reactions by spending one Surge Die each, and you can gain Actions by spending two Surge Dice each.
 
@@ -59,11 +99,21 @@ You can only cast this spell once per turn.
 
 _Upcasting_: You can invest more magical power to seize time you've never had. You can gain more Bonus Actions or Reactions by spending 4 additional Spell Points each, and you can gain more Actions by spending 8 additional Spell Points each.
 #### Thwart
-Abjuration (Bard, Sorcerer, Warlock, Wizard). Cost: 0 Spell Points. Casting Time: Reaction, which you take when you see a spell attack. Range: 30 feet. Components: V, S. Duration: Instantaneous.
+_Abjuration (Bard, Sorcerer, Warlock, Wizard)_
+- Cost: 0 Spell Points.
+- Casting Time: Reaction, which you take when you see a spell attack.
+- Range: 30 feet.
+- Components: V, S.
+- Duration: Instantaneous.
 
 You try to make the spell attack miss. Reduce the attack roll by your Spellcasting ability modifier.
 #### Weavestrike
-Evocation (Bard, Paladin, Sorcerer, Warlock, Wizard). Cost: 3 Spell Points. Casting Time: Bonus Action, which you take immediately after hitting a target that has Spell Points with a Melee attack. Range: Self. Component: V. Duration: Instantaneous.
+_Evocation (Bard, Paladin, Sorcerer, Warlock, Wizard)_
+- Cost: 3 Spell Points.
+- Casting Time: Bonus Action, which you take immediately after hitting a target that has Spell Points with a Melee attack.
+- Range: Self.
+- Component: V.
+- Duration: Instantaneous.
 
 As you hit the target, it loses 3 Spell Points. These lost Spell Points count against its Casting Limit and can thus force it to [[Overcasting|Overcast]].
 
@@ -71,32 +121,57 @@ The target can't lose more Spell Points than it currently has. Any Spell Points 
 
 _Upcasting_: For every additional Spell Point spent, the number of Spell Points the target loses increases by 1.
 #### Zone of Inhibition
-Enchantment (Cleric, Wizard, Warlock). Cost: 12 Spell Points. Casting Time: Action. Range: 60 feet. Components: V, S. Duration: Concentration, up to 1 minute.
+_Enchantment (Cleric, Wizard, Warlock)_
+- Cost: 12 Spell Points.
+- Casting Time: Action.
+- Range: 60 feet.
+- Components: V, S.
+- Duration: Concentration, up to 1 minute.
 
 You create a magical zone that decreases spellcasters ability to cast powerful spells in a 15-foot-radius Sphere centered on a point within range. Until the spell ends, a creature that enters the spell's area for the first time on a turn or starts its turn there makes a Charisma saving throw. On a failed save, a creature has its Casting Limit reduced by 9 while in the radius.
 
 _Upcasting_: For every additional 2 Spell Points spent, the Casting Limit reduction increases by 1.
 ### Reworked Spells - Defence
 #### Barkskin
-Transmutation (Druid, Ranger). Cost: 6 Spell Points. Casting Time: Bonus Action. Range: Touch. Components: V, S, M (a handful of bark). Duration: 1 hour.
+_Transmutation (Druid, Ranger)_
+- Cost: 6 Spell Points.
+- Casting Time: Bonus Action.
+- Range: Touch.
+- Components: V, S, M (a handful of bark).
+- Duration: 1 hour.
 
 You touch a willing creature. Until the spell ends, the target’s skin assumes a bark-like appearance, and the target has a Damage Reduction of 4 if its Damage Reduction was lower before. Then, its Damage Reduction is increased by 3, for a minimum Damage Reduction of 7.
 
 _Upcasting_: For every additional 4 Spell points spent, the Damage Reduction is increased by an additional 1.
 #### Blur
-Illusion (Sorcerer, Wizard). Cost: 6 Spell Points. Casting Time: Action. Range: Self. Component: V. Duration: Concentration, up to 1 minute.
+_Illusion (Sorcerer, Wizard)_
+- Cost: 6 Spell Points.
+- Casting Time: Action.
+- Range: Self.
+- Component: V.
+- Duration: Concentration, up to 1 minute.
 
 Your body becomes blurred. For the duration, any creature has Disadvantage on attack rolls against you and your Hit DC increases by 5 for those attacks.
 
 An attacker is unaffected by this spell if they have the Blinded condition, Blindsight, or Truesight.
 #### Cure Wounds
-Abjuration (Bard, Cleric, Druid, Paladin, Ranger). Cost: 3 Spell Points. Casting Time: Action. Range: Touch. Components: V, S. Duration: Instantaneous.
+_Abjuration (Bard, Cleric, Druid, Paladin, Ranger)_
+- Cost: 3 Spell Points.
+- Casting Time: Action.
+- Range: Touch.
+- Components: V, S.
+- Duration: Instantaneous.
 
 A creature you touch regains a number of Hit Points equal to 2d8 plus your spellcasting ability modifier and has all their [[Conditions#Wounded|wounds]] removed.
 
 _Upcasting_: For every additional 3 Spell Points spent, the healing increases by 2d8.
 #### Enlarge / Reduce
-Transmutation (Bard, Druid, Sorcerer, Wizard), Cost: 6 Spell Points. Casting Time: Action. Range: 30 feet. Components: V, S, M (a pinch of powdered iron). Duration: Concentration, up to 1 minute.
+_Transmutation (Bard, Druid, Sorcerer, Wizard)_
+- Cost: 6 Spell Points.
+- Casting Time: Action.
+- Range: 30 feet.
+- Components: V, S, M (a pinch of powdered iron).
+- Duration: Concentration, up to 1 minute.
 
 For the duration, the spell enlarges or reduces a creature or an object you can see within range (see the chosen effect below). A targeted object must be neither worn nor carried. If the target is an unwilling creature, it can make a Constitution saving throw. On a successful save, the spell has no effect.
 
@@ -114,13 +189,23 @@ _Reduce_: The target changes as follows:
 - Its attacks with its reduced weapons or Unarmed Strikes deal 1d4 less damage on a hit (this can't reduce the damage below 1), but have +2 to hit.
 - Its Hit Point maximum and current Hit Points decrease by its maximum number of Hit Dice (this can't reduce the maximum or current Hit Points below 1).
 #### Haste
-Transmutation (Sorcerer, Wizard). Cost: 9 Spell Points. Casting Time: Action. Range: 30 feet. Components: V, S, M (a shaving of licorice root). Duration: Concentration, up to 1 minute.
+_Transmutation (Sorcerer, Wizard)_
+- Cost: 9 Spell Points.
+- Casting Time: Action.
+- Range: 30 feet.
+- Components: V, S, M (a shaving of licorice root).
+- Duration: Concentration, up to 1 minute.
 
 Choose a willing creature that you can see within range. Until the spell ends, the target's Speed is doubled, it gains Advantage on Reactions and Dexterity saving throws, and it gains an additional action on each of its turns. That action can only be used to take the Attack (one attack only), Dash, Disengage, Hide, or Utilize action.
 
 When the spell ends, the target is Incapacitated and has a Speed of 0 until the end of its next turn, as a wave of lethargy washes over it.
 #### Inflict Wounds
-Necromancy (Cleric). Cost: 3 Spell Points. Casting Time: Action. Range: Touch. Components: V, S. Duration: Instantaneous.
+_Necromancy (Cleric)_
+- Cost: 3 Spell Points.
+- Casting Time: Action.
+- Range: Touch.
+- Components: V, S.
+- Duration: Instantaneous.
 
 A creature you touch makes a Constitution saving throw, taking 2d10 Necrotic damage on a failed save or half as much damage on a successful one.
 
@@ -128,7 +213,12 @@ On a failed save, you may choose to convert any number of the damage dice into [
 
 _Upcasting_: For every additional 2 Spell Points spent, the damage increases by 1d10.
 #### Mage Armour
-Abjuration (Sorcerer, Wizard). Cost: 3 Spell Points. Casting Time: Action. Range: Touch. Components: V, S, M (a piece of cured leather). Duration: 8 hours.
+_Abjuration (Sorcerer, Wizard)_
+- Cost: 3 Spell Points.
+- Casting Time: Action.
+- Range: Touch.
+- Components: V, S, M (a piece of cured leather).
+- Duration: 8 hours.
 
 You touch a willing creature who isn’t wearing armor. Until the spell ends, the magical armour protects one of the target's body parts, increasing the Damage Reduction there by 3.
 
@@ -138,15 +228,30 @@ The spell ends early if the target dons armor.
 
 _Upcasting_: For every additional 4 Spell Points spent, the bonus to Damage Reduction increases by 1.
 #### Shield
-Abjuration (Sorcerer, Wizard). Cost: 3 Spell Points. Casting Time: Reaction, which you take when you are hit by an attack roll or targeted by the Magic Missile spell. Range: Self. Components: V, S. Duration: Instantaneous.
+_Abjuration (Sorcerer, Wizard)_
+- Cost: 3 Spell Points.
+- Casting Time: Reaction, which you take when you are hit by an attack roll or targeted by the Magic Missile spell.
+- Range: Self.
+- Components: V, S.
+- Duration: Instantaneous.
 
 An imperceptible barrier of magical force protects you. You take no damage from the triggering attack or Magic Missile spell.
 #### Shield of Faith
-Abjuration (Cleric, Paladin). Cost: 3 Spell Points. Casting Time: Bonus Action. Range: 60 feet. Components: V, S, M (a prayer scroll). Duration: Concentration, up to 10 minutes.
+_Abjuration (Cleric, Paladin)_
+- Cost: 3 Spell Points.
+- Casting Time: Bonus Action.
+- Range: 60 feet.
+- Components: V, S, M (a prayer scroll).
+- Duration: Concentration, up to 10 minutes.
 
 A shimmering field surrounds a creature of your choice within range, diverting incoming attacks for the duration, granting the creature a +2 bonus to their Hit DC.
 #### Warding Bond
-Abjuration (Cleric, Paladin). Cost: 6 Spell Points. Casting Time: Action. Range: Touch. Components: V, S, M (a pair of platinum rings worth 50+ GP each, which you and the target must wear for the duration). Duration: 1 hour.
+_Abjuration (Cleric, Paladin)_
+- Cost: 6 Spell Points.
+- Casting Time: Action.
+- Range: Touch.
+- Components: V, S, M (a pair of platinum rings worth 50+ GP each, which you and the target must wear for the duration).
+- Duration: 1 hour.
 
 You touch another creature that is willing and create a mystic connection between you and the target until the spell ends. While the target is within 60 feet of you, it gains a +1 bonus to Damage Reduction and saving throws, and it has Resistance to all damage. Also, each time it takes damage, you take the same amount of damage.
 
@@ -155,7 +260,12 @@ The spell ends if you drop to 0 Hit Points or if you and the target become separ
 _Upcasting_: For every additional 6 Spell Points spent, the bonus to Damage Reduction and saving throws increases by 1.
 ### Reworked Spells - Spell checks
 #### Counterspell
-Abjuration (Sorcerer, Warlock, Wizard) Cost: 9 Spell Points. Casting Time: Reaction, which you take when you see a creature within 60 feet of yourself casting a spell with Verbal, Somatic, or Material components. Range: 60 feet. Components: S. Duration: Instantaneous.
+_Abjuration (Sorcerer, Warlock, Wizard)_
+- Cost: 9 Spell Points.
+- Casting Time: Reaction, which you take when you see a creature within 60 feet of yourself casting a spell with Verbal, Somatic, or Material components.
+- Range: 60 feet.
+- Components: S.
+- Duration: Instantaneous.
 
 You attempt to interrupt a creature in the process of casting a spell. If their spell costs 9 Spell Points or less, it dissipates. Otherwise, compare your Spell check to theirs. If your Spell check exceeds theirs by more than the other spells additional cost, it also dissipates.
 
@@ -163,7 +273,12 @@ When their spell dissipates like this, it has no effect, and the Action, Bonus A
 
 _Upcasting_: For every additional Spell Point spent, the Spell Point threshold increases by 1. For example, if you spend 3 additional Spell Points, spells with a cost of 12 or less dissipate automatically.
 #### Dispel Magic
-Abjuration (Bard, Cleric, Druid, Paladin, Ranger, Sorcerer, Warlock, Wizard). Cost: 9 Spell Points. Casting Time: Action. Range: 120 feet. Components: V, S. Duration: Instantaneous.
+_Abjuration (Bard, Cleric, Druid, Paladin, Ranger, Sorcerer, Warlock, Wizard)_
+- Cost: 9 Spell Points.
+- Casting Time: Action.
+- Range: 120 feet.
+- Components: V, S.
+- Duration: Instantaneous.
 
 Choose one creature, object, or magical effect within range. Any ongoing spell on the target that didn't cost more than 9 Spell Points ends. For each ongoing more costly spell on the target, compare your Spell check to its Spell check. If your Spell check exceeds the other by more than the other spells additional cost, the target spell ends.
 

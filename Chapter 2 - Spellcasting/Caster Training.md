@@ -86,7 +86,9 @@ If you reduce the cost of a spell that restores Hit Points to 1 Spell Point or l
 
 For example, if you apply this feature to Cure Wounds with a Proficiency Bonus of +3, you can cast it for free to give the target 2d8+mod Temporary Hit Points until you cast it for free again, or upcast it by 3 to spend the initial cost of 3 Spell Points to restore the 4d8+mod Hit Points that would usually cost 6 Spell Points.
 
-**_Defiance_**: When you succeed on an [[Overcasting|Overcast]] Save, the Overcast Damage you take is halved. Additionally, Overcast Damage you take is affected by Resistance or Immunity to Necrotic damage.
+**_Defiance_**: You gain the following benefits:
+- When you succeed on an [[Overcasting|Overcast]] Save, the Overcast Damage you take is halved.
+- Overcast Damage you take is affected by Resistance or Immunity to Necrotic damage.
 
 **_Emphasis_**: When you roll a Spell check, you can spend any number of Spell Points to improve it by the number of Spell Points spent.
 

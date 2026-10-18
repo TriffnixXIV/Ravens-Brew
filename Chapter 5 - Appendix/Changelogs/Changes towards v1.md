@@ -11,6 +11,7 @@
 - repeated spell saving throws now work similar to other ongoing contests, requiring the Spell check to be rolled again each time.
 - added a paragraph about recasting spells without cost outside of combat, similar to the Warlocks free Eldritch Invocation spells.
 #### [[Spells]]
+- changed the format for all spells to have the traits be more readable.
 - changed _Rewind_ to cost a bit more and to make some infinite combos impossible.
 - changed _Mage Armour_ to not protect against Aimed Strikes by default. Made it possible to tell it to protect specific body parts.
 - aligned _Thwart_ with _Guard_ to reduce overlap with _Counterspell_.
