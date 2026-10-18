@@ -61,9 +61,7 @@ _Upcasting_: You can invest more magical power to seize time you've never had. Y
 #### Thwart
 Abjuration (Bard, Sorcerer, Warlock, Wizard). Cost: 0 Spell Points. Casting Time: Reaction, which you take when you see a spell attack. Range: 30 feet. Components: V, S. Duration: Instantaneous.
 
-You try to make the spell attack miss. If the result of your Spell check exceeds the attack roll by more than the triggering spells cost, the spell attack misses its target.
-
-When trying to thwart a critical hit, you roll the Spell check with Disadvantage.
+You try to make the spell attack miss. Reduce the attack roll by your Spellcasting ability modifier.
 #### Weavestrike
 Evocation (Bard, Paladin, Sorcerer, Warlock, Wizard). Cost: 3 Spell Points. Casting Time: Bonus Action, which you take immediately after hitting a target that has Spell Points with a Melee attack. Range: Self. Component: V. Duration: Instantaneous.
 

@@ -13,6 +13,7 @@
 #### [[Spells]]
 - changed _Rewind_ to cost a bit more and to make some infinite combos impossible.
 - changed _Mage Armour_ to not protect against Aimed Strikes by default. Made it possible to tell it to protect specific body parts.
+- aligned _Thwart_ with _Guard_ to reduce overlap with _Counterspell_.
 ### [[Caster Training]]
 - changed _Acuity_ to include an option for utility spells and affect all saving throw spells at once.
 - changed _Gambler_ to also deal damage to yourself.
