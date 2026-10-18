@@ -92,7 +92,7 @@ For example, if you apply this feature to Cure Wounds with a Proficiency Bonus o
 
 **_Everyone's Problem_**: When you take Overcast Damage, creatures within 10 feet of you have to make a Constitution saving throw against 10 or half the Overcast Damage, whichever is higher. On a failure, they take Necrotic damage equal to half the Overcast Damage.
 
-**_Flow_**: If you've spent a number of Spell Points equal to your Casting Limit last round, your Casting Limit increases by your Caster Proficiency Bonus. This effect stacks, and it ends when you spend less Spell Points than your Casting Limit allows for in a round or when combat ends.
+**_Flow_**: If you've spent a number of Spell Points equal to at least your Casting Limit last round, your Casting Limit increases by your Caster Proficiency Bonus. This effect stacks, and it ends when you spend less Spell Points than your Casting Limit allows for in a round or when combat ends.
 
 **_Hardened Conduits_**: You gain a bonus to your [[Overcasting|Overcast]] Saves equal to your Constitution modifier (at least 1).
 

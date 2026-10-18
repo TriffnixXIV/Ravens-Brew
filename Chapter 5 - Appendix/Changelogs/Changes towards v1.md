@@ -18,6 +18,7 @@
 - changed _Acuity_ to include an option for utility spells and affect all saving throw spells at once.
 - changed _Gambler_ to also deal damage to yourself.
 - changed _Twofold Touch_ to use the same damage type as an Unarmed Strike.
+- changed _Flow_ to trigger on overcasting, too.
 #### [[Magic Items]]
 - added the _Parrying_ prefix for weapons.
 - added two magical shields.
