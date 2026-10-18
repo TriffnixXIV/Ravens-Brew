@@ -9,6 +9,8 @@ Implementing some sort of mechanic that allows for reactive dodging would be qui
 
 Also, adding an option to dodge & roll would be nice, especially because swiftly jumping away from the point of impact of an attack is something that feels like it should be possible.
 
+**_Prerequisites_**: To use the Dodge Reaction or the Dodge & Roll Reaction described below, you need to not have the Restrained condition.
+
 **_Dodging check_**: A Dodging check is a Dexterity (Acrobatics) check that has its Dexterity modifier limited by the [[Armour|armour]] you're wearing as follows:
 - While wearing light armour or no armour, the Dexterity modifier is not limited.
 - While wearing medium armour, the Dexterity modifier cannot exceed +2 (+3 instead with Second Skin).
