@@ -12,7 +12,8 @@ Secondly, through this system, another layer of difference is established that a
 ### Spell Features
 **_Acuity_**: Choose one of the following:
 - _Attacks_: You add your Caster Proficiency Bonus to Spell checks you make for spell attacks.
-- _Saves_: Choose one ability. You add your Caster Proficiency Bonus to Spell checks you make to determine the DC of saving throws of that ability.
+- _Saves_: You add your Caster Proficiency Bonus to Spell checks you make to determine saving throw DCs.
+- _Utility_: You add your Caster Proficiency Bonus to Spell checks that neither determine a saving throw DC nor are part of a spell attack.
 You can pick this feature multiple times, but only with different choices.
 
 **_Arsenal of Tricks_**: Choose a number of spells equal to your Caster Proficiency Bonus with a Spell Point cost of 0. You always have those spells prepared, and they count as spells of a class of your choice. Whenever your Caster Proficiency Bonus increases later, you can choose an additional spell to add to this feature.
@@ -37,7 +38,7 @@ You can pick this feature multiple times, but only for different damage types.
 **_Force of Good_**: Requires your alignment to be good. When you deal Radiant damage, that damage is increased by the number of dice you roll to determine the damage.
 
 **_Gambler_**: You can mold your damaging spells that are either attacks or require a saving throw to deal more damage by taking a bit of risk. You gain the following features:
-- _Raised Stakes_: Before rolling the Spell check, you can choose to increase the spells damage by reducing your Spell check by a number of d4s. For every d4 you reduce your Spell check by, the damage increases by one damage die.
+- _Raised Stakes_: Before rolling the Spell check, you can choose to increase the spells damage by reducing your Spell check by a number of d4s. For every d4 you reduce your Spell check by, the damage increases by one damage die, and you take 1d4 damage of the spells damage type.
 - _Risk_: When you roll a 1 on the d20 of the Spell check or the total is 0 or below, the spell dissipates, having no effect, the Action, Bonus Action, or Reaction you've used to cast it is wasted, and you regain the spent Spell Points.
 - _Reward_: When you roll a 20 on the d20 and the spell requires a saving throw, the spell is a Critical Hit regardless. Roll the damage dice twice and add them together to determine the damage.
 
@@ -68,7 +69,7 @@ You can pick this feature multiple times, but only for different damage types.
 **_Spell Sniper_**: When you cast a spell that has a range of at least 10 feet and requires you to make an attack roll, you can increase the spell's range by 60 feet.
 
 **_Twofold Touch_**: When you hit with a melee spell attack, you can choose one of the following additional effects:
-- _Damage_: The target takes additional Bludgeoning damage equal to the damage of one of your Unarmed Strikes.
+- _Damage_: The target takes additional damage equal to the damage of one of your Unarmed Strikes. This additional damage has the same damage type as one of your Unarmed Strikes.
 - _Shove_: You push the target 5 feet away or cause it to have the Prone condition. This shove is possible only if the target is no more than one size larger than you.
 
 **_War Caster_**: You can perform the Somatic components of spells even when you have weapons or a Shield in one or both hands.

@@ -12,6 +12,11 @@
 - added a paragraph about recasting spells without cost outside of combat, similar to the Warlocks free Eldritch Invocation spells.
 #### [[Spells]]
 - changed _Rewind_ to cost a bit more and to make some infinite combos impossible.
+- changed _Mage Armour_ to not protect against Aimed Strikes by default. Made it possible to tell it to protect specific body parts.
+### [[Caster Training]]
+- changed _Acuity_ to include an option for utility spells and affect all saving throw spells at once.
+- changed _Gambler_ to also deal damage to yourself.
+- changed _Twofold Touch_ to use the same damage type as an Unarmed Strike.
 #### [[Magic Items]]
 - added the _Parrying_ prefix for weapons.
 - added two magical shields.
