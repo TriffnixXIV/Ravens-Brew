@@ -205,7 +205,7 @@ This version introduces the Spellcasting Rework, starting with [[#v0.9.a1|v0.9.a
 #### [[Caster Training]]
 - added _Cantrip Upcasting_ to upcast Cantrips.
 - added _Hoarder_ to gain more Spell Points.
-- changed _Expectation_ to give Advantage on the Overcast Saving Throw instead.
+- changed _Expectation_ to give Advantage on the Overcast save instead.
 - added _Insistence_ feature, doubling the effect of _Emphasis_.
 - changed _Vampiric Weavestrike_ to give twice as many Temporary Hit Points.
 - added a subsection with Spellcasting Focus related features.
