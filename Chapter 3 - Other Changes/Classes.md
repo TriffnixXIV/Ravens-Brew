@@ -124,7 +124,7 @@ Additionally, all classes receive a new feature on level 5 that revolves around 
 
 **_Level 5 - Sorcerous Surge (new)_**: Choose one of the following [[Surge Dice|Surge Die]] features:
 - _Heightened Presence_: While your Innate Sorcery feature is active, your Surge Dice are d8 instead of d6.
-- _Anticipated Flow_: You can spend Surge Dice to add the roll to all of your Overcast Saves until the start of your next turn.
+- _Anticipated Flow_: You can spend Surge Dice to add the roll to all of your Overcast saves until the start of your next turn.
 #### Draconic Sorcery
 **_Level 3 - Draconic Resilience_**: Instead of adding your Charisma modifier to your AC when you are not wearing armour, your Charisma modifier is added to your [[AC-less Defence#Damage Reduction|Damage Reduction]].
 #### Wild Magic Sorcery

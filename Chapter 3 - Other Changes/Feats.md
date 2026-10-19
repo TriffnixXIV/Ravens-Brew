@@ -14,26 +14,26 @@ Outside of that, other changes to feats can be found here, with the full descrip
 - _Savage Brawler_: When you roll damage for an attack you make with your Unarmed Strike or an improvised weapon, you add one die to the dice pool one additional time and ignore the lowest die result.
 - _Push_: When you hit a creature with an Unarmed Strike, you can deal damage to the target and also push it 5 feet away from you. You can use this benefit only once per turn.
 ### General Feats
-**_Martial Adept_**: You gain the following benefits:
+**_Martial Adept (new)_**: You gain the following benefits:
 - _Ability Score Increase_: Increase your Strength, Dexterity or Constitution score by 1, to a maximum of 20.
 - _Training_: You gain two [[Martial Training]] features of your choice.
 - _Repeatable_: You can take this feat more than once.
 
-**_Spellcasting Adept_**: You gain the following benefits:
+**_Spellcasting Adept (new)_**: You gain the following benefits:
 - _Ability Score Increase_: Increase your Intelligence, Wisdom or Charisma score by 1, to a maximum of 20.
 - _Training_: You gain two [[Caster Training]] features of your choice.
 - _Repeatable_: You can take this feat more than once.
 
-**_Training Master_**: You gain the following benefits:
+**_Training Master (new)_**: You gain the following benefits:
 - _Training_: You gain either two [[Caster Training]] features and one [[Martial Training]] feature or two [[Martial Training]] features and one [[Caster Training]] feature.
 - _Repeatable_: You can take this feat more than once.
 ### Fighting Style Feats
 These feats are all now part of [[Martial Training]] and can be accessed through the Martial Adept feat and through class features, as described in the chapter on [[Martial Training]].
 ### Epic Boon Feats
-**_Boon of the Time Spender_**: You gain the following benefits:
+**_Boon of the Time Spender (new)_**: You gain the following benefits:
 - _Ability Score Increase_: Increase one ability score of your choice by 1, to a maximum of 30.
 - _Additional Surge Die Feature_: Choose a [[Classes|class]] you have at least 5 levels in. You gain one new Surge Die feature of your choice from that class.
 
-**_Boon of Superior Preperation_**: You gain the following benefits:
+**_Boon of Superior Preparation (new)_**: You gain the following benefits:
 - _Ability Score Increase_: Increase one ability score of your choice by 1, to a maximum of 30.
 - _Greater Surge_: When you roll [[Surge Dice]], you can either roll twice as many and ignore the lowest half, or roll one additional one.

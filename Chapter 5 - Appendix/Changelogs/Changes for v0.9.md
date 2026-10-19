@@ -60,7 +60,7 @@ This version introduces the Spellcasting Rework, starting with [[#v0.9.a1|v0.9.a
 - added _Everyone's Problem_ to spread Overcast to other nearby creatures.
 - added _Flow_ to increase the Casting Limit throughout a combat.
 - added _Hubris_ to allow Wizards to write spells they cannot afford into their spellbook and prepare those.
-- added _Limitbreaker_ to force a successful Overcast Save once a short rest.
+- added _Limitbreaker_ to force a successful Overcast save once a short rest.
 - added _Recast_ to cheapen repeated casts of the same spell.
 - added _Snowball_ to improve spells when casting them repeatedly.
 - turned Spell Manipulation features into [[Spells#New Spells|spells]].
@@ -174,15 +174,15 @@ This version introduces the Spellcasting Rework, starting with [[#v0.9.a1|v0.9.a
 #### [[Spellcasting Focus]]
 - when using an unlisted Spellcasting Focus, you now choose two spell schools to associate that Spellcasting Focus with. 
 #### [[Overcasting]]
-- named the number of Spell Points the Casting Limit was exceeded by Excess to simplify the descriptions of Overcast Damage and Overcast Saves.
+- named the number of Spell Points the Casting Limit was exceeded by Excess to simplify the descriptions of Overcast Damage and Overcast saves.
 - moved the Overcast Damage into the spellcast or use of the feature.
-- failing the Overcast Save now makes the spell or feature fail, but no Spell Points are lost.
+- failing the Overcast save now makes the spell or feature fail, but no Spell Points are lost.
 - Weavestrain now reduces the Casting Limit by 1 per stack instead.
 #### [[Caster Training]]
 - added some introductory text.
 - moved some features to their proper subsection.
 - _Ritualist_ now allows a choice of spellcasting ability when the one who chooses the feature doesn't already have one.
-- added _By Any Means_, allowing rerolls of the Overcast Save in exchange for more Overcast Damage.
+- added _By Any Means_, allowing rerolls of the Overcast save in exchange for more Overcast Damage.
 - renamed _Spell Specialization_ to _Cheapskate_ and allows the choice of two spells instead of one.
 - _Hoarder_ can now be picked multiple times.
 - reworked _Cantrip Upcasting_ into _Trash Becomes Treasure_, giving a limited amount of free upcasting to free spells.

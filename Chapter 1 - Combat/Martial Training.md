@@ -97,7 +97,7 @@ You can pick this feature multiple times, but only for different damage types.
 **_My Body is a Weapon_**: Your Unarmed Strikes now also count as Melee weapon attacks. While you are not holding anything in your hand, that hand additionally counts as a Simple Melee weapon with the Light property.
 
 **_Punch and Grab_**: You gain the following benefits:
-- When you hit a creature with an Unarmed Strike as part of the Attack action on your turn, you can use both the Damage and the Grapple option. You can use this benefit only once per turn.
+- When you hit a creature with an Unarmed Strike as part of the Attack action on your turn, you can use both the _Damage_ and the _Grapple_ option. You can use this benefit only once per turn.
 - Your Speed isn't halved when you move a creature Grappled by you if the creature is your size or smaller.
 
 **_Wrestler_**: You gain the following benefits:

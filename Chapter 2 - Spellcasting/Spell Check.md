@@ -2,7 +2,7 @@ When you cast a spell, you now always roll a Spell check that determines the for
 
 **_Spell Check_**: When you cast a spell, you roll a D20 Test and add your spellcasting ability modifier. If you aren't using a [[Spellcasting Focus]] that is associated with the school of the spell to cast the spell, the spell is unfocused, making you roll with Disadvantage.
 
-**_Spell Check Proficiency_**: If you have the _Acuity_ [[Caster Training#Spell Features|feature]], you can add your Caster Proficiency Bonus to some Spell checks, otherwise, they are rolled without adding any Proficiency Bonus.
+**_Spell Check Proficiency_**: If you have the _Acuity_ [[Caster Training#Spell Check Features|feature]], you can add your Caster Proficiency Bonus to some Spell checks, otherwise, they are rolled without adding any Proficiency Bonus.
 
 **_Replaces Spell Save DC_**: When you cast a spell that requires its targets to roll a saving throw, the DC of the saving throw is now equal to the Spell check instead.
 
@@ -16,7 +16,7 @@ _Spell Extra Attacks_: When your spell features multiple spell attacks, each rol
 
 _Counterspelling Spell Extra Attacks_: If a caster successfully counterspells a spell attack that is part of a spell featuring multiple spell attacks, only the spell attack dissipates while the spell itself remains, and the Spell Points spent on that spell remain spent.
 
-**_Magic Items for Spellcasting_**: Where some magical items previously gave a +1 to spell attack rolls and/or a +1 to the Spell Save DC, they now give a +1 to Spell checks.
+**_Magic Items for Spellcasting_**: Where some magical items previously gave a +1 to spell attack rolls and/or a +1 to the Spell save DC, they now give a +1 to Spell checks.
 
 **_Free Spells Outside Of Combat_**: When casting a spell outside of combat without spending Spell Points, a roll on the Spell checks d20 of 11 or lower automatically becomes a 12. When you end the spell early and cast it outside of combat again, the same Spell check total applies.
 #### Example Spellcasts

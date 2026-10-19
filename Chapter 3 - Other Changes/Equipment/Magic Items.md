@@ -42,7 +42,7 @@ Attacks made with this weapon or piece of ammunition can't be perceived through 
 #### Wounding ...
 _Rare Melee Weapon or Piece of Ammunitition_
 
-When this weapon or piece of ammunition is used as part of an Aimed Strike and deals damage, the Wound Save DC equals the whole damage or 15, whichever is higher, instead.
+When this weapon or piece of ammunition is used as part of an Aimed Strike and deals damage, the Wound save DC equals the whole damage or 15, whichever is higher, instead.
 ### Shields
 Given the changes to [[Shields]] in this ruleset, they are in dire need of new magical variants. For example, the classic +X Shields no longer work as usual. Consider replacing +X Shields with their new variant described below.
 #### Shield, +2, +4 or +6

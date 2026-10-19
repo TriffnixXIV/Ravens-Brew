@@ -32,5 +32,5 @@
 - _Weaken_ can now turn the saving throw into a success when a spell slot is spent.
 #### [[Surge Dice]]
 - added an option to improve Initiative.
-- restricted _Power_ to Attack Rolls and Damage.
+- restricted _Power_ to attack rolls and damage.
 - renamed _Speed_ to _Swiftness_. You can now use the gained movement immediately.

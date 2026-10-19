@@ -8,7 +8,7 @@ Parrying has long played a relevant role in combat fiction, and these rules expl
 
 When trying to parry a critical hit, you roll with Disadvantage.
 
-When rolling a natural 20 on your Parrying Check, the Parrying Power is doubled.
+When rolling a natural 20 on your Parrying check, the Parrying Power is doubled.
 
 **_Parrying Power_**: A weapons Parrying Power is equal to the maximum damage it deals on a regular hit. This includes all temporary damage bonuses as well.
 

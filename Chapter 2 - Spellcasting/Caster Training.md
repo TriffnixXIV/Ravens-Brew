@@ -1,22 +1,43 @@
 Caster Training is a new system that gives spellcasters new ways to differentiate themselves from each other. It works similar to [[Martial Training]], and some [[Feats]] that interface with spellcasting have been merged into this system accordingly.
 
-This new system is motivated by two reasons. Firstly, the translation of spell slots into Spell Points opened up a multitude of ways to interface with spellcasting through features that would remain unexplored without a system to access said features. With Martial Training already being in existence, creating a system parallel to it makes intuitive sense and removes the constraints that would come from implementing such features through Feats.
+This new system is motivated by two reasons. Firstly, the translation of spell slots into [[Spell Points]], the introduction of [[Spell Check|Spell checks]] and [[Overcasting]], and the rework of [[Spellcasting Focus|Spellcasting Foci]] opened up a multitude of ways to interface with spellcasting through features that would be hard to explore without a dedicated system to access said features. With Martial Training already being in existence, creating a system parallel to it makes intuitive sense and removes the constraints that would come from implementing such features through Feats.
 
-Secondly, through this system, another layer of difference is established that aims to increase spellcaster diversity through increasing the amount of feature options available to them.
+Secondly, through this system, another layer of possible difference is established that aims to increase spellcaster diversity through an increased amount of available feature options.
 ### Core Rules
 **_Training Features_**: During [[Character Creation]], you choose a number of Training features equal to your Proficiency Bonus. Whenever your Proficiency Bonus increases later, you can choose an additional Training feature. These features can be either Caster Training features, as can be found here, or [[Martial Training]] features.
 
-**_Caster Training_**: When you receive Caster Training, choose one of the features listed in the following sections that you qualify for. Caster Training features are divided into the following sections to make them easier to browse: [[#Spell Features]], [[#Spell Point & Overcasting Features]] and [[#Spellcasting Focus Features]].
+**_Caster Training_**: When you receive Caster Training, choose one of the features listed in the following sections that you qualify for. Caster Training features are divided into the following sections to make them easier to browse: [[#Spell Check Features]], [[#Spell Features]], [[#Spell Point & Spell Limit Features]], [[#Overcasting Features]] and [[#Spellcasting Focus Features]].
 
 **_Feats_**: The benefits of a selection of general feats are now Caster Training features. There's now a new general [[Feats|feat]] that allows the player to receive Caster Training twice.
-### Spell Features
+### Spell Check Features
 **_Acuity_**: Choose one of the following:
-- _Attacks_: You add your Caster Proficiency Bonus to Spell checks you make for spell attacks.
-- _Saves_: You add your Caster Proficiency Bonus to Spell checks you make to determine saving throw DCs.
-- _Utility_: You add your Caster Proficiency Bonus to Spell checks that neither determine a saving throw DC nor are part of a spell attack.
+- _Attacks_: You add your Caster Proficiency Bonus to [[Spell Check|Spell checks]] you make for spell attacks.
+- _Saves_: You add your Caster Proficiency Bonus to [[Spell Check|Spell checks]] you make to determine saving throw DCs.
+- _Utility_: You add your Caster Proficiency Bonus to [[Spell Check|Spell checks]] that neither determine a saving throw DC nor are part of a spell attack.
 You can pick this feature multiple times, but only with different choices.
 
-**_Arsenal of Tricks_**: Choose a number of spells equal to your Caster Proficiency Bonus with a Spell Point cost of 0. You always have those spells prepared, and they count as spells of a class of your choice. Whenever your Caster Proficiency Bonus increases later, you can choose an additional spell to add to this feature.
+**_Emphasis_**: When you roll a [[Spell Check|Spell check]], you can spend any number of [[Spell Points]] to improve it by the number of [[Spell Points]] spent.
+
+**_Gambler_**: You can mold your damaging spells that are either attacks or require a saving throw to deal more damage by taking a bit of risk. You gain the following features:
+- _Raised Stakes_: Before rolling the [[Spell Check|Spell check]], you can choose to increase the spells damage by reducing your [[Spell Check|Spell check]] by a number of d4s. For every d4 you reduce your [[Spell Check|Spell check]] by, the damage increases by one damage die, and you take 1d4 damage of the spells damage type.
+- _Risk_: When you roll a 1 on the d20 of the [[Spell Check|Spell check]] or the total is 0 or below, the spell dissipates, having no effect, the Action, Bonus Action, or Reaction you've used to cast it is wasted, and you regain the spent [[Spell Points]].
+- _Reward_: When you roll a 20 on the d20 of the [[Spell Check|Spell check]] and the spell requires a saving throw, the spell is a Critical Hit regardless. Roll the damage dice twice and add them together to determine the damage.
+
+**_Insistence_**: Requires _Emphasis_. When you roll a [[Spell Check|Spell check]], you add a bonus of 1 to the checks total for every 3 [[Spell Points]] you've spent on the corresponding spellcast.
+
+**_Jack Up_**: When you cast a spell, it is automatically upcast by one [[Spell Points|Spell Point]] for every 4 your [[Spell Check|Spell check]] exceeds 8 by for free.
+
+**_Keen Gestures_**: When you cast a spell that requires somatic components and each of your hands is either free or holds nothing except a [[Spellcasting Focus]] or the spells material components, you gain a bonus to your [[Spell Check|Spell check]] equal to your Dexterity modifier (at least 1).
+
+**_Letting Go_**: You gain the following benefits:
+- You roll [[Spell check|Spell checks]] for spells that consume a material component with a specified cost with Advantage.
+- After rolling a [[Spell Check|Spell check]] for a spell that requires but doesn't consume a material component with a specified cost, you can make the spell consume the material component to reroll the [[Spell Check|Spell check]] with Advantage.
+
+**_Reliable Casting_**: Choose a spell school. When you make a [[Spell Check|Spell check]] to cast a spell of that school, you can treat a roll of 7 or lower on the d20 as an 8. You can pick this feature multiple times, but only for different spell schools.
+
+**_Snowball_**: When you roll a [[Spell Check|Spell check]] for a spell you've already rolled a [[Spell Check|Spell check]] for since the start of your last turn, you gain a bonus to the check equal to your Caster Proficiency Bonus if the total is worse than the total of the last one.
+### Spell Features
+**_Arsenal of Tricks_**: Choose a number of spells equal to your Caster Proficiency Bonus with a [[Spell Points|Spell Point]] cost of 0. You always have those spells prepared, and they count as spells of a class of your choice. Whenever your Caster Proficiency Bonus increases later, you can choose an additional spell to add to this feature.
 
 **_Casting in Melee_**: Being within 5 feet of an enemy doesn't impose Disadvantage on your ranged spell attack rolls.
 
@@ -37,32 +58,19 @@ You can pick this feature multiple times, but only for different damage types.
 
 **_Force of Good_**: Requires your alignment to be good. When you deal Radiant damage, that damage is increased by the number of dice you roll to determine the damage.
 
-**_Gambler_**: You can mold your damaging spells that are either attacks or require a saving throw to deal more damage by taking a bit of risk. You gain the following features:
-- _Raised Stakes_: Before rolling the Spell check, you can choose to increase the spells damage by reducing your Spell check by a number of d4s. For every d4 you reduce your Spell check by, the damage increases by one damage die, and you take 1d4 damage of the spells damage type.
-- _Risk_: When you roll a 1 on the d20 of the Spell check or the total is 0 or below, the spell dissipates, having no effect, the Action, Bonus Action, or Reaction you've used to cast it is wasted, and you regain the spent Spell Points.
-- _Reward_: When you roll a 20 on the d20 and the spell requires a saving throw, the spell is a Critical Hit regardless. Roll the damage dice twice and add them together to determine the damage.
-
 **_Iron Will_**: You gain a bonus to your Concentration checks equal to your spellcasting ability modifier (at least 1).
 
 **_Irresistible Element_**: Choose one of the following damage types: Acid, Cold, Fire, Lightning, or Thunder. Spells you cast ignore Resistance to damage of the chosen type. You can pick this feature multiple times, but only for different damage types.
-
-**_Keen Gestures_**: When you cast a spell that requires somatic components and each of your hands is either free or holds nothing except a Spellcasting Focus or the spells material components, you gain a bonus to your Spell check equal to your Dexterity modifier (at least 1).
-
-**_Letting Go_**: You gain the following benefits:
-- You roll Spell checks for spells that consume a material component with a specified cost with Advantage.
-- After rolling a Spell check for a spell that requires but doesn't consume a material component with a specified cost, you can make the spell consume the material component to reroll the Spell check with Advantage.
 
 **_Opportunistic Caster_**: You can cast an Opportunity Spell when a creature that you can see leaves your touch range using its action, its Bonus Action, its Reaction, or one of its speeds. To cast the Opportunity Spell, take a Reaction to cast a spell with a casting time of one action that targets only the provoking creature. The spellcast occurs right before the creature leaves your touch range.
 
 **_Penetrating Element_**: Choose one of the following damage types: Acid, Cold, Fire, Lightning, or Thunder. Your spell attacks that deal that type of damage ignore an amount of Damage Reduction equal to your Caster Proficiency Bonus. You can pick this feature multiple times, but only for different damage types.
 
-**_Quick Ritual_**: Once per long rest, you can cast a Ritual spell that you have prepared using its regular casting time instead of the extended time for a Ritual without spending Spell Points.
-
-**_Reliable Casting_**: Choose a spell school. When you make a Spell check to cast a spell of that school, you can treat a roll of 7 or lower on the d20 as an 8. You can pick this feature multiple times, but only for different spell schools.
+**_Quick Ritual_**: Once per long rest, you can cast a Ritual spell that you have prepared using its regular casting time instead of the extended time for a Ritual without spending [[Spell Points]].
 
 **_Reliable Element_**: Choose one of the following damage types: Acid, Cold, Fire, Lightning, or Thunder. When you roll damage for a spell you cast that deals damage of that type, you can treat any 1 or 2 on a damage die as a 3. You can pick this feature multiple times, but only for different damage types.
 
-**_Ritualist_**: Choose a number of spells equal to your Caster Proficiency Bonus that have the Ritual tag and a Spell Point cost of 3. You always have those spells prepared, and you can cast them with any Spell Points you have. They count as spells of a class of your choice. Whenever your Caster Proficiency Bonus increases later, you can choose an additional spell to add to this feature.
+**_Ritualist_**: Choose a number of spells equal to your Caster Proficiency Bonus that have the Ritual tag and a [[Spell Points|Spell Point]] cost of 3. You always have those spells prepared, and you can cast them with any [[Spell Points]] you have. They count as spells of a class of your choice. Whenever your Caster Proficiency Bonus increases later, you can choose an additional spell to add to this feature.
 
 **_Savage Element_**: Choose one of the following damage types: Acid, Cold, Fire, Lightning, or Thunder. When you roll damage for a spell you cast that deals damage of that type, you add one of the dice to the dice pool an additional time and ignore the lowest die result. You can pick this feature multiple times, but only for different damage types.
 
@@ -75,59 +83,53 @@ You can pick this feature multiple times, but only for different damage types.
 **_War Caster_**: You can perform the Somatic components of spells even when you have weapons or a Shield in one or both hands.
 
 **_Wounding Effect_**: When you damage a target through a spell that required a Dexterity or Constitution saving throw and the target failed that saving throw by 10 or more, one of the targets body parts of your choice that is no more than three size categories smaller than the target is [[Conditions#Wounded|wounded]].
-### Spell Point & Overcasting Features
-**_By Any Means_**: When you [[Overcasting|Overcast]] and fail on the Overcast Save, you can choose to reroll the Save again as often as you wish until you succeed, taking the Overcast Damage again each time you do so.
+### Spell Point & Spell Limit Features
+**_Cheapskate_**: Choose one of your spells. When your Spellcaster level exceeds its [[Spell Points|Spell Point]] cost, its cost is reduced by your Caster Proficiency Bonus. If the cost is reduced to below 0 this way, the rules for [[Spellcasting#Sunken Spells & Depthcasting|Sunken Spells & Depthcasting]] apply. You can pick this feature multiple times, but only for different spells.
 
-**_Cheat_**: Once per Short or Long Rest when you spend Spell Points, you can increase your Casting Limit by twice your Caster Proficiency Bonus until the start of your next turn.
+If you reduce the cost of a spell that restores Hit Points to 1 [[Spell Points|Spell Point]] or less, it only gives Temporary Hit Points when cast at reduced cost. Similarly, if you reduce the cost of a spell that permanently creates something to 1 [[Spell Points|Spell Point]] or less, the creation becomes temporary, too. In both cases, the effects vanish as soon as you cast the spell for 1 [[Spell Points|Spell Point]] or less again. If those spells are upcast to cost at least 2 [[Spell Points]], their effects return to normal.
 
-**_Cheapskate_**: Choose one of your spells. When your Spellcaster level exceeds its Spell Point cost, its cost is reduced by your Caster Proficiency Bonus. If the cost is reduced to below 0 this way, the rules for [[Spellcasting#Sunken Spells & Depthcasting|Sunken Spells & Depthcasting]] apply. You can pick this feature multiple times, but only for different spells.
+_Example_: If you apply this feature to Cure Wounds with a Proficiency Bonus of +3, you can cast it for free to give the target 2d8+mod Temporary Hit Points until you cast it for free again, or upcast it by 3 to spend the initial cost of 3 [[Spell Points]] to restore the 4d8+mod Hit Points that would usually cost 6 [[Spell Points]].
 
-If you reduce the cost of a spell that restores Hit Points to 1 Spell Point or less, it only gives Temporary Hit Points when cast at reduced cost. Similarly, if you reduce the cost of a spell that permanently creates something to 1 Spell Point or less, the creation becomes temporary, too. In both cases, the effects vanish as soon as you cast the spell for 1 Spell Point or less again. If those spells are upcast to cost at least 2 Spell Points, their effects return to normal.
+**_Cheat_**: Once per Short or Long Rest when you spend [[Spell Points]], you can increase your [[Spell Limits#Casting Limit|Casting Limit]] by twice your Caster Proficiency Bonus until the start of your next turn.
 
-For example, if you apply this feature to Cure Wounds with a Proficiency Bonus of +3, you can cast it for free to give the target 2d8+mod Temporary Hit Points until you cast it for free again, or upcast it by 3 to spend the initial cost of 3 Spell Points to restore the 4d8+mod Hit Points that would usually cost 6 Spell Points.
+**_Flow_**: If you've spent a number of [[Spell Points]] equal to at least your [[Spell Limits#Casting Limit|Casting Limit]] last round and cast a spell, that spell is upcast by a number of [[Spell Points]] equal to your Caster Proficiency Bonus at no additional cost.
 
-**_Defiance_**: You gain the following benefits:
-- When you succeed on an [[Overcasting|Overcast]] Save, the Overcast Damage you take is halved.
-- Overcast Damage you take is affected by Resistance or Immunity to Necrotic damage.
+**_Hoarder_**: Your [[Spell Points|Spell Point]] maximum increases by twice your Caster Proficiency Bonus. You can pick this feature multiple times.
 
-**_Emphasis_**: When you roll a Spell check, you can spend any number of Spell Points to improve it by the number of Spell Points spent.
+**_Hubris_**: Requires a spellbook. You may copy spells from spell scrolls or other spellbooks into your spellbook and prepare them even if their cost exceeds your [[Spell Limits#Preparation Limit|Preparation Limit]].
 
-**_Everyone's Problem_**: When you take Overcast Damage, creatures within 10 feet of you have to make a Constitution saving throw against 10 or half the Overcast Damage, whichever is higher. On a failure, they take Necrotic damage equal to half the Overcast Damage.
-
-**_Flow_**: If you've spent a number of Spell Points equal to at least your Casting Limit last round, your Casting Limit increases by your Caster Proficiency Bonus. This effect stacks, and it ends when you spend less Spell Points than your Casting Limit allows for in a round or when combat ends.
-
-**_Hardened Conduits_**: You gain a bonus to your [[Overcasting|Overcast]] Saves equal to your Constitution modifier (at least 1).
-
-**_Hoarder_**: Your Spell Point maximum increases by twice your Caster Proficiency Bonus. You can pick this feature multiple times.
-
-**_Hubris_**: Requires a spellbook. You may copy spells from spell scrolls or other spellbooks into your spellbook and prepare them even if their cost exceeds your Preparation Limit.
-
-**_Insistence_**: Requires _Emphasis_. When you roll a Spell check, you add a bonus of 1 to the checks total for every 3 Spell Points you've spent on the corresponding spellcast.
-
-**_Jack Up_**: When you cast a spell, it is automatically upcast by one Spell Point for every 4 your Spell check exceeds 8 by for free.
-
-**_Limitbreaker_**: Requires _By Any Means_. When you fail an Overcast Save, you may choose to succeed instead. You can use this feature a number of times equal to your Caster Proficiency Bonus per Long Rest.
-
-**_Money Shot_**: When you spend your Spell Points to cast a spell and have no Spell Points left afterwards, the roll on the d20 of the Spell check is automatically a 20. You can use this feature a number of times equal to your Caster Proficiency Bonus per Long Rest.
+**_Money Shot_**: When you spend your [[Spell Points]] to cast a spell and have no [[Spell Points]] left afterwards, the roll on the d20 of the [[Spell Check|Spell check]] is automatically a 20. You can use this feature a number of times equal to your Caster Proficiency Bonus per Long Rest.
 
 **_Recast_**: When you cast a spell that you've already cast last round, the casting cost is halved.
 
-**_Snowball_**: When you cast a spell that you've already cast last round and the result of your current Spell check is lower than the first Spell check result of the previous cast, the previous result replaces the current one.
+**_Trash Becomes Treasure_**: Choose a spell school. Your spells from that school with a [[Spell Points|Spell Point]] cost of 0 or less have their cost reduced by your Caster Proficiency Bonus. The rules for [[Spellcasting#Sunken Spells & Depthcasting|Sunken Spells & Depthcasting]] apply. You can pick this feature multiple times, but only for different spell schools.
 
-**_Trash Becomes Treasure_**: Choose a spell school. Your spells from that school with a Spell Point cost of 0 or less have their cost reduced by your Caster Proficiency Bonus. The rules for [[Spellcasting#Sunken Spells & Depthcasting|Sunken Spells & Depthcasting]] apply. You can pick this feature multiple times, but only for different spell schools.
+**_Weave Vampirism_**: When an object or creature other than you spends or loses [[Spell Points]] within 10 feet of you, you can use a Reaction to gain a number of Temporary Hit Points equal to the number of [[Spell Points]] spent or lost.
+### Overcasting Features
+**_By Any Means_**: When you [[Overcasting|Overcast]] and fail on the [[Overcasting|Overcast]] save, you can choose to reroll the save again as often as you wish until you succeed, taking the [[Overcasting|Overcast]] damage again each time you do so.
 
-**_Weave Vampirism_**: When an object or creature other than you spends or loses Spell Points within 10 feet of you, you can use a Reaction to gain a number of Temporary Hit Points equal to the number of Spell Points spent or lost.
+**_Defiance_**: You gain the following benefits:
+- When you succeed on an [[Overcasting|Overcast]] save, the [[Overcasting|Overcast]] damage you take is halved.
+- [[Overcasting|Overcast]] damage you take no longer ignores your Resistances and Immunities.
+
+**_Everyone's Problem_**: When you take [[Overcasting|Overcast]] damage, creatures within 10 feet of you have to make a Constitution saving throw against 10 or half the [[Overcasting|Overcast]] damage, whichever is higher. On a failure, they take Necrotic damage equal to half the [[Overcasting|Overcast]] damage.
+
+**_Hardened Conduits_**: You gain a bonus to your [[Overcasting|Overcast]] saves equal to your Constitution modifier (at least 1).
+
+**_Limitbreaker_**: Requires _By Any Means_. When you fail an [[Overcasting|Overcast]] save, you may choose to succeed instead. You can use this feature a number of times equal to your Caster Proficiency Bonus per Long Rest.
+
+**_Transmuted Retaliation_**: Choose one of the following damage types: Acid, Cold, Fire, Lightning, Poison, Psychic, Radiant or Thunder. When you [[Overcasting|Overcast]], the [[Overcasting|Overcast]] damage you take is of the damage type you chose.
 ### Spellcasting Focus Features
-**_Beyond Matter_**: When casting spells that have material components that are neither consumed nor specify a cost, you can ignore the material components as if you were using a Spellcasting Focus or a component pouch.
+**_Beyond Matter_**: When casting spells that have material components that are neither consumed nor specify a cost, you can ignore the material components as if you were using a [[Spellcasting Focus]] or a Component Pouch.
 
-**_Beyond The Medium_**: Choose one of your body parts and two spell schools. The chosen body part is now a Spellcasting Focus for you, associated with the chosen spell schools. You can pick this feature multiple times, but not with the same combination of body part and spell schools.
+**_Beyond The Medium_**: Choose one of your body parts and two spell schools. The chosen body part is now a [[Spellcasting Focus]] for you, associated with the chosen spell schools. You can pick this feature multiple times, but not with the same combination of body part and spell schools.
 
-**_Flexible Focus_**: Choose a kind of Spellcasting Focus (such as Wands or Staffs) and two spell schools that they are not already associated with. When you use this Spellcasting Focus, it is now also associated with those schools. You can pick this feature multiple times, but only for different kinds of Spellcasting Focus.
+**_Flexible Focus_**: Choose a kind of [[Spellcasting Focus]] (such as Wands or Staffs) and two spell schools that they are not already associated with. When you use this [[Spellcasting Focus]], it is now also associated with those schools. You can pick this feature multiple times, but only for different kinds of [[Spellcasting Focus]].
 
-**_Hyperfocus_**: When you cast a spell while using two Spellcasting Foci that are associated with its school, you roll the Spell check with Advantage.
+**_Hyperfocus_**: When you cast a spell while using two [[Spellcasting Focus|Spellcasting Foci]] that are associated with its school, you roll the [[Spell Check|Spell check]] with Advantage.
 
-**_Improvised Focus_**: As an action, you can touch any object that isn't a Spellcasting Focus for you to turn it into a Spellcasting Focus for you. When you use this Spellcasting Focus, it is now associated with one spell school of your choice. This association remains until you use this action again.
+**_Improvised Focus_**: As an action, you can touch any object that isn't a [[Spellcasting Focus]] for you to turn it into a [[Spellcasting Focus]] for you. When you use this [[Spellcasting Focus]], it is now associated with one spell school of your choice. This association remains until you use this action again.
 
-**_Pouchcasting_**: When you use a Component Pouch to provide material components for a spell, the Component Pouch is a Spellcasting Focus associated with the school of the spell.
+**_Pouchcasting_**: When you use a Component Pouch to provide material components for a spell, the Component Pouch is a [[Spellcasting Focus]] associated with the school of the spell.
 
-**_Universal Focus_**: Choose a kind of Spellcasting Focus (such as Wands or Staffs) that you have the _Flexible Focus_ feature with. When you use this Spellcasting Focus, it is now associated with all spell schools. You can pick this feature multiple times, but only for different kinds of Spellcasting Focus.
+**_Universal Focus_**: Choose a kind of [[Spellcasting Focus]] (such as Wands or Staffs) that you have the _Flexible Focus_ feature with. When you use this [[Spellcasting Focus]], it is now associated with all spell schools. You can pick this feature multiple times, but only for different kinds of [[Spellcasting Focus]].

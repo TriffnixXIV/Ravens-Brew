@@ -52,7 +52,7 @@ Damage of different types is reduced in order, with leftover reduction being car
 
 For example, if an attack deals 2 Piercing damage, 2 Cold damage and 2 Force damage against a Damage Reduction of 3, the Piercing damage is reduced to 0, the Cold damage to 1 and the Force damage stays at 2, reducing the total damage dealt by 3. If it dealt Fire damage instead of Force damage, the target could have chosen to reduce the Fire damage by 1 instead of the Cold damage.
 
-**_Damage Reduction for Specific Damage Types_**: Some features may give Damage Reduction against a specific damage type only. This Damage Reduction only reduces the Damage of its specified type, and its reduction takes place before general Damage Reduction is applied as described above.
+**_Damage Reduction for Specific Damage Types_**: Some features may give Damage Reduction against a specific damage type only. This Damage Reduction only reduces the damage of its specified type, and its reduction takes place before general Damage Reduction is applied as described above.
 
 **_Converting Armor Class to Damage Reduction_**: Every bonus to Armor Class that is not the Dexterity bonus can be converted 1:1 into a bonus for Damage Reduction, unless otherwise noted. An armour that sets the Armor Class of the wearer to 13 + Dexterity modifier will, for example, be converted to 3 Damage Reduction, because it is an Armor Class bonus of +3 compared to the base Armor Class of 10, while the Dexterity modifier is discarded. The conversion for armours can also be seen in [[Armour|their chapter]].
 

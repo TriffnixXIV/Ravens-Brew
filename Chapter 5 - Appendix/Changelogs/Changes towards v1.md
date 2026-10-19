@@ -16,10 +16,15 @@
 - changed _Mage Armour_ to not protect against Aimed Strikes by default. Made it possible to tell it to protect specific body parts.
 - aligned _Thwart_ with _Guard_ to reduce overlap with _Counterspell_.
 #### [[Caster Training]]
+- updated and reworded the introduction a bit.
+- regrouped the features.
+- added a lot of links.
 - changed _Acuity_ to include an option for utility spells and affect all saving throw spells at once.
+- changed _Snowball_ to be more intuitive and less potent on early high rolls.
 - changed _Gambler_ to also deal damage to yourself.
 - changed _Twofold Touch_ to use the same damage type as an Unarmed Strike.
-- changed _Flow_ to trigger on overcasting, too.
+- changed _Flow_ to trigger on overcasting and have a more affordable effect.
+- added _Transmuted Retaliation_ to change Overcast damage type. Made _Defiance_ damage type agnostic accordingly.
 #### [[Magic Items]]
 - added the _Parrying_ prefix for weapons.
 - added two magical shields.
@@ -50,7 +55,7 @@
 - Spell checks are now rolled with Disadvantage when a spell is not used with a Spellcasting Focus associated with its school.
 - Spell checks now replace all spell attack rolls.
 - _Counterspell_ can now counter singular spell attacks, but can no longer counter a spell with multiple spell attacks entirely through one cast.
-- removed the Spell Save DC malus.
+- removed the Spell save DC malus.
 - added examples.
 #### [[Overcasting]]
 - made Overcast damage ignore Resistance and Immunity.
@@ -66,7 +71,7 @@
 - added _Letting Go_ to interact with costly material components.
 - added _Twofold Touch_ to improve melee spell attacks.
 - added _Wounding Effect_ to intersect some save spells with wounds.
-- changed _Defiance_ to also make Overcast Damage respect Resistance and Immunity again.
+- changed _Defiance_ to also make Overcast damage respect Resistance and Immunity again.
 - renamed _Double Up_ to _Hyperfocus_ and removed the option to add the Proficiency Bonus to Spell checks twice.
 - added _Improvised Focus_ to make random stuff magic.
 - added _Pouchcasting_ to interact with Component Pouches.
