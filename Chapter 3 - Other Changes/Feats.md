@@ -29,7 +29,7 @@ Outside of that, other changes to feats can be found here, with the full descrip
 - _Repeatable_: You can take this feat more than once.
 ### Fighting Style Feats
 These feats are all now part of [[Martial Training]] and can be accessed through the Martial Adept feat and through class features, as described in the chapter on [[Martial Training]].
-### Epic Feats
+### Epic Boon Feats
 **_Boon of the Time Spender_**: You gain the following benefits:
 - _Ability Score Increase_: Increase one ability score of your choice by 1, to a maximum of 30.
 - _Additional Surge Die Feature_: Choose a [[Classes|class]] you have at least 5 levels in. You gain one new Surge Die feature of your choice from that class.
