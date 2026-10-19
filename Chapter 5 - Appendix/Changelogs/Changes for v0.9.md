@@ -222,7 +222,7 @@ This version introduces the Spellcasting Rework, starting with [[#v0.9.a1|v0.9.a
 - changed _[[Spells#Counterspell|Counterspell]]_ to be harder against more costly spells.
 ### v0.9.a1
 #### [[Spellcasting]]
-- reworked Spellcasting to work through [[Spellcasting#Spell Points|Spell Points]] instead of Spell Slots.
+- reworked Spellcasting to work through [[Spellcasting#Spell Points|Spell Points]] instead of spell slots.
 - Spellcasting is now only limited by the [[Spell Limits#Casting Limit|Casting Limit]].
 - added [[Overcasting]] to allow breaking the Casting Limit in exchange for damage and a debuff.
 - you now roll a [[Spell Check|Spell check]] every time you cast a spell to determine how forceful it is, the first attack roll, and the save DC for the targets.

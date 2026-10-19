@@ -26,7 +26,7 @@ There should be an equivalent to each Weapon Mastery Property and each Fighting 
 ### Caster Stuff
 If you are a spellcaster, also follow these steps. Note your total spellcaster level.
 
-**_[[Spell Points]] and [[Spell Limits]]_**: You now use Spell Points and Spell Limits instead of Spell Slots. You have a Spell Point Maximum equal to six times your spellcaster level, and Spell Limits of 3 at level 1, increasing by 3 every two levels afterwards. On the levels inbetween, you can interpolate the Spell Limits linearly.
+**_[[Spell Points]] and [[Spell Limits]]_**: You now use Spell Points and Spell Limits instead of spell slots. You have a Spell Point maximum equal to six times your spellcaster level, and Spell Limits of 3 at level 1, increasing by 3 every two levels afterwards. On the levels inbetween, you can interpolate the Spell Limits linearly.
 
 **_[[Spellcasting Focus]]_**: Check each Spellcasting Focus you own. Each one is now associated with a number of spell schools, as described in their chapter. Note these schools.
 

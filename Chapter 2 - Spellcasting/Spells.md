@@ -1,4 +1,4 @@
-Here, you'll find all new spells and spell changes. These spell changes are meant to bring spells in line with the new mechanics, such as [[Spell Check|Spell checks]], [[AC-less Defence]] and [[Conditions#Wounded|wounds]]. They also work as examples for how Spell levels and Spell Slots are converted to Spell Points. The new spells are introduced to interact with the new mechanics.
+Here, you'll find all new spells and spell changes. These spell changes are meant to bring spells in line with the new mechanics, such as [[Spell Check|Spell checks]], [[AC-less Defence]] and [[Conditions#Wounded|wounds]]. They also work as examples for how spell levels and spell slots are converted to Spell Points. The new spells are introduced to interact with the new mechanics.
 ### New Spells
 #### Amplify
 _Transmutation (Bard, Sorcerer, Warlock, Wizard)_
