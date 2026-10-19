@@ -15,7 +15,7 @@
 - changed _Rewind_ to cost a bit more and to make some infinite combos impossible.
 - changed _Mage Armour_ to not protect against Aimed Strikes by default. Made it possible to tell it to protect specific body parts.
 - aligned _Thwart_ with _Guard_ to reduce overlap with _Counterspell_.
-### [[Caster Training]]
+#### [[Caster Training]]
 - changed _Acuity_ to include an option for utility spells and affect all saving throw spells at once.
 - changed _Gambler_ to also deal damage to yourself.
 - changed _Twofold Touch_ to use the same damage type as an Unarmed Strike.
@@ -27,6 +27,9 @@
 #### [[Classes]]
 - added _Dying Struggle_ to the Barbarian's level 5 Surge Die feature pool.
 - added _Elation_ to the Fighter's level 5 Surge Die feature pool.
+#### [[Feats]]
+- updated the introductory text.
+- added _Boon of the Time Spender_ and _Boon of Superior Preperation_.
 ### v0.9.4
 #### Training
 - all Training features are now acquired in parallel to the Proficiency Bonus.

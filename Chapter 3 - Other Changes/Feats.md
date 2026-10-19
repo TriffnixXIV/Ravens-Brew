@@ -1,4 +1,4 @@
-Feats receive major changes, as [[Martial Training]] and [[Caster Training]] are introduced as new systems for characters to receive new features, and many feats have their content moved there because of this. [[Martial Training]] features can be accessed through the new Martial Adept Feat and through class features, as described in the chapter on [[Martial Training]]. [[Caster Training]] features can be accessed through the new Spellcasting Adept Feat and through having Spellcaster levels, as described in the chapter on [[Spellcasting]].
+Feats receive major changes, as [[Martial Training]] and [[Caster Training]] are introduced as new systems for characters to receive new features, and many feats have their content moved there because of this. Training features are gained in parallel with the Proficiency Bonus, as described in the guide on [[Character Creation]], through certain [[Classes|class]] features and through the new Training Master Feat. Additionally, [[Martial Training]] features can be accessed through the new Martial Adept Feat, and [[Caster Training]] features can be accessed through the new Spellcasting Adept Feat.
 
 These Feats are now merged into [[Martial Training]]: Crossbow Expert, Crusher, Defensive Duelist, Dual Wielder, Grappler, Great Weapon Master, Heavily Armored, Heavy Armor Master, Lightly Armored, Martial Weapon Training, Medium Armor Master, Moderately Armored, Piercer, Polearm Master, Sharpshooter, Shield Master, Slasher, Weapon Master, and all Fighting Style feats.
 
@@ -25,7 +25,15 @@ Outside of that, other changes to feats can be found here, with the full descrip
 - _Repeatable_: You can take this feat more than once.
 
 **_Training Master_**: You gain the following benefits:
-- _Training_: You gain two [[Caster Training]] features and one [[Martial Training]] feature or two [[Martial Training]] features and one [[Caster Training]] feature.
+- _Training_: You gain either two [[Caster Training]] features and one [[Martial Training]] feature or two [[Martial Training]] features and one [[Caster Training]] feature.
 - _Repeatable_: You can take this feat more than once.
 ### Fighting Style Feats
 These feats are all now part of [[Martial Training]] and can be accessed through the Martial Adept feat and through class features, as described in the chapter on [[Martial Training]].
+### Epic Feats
+**_Boon of the Time Spender_**: You gain the following benefits:
+- _Ability Score Increase_: Increase one ability score of your choice by 1, to a maximum of 30.
+- _Additional Surge Die Feature_: Choose a [[Classes|class]] you have at least 5 levels in. You gain one new Surge Die feature of your choice from that class.
+
+**_Boon of Superior Preperation_**: You gain the following benefits:
+- _Ability Score Increase_: Increase one ability score of your choice by 1, to a maximum of 30.
+- _Greater Surge_: When you roll [[Surge Dice]], you can either roll twice as many and ignore the lowest half, or roll one additional one.
