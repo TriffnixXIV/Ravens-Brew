@@ -25,8 +25,9 @@
 #### [[Spells]]
 - changed the format for all spells to have the traits be more readable.
 - changed the wording of a few spells to be more similar to other spells and features, without mechanical changes.
-- changed _Amplify_, _Inhibit_ and _Weavestrike_ to use your Spellcasting ability modifier instead of a constant.
+- changed _Amplify_, _Barkskin_, _Blur_, _Inhibit_, _Mage Armour_ and _Weavestrike_ to use your Spellcasting ability modifier (at least 1) instead of a constant.
 - changed _Rewind_ to cost a bit more and make some infinite combos impossible.
+- added an upcast option to _Blur_.
 - changed _Mage Armour_ to not protect against Aimed Strikes by default. Made it possible to tell it to protect specific body parts.
 - aligned _Thwart_ with _Guard_ to reduce overlap with _Counterspell_.
 #### [[Magic Items]]

@@ -8,7 +8,7 @@ _Transmutation (Bard, Sorcerer, Warlock, Wizard)_
 - Components: V, S.
 - Duration: Instantaneous.
 
-You amplify a spell with your own magical prowess. If the result of your Spell check exceeds 10 + the spells cost, the spell is upcast by a number of Spell Points equal to your Spellcasting ability modifier at no additional cost.
+You amplify a spell with your own magical prowess. If the result of your Spell check exceeds 10 + the spells cost, the spell is upcast by a number of Spell Points equal to your Spellcasting ability modifier (at least 1) at no additional cost.
 
 _Upcasting_: Every additional Spell Point spent on this spell is used to upcast the target spell regardless of whether you succeed on the check above.
 #### Assist
@@ -71,7 +71,7 @@ _Abjuration (Bard, Cleric, Druid)_
 - Components: V, S.
 - Duration: Instantaneous.
 
-You try to guard your target from the effects of an incoming spell. They gain a bonus to their saving throw equal to your Spellcasting ability modifier.
+You try to guard your target from the effects of an incoming spell. They gain a bonus to their saving throw equal to your Spellcasting ability modifier (at least 1).
 
 _Upcasting_: For every additional Spell Point spent, they gain an additional bonus of +1 to their saving throw.
 #### Inhibit
@@ -82,7 +82,7 @@ _Enchantment (Cleric, Wizard, Warlock)_
 - Components: V, S.
 - Duration: Concentration, up to 1 minute.
 
-You decrease a spellcasters ability to cast powerful spells. One creature that you can see within range must succeed on a Charisma saving throw or have their [[Spell Limits#Casting Limit|Casting Limit]] reduced by your Spellcasting ability modifier for the duration of this spell. At the end of each of its turns, the target repeats the save, ending the spell on itself on a success.
+You decrease a spellcasters ability to cast powerful spells. One creature that you can see within range must succeed on a Charisma saving throw or have their [[Spell Limits#Casting Limit|Casting Limit]] reduced by your Spellcasting ability modifier (at least 1) for the duration of this spell. At the end of each of its turns, the target repeats the save, ending the spell on itself on a success.
 
 _Upcasting_: For every additional Spell Point spent, the [[Spell Limits#Casting Limit|Casting Limit]] reduction increases by 1.
 #### Rewind
@@ -106,7 +106,7 @@ _Abjuration (Bard, Sorcerer, Warlock, Wizard)_
 - Components: V, S.
 - Duration: Instantaneous.
 
-You try to make the spell attack miss. Reduce the attack roll by your Spellcasting ability modifier.
+You try to diffuse the spell attack. Reduce the attack roll by your Spellcasting ability modifier (at least 1).
 #### Weavestrike
 _Evocation (Bard, Paladin, Sorcerer, Warlock, Wizard)_
 - Cost: 3 Spell Points.
@@ -115,7 +115,7 @@ _Evocation (Bard, Paladin, Sorcerer, Warlock, Wizard)_
 - Component: V.
 - Duration: Instantaneous.
 
-As you hit the target, it loses a number of Spell Points equal to your Spellcasting ability modifier. These lost Spell Points count against its [[Spell Limits#Casting Limit|Casting Limit]] and can thus force it to [[Overcasting|Overcast]].
+As you hit the target, it loses a number of Spell Points equal to your Spellcasting ability modifier (at least 1). These lost Spell Points count against its [[Spell Limits#Casting Limit|Casting Limit]] and can thus force it to [[Overcasting|Overcast]].
 
 The target can't lose more Spell Points than it currently has. Any Spell Points that would've been spent to remove Spell Points that the target doesn't have remain unspent.
 
@@ -140,9 +140,9 @@ _Transmutation (Druid, Ranger)_
 - Components: V, S, M (a handful of bark).
 - Duration: 1 hour.
 
-You touch a willing creature. Until the spell ends, the target’s skin assumes a bark-like appearance, and the target has a Damage Reduction of 4 if its Damage Reduction was lower before. Then, its Damage Reduction is increased by 3, for a minimum Damage Reduction of 7.
+You touch a willing creature. Until the spell ends, the target’s skin assumes a bark-like appearance, giving the target a Damage Reduction of 3 if its Damage Reduction was lower before. Then, the target gains a bonus to its Damage Reduction equal to your Spellcasting ability modifier (at least 1).
 
-_Upcasting_: For every additional 4 Spell points spent, the Damage Reduction is increased by an additional 1.
+_Upcasting_: For every additional 4 Spell Points spent, the bonus to Damage Reduction increases by 1.
 #### Blur
 _Illusion (Sorcerer, Wizard)_
 - Cost: 6 Spell Points.
@@ -151,9 +151,11 @@ _Illusion (Sorcerer, Wizard)_
 - Component: V.
 - Duration: Concentration, up to 1 minute.
 
-Your body becomes blurred. For the duration, any creature has Disadvantage on attack rolls against you and your Hit DC increases by 5 for those attacks.
+Your body becomes blurred. For the duration, any creature has Disadvantage on attack rolls against you and your Hit DC increases by your Spellcasting ability modifier (at least 1) for those attacks.
 
 An attacker is unaffected by this spell if they have the Blinded condition, Blindsight, or Truesight.
+
+_Upcasting_: For every additional 4 Spell Points spent, the bonus to Hit DC increases by 1. 
 #### Cure Wounds
 _Abjuration (Bard, Cleric, Druid, Paladin, Ranger)_
 - Cost: 3 Spell Points.
@@ -162,7 +164,7 @@ _Abjuration (Bard, Cleric, Druid, Paladin, Ranger)_
 - Components: V, S.
 - Duration: Instantaneous.
 
-A creature you touch regains a number of Hit Points equal to 2d8 plus your spellcasting ability modifier and has all their [[Conditions#Wounded|wounds]] removed.
+A creature you touch regains a number of Hit Points equal to 2d8 plus your Spellcasting ability modifier and has all their [[Conditions#Wounded|wounds]] removed.
 
 _Upcasting_: For every additional 3 Spell Points spent, the healing increases by 2d8.
 #### Enlarge / Reduce
@@ -220,7 +222,7 @@ _Abjuration (Sorcerer, Wizard)_
 - Components: V, S, M (a piece of cured leather).
 - Duration: 8 hours.
 
-You touch a willing creature who isn’t wearing armor. Until the spell ends, the magical armour protects one of the target's body parts, increasing the Damage Reduction there by 3.
+You touch a willing creature who isn’t wearing armor. Until the spell ends, the magical armour protects one of the target's body parts, giving them a bonus to Damage Reduction there equal to your Spellcasting ability modifier (at least 1).
 
 You can use a Bonus Action on each of your turns or a Reaction when perceiving the target being attacked to make the armour protect a different body part. If it protects their torso, it protects them against all attacks that aren't [[Aimed Strikes]].
 
