@@ -24,7 +24,9 @@
 - added _Transmuted Retaliation_ to change Overcast damage type. Made _Defiance_ damage type agnostic accordingly.
 #### [[Spells]]
 - changed the format for all spells to have the traits be more readable.
-- changed _Rewind_ to cost a bit more and to make some infinite combos impossible.
+- changed the wording of a few spells to be more similar to other spells and features, without mechanical changes.
+- changed _Amplify_, _Inhibit_ and _Weavestrike_ to use your Spellcasting ability modifier instead of a constant.
+- changed _Rewind_ to cost a bit more and make some infinite combos impossible.
 - changed _Mage Armour_ to not protect against Aimed Strikes by default. Made it possible to tell it to protect specific body parts.
 - aligned _Thwart_ with _Guard_ to reduce overlap with _Counterspell_.
 #### [[Magic Items]]

@@ -8,7 +8,7 @@ _Transmutation (Bard, Sorcerer, Warlock, Wizard)_
 - Components: V, S.
 - Duration: Instantaneous.
 
-You amplify a spell with your own magical prowess. If the result of your Spell check exceeds 10 + the spells cost, the spell is upcast by 3 Spell Points without cost.
+You amplify a spell with your own magical prowess. If the result of your Spell check exceeds 10 + the spells cost, the spell is upcast by a number of Spell Points equal to your Spellcasting ability modifier at no additional cost.
 
 _Upcasting_: Every additional Spell Point spent on this spell is used to upcast the target spell regardless of whether you succeed on the check above.
 #### Assist
@@ -30,11 +30,11 @@ _Transmutation (Bard, Sorcerer)_
 
 An aura radiates from you in a 30-foot Emanation for the duration. While in the aura, spellcasters have their [[Spell Limits#Casting Limit|Casting Limit]] increased by a number of Spell Points equal to your Charisma modifier (at least 1).
 
-When you see a spell being cast in this aura, you can decide at will to have that spell be upcast by a number of Spell Points equal to your Charisma modifier (at least 1) without cost.
+When you see a spell being cast in this aura, you can decide at will to have that spell be upcast by a number of Spell Points equal to your Charisma modifier (at least 1) at no additional cost.
 
 When the spell ends, you receive 1 stack of [[Conditions#Weavestrain|Weavestrain]] for every 3 Spell Points you've spent on this spell.
 
-_Upcasting_: For every additional 3 Spell Points spent, the Casting Limit increase and free upcast amount increases by 1.
+_Upcasting_: For every additional 3 Spell Points spent, the [[Spell Limits#Casting Limit|Casting Limit]] increase and free upcast amount increases by 1.
 #### Chain
 _Conjuration (Warlock, Wizard)_
 - Cost: 6 Spell Points.
@@ -43,7 +43,7 @@ _Conjuration (Warlock, Wizard)_
 - Components: V, S, M (one foot of iron chains).
 - Duration: Until broken, dispelled, or escaped from.
 
-Choose two body parts, creatures or objects within range and within 10 feet of each other. They make a Constitution saving throw. Objects automatically fail this saving throw, body parts delegate it to their whole creature. When both targets fail, they are bound by a 10 foot iron chain that burrows itself into them, dealing 3d4 Piercing damage each. The targets cannot be separated by more than that length without having to break the chain first, and affected creatures or body parts cannot move or be moved away further from the other target than the chain allows for.
+You bind two targets together with 10 feet of chains. Choose two body parts, creatures or objects within range and within 10 feet of each other. They make a Constitution saving throw. Objects automatically fail this saving throw, body parts delegate it to their whole creature. On a failed save, one end of an iron chain burrows itself into the target, dealing 3d4 Piercing damage. When both targets fail, they are bound together by a 10 foot long iron chain. The targets cannot be separated by more than that length without having to break the chain first, and they cannot move or be moved away further from the other target than the chain allows for.
 
 When the chain deals damage to a body part, it triggers a [[Aimed Strikes|Wound save]].
 
@@ -71,9 +71,9 @@ _Abjuration (Bard, Cleric, Druid)_
 - Components: V, S.
 - Duration: Instantaneous.
 
-You try to guard your target from the effects of an incoming spell. They add your Spellcasting ability modifier to their saving throw.
+You try to guard your target from the effects of an incoming spell. They gain a bonus to their saving throw equal to your Spellcasting ability modifier.
 
-_Upcasting_: Every additional Spell Point spent gives them an additional +1 to their saving throw.
+_Upcasting_: For every additional Spell Point spent, they gain an additional bonus of +1 to their saving throw.
 #### Inhibit
 _Enchantment (Cleric, Wizard, Warlock)_
 - Cost: 3 Spell Points.
@@ -82,9 +82,9 @@ _Enchantment (Cleric, Wizard, Warlock)_
 - Components: V, S.
 - Duration: Concentration, up to 1 minute.
 
-You decrease a spellcasters ability to cast powerful spells. One creature that you can see within range must succeed on a Charisma saving throw or have their Casting Limit reduced by 3 for the duration of this spell. At the end of each of its turns, the target repeats the save, ending the spell on itself on a success.
+You decrease a spellcasters ability to cast powerful spells. One creature that you can see within range must succeed on a Charisma saving throw or have their [[Spell Limits#Casting Limit|Casting Limit]] reduced by your Spellcasting ability modifier for the duration of this spell. At the end of each of its turns, the target repeats the save, ending the spell on itself on a success.
 
-_Upcasting_: For every additional Spell Point spent, the Casting Limit reduction increases by 1.
+_Upcasting_: For every additional Spell Point spent, the [[Spell Limits#Casting Limit|Casting Limit]] reduction increases by 1.
 #### Rewind
 _Transmutation (Sorcerer, Wizard)_
 - Cost: 4 Spell Points.
@@ -115,7 +115,7 @@ _Evocation (Bard, Paladin, Sorcerer, Warlock, Wizard)_
 - Component: V.
 - Duration: Instantaneous.
 
-As you hit the target, it loses 3 Spell Points. These lost Spell Points count against its Casting Limit and can thus force it to [[Overcasting|Overcast]].
+As you hit the target, it loses a number of Spell Points equal to your Spellcasting ability modifier. These lost Spell Points count against its [[Spell Limits#Casting Limit|Casting Limit]] and can thus force it to [[Overcasting|Overcast]].
 
 The target can't lose more Spell Points than it currently has. Any Spell Points that would've been spent to remove Spell Points that the target doesn't have remain unspent.
 
@@ -128,9 +128,9 @@ _Enchantment (Cleric, Wizard, Warlock)_
 - Components: V, S.
 - Duration: Concentration, up to 1 minute.
 
-You create a magical zone that decreases spellcasters ability to cast powerful spells in a 15-foot-radius Sphere centered on a point within range. Until the spell ends, a creature that enters the spell's area for the first time on a turn or starts its turn there makes a Charisma saving throw. On a failed save, a creature has its Casting Limit reduced by 9 while in the radius.
+You create a magical zone that decreases spellcasters ability to cast powerful spells in a 15-foot-radius Sphere centered on a point within range. Until the spell ends, a creature that enters the spell's area for the first time on a turn or starts its turn there makes a Charisma saving throw. On a failed save, a creature has its [[Spell Limits#Casting Limit|Casting Limit]] reduced by 9 while in the radius.
 
-_Upcasting_: For every additional 2 Spell Points spent, the Casting Limit reduction increases by 1.
+_Upcasting_: For every additional 2 Spell Points spent, the [[Spell Limits#Casting Limit|Casting Limit]] reduction increases by 1.
 ### Reworked Spells - Defence
 #### Barkskin
 _Transmutation (Druid, Ranger)_
