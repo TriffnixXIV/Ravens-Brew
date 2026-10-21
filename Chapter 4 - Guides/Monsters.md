@@ -47,7 +47,7 @@ You should also have Shells use regular attacks to threaten particular character
 
 **_Using Surge Dice_**: When playing Shells, refrain from using Surge Dice to give yourself Temporary Hit Points. These can be quite difficult to get through, especially with your heightened Damage Reduction. Use them for additional movement to close the gap to more vulnerable and damaging characters, to enforce crowd control more reliably, or to make your attacks more deadly when appropriate.
 #### Sponges
-**_Defence_**: These monsters have a low Damage Reduction and a low Hit DC due to a larger size and lacking armour. Therefor, they should have a higher Hit Point total. In fights against these monsters, disabling their body parts is a good way for the players to make progress. Use d10, d12 or d20 as their Hit Dice.
+**_Defence_**: These monsters have a low Damage Reduction and a low Hit DC due to a larger size and lacking Armour. Therefor, they should have a higher Hit Point total. In fights against these monsters, disabling their body parts is a good way for the players to make progress. Use d10, d12 or d20 as their Hit Dice.
 
 **_Offence_**: By virtue of being larger, these monsters have less accurate attacks, which can appropriately be compensated by having them deal more damage. Generally, as Sponges are more vulnerable to having their body parts disabled, have backup attack options ready, such as kicks and dropping on the target. Use your good offensive body parts and weapons as long as you can to dish out high damage and motivate the party to actually get rid of them. If a Sponge is especially large, make their attacks affect an area instead of singular targets, where the attack roll can determine the DC of a Dexterity saving throw.
 

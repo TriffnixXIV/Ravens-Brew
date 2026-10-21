@@ -8,7 +8,7 @@
 - added an appendix with past changelogs.
 #### [[AC-less Defence]]
 - added an example for Armor Class to Damage Reduction conversion.
-- Damage Reduction now applies to attacks instead, including spell attacks. This is meant to be a buff to Damage Reduction and meant to make it more intuitive when it applies and when it doesn't. This also restores the classic connection between attacks and armour.
+- Damage Reduction now applies to attacks instead, including spell attacks. This is meant to be a buff to Damage Reduction and meant to make it more intuitive when it applies and when it doesn't. This also restores the classic connection between attacks and Armour.
 - removed Dodging from the list of reactions that can reduce attack damage to 0 and thus make the attack count as a miss, because Dodging explicitly states that a dodged attack misses.
 - added a new set of smaller sizes and changed multiple base Missing Thresholds.
 - added a table as a reference for the sizes.
@@ -26,7 +26,7 @@
 - explicated that temporary damage increases also increase Parrying Power.
 - critical Parries now have increased Parrying Power.
 #### [[Armour]]
-- now features a table with armour stats.
+- now features a table with Armour stats.
 #### [[Feats]]
 - added adjustments to _Weapon Master_.
 - now offers the entire feat description.

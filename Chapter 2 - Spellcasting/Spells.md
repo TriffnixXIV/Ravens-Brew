@@ -222,11 +222,11 @@ _Abjuration (Sorcerer, Wizard)_
 - Components: V, S, M (a piece of cured leather).
 - Duration: 8 hours.
 
-You touch a willing creature who isn’t wearing armor. Until the spell ends, the magical armour protects one of the target's body parts, giving them a bonus to Damage Reduction there equal to your Spellcasting ability modifier (at least 1).
+You touch a willing creature to protect an unarmoured part of their body with an immaterial magical Light Armour. Until the spell ends, this Armour protects one of the target's body parts, giving them a bonus to Damage Reduction there equal to your Spellcasting ability modifier (at least 1).
 
-You can use a Bonus Action on each of your turns or a Reaction when perceiving the target being attacked to make the armour protect a different body part. If it protects their torso, it protects them against all attacks that aren't [[Aimed Strikes]].
+You can use a Bonus Action on each of your turns or a Reaction when you see the target being attacked to make this Armour protect a different unarmoured body part. If it protects their torso, it protects them against all attacks that aren't [[Aimed Strikes]].
 
-The spell ends early if the target dons armor.
+The spell ends early if there is no unarmoured body part that this spell can protect.
 
 _Upcasting_: For every additional 4 Spell Points spent, the bonus to Damage Reduction increases by 1.
 #### Shield

@@ -1,6 +1,6 @@
-Martial Training is a new system that encompasses weapon Proficiency, weapon mastery, Fighting Styles, Armour Training, and some Feats that interface with weapons and armour. Proficiency and Expertise in [[Parrying]] and [[Blocking]] are also part of this system, as are other features relating to [[AC-less Defence]] generally.
+Martial Training is a new system that encompasses weapon Proficiency, weapon mastery, Fighting Styles, Armour Training, and some Feats that interface with weapons and Armour. Proficiency and Expertise in [[Parrying]] and [[Blocking]] are also part of this system, as are other features relating to [[AC-less Defence]] generally.
 
-This rework is motivated by three reasons. Firstly, with the Hit DC being largely unchanging with level and being quite low especially with larger creatures, there's not as large of a benefit in adding the Proficiency Bonus to ones attack rolls. This opens up the possibility of allowing players to decide against adding this Proficiency Bonus in favour of other benefits for offence or defence. One of these benefits aptly allows players to bypass parts of an enemies Damage Reduction, scaling with the Proficiency Bonus, so that there are now options to ease hitting enemies and to ease damaging them through armour, mirroring the separation of Armor Class into Hit DC and Damage Reduction.
+This rework is motivated by three reasons. Firstly, with the Hit DC being largely unchanging with level and being quite low especially with larger creatures, there's not as large of a benefit in adding the Proficiency Bonus to ones attack rolls. This opens up the possibility of allowing players to decide against adding this Proficiency Bonus in favour of other benefits for offence or defence. One of these benefits aptly allows players to bypass parts of an enemies Damage Reduction, scaling with the Proficiency Bonus, so that there are now options to ease hitting enemies and to ease damaging them through Armour, mirroring the separation of Armor Class into Hit DC and Damage Reduction.
 
 Secondly, the new defensive reactions introduced in this ruleset should be something a character can specialize in. In previous versions of this ruleset, this was enabled through changes to general feats and through connections with Expertise class features. Both of those are limited in their accessibility, and especially fighters should be able to access special defensive features more than other classes, while not themselves having access to Expertise. Thus, by introducing these features here, martial classes actually have prioritized access to the new martial features.
 
@@ -103,28 +103,28 @@ You can pick this feature multiple times, but only for different damage types.
 **_Wrestler_**: You gain the following benefits:
 - At the start of each of your turns, you can deal 1d4 Bludgeoning damage to one creature Grappled by you.
 - You have Advantage on attack rolls against a creature Grappled by you.
-### [[Aimed Strikes|Aimed Strike]] Features
-**_Hamstring_**: When you hit a creatures legs with an Aimed Strike that deals Slashing or Piercing damage, its Speed is reduced by 10 feet until the start of your next turn.
+### Aimed Strike Features
+**_Hamstring_**: When you hit a creatures legs with an [[Aimed Strikes|Aimed Strike]] that deals Slashing or Piercing damage, its Speed is reduced by 10 feet until the start of your next turn.
 
-**_Immaculate Aim_**: When making an Aimed Strike, you gain an additional bonus to the attack roll equal to either half the amount the Hit DC increased by or your Proficiency Bonus, whichever is lower.
+**_Immaculate Aim_**: When making an [[Aimed Strikes|Aimed Strike]], you gain an additional bonus to the attack roll equal to either half the amount the Hit DC increased by or your Proficiency Bonus, whichever is lower.
 
-**_Knowing the Spot_**: When you hit a target with an Aimed Strike, you deal additional damage equal to your Intelligence modifier (at least 1).
+**_Knowing the Spot_**: When you hit a target with an [[Aimed Strikes|Aimed Strike]], you deal additional damage equal to your Intelligence modifier (at least 1).
 
-**_Reliable Aim_**: When making an Aimed Strike with Advantage and missing the target part, you can still hit the larger target with a normal attack, if using the lower die roll for the attack roll instead of the higher one results in a hit against the larger target. This hit does not count as an Aimed Strike and thus will not trigger a Wound save.
+**_Reliable Aim_**: When making an [[Aimed Strikes|Aimed Strike]] with Advantage and missing the target part, you can still hit the larger target with a normal attack, if using the lower die roll for the attack roll instead of the higher one results in a hit against the larger target. This hit does not count as an [[Aimed Strikes|Aimed Strike]] and thus will not trigger a Wound save.
 
-**_Topple_**: When you hit a creatures legs or head with a melee Aimed Strike using a weapon with the Versatile or Two-Handed property, the creature receives the Prone condition. If the creature is larger than you, it only receives the Prone condition when it fails its Wound save.
+**_Topple_**: When you hit a creatures legs or head with a melee [[Aimed Strikes|Aimed Strike]] using a weapon with the Versatile or Two-Handed property, the creature receives the Prone condition. If the creature is larger than you, it only receives the Prone condition when it fails its [[Aimed Strikes|Wound save]].
 
-**_Wounding Critical_**: When you score a Critical Hit on an attack that is not an Aimed Strike, you may choose a body part to target regardless, forcing the target to roll a Wound save as if the attack had been an Aimed Strike against that body part.
+**_Wounding Critical_**: When you score a Critical Hit on an attack that is not an [[Aimed Strikes|Aimed Strike]], you may choose a body part to target regardless, forcing the target to roll a [[Aimed Strikes|Wound save]] as if the attack had been an [[Aimed Strikes|Aimed Strike]] against that body part.
 ### Reaction Features
-**_Pattern Recognition_**: Requires Proficiency in Perception. When you successfully block, dodge or parry the attack of a creature, you gain Advantage on your next Blocking, Dodging or Parrying check against that same creature this combat.
+**_Pattern Recognition_**: Requires Proficiency in Perception. When you successfully [[Blocking|block]], [[Dodging|dodge]] or [[Parrying|parry]] the attack of a creature, you gain Advantage on your next [[Blocking]], [[Dodging]] or [[Parrying]] check against that same creature this combat.
 
 **_Spider Sense_**: Requires Proficiency in Perception. You can treat attacks within 10 feet of you that you can't see as if you did see them, allowing you to react to them.
-#### [[Dodging]] Features
-**_Areal Awareness_**: You can now also use Dodge & Roll against areas of effect that target you, potentially moving you out of their area to avoid a required saving throw. If your Dodging check is at least as high as the DC of the effect, it succeeds.
+#### Dodging Features
+**_Areal Awareness_**: You can now also use [[Dodging|Dodge & Roll]] against areas of effect that target you, potentially moving you out of their area to avoid a required saving throw. If your [[Dodging]] check is at least as high as the DC of the effect, it succeeds.
 
 If it succeeds and your movement makes you leave the area of effect, you are not affected by the effect.
 
-If you remain inside an area of effect that required a Dexterity saving throw, your Dodging check replaces the saving throw to determine how you are affected.
+If you remain inside an area of effect that required a Dexterity saving throw, your [[Dodging]] check replaces the saving throw to determine how you are affected.
 
 If you remain inside an area of effect that required another saving throw, make the other saving throw as usual regardless of the success of your check.
 
@@ -132,61 +132,61 @@ If you remain inside an area of effect that required another saving throw, make 
 
 **_Dodging Expert_**: Requires Proficiency in Acrobatics. You gain Expertise in Acrobatics.
 
-**_Happy Feet_**: You add your Dexterity modifier to your Dodging checks twice. When wearing Medium or Heavy Armour, their limits apply to the Dexterity modifier before it is being doubled.
+**_Happy Feet_**: You add your Dexterity modifier to your [[Dodging]] checks twice. When wearing Medium or Heavy [[Armour]], their limits apply to the Dexterity modifier before it is being doubled.
 
-**_Nimble Attack_**: Whenever you successfully dodge an attack with a Dodge & Roll, you can take a Free Reaction or Reaction mid-roll to make a ranged attack with one of your weapons with the Finesse and Thrown properties against a creature of your choice within range that you can see.
+**_Nimble Attack_**: Whenever you successfully dodge an attack with a [[Dodging|Dodge & Roll]], you can take a Free Reaction or Reaction mid-roll to make a ranged attack with one of your weapons with the Finesse and Thrown properties against a creature of your choice within range that you can see.
 
-**_Prediction_**: Once per round, when you use a Reaction to Dodge an attack and roll the Dodging check with Advantage, you can Dodge another attack you can see before the start of your turn without using a Reaction. You have to use the lower die of the previous roll as the roll for the Dodging check.
+**_Prediction_**: Once per round, when you use a Reaction to [[Dodging|dodge]] an attack and roll the [[Dodging]] check with Advantage, you can [[Dodging|dodge]] another attack you can see before the start of your turn without using a Reaction. You have to use the lower die of the previous roll as the roll for the [[Dodging]] check.
 
-**_Untraceable_**: When you successfully dodge an attack, the next attack against you before the start of your next turn is rolled with Disadvantage.
-#### Shield & [[Blocking]] Features
-**_Blocking Adept_**: You gain Proficiency in Blocking.
+**_Untraceable_**: When you successfully [[Dodging|dodge]] an attack, the next attack against you before the start of your next turn is rolled with Disadvantage.
+#### Shield & Blocking Features
+**_Blocking Adept_**: You gain Proficiency in [[Blocking]].
 
-**_Blocking Expert_**: Requires Proficiency in Blocking. You gain Expertise in Blocking.
+**_Blocking Expert_**: Requires Proficiency in [[Blocking]]. You gain Expertise in [[Blocking]].
 
-**_Free Hand Enhancement_**: You ignore the Disadvantage imposed on D20 Tests by the Free Hand shield property.
+**_Free Hand Enhancement_**: You ignore the Disadvantage imposed on D20 Tests by the Free Hand [[Shields#Shield Properties|Shield property]].
 
-**_Interpose Shield_**: Requires Training with Shields and you to wield a Shield. If you’re subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you can take a Reaction to take no damage if you succeed on the saving throw.
+**_Interpose Shield_**: Requires Training with [[Shields]] and you to wield a [[Shields|Shield]]. If you’re subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you can take a Reaction to take no damage if you succeed on the saving throw.
 
-**_Protection_**: Requires Proficiency in Blocking. When a creature you can see attacks another creature within 5 feet of you, you can take a Reaction to block that attack, potentially reducing the damage the target creature takes and giving them the cover your shield provides instead of yourself.
+**_Protection_**: Requires Proficiency in [[Blocking]]. When a creature you can see attacks another creature within 5 feet of you, you can take a Reaction to [[Blocking|block]] that attack, potentially reducing the damage the target creature takes and giving them the cover your [[Shields|Shield]] provides instead of yourself.
 
-**_Shield Bash_**: Requires Training with Shields and you to wield a Shield. If you hit a creature within 5 feet of you as part of the Attack action, you can immediately bash the target with your Shield, making a [[Actions#Grappling & Shoving|shove attack]]. You can use this benefit only once on each of your turns.
+**_Shield Bash_**: Requires Training with [[Shields]] and you to wield a [[Shields|Shield]]. If you hit a creature within 5 feet of you as part of the Attack action, you can immediately bash the target with your [[Shields|Shield]], making a [[Actions#Grappling & Shoving|shove attack]]. You can use this benefit only once on each of your turns.
 
-**_Shield Fighting_**: Requires Training with Shields. Shields also count as Martial Melee weapons for you, with the following properties:
+**_Shield Fighting_**: Requires Training with [[Shields]]. [[Shields]] also count as Martial Melee [[Weapons|weapons]] for you, with the following properties:
 - _Buckler_: 1d4 Bludgeoning damage, Finesse, Light.
 - _Wooden Shield_: 1d6 Bludgeoning damage.
 - _Tower Shield_: 1d8 Bludgeoning damage, Heavy.
 
 **_Shield Training_**: You gain Training with [[Shields]].
-#### [[Parrying]] Features
-**_Arrow Splitting_**: Requires Expertise in Parrying and Proficiency in Perception. You can parry Ranged weapon attacks that you can see and that target you. If you have the Interception feature, you can also parry Ranged weapon attacks targeting other creatures within your reach.
+#### Parrying Features
+**_Arrow Splitting_**: Requires Expertise in [[Parrying]] and Proficiency in Perception. You can [[Parrying|parry]] Ranged weapon attacks that you can see and that target you. If you have _Interception_, you can also [[Parrying|parry]] Ranged weapon attacks targeting other creatures within your reach.
 
-**_Cross-parry_**: Requires Proficiency in Parrying. If you are wielding more than one melee weapon, you can parry using multiple of those weapons at once. If the parry is successful, reduce the attacks damage by the sum of the Parrying Powers of all used weapons instead.
+**_Cross-parry_**: Requires Proficiency in [[Parrying]]. If you are wielding more than one melee weapon, you can [[Parrying|parry]] using multiple of those weapons at once. If the [[Parrying|parry]] is successful, reduce the attacks damage by the sum of the [[Parrying|Parrying Powers]] of all used weapons instead.
 
-**_Interception_**: When a creature you can see attacks another creature within your reach with a Melee weapon, you can take a Reaction to parry that attack, potentially reducing the damage the target creature takes. You must be holding a Melee weapon to use this Reaction.
+**_Interception_**: When a creature you can see attacks another creature within your reach with a Melee weapon, you can take a Reaction to [[Parrying|parry]] that attack, potentially reducing the damage the target creature takes.
 
-**_Intuitive Parry_**: You gain a bonus to your Parrying checks equal to your Wisdom modifier (at least 1).
+**_Intuitive Parry_**: You gain a bonus to your [[Parrying]] checks equal to your Wisdom modifier (at least 1).
 
-**_Parrying Adept_**: You gain Proficiency in Parrying.
+**_Parrying Adept_**: You gain Proficiency in [[Parrying]].
 
-**_Parrying Expert_**: Requires Proficiency in Parrying. You gain Expertise in Parrying.
+**_Parrying Expert_**: Requires Proficiency in [[Parrying]]. You gain Expertise in [[Parrying]].
 
-**_Potent Parry_**: Requires Proficiency in Parrying. You add your Proficiency Bonus to the Parrying Power of your Finesse weapons. If you have Expertise in Parrying, you add it twice instead.
+**_Potent Parry_**: Requires Proficiency in [[Parrying]]. You add your Proficiency Bonus to the [[Parrying|Parrying Power]] of your Finesse weapons. If you have Expertise in [[Parrying]], you add it twice instead.
 
-**_Tit for Tat_**: When you successfully parry an attack, you can take a Free Reaction or Reaction to make an attack against the attacker with one weapon you are wielding that was not part of your parry.
+**_Tit for Tat_**: When you successfully [[Parrying|parry]] an attack, you can take a Free Reaction or Reaction to make an attack against the attacker with one weapon you are wielding that was not part of your [[Parrying|parry]].
 
-**_Weapon Locking_**: Requires Proficiency in Parrying. When you parry a melee weapon attack and reduce the damage to 0, your parry weapon locks with the attackers weapon until either of you leave the others reach or the attacker pulls away the weapon. Before that, neither of you can make melee attacks with the locked weapon. When the attacker pulls away their weapon without leaving your reach, you can take a Free Reaction or Reaction to make an attack against the attacker with your now unlocked weapon.
-### [[Armour]] Features
-**_Armour Master_**: You can use your Reaction to [[Blocking|block]] an attack you can perceive and that targets you with one of the Armour pieces you wear that you have Training with, using a Blocking Modifier of +6. When blocking this way successfully, the damage of the attack is not negated completely, but the Damage Reduction of the used armour piece is doubled against it.
+**_Weapon Locking_**: Requires Proficiency in [[Parrying]]. When you [[Parrying|parry]] a melee weapon attack and reduce the damage to 0, your [[Parrying|parry]] weapon locks with the attackers weapon until either of you leave the others reach or the attacker pulls away the weapon. Before that, neither of you can make melee attacks with the locked weapon. When the attacker pulls away their weapon without leaving your reach, you can take a Free Reaction or Reaction to make an attack against the attacker with your now unlocked weapon.
+### Armour Features
+**_Armour Master_**: You can use your Reaction to [[Blocking|block]] an attack you can see and that targets you with one of the [[Armour#Armour Pieces|Armour pieces]] you wear, that you have Training with, and that can plausibly be moved to [[Blocking|block]] the incoming attack, using a [[Blocking|Blocking Modifier]] of +6. When blocking this way successfully, the damage of the attack is not negated completely, but the Damage Reduction of the used [[Armour#Armour Pieces|Armour piece]] is doubled against it.
 
-If you have Proficiency in Blocking, you also add your Proficiency Bonus to your Damage Reduction against this attack. If you have Expertise in Blocking, you add it twice instead.
+If you have Proficiency in [[Blocking]], you also add your Proficiency Bonus to your Damage Reduction against this attack. If you have Expertise in [[Blocking]], you add it twice instead.
 
-**_Defence_**: You gain an additional +1 bonus to Damage Reduction on all body parts covered in armour you are trained with.
+**_Defence_**: You gain an additional +1 bonus to Damage Reduction on all body parts covered in [[Armour]] you are trained with.
 
-**_Heavy Armour Training_**: Requires Training with Medium Armour. You gain Training with Heavy Armour.
+**_Heavy Armour Training_**: Requires Training with Medium [[Armour]]. You gain Training with Heavy [[Armour]].
 
-**_Light Armour Training_**: You gain Training with Light Armour.
+**_Light Armour Training_**: You gain Training with Light [[Armour]].
 
-**_Medium Armour Training_**: Requires Training with Light Armour. You gain Training with Medium Armour.
+**_Medium Armour Training_**: Requires Training with Light [[Armour]]. You gain Training with Medium [[Armour]].
 
-**_Second Skin_**: When you wear Medium or Heavy Armour, your Dexterity modifier limit is increased by 1.
+**_Second Skin_**: When you wear Medium or Heavy [[Armour]], your Dexterity modifier limit is increased by 1.

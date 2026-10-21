@@ -11,10 +11,10 @@ Also, adding an option to dodge & roll would be nice, especially because swiftly
 
 **_Prerequisites_**: To use the Dodge Reaction or the Dodge & Roll Reaction described below, you need to not have the Restrained condition.
 
-**_Dodging check_**: A Dodging check is a Dexterity (Acrobatics) check that has its Dexterity modifier limited by the [[Armour|armour]] you're wearing as follows:
-- While wearing light armour or no armour, the Dexterity modifier is not limited.
-- While wearing medium armour, the Dexterity modifier cannot exceed +2 (+3 instead with Second Skin).
-- While wearing heavy armour, the Dexterity modifier cannot exceed +0 (+1 instead with Second Skin).
+**_Dodging check_**: A Dodging check is a Dexterity (Acrobatics) check that has its Dexterity modifier limited by the [[Armour]] you're wearing as follows:
+- While wearing Light Armour or no Armour, the Dexterity modifier is not limited.
+- While wearing Medium Armour, the Dexterity modifier cannot exceed +2 (+3 instead with _Second Skin_).
+- While wearing Heavy Armour, the Dexterity modifier cannot exceed +0 (+1 instead with _Second Skin_).
 
 **_Dodge_**: You can use your Reaction to try to dodge an attack that you can see and that targets you.
 

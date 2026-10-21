@@ -22,17 +22,17 @@ Choose your class as usual, but adapt the following details:
 ### Origin
 Choose your Species, Origin and languages as usual, but adapt the following detail:
 
-**_Tool Proficiency Conversion_**: Instead of getting Proficiency with a set of tools, you receive Training with it instead. To add the Proficiency Bonus to an ability check with a set of tools, the skill you roll the check with matters now.
+**_Tool Proficiency Conversion_**: Instead of getting Proficiency with a set of Tools, you receive Training with it instead. To add the Proficiency Bonus to an ability check with a set of Tools, the skill you roll the check with matters now.
 ### Equipment
 Choose your Equipment as usual, but adapt the following details:
 
 **_Parrying_**: Note your [[Parrying]] Bonus and Parrying Power for each weapon. The Parrying Bonus is equal to the ability modifier used for attacks, the Parrying Power is equal to the maximum damage you deal with a regular hit.
 
-**_New Equipment_**: Take note of the new options for [[Shields]] and the possibility of buying [[Armour#Armour Pieces|Armour Pieces]] instead of full sets of armour.
+**_New Equipment_**: Take note of the new options for [[Shields]] and the possibility of buying [[Armour#Armour Pieces|Armour Pieces]] instead of full sets of Armour.
 
-**_Armour Changes_**: [[Armour]] gives Damage Reduction instead of an AC increase now. The main armour you wear also determines a modifier to your [[Dodging]] checks. Note this modifier.
+**_Armour Changes_**: [[Armour]] gives Damage Reduction instead of an AC increase now. The main Armour you wear also determines a modifier to your [[Dodging]] checks. Note this modifier.
 
-**_Blocking_**: Note your [[Blocking]] Bonus for the shield you use.
+**_Blocking_**: Note your [[Blocking]] Bonus for the Shield you use.
 
 **_Spellcasting Focus_**: Your [[Spellcasting Focus]] determines to which Spell checks you roll without Disadvantage, as noted above and described there.
 ### Other Steps

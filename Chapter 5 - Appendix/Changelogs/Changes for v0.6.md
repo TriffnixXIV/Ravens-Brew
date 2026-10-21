@@ -12,13 +12,13 @@
 - defensive Reactions are now rolled with Disadvantage against critical hits.
 - size now impacts Missing Threshold.
 #### [[Dodging]]
-- the Dodging Bonus is now reduced when wearing medium armour or heavy armour.
+- the Dodging Bonus is now reduced when wearing Medium Armour or Heavy Armour.
 - added a passage that allows the use of the _Evasive Stance_ as a Bonus Action for some characters.
 - made much of the wording more concise.
 - _Dodge & Roll_ can now also be used against area effects.
 #### [[Blocking]]
-- Blocking is now a skill that depends on shields.
-- moved the flat Blocking Bonus to shields themselves.
+- Blocking is now a skill that depends on Shields.
+- moved the flat Blocking Bonus to Shields themselves.
 #### [[Parrying]]
 - made it a bit cleaner and also skill-ish.
 - now features a weapon lock mechanic.

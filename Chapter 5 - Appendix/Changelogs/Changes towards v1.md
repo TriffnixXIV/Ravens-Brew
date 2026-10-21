@@ -4,9 +4,11 @@
 - fixed some inconsistencies.
 - reformatted and reworded the changelogs.
 #### [[Martial Training]]
+- added a lot of links.
 - made opportunity attacks a default feature again.
 - changed _Opportunist_ to _Ranged Opportunist_ and removed the melee option accordingly.
 - removed the _Opportunist_ prerequisite from relevant features.
+- added a plausibility clause to _Armour Master_.
 #### [[Spell Check]]
 - repeated spell saving throws now work similar to other ongoing contests, requiring the Spell check to be rolled again each time.
 - added a paragraph about recasting spells without cost outside of combat, similar to the Warlocks free Eldritch Invocation spells.
@@ -29,11 +31,11 @@
 - changed _Rewind_ to cost a bit more and make some infinite combos impossible.
 - added an upcast option to _Blur_.
 - changed _Inflict Wounds_ to start at 3d10 Necrotic damage.
-- changed _Mage Armour_ to not protect against Aimed Strikes by default. Made it possible to tell it to protect specific body parts.
+- changed _Mage Armour_ to not protect against Aimed Strikes by default. Made it possible to tell it to protect specific body parts. Changed it to be [[Armour]].
 - aligned _Thwart_ with _Guard_ to reduce overlap with _Counterspell_.
 #### [[Magic Items]]
 - added the _Parrying_ prefix for weapons.
-- added two magical shields.
+- added two magical Shields.
 - added the _Ritual Dagger_.
 #### [[Classes]]
 - added _Dying Struggle_ to the Barbarian's level 5 Surge Die feature pool.
@@ -53,8 +55,8 @@
 - changed _Overpower_ to be more direct.
 - turned _Hamstring_ and _Topple_ into Aimed Strike features.
 - changed _Weapon Locking_.
-- moved _Happy Feet_ to Dodging features and made it also work with armour.
-- added _Second Skin_ to increase the Dexterity modifier limit of Medium and Heavy armour.
+- moved _Happy Feet_ to Dodging features and made it also work with Armour.
+- added _Second Skin_ to increase the Dexterity modifier limit of Medium and Heavy Armour.
 - turned _Blind Fighting_ into _Spider Sense_ and changed it to be specifically against attacks.
 #### [[Spell Check]]
 - Spell checks no longer have the Proficiency Bonus added through a Spellcasting Focus.
@@ -85,7 +87,7 @@
 - aligned _Enlarge / Reduce_ with the new size rules.
 #### [[Armour]]
 - now limits the Dexterity modifier for Dodging checks in parallel to the AC Dexterity modifier limit from the base rules.
-- armour pieces now extend this limit to other body parts as well, for Dexterity checks in general.
+- Armour pieces now extend this limit to other body parts as well, for Dexterity checks in general.
 #### [[Classes]]
 - added more introductory text.
 - added level numbers to changed class features to ease referencing.
@@ -116,7 +118,7 @@
 - renamed _Elegant Parry_ to _Intuitive Parry_.
 - renamed _Vengeful Parry_ to _Tit for Tat_.
 - removed _Medium Armour Master_.
-- reworked _Heavy Armour Master_ into _Armour Master_, which now works with all armour types, though still best with heavy armour.
+- reworked _Heavy Armour Master_ into _Armour Master_, which now works with all Armour types, though still best with Heavy Armour.
 - Armour features are now sorted alphabetically.
 #### [[Caster Training]]
 - changed _Arsenal of Tricks_ and _Ritualist_ to work similarly.
@@ -214,12 +216,12 @@
 - Tools use Training instead of Proficiency now.
 	- Tool usage with dual Proficiency thus no longer gives Advantage.
 - Added Improvised Tools.
-- Said a few things about how using tools works.
+- Said a few things about how using Tools works.
 #### [[Magic Items]]
 - Introduced new magical items interacting with the new rules.
 #### [[Shields]]
-- [[Blocking]] checks with shields with the Light property can now only be rolled with Dexterity.
-- Blocking checks with shields with the Heavy property can now only be rolled with Strength.
+- [[Blocking]] checks with Shields with the Light property can now only be rolled with Dexterity.
+- Blocking checks with Shields with the Heavy property can now only be rolled with Strength.
 #### [[Spell Scrolls]]
 - Added universal scrolls that can be used by all characters.
 - Rephrased spell scrolls a bit to fit the Spell Point system.

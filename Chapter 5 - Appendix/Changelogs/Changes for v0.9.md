@@ -136,10 +136,10 @@ This version introduces the Spellcasting Rework, starting with [[#v0.9.a1|v0.9.a
 - changed the _Defence Action_ so that when you had more than three unspent Reactions at the start of your next turn, only three of them are converted into [[Surge Dice]].
 #### [[Dodging]]
 - turned dodging an AoE into a Martial Training feature.
-- reduced the armour-based dodging modifier.
-	- when wearing light or no armour, it's now +2 instead of +5.
-	- when wearing medium armour, it's now +0 instead of +2.
-	- when wearing heavy armour, you now roll with Disadvantage instead of with +0.
+- reduced the Armour-based dodging modifier.
+	- when wearing Light or no Armour, it's now +2 instead of +5.
+	- when wearing Medium Armour, it's now +0 instead of +2.
+	- when wearing Heavy Armour, you now roll with Disadvantage instead of with +0.
 #### [[Martial Training]]
 - turned Opportunity Attacks into the _Opportunist - Melee_ feature.
 - added _Opportunist - Ranged_ to allow for ranged Opportunity Attacks.
@@ -239,7 +239,7 @@ This version introduces the Spellcasting Rework, starting with [[#v0.9.a1|v0.9.a
 - changed _[[Spells#Counterspell|Counterspell]]_ and _[[Spells#Dispel Magic|Dispel Magic]]_ to work based on [[Spell Check|Spell checks]].
 #### [[AC-less Defence#Cover|Cover]]
 - changed cover to work through changes to Hit DC based on the target size instead of degrees of cover.
-- added cover cones to ease a visual derivation of when someone benefits from cover through shields or other small objects.
+- added cover cones to ease a visual derivation of when someone benefits from cover through Shields or other small objects.
 #### [[Shields]]
 - made the Buckler Tiny again.
 #### [[Surge Dice]]

@@ -44,7 +44,7 @@ This version introduced [[Martial Training]], starting with [[#v0.8]].
 #### [[Surgery]]
 - changed the primary attribute to Intelligence.
 - added two skills, Sleight of Hand and Medicine, to Surgery.
-- explicated that when Proficiency in both the tools and one of the associated skills are present, the surgeon rolls with Advantage, in line with existing tool rules.
+- explicated that when Proficiency in both the Tools and one of the associated skills are present, the surgeon rolls with Advantage, in line with existing Tool rules.
 - explicated how to assist and interrupt Surgery.
 - clarified what happens when Surgery is interrupted.
 #### [[Species]]
@@ -79,9 +79,9 @@ This version introduced [[Martial Training]], starting with [[#v0.8]].
 - moved Wounded and Disabled to a new chapter on [[Conditions]].
 - added a table offering example body part sizes for a Medium Humanoid.
 #### [[Armour]]
-- added two new shields and rephrased how they work in terms of size. Moved them to the [[Shields]] chapter.
-- explicated that Damage Reduction from armour usually only works against attacks that aren't Aimed Strikes, unless the armour includes coverage of the targeted body part.
-- added some rudimentary rules for armour pieces to cover other body parts.
+- added two new Shields and rephrased how they work in terms of size. Moved them to the [[Shields]] chapter.
+- explicated that Damage Reduction from Armour usually only works against attacks that aren't Aimed Strikes, unless the Armour includes coverage of the targeted body part.
+- added some rudimentary rules for Armour pieces to cover other body parts.
 #### [[Classes]]
 - added some Bard subclass changes. The College of Dance Bard can now [[Dodging|dodge]] with Performance, and the College of Valor Bard can allows the use of a Bardic Inspiration die instead of a Reaction to react to an attack.
 - revisited Battle Master changes.
@@ -100,7 +100,7 @@ This version introduced [[Martial Training]], starting with [[#v0.8]].
 - updated the Grapple and Shove attacks to appropriately relate to Unarmed Strikes.
 #### [[Martial Training]]
 - is new.
-- reworks how Proficiency and Training with weapons, shields and armour works.
+- reworks how Proficiency and Training with weapons, Shields and Armour works.
 - moved Fighting Styles here.
 - moved combat-oriented Feats here.
 - moved weapon mastery properties here.

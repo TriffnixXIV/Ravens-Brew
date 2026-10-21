@@ -13,6 +13,6 @@
 
 **_Object Parts_**: Similar to how a body has body parts that can be targeted with [[Aimed Strikes]], objects may have object parts. However, unlike body parts, objects can't be [[Conditions#Wounded|wounded]] and don't roll Wound saves. Instead, when an object part is hit with an Aimed Strike and takes damage, it is damaged, impairing its functionality, and when it is hit again, it is broken, disabling its functionality.
 
-**_Repairing Objects_**: Damaged and broken objects can usually be fixed through the use of appropriate tools or the Mending spell, restoring their functionality. This may not apply to magical objects.
+**_Repairing Objects_**: Damaged and broken objects can usually be fixed through the use of appropriate Tools or the Mending spell, restoring their functionality. This may not apply to magical objects.
 
-**_Weapons, Shields and Armour_**: Weapons, shields and armour are usually considered to not take damage from attacks against their wearers or wielders, and they are usually considered to not take damage through ordinary means. When an attack deals sufficient damage to the wearer, an armour may be damaged, and when such an attack is blocked or parried, the shield or weapon may be damaged, too. This should be reserved for special occasions.
+**_Weapons, Shields and Armour_**: Weapons, Shields and Armour are usually considered to not take damage from attacks against their wearers or wielders, and they are usually considered to not take damage through ordinary means. When an attack deals sufficient damage to the wearer, an Armour may be damaged, and when such an attack is blocked or parried, the Shield or weapon may be damaged, too. This should be reserved for special occasions.

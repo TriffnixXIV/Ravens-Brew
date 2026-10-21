@@ -2,16 +2,16 @@ With the changes in this ruleset, there are new stats and mechanics for magic it
 ### Armour
 [[Armour]] now gives Damage Reduction instead of modifying ones Armour Class. Magical +1 or +2 Armour sets will have this bonus apply to this Damage Reduction.
 
-The introduction of dedicated Armour Pieces also allows for magic armour for specific body parts, with more local effects. Consider, for example, that a magical set of bracers may not be worn together with other armour covering the lower arms.
+The introduction of dedicated Armour Pieces also allows for magic Armour for specific body parts, with more local effects. Consider, for example, that a magical set of bracers may not be worn together with other Armour covering the lower arms.
 #### Adamantine Armour
 _Rare Medium or Heavy Armour (except Hide Armour. Torso)_
 
 Attack rolls made against you have their roll on the d20 reduced by 1. Once per short or long rest, you can activate the _Adamantine Aura_ with a Bonus Action for one minute.
 - _Adamantine Aura_: An aura radiates from you in a 30-foot Emanation for the duration. While in the aura, attacks against targets in the aura have their roll on the d20 reduced by 2.
 #### Elemental Armour
-_Uncommon Armour (any armour type, any body part)_
+_Uncommon Armour (any Armour type, any body part)_
 
-This armour offers an additional Damage Reduction of 5 against a given damage type chosen from Acid, Cold, Fire, Lightning and Thunder damage.
+This Armour offers an additional Damage Reduction of 5 against a given damage type chosen from Acid, Cold, Fire, Lightning and Thunder damage.
 #### Scaledrain Armour
 _Rare Medium or Heavy Armour (Torso)_
 

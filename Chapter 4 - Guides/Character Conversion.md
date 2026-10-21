@@ -12,13 +12,13 @@ Check the [[Feats|General Feats]] you have and whether they've been converted in
 
 **_[[Species#Small Characters|Small Characters]]_**: If you are Small, you gain a +2 bonus to all attack rolls, a -1 malus to weapon damage rolls, and your Hit Dice are reduced to the next smaller die. To update your Hit Point Maximum accordingly, reduce it by a number equal to your level, then reduce it by 1.
 
-**_[[Armour]]_**: Check the armour you own. Convert the AC it gives into Damage Reduction following the rules given in the chapter on [[Armour]]. You have a full set of each armour you own. Also note each armours modifier to your [[Dodging]] checks.
+**_[[Armour]]_**: Check the Armour you own. Convert the AC it gives into Damage Reduction following the rules given in the chapter on [[Armour]]. You have a full set of each Armour you own. Also note each Armours modifier to your [[Dodging]] checks.
 
 **_[[Weapons]]_**: Check the weapons you own. Remove the Proficiency Bonus from your attack rolls, as weapons now work through Training. You can get the Proficiency Bonus back later through Martial Training.
 
 Note your [[Parrying]] Bonus and Parrying Power for each weapon. The Parrying Bonus is equal to the ability modifier used for attacks, the Parrying Power is equal to the maximum damage you deal with a regular hit.
 
-**_[[Shields]]_**: If you have a shield, note a [[Blocking]] Modifier of +4 for it.
+**_[[Shields]]_**: If you have a Shield, note a [[Blocking]] Modifier of +4 for it.
 
 **_[[Martial Training]]_**: Weapon Mastery Properties and Fighting Style feats no longer exist in their previous form, as all of those have been converted into Martial Training features. As noted in the paragraph on Training features above, you have access to a number of Training features equal to your Proficiency Bonus, shared between [[Martial Training]] features and [[Caster Training]] features, and you might receive additional Training from your [[Classes|class]].
 

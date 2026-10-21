@@ -2,7 +2,7 @@ In light of the changes to [[Combat]] and [[Spellcasting]], many Classes had the
 
 Additionally, all classes receive a new feature on level 5 that revolves around Surge Dice, and some classes gain additional access to Training features. For martials, this depends roughly on the classes previous access to Fighting Styles and Weapon Mastery Properties.
 ### Barbarian
-**_Level 1 - Unarmoured Defence_**: While you aren't wearing any armour, you add your Constitution modifier (at least 1) to your [[AC-less Defence#Damage Reduction|Damage Reduction]]. You can use a Shield and still gain this benefit.
+**_Level 1 - Unarmoured Defence_**: While you aren't wearing any Armour, you add your Constitution modifier (at least 1) to your [[AC-less Defence#Damage Reduction|Damage Reduction]]. You can use a Shield and still gain this benefit.
 
 **_Level 3 - Barbarian Training (new)_**: You receive one additional [[Martial Training]] feature.
 
@@ -19,7 +19,7 @@ Additionally, all classes receive a new feature on level 5 that revolves around 
 - _Infectious Inspiration_: When you use your Bonus Action to give another creature Bardic Inspiration, you receive one Surge Die.
 - _In Tune_: When you use your Bonus Action to give another creature Bardic Inspiration, you can spend one of your Surge Dice instead of one of your Bardic Inspiration dice.
 #### College of Dance
-**_Level 3 - Dazzling Footwork - Unarmoured Defence_**: When you aren't wearing armour or wielding a shield, you can roll Charisma (Performance) instead of Dexterity (Acrobatics) when [[Dodging]], and you add both your Charisma modifier and your Dexterity modifier to the roll.
+**_Level 3 - Dazzling Footwork - Unarmoured Defence_**: When you aren't wearing Armour or wielding a Shield, you can roll Charisma (Performance) instead of Dexterity (Acrobatics) when [[Dodging]], and you add both your Charisma modifier and your Dexterity modifier to the roll.
 #### College of Valor
 **_Level 3 - Combat Inspiration - Defence_**: When the creature is hit by an attack roll, that creature can use the Bardic Inspiration die instead of a Reaction to attempt to [[Blocking|block]], [[Parrying|parry]] or [[Dodging|dodge]] the attack. When doing so, the creature rolls the Bardic Inspiration die and adds the number rolled to the corresponding check, potentially causing the attack to miss or deal reduced damage.
 ### Cleric
@@ -60,7 +60,7 @@ Additionally, all classes receive a new feature on level 5 that revolves around 
 ### Monk
 **_Level 1 - Martial Arts - Dexterous Attacks_**: Instead of using the Dexterity modifier to determine the save DC when using the Grapple or Shove option of your Unarmed Strike, you can make a Dexterity (Athletics) check instead of a Strength (Athletics) check when attempting to Grapple or Shove, using the [[Contests|Contest]] rules.
 
-**_Level 1 - Unarmoured Defence_**: Choose one of the following features to gain while you aren't wearing armour or wielding a Shield:
+**_Level 1 - Unarmoured Defence_**: Choose one of the following features to gain while you aren't wearing Armour or wielding a Shield:
 - _Feel the Air_: You add your Wisdom modifier (at least 1) to your [[Dodging]] and [[Parrying]] checks.
 - _Breathe Through Pain_: You add your Wisdom modifier (at least 1) to your [[AC-less Defence#Damage Reduction|Damage Reduction]]. 
 
@@ -72,7 +72,7 @@ Additionally, all classes receive a new feature on level 5 that revolves around 
 
 **_Level 5 - Monk's Surge (new)_**: Choose one of the following [[Surge Dice|Surge Die]] features:
 - _Serenity_: When spending one or more Focus Points, you can instead spend the same amount of Surge Dice. You can also replace a part of the Focus Point cost with the same amount of Surge Dice.
-- _Unarmoured Offence_: While you aren't wearing armour or wielding a Shield, you gain one additional Surge Die at the start of each of your turns.
+- _Unarmoured Offence_: While you aren't wearing Armour or wielding a Shield, you gain one additional Surge Die at the start of each of your turns.
 ### Paladin
 **_Updated Spellcasting Table_**: The Paladin uses the [[Halfcaster Table]].
 
@@ -126,9 +126,9 @@ Additionally, all classes receive a new feature on level 5 that revolves around 
 - _Heightened Presence_: While your Innate Sorcery feature is active, your Surge Dice are d8 instead of d6.
 - _Anticipated Flow_: You can spend Surge Dice to add the roll to all of your Overcast saves until the start of your next turn.
 #### Draconic Sorcery
-**_Level 3 - Draconic Resilience_**: Instead of adding your Charisma modifier to your AC when you are not wearing armour, your Charisma modifier is added to your [[AC-less Defence#Damage Reduction|Damage Reduction]].
+**_Level 3 - Draconic Resilience_**: Instead of adding your Charisma modifier to your AC when you are not wearing Armour, your Charisma modifier is added to your [[AC-less Defence#Damage Reduction|Damage Reduction]].
 #### Wild Magic Sorcery
-**_Level 3 - Wild Magic Surge - 49-52_**: Instead of increasing your AC by 2, the floating shield is small and thus gives a +2 Hit DC to covered medium targets.
+**_Level 3 - Wild Magic Surge - 49-52_**: Instead of increasing your AC by 2, the floating Shield is Small and thus gives a +2 Hit DC to covered Medium targets.
 ### Warlock
 **_Updated Pact Magic Table_**: The Warlock uses the [[Pact Magic Table]].
 
