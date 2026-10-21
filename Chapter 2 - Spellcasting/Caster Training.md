@@ -16,6 +16,8 @@ Secondly, through this system, another layer of possible difference is establish
 - _Utility_: You add your Caster Proficiency Bonus to [[Spell Check|Spell checks]] that neither determine a saving throw DC nor are part of a spell attack.
 You can pick this feature multiple times, but only with different choices.
 
+**_Belay_**: When you roll a [[Spell Check|Spell check]] for a spell you've already rolled a [[Spell Check|Spell check]] for since the start of your last turn, you gain a bonus to the check equal to your Caster Proficiency Bonus if the total is worse than the total of the last one.
+
 **_Emphasis_**: When you roll a [[Spell Check|Spell check]], you can spend any number of [[Spell Points]] to improve it by the number of [[Spell Points]] spent.
 
 **_Gambler_**: You can mold your damaging spells that are either attacks or require a saving throw to deal more damage by taking a bit of risk. You gain the following features:
@@ -34,8 +36,6 @@ You can pick this feature multiple times, but only with different choices.
 - After rolling a [[Spell Check|Spell check]] for a spell that requires but doesn't consume a material component with a specified cost, you can make the spell consume the material component to reroll the [[Spell Check|Spell check]] with Advantage.
 
 **_Reliable Casting_**: Choose a spell school. When you make a [[Spell Check|Spell check]] to cast a spell of that school, you can treat a roll of 7 or lower on the d20 as an 8. You can pick this feature multiple times, but only for different spell schools.
-
-**_Snowball_**: When you roll a [[Spell Check|Spell check]] for a spell you've already rolled a [[Spell Check|Spell check]] for since the start of your last turn, you gain a bonus to the check equal to your Caster Proficiency Bonus if the total is worse than the total of the last one.
 ### Spell Features
 **_Arsenal of Tricks_**: Choose a number of spells equal to your Caster Proficiency Bonus with a [[Spell Points|Spell Point]] cost of 0. You always have those spells prepared, and they count as spells of a class of your choice. Whenever your Caster Proficiency Bonus increases later, you can choose an additional spell to add to this feature.
 
@@ -74,6 +74,8 @@ You can pick this feature multiple times, but only for different damage types.
 
 **_Savage Element_**: Choose one of the following damage types: Acid, Cold, Fire, Lightning, or Thunder. When you roll damage for a spell you cast that deals damage of that type, you add one of the dice to the dice pool an additional time and ignore the lowest die result. You can pick this feature multiple times, but only for different damage types.
 
+**_Snowball_**: When you roll damage for a spell you've already dealt damage with since the start of your last turn, you gain a damage bonus equal to your Caster Proficiency Bonus.
+
 **_Spell Sniper_**: When you cast a spell that has a range of at least 10 feet and requires you to make an attack roll, you can increase the spell's range by 60 feet.
 
 **_Twofold Touch_**: When you hit with a melee spell attack, you can choose one of the following additional effects:
@@ -92,7 +94,7 @@ _Example_: If you apply this feature to Cure Wounds with a Proficiency Bonus of 
 
 **_Cheat_**: Once per Short or Long Rest when you spend [[Spell Points]], you can increase your [[Spell Limits#Casting Limit|Casting Limit]] by twice your Caster Proficiency Bonus until the start of your next turn.
 
-**_Flow_**: If you've spent a number of [[Spell Points]] equal to at least your [[Spell Limits#Casting Limit|Casting Limit]] last round and cast a spell, that spell is upcast by a number of [[Spell Points]] equal to your Caster Proficiency Bonus at no additional cost.
+**_Flow_**: If you've spent a number of [[Spell Points]] equal to at least your [[Spell Limits#Casting Limit|Casting Limit]] since the start of your last turn and cast a spell, that spell is upcast by a number of [[Spell Points]] equal to your Caster Proficiency Bonus at no additional cost.
 
 **_Hoarder_**: Your [[Spell Points|Spell Point]] maximum increases by twice your Caster Proficiency Bonus. You can pick this feature multiple times.
 
@@ -100,7 +102,7 @@ _Example_: If you apply this feature to Cure Wounds with a Proficiency Bonus of 
 
 **_Money Shot_**: When you spend your [[Spell Points]] to cast a spell and have no [[Spell Points]] left afterwards, the roll on the d20 of the [[Spell Check|Spell check]] is automatically a 20. You can use this feature a number of times equal to your Caster Proficiency Bonus per Long Rest.
 
-**_Recast_**: When you cast a spell that you've already cast last round, the casting cost is halved.
+**_Recast_**: When you cast a spell that you've already cast since the start of your last turn, the casting cost is halved.
 
 **_Trash Becomes Treasure_**: Choose a spell school. Your spells from that school with a [[Spell Points|Spell Point]] cost of 0 or less have their cost reduced by your Caster Proficiency Bonus. The rules for [[Spellcasting#Sunken Spells & Depthcasting|Sunken Spells & Depthcasting]] apply. You can pick this feature multiple times, but only for different spell schools.
 

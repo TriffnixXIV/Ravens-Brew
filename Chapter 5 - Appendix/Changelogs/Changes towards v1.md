@@ -10,21 +10,23 @@
 #### [[Spell Check]]
 - repeated spell saving throws now work similar to other ongoing contests, requiring the Spell check to be rolled again each time.
 - added a paragraph about recasting spells without cost outside of combat, similar to the Warlocks free Eldritch Invocation spells.
-#### [[Spells]]
-- changed the format for all spells to have the traits be more readable.
-- changed _Rewind_ to cost a bit more and to make some infinite combos impossible.
-- changed _Mage Armour_ to not protect against Aimed Strikes by default. Made it possible to tell it to protect specific body parts.
-- aligned _Thwart_ with _Guard_ to reduce overlap with _Counterspell_.
 #### [[Caster Training]]
 - updated and reworded the introduction a bit.
 - regrouped the features.
 - added a lot of links.
 - changed _Acuity_ to include an option for utility spells and affect all saving throw spells at once.
-- changed _Snowball_ to be more intuitive and less potent on early high rolls.
+- added _Belay_ to make Spell checks for a ongoing or recast spells more consistent, replacing the now changed _Snowball_.
 - changed _Gambler_ to also deal damage to yourself.
+- changed _Snowball_ to increase damage instead.
 - changed _Twofold Touch_ to use the same damage type as an Unarmed Strike.
-- changed _Flow_ to trigger on overcasting and have a more affordable effect.
+- changed _Flow_ to also trigger on overcasting and have a more affordable effect.
+- changed _Flow_ and _Recast_ to use the start of your last turn as a reference point instead of the last round. 
 - added _Transmuted Retaliation_ to change Overcast damage type. Made _Defiance_ damage type agnostic accordingly.
+#### [[Spells]]
+- changed the format for all spells to have the traits be more readable.
+- changed _Rewind_ to cost a bit more and to make some infinite combos impossible.
+- changed _Mage Armour_ to not protect against Aimed Strikes by default. Made it possible to tell it to protect specific body parts.
+- aligned _Thwart_ with _Guard_ to reduce overlap with _Counterspell_.
 #### [[Magic Items]]
 - added the _Parrying_ prefix for weapons.
 - added two magical shields.
