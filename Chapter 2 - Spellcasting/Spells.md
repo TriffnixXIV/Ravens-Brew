@@ -209,7 +209,7 @@ _Necromancy (Cleric)_
 - Components: V, S.
 - Duration: Instantaneous.
 
-A creature you touch makes a Constitution saving throw, taking 2d10 Necrotic damage on a failed save or half as much damage on a successful one.
+A creature you touch makes a Constitution saving throw, taking 3d10 Necrotic damage on a failed save or half as much damage on a successful one.
 
 On a failed save, you may choose to convert any number of the damage dice into [[Conditions#Wounded|wounds]]. For every converted die, pick a body part that is not already [[Conditions#Wounded|Wounded]]. The body part is now [[Conditions#Wounded|Wounded]].
 

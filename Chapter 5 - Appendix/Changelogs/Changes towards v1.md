@@ -28,6 +28,7 @@
 - changed _Amplify_, _Barkskin_, _Blur_, _Inhibit_, _Mage Armour_ and _Weavestrike_ to use your Spellcasting ability modifier (at least 1) instead of a constant.
 - changed _Rewind_ to cost a bit more and make some infinite combos impossible.
 - added an upcast option to _Blur_.
+- changed _Inflict Wounds_ to start at 3d10 Necrotic damage.
 - changed _Mage Armour_ to not protect against Aimed Strikes by default. Made it possible to tell it to protect specific body parts.
 - aligned _Thwart_ with _Guard_ to reduce overlap with _Counterspell_.
 #### [[Magic Items]]
