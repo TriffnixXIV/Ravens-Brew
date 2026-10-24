@@ -18,7 +18,9 @@
 - added a lot of links.
 - changed _Acuity_ to include an option for utility spells and affect all saving throw spells at once.
 - added _Belay_ to make Spell checks for a ongoing or recast spells more consistent, replacing the now changed _Snowball_.
-- changed _Gambler_ to also deal damage to yourself.
+- explicated that _Emphasis_ improves the roll on the d20.
+- changed _Gambler_ to also deal damage to yourself. Reworded it a bit.
+- added _Volatile Casting_ to increase the Critical Hit range for spells. Made it incompatible with _Reliable Casting_.
 - changed _Snowball_ to increase damage instead.
 - changed _Twofold Touch_ to use the same damage type as an Unarmed Strike.
 - changed _Flow_ to also trigger on overcasting and have a more affordable effect.
