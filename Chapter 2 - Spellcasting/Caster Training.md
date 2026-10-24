@@ -29,7 +29,7 @@ You can pick this feature multiple times, but only with different choices.
 
 **_Jack Up_**: When you cast a spell, it is automatically upcast by one [[Spell Points|Spell Point]] for every 4 your [[Spell Check|Spell check]] exceeds 8 by for free.
 
-**_Keen Gestures_**: When you cast a spell that requires somatic components and each of your hands is either free or holds nothing except a [[Spellcasting Focus]] or the spells material components, you gain a bonus to your [[Spell Check|Spell check]] equal to your Dexterity modifier (at least 1).
+**_Keen Gestures_**: When you roll a [[Spell Check|Spell check]] for a spell that requires somatic components and each of your hands is either free or holds nothing except a [[Spellcasting Focus]] or the spells material components, you gain a bonus to your [[Spell Check|Spell check]] equal to your Dexterity modifier (at least 1).
 
 **_Letting Go_**: You gain the following benefits:
 - You roll [[Spell check|Spell checks]] for spells that consume a material component with a specified cost with Advantage.
@@ -130,7 +130,7 @@ _Example_: If you apply this feature to Cure Wounds with a Proficiency Bonus of 
 
 **_Flexible Focus_**: Choose a kind of [[Spellcasting Focus]] (such as Wands or Staffs) and two spell schools that they are not already associated with. When you use this [[Spellcasting Focus]], it is now also associated with those schools. You can pick this feature multiple times, but only for different kinds of [[Spellcasting Focus]].
 
-**_Hyperfocus_**: When you cast a spell while using two [[Spellcasting Focus|Spellcasting Foci]] that are associated with its school, you roll the [[Spell Check|Spell check]] with Advantage.
+**_Hyperfocus_**: When you roll a [[Spell Check|Spell check]] for a spell while using two [[Spellcasting Focus|Spellcasting Foci]] that are associated with its school, you roll the [[Spell Check|Spell check]] with Advantage.
 
 **_Improvised Focus_**: As an action, you can touch any object that isn't a [[Spellcasting Focus]] for you to turn it into a [[Spellcasting Focus]] for you. When you use this [[Spellcasting Focus]], it is now associated with one spell school of your choice. This association remains until you use this action again.
 
