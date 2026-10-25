@@ -18,12 +18,12 @@ You can pick this feature multiple times, but only with different choices.
 
 **_Belay_**: When you roll a [[Spell Check|Spell check]] for a spell you've already rolled a [[Spell Check|Spell check]] for since the start of your last turn, you gain a bonus to the check equal to your Caster Proficiency Bonus if the total is worse than the total of the last one.
 
-**_Emphasis_**: When you roll a [[Spell Check|Spell check]], you can spend any number of [[Spell Points]] to improve the roll on the d20 by the number of [[Spell Points]] spent, up to a roll of 20.
+**_Emphasis_**: When you roll a [[Spell Check|Spell check]], you can spend any number of [[Spell Points]] to improve the roll on the d20 by the number of [[Spell Points]] spent, up to a roll of 20. This can make the [[Spell Check|Spell check]] score a Critical Hit.
 
-**_Gambler_**: When you roll a [[Spell Check|Spell check]] for a spell attack or to determine the saving throw DC of a damaging spell, you can gamble, sacrificing the spells reliability and a bit of your vitality to make it deal more damage. When you gamble, the following effects apply:
+**_Gambler_**: When you roll a [[Spell Check|Spell check]] for a spell attack or to determine the saving throw DC of a damaging spell, you can _gamble_, sacrificing the spells reliability and a bit of your vitality to make it deal more damage. When you _gamble_, the following effects apply:
 - _Raised Stakes_: Roll any number of additional d4s. You reduce the [[Spell Check|Spell check]] total by that result and take damage of the spells damage type equal to that result. For every d4 you rolled, the spells damage increases by one damage die.
 - _Risk_: When you roll a 1 on the d20 of the [[Spell Check|Spell check]] or its total is 0 or below, the spell dissipates, having no effect, the Action, Bonus Action, or Reaction you've used to cast it is wasted, and you regain the spent [[Spell Points]].
-- _Reward_: When you roll a 20 on the d20 of the [[Spell Check|Spell check]] and the spell requires a saving throw, the spell is a Critical Hit regardless. Roll the damage dice twice and add them together to determine the damage.
+- _Reward_: When you roll a 20 on the d20 of the [[Spell Check|Spell check]] and the spell requires a saving throw, it scores a Critical Hit regardless. Roll the damage dice twice and add them together to determine the damage.
 
 **_Insistence_**: Requires _Emphasis_. When you roll a [[Spell Check|Spell check]], you add a bonus of 1 to the checks total for every 3 [[Spell Points]] you've spent on the corresponding spellcast.
 
@@ -37,7 +37,7 @@ You can pick this feature multiple times, but only with different choices.
 
 **_Reliable Casting_**: Incompatible with _Volatile Casting_. Choose a spell school. When you make a [[Spell Check|Spell check]] to cast a spell of that school, you can treat a roll of 7 or lower on the d20 as an 8. You can pick this feature multiple times, but only for different spell schools.
 
-**_Volatile Casting_**: Requires _Gambler_. Incompatible with _Reliable Casting_. Your [[Spell Check|Spell checks]] for your damaging spells score Critical Hits on a roll of 18-20 on the d20, and your damaging spells dissipate on a roll of 1-3 on the d20.
+**_Volatile Casting_**: Requires _Gambler_. Incompatible with _Reliable Casting_. When you _gamble_, your [[Spell Check|Spell check]] scores a Critical Hit on a roll of 18-20 on its d20, and the spell dissipates on a roll of 1-3 on its d20.
 ### Spell Features
 **_Arsenal of Tricks_**: Choose a number of spells equal to your Caster Proficiency Bonus with a [[Spell Points|Spell Point]] cost of 0. You always have those spells prepared, and they count as spells of a class of your choice. Whenever your Caster Proficiency Bonus increases later, you can choose an additional spell to add to this feature.
 
