@@ -18,31 +18,31 @@ _Rare Medium or Heavy Armour (Torso)_
 Once per short or long rest, you can activate the _Scaledrain Aura_ with a Bonus Action for one minute.
 - _Scaledrain Aura_: An aura radiates from you in a 30-foot Emanation for the duration. While in the aura, targets have their Damage Reduction reduced by 2. Your Damage Reduction increases by 1 for every target in the aura.
 ### Prefixes
-Some magical effects can be found combined with other effects. For example, +1 weapons frequently offer other benefits. For this use case, prefixes are introduced to give a way of naming magical items with such magical effects.
+Some magical effects can be found combined with other effects. For example, +1 Weapons frequently offer other benefits. For this use case, prefixes are introduced to give a way of naming magical items with such magical effects.
 
 When a magical item has one of the following prefixes, this prefix is put in front of the usual name of the item and the effect is added to the item accordingly. For example, an Arrow of Slaying with the _Silent_ prefix thus becomes the Silent Arrow of Slaying, combining the effects.
 
-Consider replacing usual +X weapons and ammunition with weapons or ammunition with added prefixes to increase magical item variety and support specialization across characters. Also, feel free to create more prefixes.
+Consider replacing usual +X Weapons and ammunition with Weapons or ammunition with added prefixes to increase magical item variety and support specialization across characters. Also, feel free to create more prefixes.
 #### Guiding ...
 _Uncommon Weapon_
 
-This weapon grants an additional +2 to attack rolls made with it.
+This Weapon grants an additional +2 to attack rolls made with it.
 #### Infused ...
 _Uncommon Weapon_
 
-This weapon deals an additional 1d4 damage of a given type with attacks made with it.
+This Weapon deals an additional 1d4 damage of a given type with attacks made with it.
 #### Parrying ...
 _Uncommon Weapon_
 
-This weapon has an additional bonus to its Parrying Power of +10.
+This Weapon has an additional bonus to its Parrying Power of +10.
 #### Silent ...
 _Uncommon Melee Weapon or Piece of Ammunition_
 
-Attacks made with this weapon or piece of ammunition can't be perceived through sound.
+Attacks made with this Weapon or piece of ammunition can't be perceived through sound.
 #### Wounding ...
 _Rare Melee Weapon or Piece of Ammunitition_
 
-When this weapon or piece of ammunition is used as part of an Aimed Strike and deals damage, the Wound save DC equals the whole damage or 15, whichever is higher, instead.
+When this Weapon or piece of ammunition is used as part of an Aimed Strike and deals damage, the Wound save DC equals the whole damage or 15, whichever is higher, instead.
 ### Shields
 Given the changes to [[Shields]] in this ruleset, they are in dire need of new magical variants. For example, the classic +X Shields no longer work as usual. Consider replacing +X Shields with their new variant described below.
 #### Shield, +2, +4 or +6

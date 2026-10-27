@@ -15,7 +15,7 @@
 #### [[Action Economy]]
 - Free Reactions no longer reference Free Actions, as those are not part of the 2024 rules. They now refer to the free object interaction instead.
 - using the Ready action now gives an additional Reaction.
-- limited _Prey on the Vulnerable_ to melee weapon attacks and tied it exclusively to the Incapacitated condition.
+- limited _Prey on the Vulnerable_ to Melee Weapon attacks and tied it exclusively to the Incapacitated condition.
 #### [[Surge Dice]]
 - removed _Dying Struggle_, _Elation_ and _Kill Rush_.
 #### [[Perception & Focus]]
@@ -29,7 +29,7 @@
 - now features a table with Armour stats.
 #### [[Feats]]
 - added adjustments to _Weapon Master_.
-- now offers the entire feat description.
+- now offers the entire Feat description.
 - moved Fighting Styles to this chapter.
 - rephrased and buffed _Defensive Duellist_.
 - made the changed _Dual Wielder_ a variant instead of a replacement.

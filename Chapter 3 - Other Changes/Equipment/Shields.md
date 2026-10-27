@@ -15,7 +15,7 @@
 ### Shield Properties
 **_Clunky_**: When wielding a Shield with the Clunky property, you roll Dexterity (Acrobatics) checks with Disadvantage.
 
-**_Free Hand_**: When wielding a Shield with the Free Hand property, you can still use the hand of the arm you are wielding the Shield with to grab and hold objects, for somatic components, and for sign language. D20 Tests to use an object or attack with a weapon held with this hand are rolled with Disadvantage.
+**_Free Hand_**: When wielding a Shield with the Free Hand property, you can still use the hand of the arm you are wielding the Shield with to grab and hold objects, for somatic components, and for sign language. D20 Tests to use an object or attack with a Weapon held with this hand are rolled with Disadvantage.
 
 **_Heavy_**: When wielding a Shield with the Heavy property and your Strength score not being at least 13, you have Disadvantage on [[Blocking]] checks and your movement reduced by 5 ft. Additionally, Blocking checks with Heavy Shields can only be rolled with Strength.
 

@@ -46,13 +46,13 @@ Additionally, all classes receive a new feature on level 5 that revolves around 
 - _Elation_: After dealing damage with a Critical Hit, you gain 3 Surge Dice.
 - _Recenter_: You can use 2 Surge Dice instead of a Second Wind charge.
 
-**_Level 9 - Tactical Master_**: When you attack with a weapon you are trained with, you can use one additional [[Martial Training]] feature on the attack that the weapon does not fulfill the requirements of.
+**_Level 9 - Tactical Master_**: When you attack with a Weapon you are trained with, you can use one additional [[Martial Training]] feature on the attack that the Weapon does not fulfill the requirements of.
 #### Battle Master
 **_Maneuver - Evasive Footwork_**: As a Bonus Action, you can expend one Superiority Die and take the Disengage action. You also roll the die and add the number rolled to your Hit DC until the start of your next turn.
 
 **_Maneuver - Parry_**: When [[Parrying]], you can expend one Superiority Die, rolling the die and adding the number rolled to the Parrying check. If the parry succeeds, you increase the Parrying Power by the maximum roll of your Superiority Die.
 
-**_Maneuver - Riposte_**: When you successfully [[Blocking|block]], [[Dodging|dodge]], or [[Parrying|parry]] a melee attack, you can expend one Superiority Die to make a melee weapon attack against the attacking creature. If you hit, you add the Superiority Die to the attacks damage roll.
+**_Maneuver - Riposte_**: When you successfully [[Blocking|block]], [[Dodging|dodge]], or [[Parrying|parry]] a melee attack, you can expend one Superiority Die to make a melee Weapon attack against the attacking creature. If you hit, you add the Superiority Die to the attacks damage roll.
 
 **_Level 7 - Know Your Enemy_**: Additionally, you find out whether there are particular weak spots that are worth targeting and what to expect when making an [[Aimed Strikes|Aimed Strike]] against that weak spot.
 #### Eldritch Knight

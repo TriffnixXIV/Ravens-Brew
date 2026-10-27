@@ -4,11 +4,11 @@ Choose your class as usual, but adapt the following details:
 
 **_Training Features_**: You choose a number of Training features equal to your Proficiency Bonus. Whenever your Proficiency Bonus increases later, you can choose an additional Training feature. These features can be [[Martial Training]] features or [[Caster Training]] features, or a mix of both.
 
-**_Weapon Proficiency Conversion_**: Instead of getting Proficiency with certain weapons based on the class you choose, you receive Training with these weapons. To add the Proficiency Bonus to certain attack rolls, you can take the [[Martial Training]] feature _Accuracy_ if you get the chance.
+**_Weapon Proficiency Conversion_**: Instead of getting Proficiency with certain Weapons based on the class you choose, you receive Training with these Weapons. To add the Proficiency Bonus to certain attack rolls, you can take the [[Martial Training]] feature _Accuracy_ if you get the chance.
 
 **_More Skills_**: There are now two additional skills, [[Blocking]] and [[Parrying]]. Proficiency with those skills is accessible to every character that can choose freely between all skills, and to those that receive [[Martial Training]]. [[Dodging]] is also new, though it works through Acrobatics. Note your modifier for these three skills.
 
-**_Fighting Styles and Weapon Mastery Properties_**: If your class gets a Fighting Style feat or access to Weapon Mastery Properties, you might receive additional [[Martial Training]] instead. Check the section on your [[Classes|class]] to find out how many features you receive.
+**_Fighting Styles and Weapon Mastery Properties_**: If your class gets a Fighting Style Feat or access to Weapon Mastery Properties, you might receive additional [[Martial Training]] instead. Check the section on your [[Classes|class]] to find out how many features you receive.
 
 **_Class Feature Changes_**: Some [[Classes|classes]] received changes to their features to bring those in line with this homebrew, and some received new features. Check the section on your class to make sure you adapt those features accordingly.
 
@@ -26,7 +26,7 @@ Choose your Species, Origin and languages as usual, but adapt the following deta
 ### Equipment
 Choose your Equipment as usual, but adapt the following details:
 
-**_Parrying_**: Note your [[Parrying]] Bonus and Parrying Power for each weapon. The Parrying Bonus is equal to the ability modifier used for attacks, the Parrying Power is equal to the maximum damage you deal with a regular hit.
+**_Parrying_**: Note your [[Parrying]] Bonus and Parrying Power for each Weapon. The Parrying Bonus is equal to the ability modifier used for attacks, the Parrying Power is equal to the maximum damage you deal with a regular hit.
 
 **_New Equipment_**: Take note of the new options for [[Shields]] and the possibility of buying [[Armour#Armour Pieces|Armour Pieces]] instead of full sets of Armour.
 

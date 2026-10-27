@@ -10,6 +10,6 @@ In response to attack rolls losing importance due to targets being generally eas
 
 [[Perception & Focus]] are described in detail to encourage more strategic positioning and give attackers a way to bypass their targets reactive defense based on sight. Also, Perception now uses more mechanics, reworking it and Stealth in terms of vision, hearing and smell, opening up more variety in what can and has to be done to be stealthy, and how creatures can be perceived.
 
-Then, there are adjustments to [[Classes|class features]], [[Feats|feats]] and [[Equipment|equipment]], mainly to bring them in line with the changes to defence. Some [[Variant Rules|variant rules]] are also offered, and [[Scene Checks|Scene checks]] are introduced as a framework for downtime activity such as [[Surgery]], the [[Rite of Regeneration]], [[Domestication]] and [[Grafting]].
+Then, there are adjustments to [[Classes|class features]], [[Feats]] and [[Equipment|equipment]], mainly to bring them in line with the changes to defence. Some [[Variant Rules|variant rules]] are also offered, and [[Scene Checks|Scene checks]] are introduced as a framework for downtime activity such as [[Surgery]], the [[Rite of Regeneration]], [[Domestication]] and [[Grafting]].
 
 In the last chapter on [[Guides]], there is a section offering a short guide on how [[Monsters|monsters]] are affected by the reworks offered here. Some tips for encounter design are given in the same breath.

@@ -29,7 +29,7 @@ This version introduced [[Martial Training]], starting with [[#v0.8]].
 - changed _Heavy Weapon Master_ to depend on the Strength modifier.
 - changed _Knowing the Spot_ to depend on the Intelligence modifier.
 - added _Wounding Critical_.
-- moved some Aimed Strike features to general features due to their lack of weapon dependence.
+- moved some Aimed Strike features to general features due to their lack of Weapon dependence.
 - turned the [[Aimed Strikes]] option for _Reliable Hits_ into a Martial Training feature.
 - some minor linking and wording changes.
 #### [[Shields]]
@@ -58,7 +58,7 @@ This version introduced [[Martial Training]], starting with [[#v0.8]].
 - added a paragraph about crouching behind cover.
 - moved the Defence Action here and reworked it to be more like before.
 #### [[Martial Training]]
-- moved the paragraph about starting weapon Proficiencies and starting weapon Training into the subsection on weapon Training to remove some confusion.
+- moved the paragraph about starting Weapon Proficiencies and starting Weapon Training into the subsection on Weapon Training to remove some confusion.
 - reworded _Accuracy_ to make it clear that it cannot stack with itself.
 - added _Immaculate Aim_, _Knowing the Spot_, _Overpower_, and _My Body is a Weapon_.
 - reworded _Heavy Armour Master_, so that it now mentions its Blocking Modifier and is further improved by Blocking Expertise.
@@ -100,10 +100,10 @@ This version introduced [[Martial Training]], starting with [[#v0.8]].
 - updated the Grapple and Shove attacks to appropriately relate to Unarmed Strikes.
 #### [[Martial Training]]
 - is new.
-- reworks how Proficiency and Training with weapons, Shields and Armour works.
-- moved Fighting Styles here.
+- reworks how Proficiency and Training with Weapons, Shields and Armour works.
+- moved Fighting Style Feats here.
 - moved combat-oriented Feats here.
-- moved weapon mastery properties here.
+- moved Weapon Mastery Properties here.
 #### [[Monsters]]
 - added some more guidance on how monsters are affected by the changes in these rules.
 #### [[Parrying]]

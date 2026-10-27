@@ -147,14 +147,14 @@ This version introduces the Spellcasting Rework, starting with [[#v0.9.a1|v0.9.a
 - added _Dodging Adept_ to give Proficiency in Acrobatics.
 - added _Dodging Expert_ to give Expertise in Acrobatics.
 - added _Happy Feet_ to increase the unarmoured and lightly armoured Dodging bonus back to +5.
-- added _Nimble Attack_ to allow throwing a Finesse weapon as a part of a Dodge & Roll.
+- added _Nimble Attack_ to allow throwing a Finesse Weapon as a part of a Dodge & Roll.
 - added _Prediction_ to allow for an additional free dodge after dodging with Advantage.
 - renamed _Blocking Proficiency_ to _Blocking Adept_ and _Blocking Expertise_ to _Blocking Expert_ and simplified their wording.
 - changed _Protection_ to require Proficiency in Blocking instead of Training with Shields.
 - renamed _Parrying Proficiency_ to _Parrying Adept_ and _Parrying Expertise_ to _Parrying Expert_ and simplified their wording.
 - changed _Arrow Splitting_ to also require Proficiency in Perception.
 - turned Weapon Locking from [[Parrying]] into the _Weapon Locking_ feature.
-- turned multi-weapon Parrying into the _Cross-parry_ feature.
+- turned multi-Weapon Parrying into the _Cross-parry_ feature.
 - added _Pattern Recognition_ to give Advantage on the next block, dodge or parry after a successful block, dodge or parry.
 #### General
 - turned all occurences of Proficiency, Expertise, Advantage and Disadvantage uppercase.
@@ -228,8 +228,8 @@ This version introduces the Spellcasting Rework, starting with [[#v0.9.a1|v0.9.a
 - you now roll a [[Spell Check|Spell check]] every time you cast a spell to determine how forceful it is, the first attack roll, and the save DC for the targets.
 #### [[Caster Training]]
 - introduced Caster Training as a parallel to Martial Training for Spellcasters.
-- merged multiple spellcasting-related feats into Caster Training.
-- Caster Training features can be acquired through Spellcaster levels, as described in [[Spellcasting]], and through the new Spellcasting Adept [[Feats|feat]].
+- merged multiple spellcasting-related Feats into Caster Training.
+- Caster Training features can be acquired through Spellcaster levels, as described in [[Spellcasting]], and through the new Spellcasting Adept [[Feats|Feat]].
 - Spell Manipulation is now a part of Caster Training.
 #### [[Spellcasting Focus]]
 - a Spellcasting Focus now gives Proficiency in Spell checks for spells of three associated spell schools each. It is the primary way to be able to add the Proficiency Bonus to Spell checks, and thus spell attacks and spell save DC.
@@ -249,5 +249,5 @@ This version introduces the Spellcasting Rework, starting with [[#v0.9.a1|v0.9.a
 - added descriptions for different fields of view.
 - changed the indefinite articles in _Switch Focus_ to prevent confusion.
 #### [[Martial Training]]
-- changed _Interception_ to only work with Melee weapons and against Melee weapon attacks.
-- added _Arrow Splitting_ to allow parrying Ranged weapon attacks.
+- changed _Interception_ to only work with Melee Weapons and against Melee Weapon attacks.
+- added _Arrow Splitting_ to allow parrying Ranged Weapon attacks.

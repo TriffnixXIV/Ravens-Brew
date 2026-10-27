@@ -1,6 +1,7 @@
 ### v0.9.5
 #### General
 - added more crosslinks.
+- capitalized all words that have a dedicated section in these rules.
 - fixed some inconsistencies.
 - reformatted and reworded the changelogs.
 #### [[Martial Training]]
@@ -36,7 +37,7 @@
 - changed _Mage Armour_ to not protect against Aimed Strikes by default. Made it possible to tell it to protect specific body parts. Changed it to be an [[Armour#Armour Pieces|Armour piece]].
 - aligned _Thwart_ with _Guard_ to reduce overlap with _Counterspell_.
 #### [[Magic Items]]
-- added the _Parrying_ prefix for weapons.
+- added the _Parrying_ prefix for Weapons.
 - added two magical Shields.
 - added the _Ritual Dagger_.
 #### [[Classes]]
@@ -102,9 +103,9 @@
 - added _Utility_ to establish a use of Surge Dice for ability checks again.
 #### [[Martial Training]]
 - rephrased a few parts and added a one-liner to the start of each feature section.
-- moved changes to weapons into its own chapter. Left a note to bring attention to those changes, as this chapter precedes that.
+- moved changes to Weapons into its own chapter. Left a note to bring attention to those changes, as this chapter precedes that.
 - added a dedicated section for Unarmed Strike features, Aimed Strike features and Reaction features.
-- added _Improvised Weapon Training_ and _Improviser_ to offer ways to receive Training with improvised weapons and add the Proficiency Bonus to attacks made with them.
+- added _Improvised Weapon Training_ and _Improviser_ to offer ways to receive Training with improvised Weapons and add the Proficiency Bonus to attacks made with them.
 - renamed _Reactive Strike_ to _Gatekeeper_.
 - changed _Great Weapon Fighting_ to be mechanically aligned with _Savage Attacker_.
 - changed _Heavy Weapon Master_ to not be limited to the Attack action.
@@ -151,11 +152,11 @@
 - added a bit of explanatory text.
 - added the Bongo of Mist.
 #### [[Tools]]
-- reworded it to bring it in line with the new section on weapons and the base rules.
+- reworded it to bring it in line with the new section on Weapons and the base rules.
 - added a short paragraph on flexible DCs.
 #### [[Weapons]]
-- added a chapter to collect changes to weapons in one place.
-- changed the wording of the proficiency conversion to also apply to other features and thus also improvised weapons.
+- added a chapter to collect changes to Weapons in one place.
+- changed the wording of the proficiency conversion to also apply to other features and thus also improvised Weapons.
 #### [[Guides]]
 - changed the fourth chapter to contain guides instead of being a chapter for DMs.
 - added a [[Character Conversion]] guide.

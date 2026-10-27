@@ -10,7 +10,7 @@ These rules add complexity to monsters without offering much relief from that ad
 
 If their skin, fur, feathers, hide, scales or other outer features resemble an [[Armour]], taking the Damage Reduction value of the Armour listed for player characters can also be appropriate. Some monsters will be even more resilient than that, but take the damage capabilities of your party into consideration before going for higher Damage Reduction values. Other tricks may also work, as described in a [[Monsters#Customizing a Monster|section below]].
 ### Offence
-**_Attack Rolls_**: All monsters are trained with the weapons they wield and their Unarmed Strikes. However, only monsters that rely on their precision or are somewhat experienced add their Proficiency Bonus to their attacks.
+**_Attack Rolls_**: All monsters are trained with the Weapons they wield and their Unarmed Strikes. However, only monsters that rely on their precision or are somewhat experienced add their Proficiency Bonus to their attacks.
 
 **_Size Modifies Attacks_**: All monsters have their attack rolls modified by their size as described in [[AC-less Defence#Hit DC|AC-less Defence]]. This modifier should generally be balanced out by larger monsters dealing more damage and having more Hit Points, and smaller monsters dealing less damage and having fewer Hit Points, as is usual for DnD monster design.
 
@@ -49,7 +49,7 @@ You should also have Shells use regular attacks to threaten particular character
 #### Sponges
 **_Defence_**: These monsters have a low Damage Reduction and a low Hit DC due to a larger size and lacking Armour. Therefor, they should have a higher Hit Point total. In fights against these monsters, disabling their body parts is a good way for the players to make progress. Use d10, d12 or d20 as their Hit Dice.
 
-**_Offence_**: By virtue of being larger, these monsters have less accurate attacks, which can appropriately be compensated by having them deal more damage. Generally, as Sponges are more vulnerable to having their body parts disabled, have backup attack options ready, such as kicks and dropping on the target. Use your good offensive body parts and weapons as long as you can to dish out high damage and motivate the party to actually get rid of them. If a Sponge is especially large, make their attacks affect an area instead of singular targets, where the attack roll can determine the DC of a Dexterity saving throw.
+**_Offence_**: By virtue of being larger, these monsters have less accurate attacks, which can appropriately be compensated by having them deal more damage. Generally, as Sponges are more vulnerable to having their body parts disabled, have backup attack options ready, such as kicks and dropping on the target. Use your good offensive body parts and Weapons as long as you can to dish out high damage and motivate the party to actually get rid of them. If a Sponge is especially large, make their attacks affect an area instead of singular targets, where the attack roll can determine the DC of a Dexterity saving throw.
 
 **_Using Surge Dice_**: When playing Sponges, refrain from using Surge Dice to have them reposition. They should feel slower and stronger, and thus Surge Dice can be used well to increase the damage they deal, and occasionally to make attacks land more reliably.
 ### Reference Tables
@@ -153,9 +153,9 @@ On higher Challenge Ratings, monster stats grow faster, as is usual for DnD.
 
 **_Reactions_**: Monsters have access to all of the new Reactions that they fulfil the prerequisites for, such as [[Dodging]]. However, some monsters may not be very concerned about being hit and either wait for an Opportunity attack or use the conversion into a Surge Die to strengthen their attacks.
 
-**_Legacy Parries_**: If the statblock of a creature features a parry reaction, it is replaced by the [[Parrying|Parry]] Reaction described in these rules. Assume that the creature uses either its strongest wielded melee weapon or all its wielded melee weapons to parry, if possible.
+**_Legacy Parries_**: If the statblock of a creature features a parry reaction, it is replaced by the [[Parrying|Parry]] Reaction described in these rules. Assume that the creature uses either its strongest wielded Melee Weapon or all its wielded Melee Weapons to parry, if possible.
 
-**_Parrying_**: If a monster uses a weapon, it can use that weapon to [[Parrying|Parry]]. Make note of its bonus to the Parrying check and the Parrying Power. Only particularly defensive, tactical or trained monsters will add their Proficiency Bonus to their Parrying checks.
+**_Parrying_**: If a monster uses a Weapon, it can use that Weapon to [[Parrying|Parry]]. Make note of its bonus to the Parrying check and the Parrying Power. Only particularly defensive, tactical or trained monsters will add their Proficiency Bonus to their Parrying checks.
 
 **_Unarmed Parries and Blocks_**: For some monsters, it may make sense that they are able to [[Parrying|Parry]] or [[Blocking|Block]] using specific body parts. When doing so, add their attack modifier to the Parrying check or Blocking check, and reduce the damage they take by twice or three times their Damage Reduction on a success.
 

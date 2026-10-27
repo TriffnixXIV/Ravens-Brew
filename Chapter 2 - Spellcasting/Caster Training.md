@@ -8,7 +8,7 @@ Secondly, through this system, another layer of possible difference is establish
 
 **_Caster Training_**: When you receive Caster Training, choose one of the features listed in the following sections that you qualify for. Caster Training features are divided into the following sections to make them easier to browse: [[#Spell Check Features]], [[#Spell Features]], [[#Spell Point & Spell Limit Features]], [[#Overcasting Features]] and [[#Spellcasting Focus Features]].
 
-**_Feats_**: The benefits of a selection of general feats are now Caster Training features. There's now a new general [[Feats|feat]] that allows the player to receive Caster Training twice.
+**_Feats_**: The benefits of a selection of General Feats are now Caster Training features. There's now a new general [[Feats|Feat]] that allows the player to receive Caster Training twice.
 ### Spell Check Features
 **_Acuity_**: Choose one of the following:
 - _Attacks_: You add your Caster Proficiency Bonus to [[Spell Check|Spell checks]] you make for spell attacks.
@@ -21,8 +21,8 @@ You can pick this feature multiple times, but only with different choices.
 **_Emphasis_**: When you roll a [[Spell Check|Spell check]], you can spend any number of [[Spell Points]] to improve the roll on the d20 by the number of [[Spell Points]] spent, up to a roll of 20. This can make the [[Spell Check|Spell check]] score a Critical Hit.
 
 **_Gambler_**: When you roll a [[Spell Check|Spell check]] for a spell attack or to determine the saving throw DC of a damaging spell, you can _gamble_, sacrificing the spells reliability and a bit of your vitality to make it deal more damage. When you _gamble_, the following effects apply:
-- _Raised Stakes_: Roll any number of additional d4s. You reduce the [[Spell Check|Spell check]] total by that result and take damage of the spells damage type equal to that result. For every d4 you rolled, the spells damage increases by one damage die.
-- _Risk_: When you roll a 1 on the d20 of the [[Spell Check|Spell check]] or its total is 0 or below, the spell dissipates, having no effect, the Action, Bonus Action, or Reaction you've used to cast it is wasted, and you regain the spent [[Spell Points]].
+- _Raised Stakes_: Roll any number of additional d4s (at least 1). You reduce the [[Spell Check|Spell check]] total by that result and take damage of the spells damage type equal to that result. For every d4 you rolled, the spells damage increases by one damage die.
+- _Risk_: When you roll a 1 on the d20 of the [[Spell Check|Spell check]] or its total is 0 or below, the spell dissipates, having no effect, and the Action, Bonus Action, or Reaction you've used to cast it is wasted. If it was cast with [[Spell Points]], the spent [[Spell Points]] are restored.
 - _Reward_: When you roll a 20 on the d20 of the [[Spell Check|Spell check]] and the spell requires a saving throw, it scores a Critical Hit regardless. Roll the damage dice twice and add them together to determine the damage.
 
 **_Insistence_**: Requires _Emphasis_. When you roll a [[Spell Check|Spell check]], you add a bonus of 1 to the checks total for every 3 [[Spell Points]] you've spent on the corresponding spellcast.
@@ -32,7 +32,7 @@ You can pick this feature multiple times, but only with different choices.
 **_Keen Gestures_**: When you roll a [[Spell Check|Spell check]] for a spell that requires somatic components and each of your hands is either free or holds nothing except a [[Spellcasting Focus]] or the spells material components, you gain a bonus to your [[Spell Check|Spell check]] equal to your Dexterity modifier (at least 1).
 
 **_Letting Go_**: You gain the following benefits:
-- You roll [[Spell check|Spell checks]] for spells that consume a material component with a specified cost with Advantage.
+- You roll [[Spell Check|Spell checks]] for spells that consume a material component with a specified cost with Advantage.
 - After rolling a [[Spell Check|Spell check]] for a spell that requires but doesn't consume a material component with a specified cost, you can make the spell consume the material component to reroll the [[Spell Check|Spell check]] with Advantage.
 
 **_Reliable Casting_**: Incompatible with _Volatile Casting_. Choose a spell school. When you make a [[Spell Check|Spell check]] to cast a spell of that school, you can treat a roll of 7 or lower on the d20 as an 8. You can pick this feature multiple times, but only for different spell schools.
@@ -84,7 +84,7 @@ You can pick this feature multiple times, but only for different damage types.
 - _Damage_: The target takes additional damage equal to the damage of one of your Unarmed Strikes. This additional damage has the same damage type as one of your Unarmed Strikes.
 - _Shove_: You push the target 5 feet away or cause it to have the Prone condition. This shove is possible only if the target is no more than one size larger than you.
 
-**_War Caster_**: You can perform the Somatic components of spells even when you have weapons or a Shield in one or both hands.
+**_War Caster_**: You can perform the Somatic components of spells even when you have Weapons or a Shield in one or both hands.
 
 **_Wounding Effect_**: When you damage a target through a spell that required a Dexterity or Constitution saving throw and the target failed that saving throw by 10 or more, one of the targets body parts of your choice that is no more than three size categories smaller than the target is [[Conditions#Wounded|wounded]].
 ### Spell Point & Spell Limit Features

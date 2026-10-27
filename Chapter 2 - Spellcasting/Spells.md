@@ -177,18 +177,18 @@ _Transmutation (Bard, Druid, Sorcerer, Wizard)_
 
 For the duration, the spell enlarges or reduces a creature or an object you can see within range (see the chosen effect below). A targeted object must be neither worn nor carried. If the target is an unwilling creature, it can make a Constitution saving throw. On a successful save, the spell has no effect.
 
-Everything that a targeted creature is wearing and carrying changes size with it. Any item it drops returns to normal size at once. A thrown weapon or piece of ammunition returns to normal size immediately after it hits or misses a target.
+Everything that a targeted creature is wearing and carrying changes size with it. Any item it drops returns to normal size at once. A Thrown Weapon or piece of ammunition returns to normal size immediately after it hits or misses a target.
 
 _Enlarge_: The target changes as follows:
 - Its size increases by one category - from Medium to Large, for example - decreasing its Hit DC by 2.
 - It has Advantage on Strength checks and Strength saving throws.
-- Its attacks with its enlarged weapons or Unarmed Strikes deal an extra 1d4 damage on a hit, but have -2 to hit.
+- Its attacks with its enlarged Weapons or Unarmed Strikes deal an extra 1d4 damage on a hit, but have -2 to hit.
 - Its Hit Point maximum and current Hit Points increase by its maximum number of Hit Dice.
 
 _Reduce_: The target changes as follows:
 - Its size decreases by one category - from Medium to Small, for example - increasing its Hit DC by 2.
 - It has Disadvantage on Strength checks and Strength saving throws.
-- Its attacks with its reduced weapons or Unarmed Strikes deal 1d4 less damage on a hit (this can't reduce the damage below 1), but have +2 to hit.
+- Its attacks with its reduced Weapons or Unarmed Strikes deal 1d4 less damage on a hit (this can't reduce the damage below 1), but have +2 to hit.
 - Its Hit Point maximum and current Hit Points decrease by its maximum number of Hit Dice (this can't reduce the maximum or current Hit Points below 1).
 #### Haste
 _Transmutation (Sorcerer, Wizard)_

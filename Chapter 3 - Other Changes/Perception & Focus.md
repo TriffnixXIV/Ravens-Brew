@@ -12,7 +12,7 @@ Things that are within 5 feet of you are quite easy to notice, reducing their Pe
 
 _Note: These rules do not give Advantage or Disadvantage on Perception checks depending on distance to make sure a single Perception check can cover all perceivable things at all possible distances. Advantage and Disadvantage is reserved for relevant circumstances directly affecting a perceiving creature._
 
-**_Direct and Indirect Perception_**: There are two different ways of perceiving something, either directly or indirectly. With Indirect Perception, you only perceive signs of a things existence, such as a standalone sound, scent or footsteps, without perceiving the thing itself. These signs can usually be acted upon until the thing can be directly perceived. Only when Direct Perception like that is given, the thing can become the target of weapon attacks or targeted effects.
+**_Direct and Indirect Perception_**: There are two different ways of perceiving something, either directly or indirectly. With Indirect Perception, you only perceive signs of a things existence, such as a standalone sound, scent or footsteps, without perceiving the thing itself. These signs can usually be acted upon until the thing can be directly perceived. Only when Direct Perception like that is given, the thing can become the target of Weapon attacks or targeted effects.
 
 Which senses provide Direct Perception and which senses only provide Indirect Perception may differ from creature to creature. Usually, Humanoids require line of sight to the thing or a touch with the hand for Direct Perception, while hearing and smell only offer Indirect Perception.
 

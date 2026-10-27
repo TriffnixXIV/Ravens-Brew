@@ -13,5 +13,5 @@
 - the _Dodging Bonus_ now only takes Acrobatics (to buff DEX a bit).
 - adjusted the Rogue's and Hunter's _Uncanny Dodge_.
 #### [[Parrying]]
-- made multi-weapon-parrying possible.
+- made multi-Weapon-parrying possible.
 - adjusted the _Defensive Duelist_ Feat.

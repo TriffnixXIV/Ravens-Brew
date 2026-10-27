@@ -8,7 +8,7 @@
 - increased the distance of a _Dodge & Roll_ to 10 feet.
 #### [[Parrying]]
 - added so you can now use a reaction to parry, nice.
-- uses a _Parrying Bonus_ to add to a parrying ability check equal to 5 + attack bonus of the parry weapon.
+- uses a _Parrying Bonus_ to add to a parrying ability check equal to 5 + attack bonus of the parry Weapon.
 - _Parry_ allows you to parry a melee attack, potentially reducing it's damage to 0.
 - _Parrying Stance_ allows you to parry more.
 - reworked the Battle Masters _Parry_ to fit.

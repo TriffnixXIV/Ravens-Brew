@@ -21,7 +21,7 @@
 - moved the flat Blocking Bonus to Shields themselves.
 #### [[Parrying]]
 - made it a bit cleaner and also skill-ish.
-- now features a weapon lock mechanic.
+- now features a Weapon lock mechanic.
 #### [[Classes|Monk]]
 - added some changes.
 #### [[Spells#New Spells|Spell Manipulation]]
