@@ -52,6 +52,7 @@
 #### [[Feats]]
 - updated the introductory text.
 - added _Boon of the Time Spender_ and _Boon of Superior Preperation_.
+- changed _Boon of Spell Recall_ to fit in.
 ### v0.9.4
 #### Training
 - all Training features are now acquired in parallel to the Proficiency Bonus.

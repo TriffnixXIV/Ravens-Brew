@@ -30,10 +30,14 @@ Outside of that, other changes to Feats can be found here, with the full descrip
 ### Fighting Style Feats
 These Feats are all now part of [[Martial Training]] and can be accessed through the Martial Adept Feat and through class features, as described in the chapter on [[Martial Training]].
 ### Epic Boon Feats
-**_Boon of the Time Spender (new)_**: You gain the following benefits:
-- _Ability Score Increase_: Increase one ability score of your choice by 1, to a maximum of 30.
-- _Additional Surge Die Feature_: Choose a [[Classes|class]] you have at least 5 levels in. You gain one new Surge Die feature of your choice from that class.
+**_Boon of Spell Recall_**: You gain the following benefits:
+- _Ability Score Increase_: Increase your Intelligence, Wisdom, or Charisma score by 1, to a maximum of 30.
+- _Free Casting_: Whenever you cast a spell and spend 1 to 12 [[Spell Points]], roll 1d4. If you roll a 4, the [[Spell Points]] aren't spent and don't count against your [[Spell Limits#Casting Limit|Casting Limit]].
 
 **_Boon of Superior Preparation (new)_**: You gain the following benefits:
 - _Ability Score Increase_: Increase one ability score of your choice by 1, to a maximum of 30.
 - _Greater Surge_: When you roll [[Surge Dice]], you can either roll twice as many and ignore the lowest half, or roll one additional one.
+
+**_Boon of the Time Spender (new)_**: You gain the following benefits:
+- _Ability Score Increase_: Increase one ability score of your choice by 1, to a maximum of 30.
+- _Additional Surge Die Feature_: Choose a [[Classes|class]] you have at least 5 levels in. You gain one new Surge Die feature of your choice from that class.
