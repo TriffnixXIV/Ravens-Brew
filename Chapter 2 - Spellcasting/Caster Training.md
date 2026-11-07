@@ -14,7 +14,7 @@ Secondly, through this system, another layer of possible difference is establish
 - _Attacks_: You add your Caster Proficiency Bonus to [[Spell Check|Spell checks]] you make for spell attacks.
 - _Saves_: You add your Caster Proficiency Bonus to [[Spell Check|Spell checks]] you make to determine saving throw DCs.
 - _Utility_: You add your Caster Proficiency Bonus to [[Spell Check|Spell checks]] that neither determine a saving throw DC nor are part of a spell attack.
-You can pick this feature multiple times, but only with different choices.
+_Repeatable_: You can pick this feature multiple times, but only with different choices.
 
 **_Belay_**: When you roll a [[Spell Check|Spell check]] for a spell you've already rolled a [[Spell Check|Spell check]] for since the start of your last turn, you gain a bonus to the check equal to your Caster Proficiency Bonus if the total is worse than the total of the last one.
 
@@ -35,7 +35,9 @@ You can pick this feature multiple times, but only with different choices.
 - You roll [[Spell Check|Spell checks]] for spells that consume a material component with a specified cost with Advantage.
 - After rolling a [[Spell Check|Spell check]] for a spell that requires but doesn't consume a material component with a specified cost, you can make the spell consume the material component to reroll the [[Spell Check|Spell check]] with Advantage.
 
-**_Reliable Casting_**: Incompatible with _Volatile Casting_. Choose a spell school. When you make a [[Spell Check|Spell check]] to cast a spell of that school, you can treat a roll of 7 or lower on the d20 as an 8. You can pick this feature multiple times, but only for different spell schools.
+**_Reliable Casting_**: Incompatible with _Volatile Casting_. Choose a spell school. When you make a [[Spell Check|Spell check]] to cast a spell of that school, you can treat a roll of 7 or lower on the d20 as an 8.
+
+_Repeatable_: You can pick this feature multiple times, but only for different spell schools.
 
 **_Volatile Casting_**: Requires _Gambler_. Incompatible with _Reliable Casting_. When you _gamble_, your [[Spell Check|Spell check]] scores a Critical Hit on a roll of 18-20 on its d20, and the spell dissipates on a roll of 1-3 on its d20.
 ### Spell Features
@@ -54,7 +56,7 @@ You can pick this feature multiple times, but only with different choices.
 - _Psychic_: The target has Disadvantage on Wisdom saving throws until the start of your next turn.
 - _Radiant_: Attack rolls against the target have Advantage until the start of your next turn.
 - _Thunder_: The target has Disadvantage on attack rolls until the start of your next turn and falls Prone.
-You can pick this feature multiple times, but only for different damage types.
+_Repeatable_: You can pick this feature multiple times, but only for different damage types.
 
 **_Force of Evil_**: Requires your alignment to be evil. When you deal Necrotic damage, that damage is increased by the number of dice you roll to determine the damage.
 
@@ -62,19 +64,27 @@ You can pick this feature multiple times, but only for different damage types.
 
 **_Iron Will_**: You gain a bonus to your Concentration checks equal to your spellcasting ability modifier (at least 1).
 
-**_Irresistible Element_**: Choose one of the following damage types: Acid, Cold, Fire, Lightning, or Thunder. Spells you cast ignore Resistance to damage of the chosen type. You can pick this feature multiple times, but only for different damage types.
+**_Irresistible Element_**: Choose one of the following damage types: Acid, Cold, Fire, Lightning, or Thunder. Spells you cast ignore Resistance to damage of the chosen type.
+
+_Repeatable_: You can pick this feature multiple times, but only for different damage types.
 
 **_Opportunistic Caster_**: You can cast an Opportunity Spell when a creature that you can see leaves your touch range using its action, its Bonus Action, its Reaction, or one of its speeds. To cast the Opportunity Spell, take a Reaction to cast a spell with a casting time of one action that targets only the provoking creature. The spellcast occurs right before the creature leaves your touch range.
 
-**_Penetrating Element_**: Choose one of the following damage types: Acid, Cold, Fire, Lightning, or Thunder. Your spell attacks that deal that type of damage ignore an amount of Damage Reduction equal to your Caster Proficiency Bonus. You can pick this feature multiple times, but only for different damage types.
+**_Penetrating Element_**: Choose one of the following damage types: Acid, Cold, Fire, Lightning, or Thunder. Your spell attacks that deal that type of damage ignore an amount of [[AC-less Defence#Damage Reduction|Damage Reduction]] equal to your Caster Proficiency Bonus.
+
+_Repeatable_: You can pick this feature multiple times, but only for different damage types.
 
 **_Quick Ritual_**: Once per long rest, you can cast a Ritual spell that you have prepared using its regular casting time instead of the extended time for a Ritual without spending [[Spell Points]].
 
-**_Reliable Element_**: Choose one of the following damage types: Acid, Cold, Fire, Lightning, or Thunder. When you roll damage for a spell you cast that deals damage of that type, you can treat any 1 or 2 on a damage die as a 3. You can pick this feature multiple times, but only for different damage types.
+**_Reliable Element_**: Choose one of the following damage types: Acid, Cold, Fire, Lightning, or Thunder. When you roll damage for a spell you cast that deals damage of that type, you can treat any 1 or 2 on a damage die as a 3.
+
+_Repeatable_: You can pick this feature multiple times, but only for different damage types.
 
 **_Ritualist_**: Choose a number of spells equal to your Caster Proficiency Bonus that have the Ritual tag and a [[Spell Points|Spell Point]] cost of 3. You always have those spells prepared, and you can cast them with any [[Spell Points]] you have. They count as spells of a class of your choice. Whenever your Caster Proficiency Bonus increases later, you can choose an additional spell to add to this feature.
 
-**_Savage Element_**: Choose one of the following damage types: Acid, Cold, Fire, Lightning, or Thunder. When you roll damage for a spell you cast that deals damage of that type, you add one of the dice to the dice pool an additional time and ignore the lowest die result. You can pick this feature multiple times, but only for different damage types.
+**_Savage Element_**: Choose one of the following damage types: Acid, Cold, Fire, Lightning, or Thunder. When you roll damage for a spell you cast that deals damage of that type, you add one of the dice to the dice pool an additional time and ignore the lowest die result.
+
+_Repeatable_: You can pick this feature multiple times, but only for different damage types.
 
 **_Snowball_**: When you roll damage for a spell you've already dealt damage with since the start of your last turn, you gain a damage bonus equal to your Caster Proficiency Bonus.
 
@@ -88,17 +98,19 @@ You can pick this feature multiple times, but only for different damage types.
 
 **_Wounding Effect_**: When you damage a target through a spell that required a Dexterity or Constitution saving throw and the target failed that saving throw by 10 or more, one of the targets body parts of your choice that is no more than three size categories smaller than the target is [[Conditions#Wounded|wounded]].
 ### Spell Point & Spell Limit Features
-**_Cheapskate_**: Choose one of your spells. When your Spellcaster level exceeds its [[Spell Points|Spell Point]] cost, its cost is reduced by your Caster Proficiency Bonus. If the cost is reduced to below 0 this way, the rules for [[Spellcasting#Sunken Spells & Depthcasting|Sunken Spells & Depthcasting]] apply. You can pick this feature multiple times, but only for different spells.
+**_Cheapskate_**: Choose one of your spells. When your Spellcaster level exceeds its [[Spell Points|Spell Point]] cost, its cost is reduced by your Caster Proficiency Bonus. The following rules also apply:
+- _Depthcasting_: If the casting cost is reduced to below 0 this way, the rules for [[Sunken Spells & Depthcasting]] apply.
+- _Impermanence_: If you reduce the cost of a spell that restores Hit Points to 1 [[Spell Points|Spell Point]] or less, it only gives Temporary Hit Points when cast at reduced cost. Similarly, if you reduce the cost of a spell that permanently creates something to 1 [[Spell Points|Spell Point]] or less, the creation becomes temporary, too. In both cases, the effects vanish as soon as you cast the spell for 1 [[Spell Points|Spell Point]] or less again. If those spells are upcast to cost at least 2 [[Spell Points]], their effects return to normal.
+- _Example_: If you apply this feature to _Cure Wounds_ with a Caster Proficiency Bonus of +3, you can cast it for free to give the target 2d8+mod Temporary Hit Points, or upcast it by 3 [[Spell Points]], spending 3 [[Spell Points]] in total to restore the 4d8+mod Hit Points that would usually cost 6 [[Spell Points]].
+_Repeatable_: You can pick this feature multiple times, but only for different spells.
 
-If you reduce the cost of a spell that restores Hit Points to 1 [[Spell Points|Spell Point]] or less, it only gives Temporary Hit Points when cast at reduced cost. Similarly, if you reduce the cost of a spell that permanently creates something to 1 [[Spell Points|Spell Point]] or less, the creation becomes temporary, too. In both cases, the effects vanish as soon as you cast the spell for 1 [[Spell Points|Spell Point]] or less again. If those spells are upcast to cost at least 2 [[Spell Points]], their effects return to normal.
-
-_Example_: If you apply this feature to Cure Wounds with a Proficiency Bonus of +3, you can cast it for free to give the target 2d8+mod Temporary Hit Points until you cast it for free again, or upcast it by 3 to spend the initial cost of 3 [[Spell Points]] to restore the 4d8+mod Hit Points that would usually cost 6 [[Spell Points]].
-
-**_Cheat_**: Once per Short or Long Rest when you spend [[Spell Points]], you can increase your [[Spell Limits#Casting Limit|Casting Limit]] by twice your Caster Proficiency Bonus until the start of your next turn.
+**_Cheat_**: When you spend [[Spell Points]], you can increase your [[Spell Limits#Casting Limit|Casting Limit]] by twice your Caster Proficiency Bonus until the start of your next turn. You can use this feature a number of times equal to your Caster Proficiency Bonus per Long Rest.
 
 **_Flow_**: If you've spent a number of [[Spell Points]] equal to at least your [[Spell Limits#Casting Limit|Casting Limit]] since the start of your last turn and cast a spell, that spell is upcast by a number of [[Spell Points]] equal to your Caster Proficiency Bonus at no additional cost.
 
-**_Hoarder_**: Your [[Spell Points|Spell Point]] maximum increases by twice your Caster Proficiency Bonus. You can pick this feature multiple times.
+**_Hoarder_**: Your [[Spell Points|Spell Point]] maximum increases by twice your Caster Proficiency Bonus.
+
+_Repeatable_: You can pick this feature multiple times.
 
 **_Hubris_**: Requires a spellbook. You may copy spells from spell scrolls or other spellbooks into your spellbook and prepare them even if their cost exceeds your [[Spell Limits#Preparation Limit|Preparation Limit]].
 
@@ -106,7 +118,9 @@ _Example_: If you apply this feature to Cure Wounds with a Proficiency Bonus of 
 
 **_Recast_**: When you cast a spell that you've already cast since the start of your last turn, the casting cost is halved.
 
-**_Trash Becomes Treasure_**: Choose a spell school. Your spells from that school with a [[Spell Points|Spell Point]] cost of 0 or less have their cost reduced by your Caster Proficiency Bonus. The rules for [[Spellcasting#Sunken Spells & Depthcasting|Sunken Spells & Depthcasting]] apply. You can pick this feature multiple times, but only for different spell schools.
+**_Trash Becomes Treasure_**: Choose a spell school. Your spells from that school with a [[Spell Points|Spell Point]] cost of 0 or less have their cost reduced by your Caster Proficiency Bonus. The rules for [[Spellcasting#Sunken Spells & Depthcasting|Sunken Spells & Depthcasting]] apply.
+
+_Repeatable_: You can pick this feature multiple times, but only for different spell schools.
 
 **_Weave Vampirism_**: When an object or creature other than you spends or loses [[Spell Points]] within 10 feet of you, you can use a Reaction to gain a number of Temporary Hit Points equal to the number of [[Spell Points]] spent or lost.
 ### Overcasting Features
@@ -126,9 +140,17 @@ _Example_: If you apply this feature to Cure Wounds with a Proficiency Bonus of 
 ### Spellcasting Focus Features
 **_Beyond Matter_**: When casting spells that have material components that are neither consumed nor specify a cost, you can ignore the material components as if you were using a [[Spellcasting Focus]] or a Component Pouch.
 
-**_Beyond The Medium_**: Choose one of your body parts and two spell schools. The chosen body part is now a [[Spellcasting Focus]] for you, associated with the chosen spell schools. You can pick this feature multiple times, but not with the same combination of body part and spell schools.
+**_Beyond The Medium_**: Choose one of your body parts and two spell schools. The chosen body part is now a [[Spellcasting Focus]] for you, associated with the chosen spell schools.
 
-**_Flexible Focus_**: Choose a kind of [[Spellcasting Focus]] (such as Wands or Staffs) and two spell schools that they are not already associated with. When you use this [[Spellcasting Focus]], it is now also associated with those schools. You can pick this feature multiple times, but only for different kinds of [[Spellcasting Focus]].
+_Repeatable_: You can pick this feature multiple times, but not with the same combination of body part and spell schools.
+
+**_Charity_**: Choose one of the following: _Arcane Focus_, _Bardic Focus_, _Druidic Focus_, or _Holy Symbol_. You can now use each item of that family as a [[Spellcasting Focus]] for all of your spells.
+
+_Repeatable_: You can pick this feature multiple times, but only for different families of [[Spellcasting Focus]].
+
+**_Flexible Focus_**: Choose a kind of [[Spellcasting Focus]] (such as Wands or Staffs) and two spell schools that they are not already associated with. When you use this [[Spellcasting Focus]], it is now also associated with those schools.
+
+_Repeatable_: You can pick this feature multiple times, but only for different kinds of [[Spellcasting Focus]].
 
 **_Hyperfocus_**: When you roll a [[Spell Check|Spell check]] for a spell while using two [[Spellcasting Focus|Spellcasting Foci]] that are associated with its school, you roll the [[Spell Check|Spell check]] with Advantage.
 
@@ -136,4 +158,6 @@ _Example_: If you apply this feature to Cure Wounds with a Proficiency Bonus of 
 
 **_Pouchcasting_**: When you use a Component Pouch to provide material components for a spell, the Component Pouch is a [[Spellcasting Focus]] associated with the school of the spell.
 
-**_Universal Focus_**: Choose a kind of [[Spellcasting Focus]] (such as Wands or Staffs) that you have the _Flexible Focus_ feature with. When you use this [[Spellcasting Focus]], it is now associated with all spell schools. You can pick this feature multiple times, but only for different kinds of [[Spellcasting Focus]].
+**_Universal Focus_**: Choose a kind of [[Spellcasting Focus]] (such as Wands or Staffs) that you have the _Flexible Focus_ feature with. When you use this [[Spellcasting Focus]], it is now associated with all spell schools.
+
+_Repeatable_: You can pick this feature multiple times, but only for different kinds of [[Spellcasting Focus]].

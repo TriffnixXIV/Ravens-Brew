@@ -13,7 +13,7 @@ It makes mechanical sense to bring the Spellcasting Focus rules in line with the
 - _Sprig of Mistletoe_: Abjuration, Divination, Transmutation.
 - _Staff (also Quarterstaff)_: Abjuration, Conjuration, Evocation.
 - _Yew wand_: Enchantment, Illusion, Necromancy.
-#### Holy Focus
+#### Holy Symbol
 - _Amulet (worn or held)_: Abjuration, Conjuration, Evocation.
 - _Emblem (borne on fabric or a Shield)_: Abjuration, Enchantment, Transmutation.
 - _Reliquary (held)_: Divination, Illusion, Necromancy.

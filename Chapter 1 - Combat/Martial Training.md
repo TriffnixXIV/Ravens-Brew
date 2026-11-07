@@ -26,13 +26,15 @@ Thirdly, the 2024 rules saw the introduction of Weapon Mastery Properties. These
 
 **_Improvised Weapon Training_**: You gain Training with improvised Weapons.
 ### Weapon Features
-**_Accuracy_**: Choose a Weapon property. You add your Proficiency Bonus to attack rolls you make with Weapons with that property. You can pick this feature multiple times, but only for different Weapon properties, and it does not stack with itself on Weapons with multiple properties that you have this feature for.
+**_Accuracy_**: Choose a Weapon property. You add your Proficiency Bonus to attack rolls you make with Weapons with that property.
+
+_Repeatable_: You can pick this feature multiple times, but only for different Weapon properties, and it does not stack with itself on Weapons with multiple properties that you have this feature for.
 
 **_Adept Improviser_**: You add your Proficiency Bonus to attack rolls you make with improvised Weapons.
 
 **_Archery_**: You gain a bonus to attack rolls with Ranged Weapons equal to your Wisdom modifier (at least 1).
 
-**_Combo_**: When you hit a target with a Melee Weapon attack, your next Weapon attack against the same target before the end of your next turn deals additional damage equal your Proficiency Bonus.
+**_Combo_**: When you hit a target with a Melee Weapon attack, your next Weapon attack against the same target before the end of your next turn deals additional damage equal to your Proficiency Bonus.
 
 **_Cleave_**: Once per turn, when you hit a creature with a melee attack using a Weapon that has the Heavy property and deals Slashing damage, you can make a melee attack roll with the Weapon against a second creature within 5 feet of the first that is also within your reach. On a hit, the second creature takes the Weapons damage, but you don't add your ability modifier to that damage unless that modifier is negative.
 
@@ -46,7 +48,7 @@ Thirdly, the 2024 rules saw the introduction of Weapon Mastery Properties. These
 - _Bludgeoning_: Attack rolls against the target have Advantage until the start of your next turn.
 - _Slashing_: The target has Disadvantage on attack rolls until the start of your next turn.
 - _Piercing_: You can roll one additional damage die when determining the additional Piercing damage the target takes.
-You can pick this feature multiple times, but only for different damage types.
+_Repeatable_: You can pick this feature multiple times, but only for different damage types.
 
 **_Firing in Melee_**: Being within 5 feet of an enemy doesn't impose Disadvantage on your attack rolls with Ranged Weapons.
 
@@ -72,7 +74,9 @@ You can pick this feature multiple times, but only for different damage types.
 
 **_Overpower_**: When you hit a target that is smaller than you with an attack that deals Bludgeoning damage, you deal additional damage equal to your Proficiency Bonus.
 
-**_Penetration_**: Choose a damage type. Your damage with Weapons that deal that type of damage ignores an amount of Damage Reduction equal to your Proficiency Bonus. You can pick this feature multiple times, but only for different damage types.
+**_Penetration_**: Choose a damage type. Your damage with Weapons that deal that type of damage ignores an amount of [[AC-less Defence#Damage Reduction|Damage Reduction]] equal to your Proficiency Bonus.
+
+_Repeatable_: You can pick this feature multiple times, but only for different damage types.
 
 **_Pole Strike_**: Immediately after you take the Attack action and attack with a Quarterstaff, a Spear, or a Weapon that has the Heavy and Reach properties, you can use a Bonus Action to make a melee attack with the opposite end of the Weapon. The attack deals Bludgeoning damage, and the damage die for this attack is a d4.
 

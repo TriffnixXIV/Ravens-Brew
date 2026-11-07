@@ -5,7 +5,6 @@
 - fixed some inconsistencies.
 - reformatted and reworded the changelogs.
 #### [[Martial Training]]
-- added a lot of links.
 - made opportunity attacks a default feature again.
 - changed _Opportunist_ to _Ranged Opportunist_ and removed the melee option accordingly.
 - removed the _Opportunist_ prerequisite from relevant features.
@@ -13,10 +12,15 @@
 #### [[Spell Check]]
 - repeated spell saving throws now work similar to other ongoing contests, requiring the Spell check to be rolled again each time.
 - added a paragraph about recasting spells without cost outside of combat, similar to the Warlocks free Eldritch Invocation spells.
+#### [[Upcasting]]
+- added introductory text.
+- made cantrip upcasting its own subsection.
+#### [[Sunken Spells & Depthcasting]]
+- added a new introductory text.
+- changed the formatting of the example.
 #### [[Caster Training]]
 - updated and reworded the introduction a bit.
 - regrouped the features.
-- added a lot of links.
 - changed _Acuity_ to include an option for utility spells and affect all saving throw spells at once.
 - added _Belay_ to make Spell checks for a ongoing or recast spells more consistent, replacing the now changed _Snowball_.
 - explicated that _Emphasis_ improves the roll on the d20.
@@ -24,9 +28,11 @@
 - added _Volatile Casting_ to increase the Critical Hit range for spells. Made it incompatible with _Reliable Casting_.
 - changed _Snowball_ to increase damage instead.
 - changed _Twofold Touch_ to use the same damage type as an Unarmed Strike.
+- changed _Cheat_ to be usable as often as some other features.
 - changed _Flow_ to also trigger on overcasting and have a more affordable effect.
 - changed _Flow_ and _Recast_ to use the start of your last turn as a reference point instead of the last round. 
 - added _Transmuted Retaliation_ to change Overcast damage type. Made _Defiance_ damage type agnostic accordingly.
+- added _Charity_ to give access to another family of Spellcasting Foci and make it usable for spells of multiple classes.
 #### [[Spells]]
 - changed the format for all spells to have the traits be more readable.
 - changed the wording of a few spells to be more similar to other spells and features, without mechanical changes.
