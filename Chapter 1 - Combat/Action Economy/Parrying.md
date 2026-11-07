@@ -6,7 +6,7 @@ Parrying has long played a relevant role in combat fiction, and these rules expl
 
 **_Parry_**: You can use your Reaction to try to parry a melee attack that you can see and that targets you. Make a Parrying check contesting the attack roll. If the result is at least as high as the attack roll, you successfully parry the attack, reducing its damage by your Weapons Parrying Power.
 
-When trying to parry a critical hit, you roll with Disadvantage.
+When trying to parry a Critical Hit, you roll with Disadvantage.
 
 When rolling a natural 20 on your Parrying check, the Parrying Power is doubled.
 

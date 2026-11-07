@@ -20,7 +20,7 @@ Also, adding an option to dodge & roll would be nice, especially because swiftly
 
 Make a Dodging check contesting the attack roll. If the result is at least as high as the attack roll, you successfully dodge the attack. It misses.
 
-When trying to dodge a critical hit, you roll with Disadvantage.
+When trying to dodge a Critical Hit, you roll with Disadvantage.
 
 **_Dodge & Roll_**: You can use your Reaction to try to dodge and move away from an attack that you can see and that targets you.
 
@@ -32,4 +32,4 @@ If the Dodging check fails, you fall prone at your target location.
 
 If all spots within 10 feet are occupied, you fall prone in place, even if the Dodging check succeeded.
 
-When trying to dodge & roll in response to a critical hit, you roll with Disadvantage.
+When trying to dodge & roll in response to a Critical Hit, you roll with Disadvantage.

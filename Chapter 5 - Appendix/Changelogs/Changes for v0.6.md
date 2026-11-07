@@ -9,7 +9,7 @@
 -  added a paragraph on general reaction timing and cleaned up other descriptions throughout the rules accordingly.
 #### [[AC-less Defence]]
 - removed the Constitution Modifier from the base Damage Reduction.
-- defensive Reactions are now rolled with Disadvantage against critical hits.
+- defensive Reactions are now rolled with Disadvantage against Critical Hits.
 - size now impacts Missing Threshold.
 #### [[Dodging]]
 - the Dodging Bonus is now reduced when wearing Medium Armour or Heavy Armour.
