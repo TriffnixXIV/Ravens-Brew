@@ -46,7 +46,7 @@ _Repeatable_: You can pick this feature multiple times, but only for different s
 **_Casting in Melee_**: Being within 5 feet of an enemy doesn't impose Disadvantage on your ranged spell attack rolls.
 
 **_Enhanced Critical_**: Choose one of the damage types listed below. When you score a Critical Hit that deals damage of that damage type, you ignore the targets Damage Reduction and inflict the drawback associated with that damage type:
-- _Acid_: The targets Damage Reduction is reduced by your Proficiency Bonus (not below 0) until the start of your next turn.
+- _Acid_: The targets Damage Reduction is reduced by your Caster Proficiency Bonus (not below 0) until the start of your next turn.
 - _Cold_: The targets Speed is reduced to 0 until the start of your next turn and can't increase until then.
 - _Fire_: You can roll one additional damage die when determining the additional Fire damage the target takes.
 - _Force_: The target takes an additional 1d4 Force damage every time it takes damage until the start of your next turn.
@@ -144,7 +144,7 @@ _Repeatable_: You can pick this feature multiple times, but only for different s
 
 _Repeatable_: You can pick this feature multiple times, but not with the same combination of body part and spell schools.
 
-**_Charity_**: Choose one of the following: _Arcane Focus_, _Bardic Focus_, _Druidic Focus_, or _Holy Symbol_. You can now use each item of that family as a [[Spellcasting Focus]] for all of your spells.
+**_Class Solidarity_**: Choose one of the following: _Arcane Focus_, _Bardic Focus_, _Druidic Focus_, or _Holy Symbol_. You can now use each item of that family as a [[Spellcasting Focus]] for all of your spells.
 
 _Repeatable_: You can pick this feature multiple times, but only for different families of [[Spellcasting Focus]].
 

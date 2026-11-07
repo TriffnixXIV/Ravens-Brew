@@ -28,7 +28,7 @@
 - changed _Flow_ to also trigger on overcasting and have a more affordable effect.
 - changed _Flow_ and _Recast_ to use the start of your last turn as a reference point instead of the last round. 
 - added _Transmuted Retaliation_ to change Overcast damage type. Made _Defiance_ damage type agnostic accordingly.
-- added _Charity_ to give access to another family of Spellcasting Foci and make it usable for spells of multiple classes.
+- added _Class Solidarity_ to give access to another family of Spellcasting Foci and make it usable for spells of multiple classes.
 #### [[Spells]]
 - changed the format for all spells to have the traits be more readable.
 - changed the wording of a few spells to be more similar to other spells and features, without mechanical changes.

@@ -19,7 +19,7 @@ _Counterspelling Spell Extra Attacks_: If a caster successfully counterspells a 
 **_Magic Items for Spellcasting_**: Where some magical items previously gave a +1 to spell attack rolls and/or a +1 to the Spell save DC, they now give a +1 to Spell checks.
 
 **_Free Spells Outside Of Combat_**: When casting a spell outside of combat without spending Spell Points, a roll on the Spell checks d20 of 11 or lower automatically becomes a 12. When you end the spell early and cast it outside of combat again, the same Spell check total applies.
-#### Example Spellcasts
+### Examples
 The great Wizard Florb uses a Staff as a Spellcasting Focus to cast _Fireball_. For their Spell check, they roll a D20 Test without Disadvantage, because their Staff focuses Evocation spells such as _Fireball_. They roll a 13 and they add their Intelligence modifier of +4 for a total of 17. This 17 is now the DC of the Dexterity saving throw the targets have to succeed at.
 
 Next round, Florb casts _Fire Bolt_. They roll their Spell check, adding their Intelligence modifier as before, for a total of 14. Thus, they hit their target if it has a Hit DC of 14 or lower, and if the target wants to reactively defend against the attack, they have to beat this 14.
