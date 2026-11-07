@@ -151,11 +151,11 @@ _Illusion (Sorcerer, Wizard)_
 - Component: V.
 - Duration: Concentration, up to 1 minute.
 
-Your body becomes blurred. For the duration, any creature has Disadvantage on attack rolls against you and your Hit DC increases by your Spellcasting ability modifier (at least 1) for those attacks.
+Your body becomes blurred. For the duration, any creature has Disadvantage on attack rolls against you and you gain a bonus to your Hit DC equal to your Spellcasting ability modifier (at least 1) for those attacks.
 
 An attacker is unaffected by this spell if they have the Blinded condition, Blindsight, or Truesight.
 
-_Upcasting_: For every additional 4 Spell Points spent, the bonus to Hit DC increases by 1. 
+_Upcasting_: For every additional 4 Spell Points spent, the bonus to your Hit DC increases by 1. 
 #### Cure Wounds
 _Abjuration (Bard, Cleric, Druid, Paladin, Ranger)_
 - Cost: 3 Spell Points.
@@ -248,7 +248,9 @@ _Abjuration (Cleric, Paladin)_
 - Components: V, S, M (a prayer scroll).
 - Duration: Concentration, up to 10 minutes.
 
-A shimmering field surrounds a creature of your choice within range, diverting incoming attacks for the duration, granting the creature a +2 bonus to their Hit DC.
+A shimmering field surrounds a creature of your choice within range, diverting incoming attacks for the duration, granting the creature a bonus to their Hit DC equal to your Spellcasting ability modifier (at least 1).
+
+_Upcasting_: For every additional 4 Spell Points spent, the bonus to their Hit DC increases by 1.
 #### Warding Bond
 _Abjuration (Cleric, Paladin)_
 - Cost: 6 Spell Points.

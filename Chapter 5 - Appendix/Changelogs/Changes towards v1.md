@@ -1,8 +1,8 @@
 ### v0.9.5
 #### General
-- reworded a few introductions.
+- reworded and added a few introductions.
 - added more crosslinks.
-- capitalized all words that have a dedicated section in these rules.
+- changed some capitalization.
 - fixed some inconsistencies.
 - reformatted and reworded the changelogs.
 #### [[Martial Training]]
@@ -16,7 +16,6 @@
 #### [[Upcasting]]
 - made cantrip upcasting its own subsection.
 #### [[Caster Training]]
-- updated and reworded the introduction a bit.
 - regrouped the features.
 - changed _Acuity_ to include an option for utility spells and affect all saving throw spells at once.
 - added _Belay_ to make Spell checks for a ongoing or recast spells more consistent, replacing the now changed _Snowball_.
@@ -33,7 +32,7 @@
 #### [[Spells]]
 - changed the format for all spells to have the traits be more readable.
 - changed the wording of a few spells to be more similar to other spells and features, without mechanical changes.
-- changed _Amplify_, _Barkskin_, _Blur_, _Inhibit_, _Mage Armour_ and _Weavestrike_ to use your Spellcasting ability modifier (at least 1) instead of a constant.
+- changed _Amplify_, _Barkskin_, _Blur_, _Inhibit_, _Mage Armour_, _Shield of Faith_ and _Weavestrike_ to use your Spellcasting ability modifier (at least 1) instead of a constant.
 - changed _Rewind_ to cost a bit more and make some infinite combos impossible.
 - added an upcast option to _Blur_.
 - changed _Inflict Wounds_ to start at 3d10 Necrotic damage.
@@ -47,7 +46,6 @@
 - added _Dying Struggle_ to the Barbarian's level 5 Surge Die feature pool.
 - added _Elation_ to the Fighter's level 5 Surge Die feature pool.
 #### [[Feats]]
-- updated the introductory text.
 - added _Boon of the Time Spender_ and _Boon of Superior Preperation_.
 - changed _Boon of Spell Recall_ to fit in.
 ### v0.9.4
