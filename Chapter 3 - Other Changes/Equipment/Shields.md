@@ -19,4 +19,4 @@
 
 **_Heavy_**: When wielding a Shield with the Heavy property and your Strength score not being at least 13, you have Disadvantage on [[Blocking]] checks and your movement reduced by 5 ft. Additionally, Blocking checks with Heavy Shields can only be rolled with Strength.
 
-**_Light_**: When [[Blocking]] with a Shield with the Light property, the damage of the attack may not be negated completely. Instead, the damage is reduced by your Dexterity score. Additionally, Blocking checks with Light Shields can only be rolled with Dexterity.
+**_Light_**: When successfully [[Blocking]] an attack with a Shield with the Light property, its damage is not reduced to 0. Instead, the damage is reduced by your Dexterity score. Additionally, Blocking checks with Light Shields can only be rolled with Dexterity.

@@ -1,5 +1,13 @@
-**_AC-less_**: Creatures do not have an Armor Class anymore. A combination of Hit DC and Damage Reduction takes its place.
+Armor Class is the root of all problems in DnD combat. By unifying Armour and Dexterity into this one stat, the narrative distinction between passive and reactive defence is almost entirely removed. Where other games use a relative ease of hitting a target as an incentive to force the target to react to their attackers, DnD gives the player of the target little choice but to state their Armor Class and pray upon the attackers misfortune. This is not only boring in terms of gameplay, it also leaves a perfect opportunity on the table: allowing the target to characterize themselves through a display of their willingness and ability to react.
+
+Ideally, targets that rely on their resilience and targets that rely on their ability to react should play entirely differently. To be able to do this, Armor Class has to go.
+
+**_AC-less_**: Targets do not have an Armor Class anymore. A combination of [[#Hit DC]] and [[#Damage Reduction]] takes its place.
+
+**_Reactive Defence_**: There are now options to reactively defend against incoming attacks and other effects. These include [[Dodging]], [[Blocking]] and [[Parrying]]. For spellcasters, some of the [[Spells#New Spells|new]] and [[Spells#Reworked Spells - Defence|reworked spells]] provide options for reactive defence.
 ### Hit DC
+The difficulty of hitting a target with an attack should not rely on the targets Armour or general resilience. More intuitively, the targets size and movements should determine this. As movement is very difficult to elegantly track and turn into modifiers for future attacks, these rules will rely on size alone.
+
 **_Missing attacks_**: An attack automatically misses its target if the attack roll isn’t at least as high as the Hit DC.
 
 **_Base Hit DC_**: The base Hit DC of a target depends on its size, as shown in the table below. To determine the size of something that has no given size, you can use the Hit Area and height or length measures as guidelines.
@@ -42,24 +50,22 @@ To continue the Shield example, if you are holding a Shield directly towards an 
 
 For example, a Medium Humanoid receives a +4 to their Hit DC from a Tower Shield when crouching behind it instead of the usual +2, while a Small Humanoid can receive full cover from a Tower Shield when crouching behind it.
 ### Damage Reduction
-**_Damage Reduction_**: Targets now have a Damage Reduction value. When the target takes damage through an attack, that value is subtracted from this damage.
+A common way to mechanically represent passive defence is by reducing damage taken from attacks. This also makes narrative sense insofar as a heavily armoured or resilient target is still hit as often as other similar targets, it just doesn't really care because weaker attacks don't damage it.
+
+**_Damage Reduction_**: Targets now have a Damage Reduction value. When a target takes damage through an attack, that value is subtracted from this damage.
+
+**_Converting Armor Class to Damage Reduction_**: Every bonus to Armor Class that is not the Dexterity bonus can be converted 1:1 into a bonus for Damage Reduction, unless otherwise noted. [[Armour]] that sets the Armor Class of the wearer to 13 + Dexterity modifier will, for example, be converted to 3 Damage Reduction, because it is an Armor Class bonus of +3 compared to the base Armor Class of 10, while the Dexterity modifier is discarded.
+
+**_Stacking Damage Reduction_**: Damage Reduction from multiple sources stacks. However, the prerequisites for each source must still be met. For example, the Damage Reduction now gained from the [[Classes#Barbarian|Barbarians]] Unarmoured Defence and a Heavy Armour will not stack, because the Heavy Armour still disables the Barbarians Unarmoured Defence.
 
 **_Resistances & Vulnerabilities_**: Damage Reduction happens before resistances and vulnerabilities modify the damage.
+
+**_Reducing Damage to 0_**: If an attacks damage is reduced to 0 through Damage Reduction, it counts both as a hit and a miss.
+
+**_Damage Reduction for Specific Damage Types_**: Some features may give Damage Reduction against a specific damage type only. This Damage Reduction only reduces the damage of its specified type, and its reduction takes place before general Damage Reduction is applied as described above.
 
 **_Multiple Damage Types_**: When one attack deals damage of multiple different damage types, the Damage Reduction still only applies once to the attack, not to every type of damage it deals.
 
 Damage of different types is reduced in order, with leftover reduction being carried to the next type. Bludgeoning, Piercing and Slashing damage are reduced first, Force damage and Psychic damage are reduced last, and all other damage types are reduced in-between. Within each category, the order of reduction is chosen by the target for each attack, so you may choose to reduce Bludgeoning damage before Slashing damage and vice versa whenever relevant.
 
 For example, if an attack deals 2 Piercing damage, 2 Cold damage and 2 Force damage against a Damage Reduction of 3, the Piercing damage is reduced to 0, the Cold damage to 1 and the Force damage stays at 2, reducing the total damage dealt by 3. If it dealt Fire damage instead of Force damage, the target could have chosen to reduce the Fire damage by 1 instead of the Cold damage.
-
-**_Damage Reduction for Specific Damage Types_**: Some features may give Damage Reduction against a specific damage type only. This Damage Reduction only reduces the damage of its specified type, and its reduction takes place before general Damage Reduction is applied as described above.
-
-**_Converting Armor Class to Damage Reduction_**: Every bonus to Armor Class that is not the Dexterity bonus can be converted 1:1 into a bonus for Damage Reduction, unless otherwise noted. An Armour that sets the Armor Class of the wearer to 13 + Dexterity modifier will, for example, be converted to 3 Damage Reduction, because it is an Armor Class bonus of +3 compared to the base Armor Class of 10, while the Dexterity modifier is discarded. The conversion for Armours can also be seen in [[Armour|their chapter]].
-
-**_Stacking Damage Reduction_**: Damage Reduction from multiple sources stacks. However, the prerequisites for each source must still be met. For example, the Damage Reduction now gained from the Barbarians Unarmoured Defence and a Heavy Armour will not stack, because the Heavy Armour still disables the Barbarians Unarmoured Defence.
-### Other changes
-**_Reactive Defence_**: There are now options to reactively defend against incoming attacks and other effects. These include [[Dodging]], [[Blocking]] and [[Parrying]], as detailed within the Rules Glossary. For spellcasters, some of the [[Spells#New Spells|new]] and [[Spells#Reworked Spells - Defence|reworked spells]] provide options for reactive defence.
-
-**_Defence and Dodge Action_**: The [[Actions#Defence Action|Defence Action]] has been introduced and the [[Actions#Dodge Action|Dodge Action]] has been changed to fit the new reaction rules.
-
-**_Misses?_** Any rule or feature that requires a missed attack to work also works if the attack does not deal damage because of Damage Reduction, Blocking, or Parrying. Those attacks count as both a hit and a miss in that regard. Note that Dodging explicitly causes dodged attacks to miss.

@@ -8,6 +8,8 @@
 
 **_Block_**: You can use a Reaction to try to block an attack that you can see and that targets you.
 
-Make a Blocking check contesting the attack roll. If the result is at least as high as the attack roll, you successfully block the attack. It deals no damage.
+Make a Blocking check contesting the attack roll. If the result is at least as high as the attack roll, you successfully block the attack, reducing its damage to 0.
 
 When trying to block a critical hit, you roll with Disadvantage.
+
+**_Reducing Damage to 0_**: If an attacks damage is reduced to 0 through a Block, it counts both as a hit and a miss.

@@ -1,6 +1,6 @@
 With the changes in this ruleset, there are new stats and mechanics for magic items to interact with. In this section, some examples are given. Feel free to create your own magic items and adapt existing magic items as is appropriate.
 ### Armour
-[[Armour]] now gives Damage Reduction instead of modifying ones Armour Class. Magical +1 or +2 Armour sets will have this bonus apply to this Damage Reduction.
+[[Armour]] now gives Damage Reduction instead of modifying ones Armor Class. Magical +1 or +2 Armour sets will have this bonus apply to this Damage Reduction.
 
 The introduction of dedicated Armour Pieces also allows for magic Armour for specific body parts, with more local effects. Consider, for example, that a magical set of bracers may not be worn together with other Armour covering the lower arms.
 #### Adamantine Armour

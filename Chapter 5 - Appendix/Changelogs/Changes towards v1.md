@@ -1,5 +1,6 @@
 ### v0.9.5
 #### General
+- reworded a few introductions.
 - added more crosslinks.
 - capitalized all words that have a dedicated section in these rules.
 - fixed some inconsistencies.
@@ -13,11 +14,7 @@
 - repeated spell saving throws now work similar to other ongoing contests, requiring the Spell check to be rolled again each time.
 - added a paragraph about recasting spells without cost outside of combat, similar to the Warlocks free Eldritch Invocation spells.
 #### [[Upcasting]]
-- added introductory text.
 - made cantrip upcasting its own subsection.
-#### [[Sunken Spells & Depthcasting]]
-- added a new introductory text.
-- changed the formatting of the example.
 #### [[Caster Training]]
 - updated and reworded the introduction a bit.
 - regrouped the features.
