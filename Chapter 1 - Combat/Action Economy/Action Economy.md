@@ -1,3 +1,5 @@
+Next to passive defence, reactive defence should play a relevant part in combat, as discussed before. However, to enable proper reactive defensive strategies, changes to the existing action economy are needed. The core change here is that you can gain additional Reactions and remaining Reactions turn into additional dice at the start of your turn that you can use for further bonuses.
+
 **_Reserving Actions_**: At the end of your turn, you gain 1 additional Reaction per Action you did not use. If you were unable to use these Actions because you were Incapacitated, this conversion does not happen.
 
 **_Ready Action_**: When using the Ready Action, you also gain 1 additional Reaction.

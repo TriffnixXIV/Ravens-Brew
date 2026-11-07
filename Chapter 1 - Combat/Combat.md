@@ -1,6 +1,6 @@
 This chapter focuses on the fundamental changes to the combat rules. The following sections can be found here:
 - [[AC-less Defence]], featuring [[AC-less Defence#Hit DC|Hit DC]], [[AC-less Defence#Damage Reduction|Damage Reduction]] and [[AC-less Defence#Cover|Cover]].
-- [[Action Economy]], featuring the Action conversion cycle.
+- [[Action Economy]], featuring the new Action Cycle.
 - [[Contests]] are reintroduced from the 2014 rules to set up for...
 - [[Dodging]], [[Blocking]] and [[Parrying]].
 - [[Surge Dice]] bring the heat.
