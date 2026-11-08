@@ -130,7 +130,7 @@ _Enchantment (Cleric, Wizard, Warlock)_
 - Components: V, S.
 - Duration: Concentration, up to 1 minute.
 
-You create a magical zone that decreases spellcasters ability to cast powerful spells in a 15-foot-radius Sphere centered on a point within range. Until the spell ends, a creature that enters the spell's area for the first time on a turn or starts its turn there makes a Charisma saving throw. On a failed save, a creature has its [[Spell Limits#Casting Limit|Casting Limit]] reduced by 9 while in the radius.
+You create a magical zone that decreases spellcasters ability to cast powerful spells in a 15-foot-radius Sphere centered on a point within range. Until the spell ends, a creature that enters the spell's area for the first time on a turn or starts its turn there makes a Charisma saving throw. On a failed save, a creature has its [[Spell Limits#Casting Limit|Casting Limit]] reduced by half your Spellcasting ability score (at least 6) while in the radius.
 
 _Upcasting_: For every additional 2 Spell Points spent, the [[Spell Limits#Casting Limit|Casting Limit]] reduction increases by 1.
 ### Reworked Spells - Defence
@@ -142,7 +142,7 @@ _Transmutation (Druid, Ranger)_
 - Components: V, S, M (a handful of bark).
 - Duration: 1 hour.
 
-You touch a willing creature. Until the spell ends, the target’s skin assumes a bark-like appearance, giving the target a Damage Reduction of 3 if its Damage Reduction was lower before. Then, the target gains a bonus to its Damage Reduction equal to your Spellcasting ability modifier (at least 1).
+You touch a willing creature. Until the spell ends, the target’s skin assumes a bark-like appearance, giving the target a Damage Reduction of 3 if its Damage Reduction was lower before, and it gains a bonus to its Damage Reduction equal to your Spellcasting ability modifier (at least 1). This Damage Reduction bonus applies to every body part except the eyes, and while the spell is active, the target's Dexterity modifier is limited to +2, as if it was wearing Medium [[Armour]] on its entire body.
 
 _Upcasting_: For every additional 4 Spell Points spent, the bonus to Damage Reduction increases by 1.
 #### Blur
