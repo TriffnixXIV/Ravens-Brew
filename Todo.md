@@ -1,11 +1,14 @@
 ### towards v1
 - http://dnd2024.wikidot.com/artificer:main.
 - improve introductory texts and text flow throughout the book.
+	- reflavour Part 1 to center more around defence?
+	- move Aimed Strikes and Contests to Part 3?
 - add illustrations (find artist).
 - add more examples in the [[Spell Check]] chapter to cover new cases.
 - split the [[Spell Check]] chapter into multiple parts for saves and attacks.
 	- also third part for remaining spells?
 - add more [[Overcasting]] examples: Reactions & multi-Overcasting.
+- make [[Spellcasting Focus]] use Training like all other Equipment?
 - add training features with level requirements?
 - add training features that give more Reactions or interact with Surge Dice?
 - balance watchlist: _Limitbreaker_, _Money Shot_, _Cheapskate_.
