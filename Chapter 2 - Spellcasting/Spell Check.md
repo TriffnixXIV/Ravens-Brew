@@ -8,7 +8,7 @@ When you cast a spell, you now always roll a Spell check that determines the for
 
 _Repeated Spell Saving Throws_: When your spell features a repeated saving throw, such as _Hold Person_, you roll another Spell check each time the saving throw is repeated, determining the DC anew as if it was an ongoing contest, like a grapple. If multiple targets repeat the saving throw within the same turn, you only roll one Spell check to determine the DC for all targets this turn.
 
-**_Replaces Spell Attack Rolls_**: When you cast a spell that requires you to make one or more spell attack rolls, the initial Spell check replaces the first attack roll, and you roll an additional Spell check for each spell attack afterwards. These Spell checks also count as spell attack rolls.
+**_Replaces Spell Attack Rolls_**: When you cast a spell that requires you to make one or more spell attack rolls, the initial Spell check becomes the first attack roll, and you roll an additional Spell check for each spell attack afterwards.
 
 _Spell Extra Attacks_: When your spell features multiple spell attacks, each rolled Spell check counts as a spell attack roll and as a spellcast that uses the same Verbal, Somatic and Material components as the spell itself. If the spell consumes a Material component, it does so only once when the spell ends.
 
