@@ -37,6 +37,7 @@
 - added an upcast option to _Blur_.
 - changed _Inflict Wounds_ to start at 3d10 Necrotic damage.
 - changed _Mage Armour_ to not protect against Aimed Strikes by default. Made it possible to tell it to protect specific body parts. Changed it to be an [[Armour#Armour Pieces|Armour piece]].
+- changed _Guard_ to not upcast as quickly.
 - aligned _Thwart_ with _Guard_ to reduce overlap with _Counterspell_.
 #### [[Magic Items]]
 - added the _Parrying_ prefix for Weapons.

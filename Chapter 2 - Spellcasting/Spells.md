@@ -73,7 +73,7 @@ _Abjuration (Bard, Cleric, Druid)_
 
 You try to guard your target from the effects of an incoming spell. They gain a bonus to their saving throw equal to your Spellcasting ability modifier (at least 1).
 
-_Upcasting_: For every additional Spell Point spent, they gain an additional bonus of +1 to their saving throw.
+_Upcasting_: For every additional 2 Spell Points spent, they gain an additional bonus of +1 to their saving throw.
 #### Inhibit
 _Enchantment (Cleric, Wizard, Warlock)_
 - Cost: 3 Spell Points.
@@ -107,6 +107,8 @@ _Abjuration (Bard, Sorcerer, Warlock, Wizard)_
 - Duration: Instantaneous.
 
 You try to diffuse the spell attack. Reduce the attack roll by your Spellcasting ability modifier (at least 1).
+
+_Upcasting_: For every additional 2 Spell Points spent, reduce the attack roll by 1.
 #### Weavestrike
 _Evocation (Bard, Paladin, Sorcerer, Warlock, Wizard)_
 - Cost: 3 Spell Points.
