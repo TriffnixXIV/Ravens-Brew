@@ -1,3 +1,7 @@
+### v0.9.6
+#### [[Caster Training]]
+- changed _Keen Gestures_ to only apply to a selection of spells.
+- changed _Hyperfocus_ to cost action economy and movement.
 ### v0.9.5
 #### General
 - reworded and added a few introductions.
