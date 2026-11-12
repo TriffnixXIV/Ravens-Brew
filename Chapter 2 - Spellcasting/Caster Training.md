@@ -29,7 +29,7 @@ _Repeatable_: You can pick this feature multiple times, but only with different 
 
 **_Jack Up_**: When you cast a spell, it is automatically upcast by one [[Spell Points|Spell Point]] for every 4 your [[Spell Check|Spell check]] exceeds 8 by for free.
 
-**_Keen Gestures_**: Choose two spells that require somatic components. When you roll a [[Spell Check|Spell check]] for one of those spells and each of your hands is either free or holds nothing except a [[Spellcasting Focus]] or the spells material components, you gain a bonus to your [[Spell Check|Spell check]] equal to your Dexterity modifier (at least 1).
+**_Keen Gestures_**: Choose a number of spells equal to your Caster Proficiency Bonus that require somatic components. When you roll a [[Spell Check|Spell check]] for one of those spells and each of your hands is either free or holds nothing except a [[Spellcasting Focus]] or the spells material components, you gain a bonus to your [[Spell Check|Spell check]] equal to your Dexterity modifier (at least 1). Whenever your Caster Proficiency Bonus increases later, you can choose an additional spell to add to this feature.
 
 **_Letting Go_**: You gain the following benefits:
 - You roll [[Spell Check|Spell checks]] for spells that consume a material component with a specified cost with Advantage.
