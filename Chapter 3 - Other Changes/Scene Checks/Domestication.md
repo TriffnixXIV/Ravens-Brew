@@ -8,13 +8,15 @@ Domestication is the go-to way to find new friends without having to interact wi
 
 **_Associated Skills_**: Animal Handling, Performance.
 
-**_Domestication_**: Domestication is done to a singular target creature and lead by one character, the domesticator, that rolls all the required rolls, and takes a few weeks. To successfully domesticate a creature, the domesticator must succeed on a Domestication check five times, rolling up to two per day. The difficulty is 10 + the Challenge Rating of the target creature.
+**_Domestication_**: Domestication is done to a singular target creature and lead by one character, the domesticator, that rolls all the required rolls, and takes a few days, sometimes a few weeks. To successfully domesticate a creature, the domesticator must succeed on a Domestication check five times, rolling up to two per day. The difficulty is 10 + the Challenge Rating of the target creature.
 
 When you use methods that particularly appeal to the target creature, you roll with Advantage.
 
 After the five Domestication checks succeeded, the target is domesticated. It regards you as an ally and comes back to you from time to time. It roughly understands you, but does not follow any commands yet, and will not fight for you yet. To achieve this, the target must specifically be trained to follow each command.
 
-_Rolling a 20_: When a 20 is rolled on the d20, this Domestication check and the next one are automatically successful. Any increase of the difficulty through previous failures on Domestication checks are reset this way.
+**_Succeeding on a Domestication check_**: A successful Domestication check decreases the difficulty of following Domestication checks by 1.
+
+_Rolling a 20_: When a 20 is rolled on the d20, this Domestication check and the next one are automatically successful, and any difficulty increases through previous failures on Domestication checks are reset.
 
 **_Failing a Domestication check_**: A failed Domestication check does not make the domestication fail. Instead, when a Domestication check fails, the domesticator must roll a d20. On a 10 or above, nothing happens. On a 9 or below, the difficulty of the Domestication check increases by 1 as the target creature grows apprehensive towards you.
 

@@ -13,4 +13,5 @@
 - add training features that give more Reactions or interact with Surge Dice?
 - balance watchlist: _Limitbreaker_, _Money Shot_, _Cheapskate_.
 	- make _Limitbreaker_ give Exhaustion?
+	- make _Money Shot_ give Exhaustion/Weavestrain?
 	- limit _Cheapskate_ to damaging spells?
