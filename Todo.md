@@ -4,6 +4,7 @@
 	- reflavour Part 1 to center more around defence?
 	- move Aimed Strikes and Contests to Part 3?
 - add illustrations (find artist).
+- make [[Conditions#Weavestrain|Weavestrain]] use levels instead of stacks, make the phrasing throughout the rules similar to Exhaustion.
 - add more examples in the [[Spell Check]] chapter to cover new cases.
 - split the [[Spell Check]] chapter into multiple parts for saves and attacks.
 	- also third part for remaining spells?
@@ -12,6 +13,4 @@
 - add training features with level requirements?
 - add training features that give more Reactions or interact with Surge Dice?
 - balance watchlist: _Limitbreaker_, _Money Shot_, _Cheapskate_.
-	- make _Limitbreaker_ give Exhaustion?
-	- make _Money Shot_ give Exhaustion/Weavestrain?
 	- limit _Cheapskate_ to damaging spells?

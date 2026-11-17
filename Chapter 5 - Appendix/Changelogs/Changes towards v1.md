@@ -1,6 +1,9 @@
 ### v0.9.6
 #### [[Caster Training]]
+- updated _Gambler_ and _Volatile Casting_ wording to fit with Spell checks better.
 - changed _Keen Gestures_ to only apply to a selection of spells.
+- changed _Money Shot_ to one free use per Long Rest. Otherwise, using it gives 1 Exhaustion level or 3 Weavestrain stacks now. Made it require _Emphasis_ and moved it to the Spell check feature section.
+- changed _Limitbreaker_ to one free use per Long Rest again. Otherwise, using it gives 1 Exhaustion level now.
 - changed _Hyperfocus_ to cost action economy and movement.
 ### v0.9.5
 #### General

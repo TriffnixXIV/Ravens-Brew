@@ -22,8 +22,8 @@ _Repeatable_: You can pick this feature multiple times, but only with different 
 
 **_Gambler_**: When you roll a [[Spell Check|Spell check]] for a spell attack or to determine the saving throw DC of a damaging spell, you can _gamble_, sacrificing the spells reliability and a bit of your vitality to make it deal more damage. When you _gamble_, the following effects apply:
 - _Raised Stakes_: Roll any number of additional d4s (at least 1). You reduce the [[Spell Check|Spell check]] total by that result and take damage of the spells damage type equal to that result. For every d4 you rolled, the spells damage increases by one damage die.
-- _Risk_: When you roll a 1 on the d20 of the [[Spell Check|Spell check]] or its total is 0 or below, the spell dissipates, having no effect, and the Action, Bonus Action, or Reaction you've used to cast it is wasted. If it was cast with [[Spell Points]], the spent [[Spell Points]] are restored.
-- _Reward_: When you roll a 20 on the d20 of the [[Spell Check|Spell check]] and the spell requires a saving throw, it scores a Critical Hit regardless. Roll the damage dice twice and add them together to determine the damage.
+- _Risk_: When you roll a 1 on the d20 of the [[Spell Check|Spell check]] or its total is 0 or below, the spell ends without effect. If it was the only [[Spell check]] for this spell, the Action, Bonus Action, or Reaction you've used to cast it is wasted, and if it was also cast with [[Spell Points]], the spent [[Spell Points]] are restored.
+- _Reward_: When you roll a 20 on the d20 of the [[Spell Check|Spell check]] to determine a saving throw DC, it scores a Critical Hit regardless. Roll the damage dice twice and add them together to determine the damage.
 
 **_Insistence_**: Requires _Emphasis_. When you roll a [[Spell Check|Spell check]], you add a bonus of 1 to the checks total for every 3 [[Spell Points]] you've spent on the corresponding spellcast.
 
@@ -35,11 +35,13 @@ _Repeatable_: You can pick this feature multiple times, but only with different 
 - You roll [[Spell Check|Spell checks]] for spells that consume a material component with a specified cost with Advantage.
 - After rolling a [[Spell Check|Spell check]] for a spell that requires but doesn't consume a material component with a specified cost, you can make the spell consume the material component to reroll the [[Spell Check|Spell check]] with Advantage.
 
+**_Money Shot_**: Requires _Emphasis_. When you roll a Spell check, you can gain 1 Exhaustion level or 3 [[Conditions#Weavestrain|Weavestrain]] stacks to turn the roll on the d20 into a 20. This can make the [[Spell check]] score a Critical Hit. Once per Long Rest, you can use this feature without gaining Exhaustion.
+
 **_Reliable Casting_**: Incompatible with _Volatile Casting_. Choose a spell school. When you make a [[Spell Check|Spell check]] to cast a spell of that school, you can treat a roll of 7 or lower on the d20 as an 8.
 
 _Repeatable_: You can pick this feature multiple times, but only for different spell schools.
 
-**_Volatile Casting_**: Requires _Gambler_. Incompatible with _Reliable Casting_. When you _gamble_, your [[Spell Check|Spell check]] scores a Critical Hit on a roll of 18-20 on its d20, and the spell dissipates on a roll of 1-3 on its d20.
+**_Volatile Casting_**: Requires _Gambler_. Incompatible with _Reliable Casting_. When you _gamble_, your [[Spell Check|Spell check]] scores a Critical Hit on a roll of 18-20 on its d20, and the spell ends on a roll of 1-3 on its d20.
 ### Spell Features
 **_Arsenal of Tricks_**: Choose a number of spells equal to your Caster Proficiency Bonus with a [[Spell Points|Spell Point]] cost of 0. You always have those spells prepared, and they count as spells of a class of your choice. Whenever your Caster Proficiency Bonus increases later, you can choose an additional spell to add to this feature.
 
@@ -114,8 +116,6 @@ _Repeatable_: You can pick this feature multiple times.
 
 **_Hubris_**: Requires a spellbook. You may copy spells from spell scrolls or other spellbooks into your spellbook and prepare them even if their cost exceeds your [[Spell Limits#Preparation Limit|Preparation Limit]].
 
-**_Money Shot_**: When you spend your [[Spell Points]] to cast a spell and have no [[Spell Points]] left afterwards, the roll on the d20 of the [[Spell Check|Spell check]] is automatically a 20. You can use this feature a number of times equal to your Caster Proficiency Bonus per Long Rest.
-
 **_Recast_**: When you cast a spell that you've already cast since the start of your last turn, the casting cost is halved.
 
 **_Trash Becomes Treasure_**: Choose a spell school. Your spells from that school with a [[Spell Points|Spell Point]] cost of 0 or less have their cost reduced by your Caster Proficiency Bonus. The rules for [[Spellcasting#Sunken Spells & Depthcasting|Sunken Spells & Depthcasting]] apply.
@@ -134,7 +134,7 @@ _Repeatable_: You can pick this feature multiple times, but only for different s
 
 **_Hardened Conduits_**: You gain a bonus to your [[Overcasting|Overcast]] saves equal to your Constitution modifier (at least 1).
 
-**_Limitbreaker_**: Requires _By Any Means_. When you fail an [[Overcasting|Overcast]] save, you may choose to succeed instead. You can use this feature a number of times equal to your Caster Proficiency Bonus per Long Rest.
+**_Limitbreaker_**: Requires _By Any Means_. When you fail an [[Overcasting|Overcast]] save, you can gain 1 Exhaustion level to succeed instead. Once per Long Rest, you can use this feature without gaining Exhaustion.
 
 **_Transmuted Retaliation_**: Choose one of the following damage types: Acid, Cold, Fire, Lightning, Poison, Psychic, Radiant or Thunder. When you [[Overcasting|Overcast]], the [[Overcasting|Overcast]] damage you take is of the damage type you chose.
 ### Spellcasting Focus Features
