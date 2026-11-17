@@ -12,5 +12,5 @@
 - make [[Spellcasting Focus]] use Training like all other Equipment?
 - add training features with level requirements?
 - add training features that give more Reactions or interact with Surge Dice?
-- balance watchlist: _Limitbreaker_, _Money Shot_, _Cheapskate_.
+- balance watchlist: _Limitbreaker_, _Money Shot_, _Cheapskate_, _Jack Up_.
 	- limit _Cheapskate_ to damaging spells?

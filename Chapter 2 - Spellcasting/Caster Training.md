@@ -22,7 +22,7 @@ _Repeatable_: You can pick this feature multiple times, but only with different 
 
 **_Gambler_**: When you roll a [[Spell Check|Spell check]] for a spell attack or to determine the saving throw DC of a damaging spell, you can _gamble_, sacrificing the spells reliability and a bit of your vitality to make it deal more damage. When you _gamble_, the following effects apply:
 - _Raised Stakes_: Roll any number of additional d4s (at least 1). You reduce the [[Spell Check|Spell check]] total by that result and take damage of the spells damage type equal to that result. For every d4 you rolled, the spells damage increases by one damage die.
-- _Risk_: When you roll a 1 on the d20 of the [[Spell Check|Spell check]] or its total is 0 or below, the spell ends without effect. If it was the only [[Spell check]] for this spell, the Action, Bonus Action, or Reaction you've used to cast it is wasted, and if it was also cast with [[Spell Points]], the spent [[Spell Points]] are restored.
+- _Risk_: When you roll a 1 on the d20 of the [[Spell Check|Spell check]] or its total is 0 or below, the spell ends without effect. If it was the only [[Spell Check|Spell check]] for this spell, the Action, Bonus Action, or Reaction you've used to cast it is wasted, and if it was also cast with [[Spell Points]], the spent [[Spell Points]] are restored.
 - _Reward_: When you roll a 20 on the d20 of the [[Spell Check|Spell check]] to determine a saving throw DC, it scores a Critical Hit regardless. Roll the damage dice twice and add them together to determine the damage.
 
 **_Insistence_**: Requires _Emphasis_. When you roll a [[Spell Check|Spell check]], you add a bonus of 1 to the checks total for every 3 [[Spell Points]] you've spent on the corresponding spellcast.
@@ -35,7 +35,7 @@ _Repeatable_: You can pick this feature multiple times, but only with different 
 - You roll [[Spell Check|Spell checks]] for spells that consume a material component with a specified cost with Advantage.
 - After rolling a [[Spell Check|Spell check]] for a spell that requires but doesn't consume a material component with a specified cost, you can make the spell consume the material component to reroll the [[Spell Check|Spell check]] with Advantage.
 
-**_Money Shot_**: Requires _Emphasis_. When you roll a Spell check, you can gain 1 Exhaustion level or 3 [[Conditions#Weavestrain|Weavestrain]] stacks to turn the roll on the d20 into a 20. This can make the [[Spell check]] score a Critical Hit. Once per Long Rest, you can use this feature without gaining Exhaustion.
+**_Money Shot_**: Requires _Emphasis_. When you roll a Spell check, you can gain 1 Exhaustion level or 3 [[Conditions#Weavestrain|Weavestrain]] stacks to turn the roll on the d20 into a 20. This can make the [[Spell Check|Spell check]] score a Critical Hit. Once per Long Rest, you can use this feature without gaining Exhaustion or [[Conditions#Weavestrain|Weavestrain]].
 
 **_Reliable Casting_**: Incompatible with _Volatile Casting_. Choose a spell school. When you make a [[Spell Check|Spell check]] to cast a spell of that school, you can treat a roll of 7 or lower on the d20 as an 8.
 
