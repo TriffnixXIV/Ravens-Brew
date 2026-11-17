@@ -32,7 +32,7 @@ An aura radiates from you in a 30-foot Emanation for the duration. While in the 
 
 When you see a spell being cast in this aura, you can decide at will to have that spell be upcast by a number of Spell Points equal to your Charisma modifier (at least 1) at no additional cost.
 
-When the spell ends, you receive 1 stack of [[Conditions#Weavestrain|Weavestrain]] for every 3 Spell Points you've spent on this spell.
+When the spell ends, you receive 1 [[Conditions#Weavestrain|Weavestrain]] level.
 
 _Upcasting_: For every additional 3 Spell Points spent, the [[Spell Limits#Casting Limit|Casting Limit]] increase and free upcast amount increases by 1.
 #### Chain

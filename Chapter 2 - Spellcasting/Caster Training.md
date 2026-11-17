@@ -35,7 +35,7 @@ _Repeatable_: You can pick this feature multiple times, but only with different 
 - You roll [[Spell Check|Spell checks]] for spells that consume a material component with a specified cost with Advantage.
 - After rolling a [[Spell Check|Spell check]] for a spell that requires but doesn't consume a material component with a specified cost, you can make the spell consume the material component to reroll the [[Spell Check|Spell check]] with Advantage.
 
-**_Money Shot_**: Requires _Emphasis_. When you roll a Spell check, you can gain 1 Exhaustion level or 3 [[Conditions#Weavestrain|Weavestrain]] stacks to turn the roll on the d20 into a 20. This can make the [[Spell Check|Spell check]] score a Critical Hit. Once per Long Rest, you can use this feature without gaining Exhaustion or [[Conditions#Weavestrain|Weavestrain]].
+**_Money Shot_**: Requires _Emphasis_. When you roll a Spell check, you can gain 1 Exhaustion level or 1 [[Conditions#Weavestrain|Weavestrain]] level to turn the roll on the d20 into a 20. This can make the [[Spell Check|Spell check]] score a Critical Hit. Once per Long Rest, you can use this feature without gaining Exhaustion or [[Conditions#Weavestrain|Weavestrain]].
 
 **_Reliable Casting_**: Incompatible with _Volatile Casting_. Choose a spell school. When you make a [[Spell Check|Spell check]] to cast a spell of that school, you can treat a roll of 7 or lower on the d20 as an 8.
 
