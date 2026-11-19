@@ -275,11 +275,11 @@ _Abjuration (Sorcerer, Warlock, Wizard)_
 - Components: S.
 - Duration: Instantaneous.
 
-You attempt to interrupt a creature in the process of casting a spell. If their spell costs 9 Spell Points or less, it dissipates. Otherwise, compare your Spell check to theirs. If your Spell check exceeds theirs by more than the other spells additional cost, it also dissipates.
+You attempt to interrupt a creature in the process of casting a spell. Make a [[Spell Check|Spell check]] with an additional bonus equal to half your Spellcasting ability score (at least 6). The target makes a [[Spell Check|Spell check]] for the spell they are casting with an additional bonus equal to the number of [[Spell Points]] they've spent on the spell. Compare your total to theirs. If yours exceeds theirs, their spell dissipates.
 
 When their spell dissipates like this, it has no effect, and the Action, Bonus Action, or Reaction used to cast it is wasted. If it was cast with Spell Points, the spent Spell Points are restored.
 
-_Upcasting_: For every additional Spell Point spent, the Spell Point threshold increases by 1. For example, if you spend 3 additional Spell Points, spells with a cost of 12 or less dissipate automatically.
+_Upcasting_: For every additional [[Spell Points|Spell Point]] spent, your [[Spell Check|Spell check]] bonus increases by 1.
 #### Dispel Magic
 _Abjuration (Bard, Cleric, Druid, Paladin, Ranger, Sorcerer, Warlock, Wizard)_
 - Cost: 9 Spell Points.
@@ -288,9 +288,9 @@ _Abjuration (Bard, Cleric, Druid, Paladin, Ranger, Sorcerer, Warlock, Wizard)_
 - Components: V, S.
 - Duration: Instantaneous.
 
-Choose one creature, object, or magical effect within range. Any ongoing spell on the target that didn't cost more than 9 Spell Points ends. For each ongoing more costly spell on the target, compare your Spell check to its Spell check. If your Spell check exceeds the other by more than the other spells additional cost, the target spell ends.
+Choose one creature, object, or magical effect within range. Make a [[Spell Check|Spell check]] with an additional bonus equal to half your Spellcasting ability score (at least 6). For each ongoing spell on the target, the spells caster makes a [[Spell Check|Spell check]] with an additional bonus equal to the number of [[Spell Points]] they've spent on the spell. Compare your total to theirs. If yours exceeds theirs, the spell ends.
 
-_Upcasting_: For every additional Spell Point spent, the Spell Point threshold increases by 1. For example, if you spend 3 additional Spell Points, spells with a cost of 12 or less end automatically.
+_Upcasting_: For every additional [[Spell Points|Spell Point]] spent, your [[Spell Check|Spell check]] bonus increases by 1.
 ### Spells with adjusted Upcasting
 The following only states the changes to the spells upcasting. The rest of the spell remains unchanged.
 

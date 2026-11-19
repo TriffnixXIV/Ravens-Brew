@@ -1,4 +1,10 @@
 ### v0.9.6
+#### [[Spell Check]]
+- rewritten the entire section.
+- changed Spell checks to only be rolled on-demand, such as for attack rolls, to determine a save DC, or to protect the spell against antimagic.
+- removed a passage about free out-of-combat casting from the _[[Classes#Warlock|Warlock]]_ accordingly.
+#### [[Spells]]
+- Changed _[[Spells#Counterspell|Counterspell]]_ and _[[Spells#Dispel Magic|Dispel Magic]]_ to be more dicey.
 #### [[Caster Training]]
 - updated _Gambler_ and _Volatile Casting_ wording to fit with Spell checks better.
 - changed _Keen Gestures_ to only apply to a selection of spells.

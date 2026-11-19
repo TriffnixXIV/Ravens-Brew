@@ -4,11 +4,12 @@
 	- reflavour Part 1 to center more around defence?
 	- move Aimed Strikes and Contests to Part 3?
 - add illustrations (find artist).
-- add more examples in the [[Spell Check]] chapter to cover new cases.
-- split the [[Spell Check]] chapter into multiple parts for saves and attacks.
-	- also third part for remaining spells?
+- change silver and adamantine weapons.
+	- similar to Savage Attacker?
+- make wound saves fail more quickly and scale more intuitively.
 - add more [[Overcasting]] examples: Reactions & multi-Overcasting.
 - make [[Spellcasting Focus]] use Training like all other Equipment?
+- add links to the new spell mechanics to spells that use them. Be more generous with links generally.
 - add training features with level requirements?
 - add training features that give more Reactions or interact with Surge Dice?
 - balance watchlist: _Limitbreaker_, _Money Shot_, _Cheapskate_, _Jack Up_.
